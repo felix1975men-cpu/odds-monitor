@@ -1815,3 +1815,57 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-08-30T17:06:16Z,closing,75e7ebd9013ed49bf10e2b6864286236,2026-08-30T17:36:00Z,New York Yankees,Boston Red Sox,betfair_ex_eu,h2h,New York Yankees,,2.36
 2026-08-30T17:06:16Z,closing,75e7ebd9013ed49bf10e2b6864286236,2026-08-30T17:36:00Z,New York Yankees,Boston Red Sox,betfair_ex_eu,h2h_lay,Boston Red Sox,,1.74
 2026-08-30T17:06:16Z,closing,75e7ebd9013ed49bf10e2b6864286236,2026-08-30T17:36:00Z,New York Yankees,Boston Red Sox,betfair_ex_eu,h2h_lay,New York Yankees,,2.38
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,fanduel,h2h,Seattle Mariners,,1.76
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,fanduel,h2h,Toronto Blue Jays,,2.22
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,fanduel,spreads,Seattle Mariners,-1.5,2.22
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,fanduel,spreads,Toronto Blue Jays,1.5,1.68
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,fanduel,totals,Over,8.0,1.95
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,fanduel,totals,Under,8.0,1.87
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,draftkings,h2h,Seattle Mariners,,1.78
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,draftkings,h2h,Toronto Blue Jays,,2.21
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,draftkings,spreads,Seattle Mariners,-1.5,2.28
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,draftkings,spreads,Toronto Blue Jays,1.5,1.65
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,draftkings,totals,Over,8.0,1.93
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,draftkings,totals,Under,8.0,1.89
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,h2h,Seattle Mariners,,1.77
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,h2h,Toronto Blue Jays,,2.28
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,h2h_lay,Seattle Mariners,,1.78
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,h2h_lay,Toronto Blue Jays,,2.3
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,spreads,Seattle Mariners,-1.5,2.26
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,spreads,Toronto Blue Jays,1.5,1.73
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,totals,Over,7.5,1.84
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,matchbook,totals,Under,7.5,2.04
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betmgm,h2h,Seattle Mariners,,1.71
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betmgm,h2h,Toronto Blue Jays,,2.15
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betmgm,spreads,Seattle Mariners,-1.5,2.25
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betmgm,spreads,Toronto Blue Jays,1.5,1.65
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betmgm,totals,Over,8.0,1.98
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betmgm,totals,Under,8.0,1.85
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,pinnacle,h2h,Seattle Mariners,,1.74
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,pinnacle,h2h,Toronto Blue Jays,,2.25
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,pinnacle,spreads,Seattle Mariners,-1.5,2.25
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,pinnacle,spreads,Toronto Blue Jays,1.5,1.72
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,pinnacle,totals,Over,8.0,2.0
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,pinnacle,totals,Under,8.0,1.88
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betrivers,h2h,Seattle Mariners,,1.74
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betrivers,h2h,Toronto Blue Jays,,2.12
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betrivers,spreads,Seattle Mariners,-1.5,2.25
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betrivers,spreads,Toronto Blue Jays,1.5,1.65
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betrivers,totals,Over,7.5,1.85
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betrivers,totals,Under,7.5,1.97
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,coolbet,h2h,Seattle Mariners,,1.71
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,coolbet,h2h,Toronto Blue Jays,,2.15
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,coolbet,spreads,Seattle Mariners,-1.5,2.2
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,coolbet,spreads,Toronto Blue Jays,1.5,1.68
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,coolbet,totals,Over,8.0,1.92
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,coolbet,totals,Under,8.0,1.89
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betsson,h2h,Seattle Mariners,,1.69
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betsson,h2h,Toronto Blue Jays,,2.16
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betsson,spreads,Seattle Mariners,-1.5,2.17
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betsson,spreads,Toronto Blue Jays,1.5,1.66
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betsson,totals,Over,8.0,1.88
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betsson,totals,Under,8.0,1.88
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betfair_ex_eu,h2h,Seattle Mariners,,1.77
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betfair_ex_eu,h2h,Toronto Blue Jays,,2.28
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betfair_ex_eu,h2h_lay,Seattle Mariners,,1.78
+2026-08-30T17:21:05Z,closing,d03e2aff6dbfcf8c397adbf517f2d0dd,2026-08-30T17:38:00Z,Toronto Blue Jays,Seattle Mariners,betfair_ex_eu,h2h_lay,Toronto Blue Jays,,2.3
