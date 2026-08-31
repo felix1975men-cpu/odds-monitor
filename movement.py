@@ -106,23 +106,31 @@ def main():
         for (m, o, p) in best:
             open_points[(m, o)].add(p)
 
+        # one side per market is enough: the other is its mirror
+        home = ev[0]["home"]
         lines = []
         for k, cr in sorted(close_pin.items()):
             m, o, p = k
+            if m == "h2h" and o != home:
+                continue
+            if m == "spreads" and not str(p).startswith("-"):
+                continue
+            if m == "totals" and o != "Under":
+                continue
             try:
                 cp = float(cr["price"])
             except (TypeError, ValueError):
                 continue
-            label = "%s %s" % (MK[m], o[:16])
+            label = "%s %s" % (MK[m], o[:14])
             if p:
                 label += " %s" % p
             if k in best:
-                op, book = best[k]
+                op, _ = best[k]
                 mv = (op / cp - 1) * 100
-                lines.append("  %-24s %.2f -> %.2f  %+.1f%%" % (label, op, cp, mv))
+                lines.append("  %-22s %.2f>%.2f %+.1f%%" % (label, op, cp, mv))
             elif open_points.get((m, o)):
                 had = ",".join(sorted(open_points[(m, o)]))
-                lines.append("  %-24s line %s -> %s  x" % (label, had, p))
+                lines.append("  %-22s line %s>%s x" % (label, had, p))
 
         if lines:
             g = ev[0]
@@ -138,9 +146,17 @@ def main():
             "\u0441\u0432\u043e\u0434\u043a\u0430 -> \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u0435 pinnacle  |  x = \u043b\u0438\u043d\u0438\u044f \u0441\u0434\u0432\u0438\u043d\u0443\u043b\u0430\u0441\u044c\n\n"
             % (TITLES[sport], now.strftime("%Y-%m-%d %H:%M"), len(blocks)))
 
-    msg = head + "\n\n".join(blocks)
-    tg_send(msg)
-    print("movement report sent for %d events" % len(blocks))
+    chunk, sent = head, 0
+    for b in blocks:
+        if len(chunk) + len(b) + 2 > 3800:
+            tg_send(chunk)
+            sent += 1
+            chunk = ""
+        chunk += ("\n\n" if chunk and chunk != head else "") + b
+    if chunk.strip():
+        tg_send(chunk)
+        sent += 1
+    print("movement report sent for %d events in %d message(s)" % (len(blocks), sent))
 
 
 if __name__ == "__main__":
