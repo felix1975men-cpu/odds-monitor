@@ -9,6 +9,12 @@ Edge is measured against Pinnacle with the vig removed. Raw Pinnacle
 prices carry ~2% margin, so comparing a best price to them flags
 noise; the fair price is what a real edge is measured against.
 
+Totals and spreads are priced on ONE anchored line — Pinnacle's number,
+or the most common across books if Pinnacle has none. Without the anchor
+each side's best price was hunted independently across every rung, so
+Over and Under came back on different numbers and were not two sides of
+the same bet.
+
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
 """
@@ -19,6 +25,7 @@ import sys
 import urllib.request
 import urllib.parse
 import urllib.error
+from collections import Counter
 from datetime import datetime, timezone, timedelta
 
 API = "https://api.the-odds-api.com/v4"
@@ -111,6 +118,21 @@ def devig(quotes):
     return {n: 1.0 / ((1.0 / p) / total) for n, (p, _) in quotes.items()}
 
 
+def anchor_group(offers, pinn):
+    """The single line the whole market is priced on.
+
+    Pinnacle's two-sided line wins. Failing that, the line most books post.
+    """
+    two_sided = [g for g, q in pinn.items() if len(q) >= 2]
+    if two_sided:
+        counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
+        return max(two_sided, key=lambda g: counts.get(g, 0))
+    if pinn:
+        return list(pinn)[0]
+    counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
+    return counts.most_common(1)[0][0] if counts else None
+
+
 def h2h_rows(ev):
     rows = []
     offers, pinn = collect(ev, "h2h")
@@ -132,24 +154,41 @@ def h2h_rows(ev):
 
 
 def pointed_rows(ev, market_key, label):
-    """Spreads/totals: fair Pinnacle price where both sides exist."""
+    """Spreads/totals: both sides priced on one anchored line."""
     rows = []
     offers, pinn = collect(ev, market_key)
-    fair_by_group = {g: devig(q) for g, q in pinn.items()}
+    if not offers:
+        return rows
+
+    g = anchor_group(offers, pinn)
+    quotes = pinn.get(g, {})
+    fair = devig(quotes)
+    pin_point = {n: p for n, (_, p) in quotes.items()}
+
     for name, entries in offers.items():
-        best, point, book = max(entries, key=lambda x: x[0])
+        # Only books standing on the anchored line. Where Pinnacle names the
+        # exact point for this side, match its sign too — otherwise a book
+        # with the opposite favourite would slip into the same group.
+        want = pin_point.get(name)
+        at = [e for e in entries
+              if (e[1] == want) if want is not None
+              else group_key(e[1]) == g]
+        if not at:
+            pt = ("%+g" % want) if want is not None else (("%g" % g) if g is not None else "")
+            rows.append("  %s %s %s: \u043d\u0435\u0442 \u0446\u0435\u043d\u044b \u043d\u0430 \u044d\u0442\u043e\u0439 \u043b\u0438\u043d\u0438\u0438"
+                        % (label, name[:14], pt))
+            continue
+        best, point, book = max(at, key=lambda x: x[0])
         pt = ("%+g" % point) if point is not None else ""
-        placed = False
-        for g, fair in fair_by_group.items():
-            if name in fair and g == group_key(point):
-                edge = (best / fair[name] - 1) * 100
-                flag = "  <<" if edge >= EDGE_PCT else ""
-                rows.append("  %s %s %s: %.2f (%s) | fair %.2f  %+.1f%%%s"
-                            % (label, name[:14], pt, best, book, fair[name], edge, flag))
-                placed = True
-                break
-        if not placed:
-            rows.append("  %s %s %s: %.2f (%s) | pin -" % (label, name[:14], pt, best, book))
+        src = "%s, %d\u043a\u043d" % (book, len(at))
+        if name in fair:
+            edge = (best / fair[name] - 1) * 100
+            flag = "  <<" if edge >= EDGE_PCT else ""
+            rows.append("  %s %s %s: %.2f (%s) | fair %.2f  %+.1f%%%s"
+                        % (label, name[:14], pt, best, src, fair[name], edge, flag))
+        else:
+            rows.append("  %s %s %s: %.2f (%s) | pin -"
+                        % (label, name[:14], pt, best, src))
     return rows
 
 
@@ -171,7 +210,9 @@ def main():
 
     header = ("%s \u2014 \u0441\u0432\u043e\u0434\u043a\u0430 \u043d\u0430 \u0442\u0443\u0440\n"
               "%s UTC  |  \u043c\u0430\u0442\u0447\u0435\u0439: %d  |  \u043e\u043a\u043d\u043e: %d\u0447\n"
-              "fair = Pinnacle \u0431\u0435\u0437 \u043c\u0430\u0440\u0436\u0438  |  << = \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u043e\u0442 %.0f%%\n"
+              "fair = Pinnacle \u0431\u0435\u0437 \u043c\u0430\u0440\u0436\u0438  |  "
+              "\u0442\u043e\u0442\u0430\u043b \u0438 \u0444\u043e\u0440\u0430 \u2014 \u043e\u0434\u043d\u0430 \u043b\u0438\u043d\u0438\u044f  |  "
+              "<< = \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u043e\u0442 %.0f%%\n"
               % (TITLES[sport], now.strftime("%Y-%m-%d %H:%M"), len(games),
                  WINDOW_HOURS[sport], EDGE_PCT))
 
