@@ -35,6 +35,13 @@ jobs:
           SPORT: ${{ matrix.sport }}
         run: python results.py
 
+      - name: Line movement
+        env:
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TG_TOKEN: ${{ secrets[format('TG_TOKEN_{0}', matrix.sport)] }}
+          SPORT: ${{ matrix.sport }}
+        run: python movement.py  
+
       - name: Commit results
         run: |
           git config user.name "odds-bot"
