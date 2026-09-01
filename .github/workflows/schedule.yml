@@ -2,16 +2,17 @@ name: Schedule
 
 on:
   schedule:
-    - cron: "30 8 * * *"   # 08:30 UTC — за полчаса до сводки
+    - cron: "30 8 * * *"
   workflow_dispatch:
 
 jobs:
   schedule:
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       fail-fast: false
       matrix:
-        sport: [mlb, nfl, nba, nhl]
+        sport: [nfl, nba, nhl, mlb]
     steps:
       - uses: actions/checkout@v4
 
@@ -22,7 +23,7 @@ jobs:
       - name: Send slate
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-          TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TG_TOKEN: ${{ secrets[format('TG_TOKEN_{0}', matrix.sport)] }}
           SPORT: ${{ matrix.sport }}
         run: python schedule.py
