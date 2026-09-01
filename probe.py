@@ -1,90 +1,70 @@
 #!/usr/bin/env python3
-"""Дамп реальной структуры ESPN: byteam, injuries, погода на 10 дней вперёд."""
+"""Что лежит в nflverse games.csv и как устроен элемент травмы."""
+import csv
+import io
 import json
-import datetime as dt
 import requests
 
-T = 25
+T = 40
 
 
-def get(url, params=None):
+def get_json(url, params=None):
     for h in ({}, {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}):
-        try:
-            r = requests.get(url, params=params, timeout=T, headers=h)
-            if r.status_code == 200:
-                return r.json()
-            if r.status_code != 403:
-                print(f"  HTTP {r.status_code}")
-                return None
-        except Exception as e:
-            print(f"  ОШИБКА {e}")
+        r = requests.get(url, params=params, timeout=T, headers=h)
+        if r.status_code == 200:
+            return r.json()
+        if r.status_code != 403:
+            print("  HTTP", r.status_code)
             return None
-    print("  403 обе попытки")
+    print("  403")
     return None
 
 
 print("=" * 55)
-print("A) byteam — сезон 2025, regular")
-d = get("https://site.web.api.espn.com/apis/common/v3/sports/football/nfl/statistics/byteam",
-        {"region": "us", "lang": "en", "season": 2025, "seasontype": 2})
+print("A) nflverse games.csv")
+r = requests.get(
+    "https://github.com/nflverse/nflverse-data/releases/download/schedules/games.csv",
+    timeout=T)
+print("  HTTP", r.status_code, len(r.content), "байт")
+if r.status_code == 200:
+    rows = list(csv.DictReader(io.StringIO(r.text)))
+    print("  строк:", len(rows))
+    print("  КОЛОНКИ:", list(rows[0].keys()))
+
+    s26 = [x for x in rows if x.get("season") == "2026"]
+    s25 = [x for x in rows if x.get("season") == "2025"]
+    print("  строк 2026:", len(s26), "| 2025:", len(s25))
+
+    if s26:
+        print("\n  ПЕРВАЯ СТРОКА 2026:")
+        for k, v in s26[0].items():
+            print(f"    {k} = {v!r}")
+
+    if s25:
+        done = [x for x in s25 if x.get("home_score") not in ("", "NA", None)]
+        print("\n  сыгранных 2025:", len(done))
+        if done:
+            print("  ПОСЛЕДНЯЯ СЫГРАННАЯ 2025:")
+            for k, v in done[-1].items():
+                print(f"    {k} = {v!r}")
+
+print()
+print("=" * 55)
+print("B) структура одной травмы")
+d = get_json("https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries")
 if d:
-    print("  верхние ключи:", list(d.keys())[:12])
-    teams = d.get("teams") or []
-    print("  команд:", len(teams))
-    if teams:
-        t = teams[0]
-        print("  ключи команды:", list(t.keys()))
-        print("  team:", json.dumps(t.get("team", {}), ensure_ascii=False)[:160])
-        for cat in (t.get("categories") or []):
-            names = [s.get("name") for s in (cat.get("stats") or [])]
-            print(f"  [{cat.get('name')}] {names[:14]}")
-
-print()
-print("=" * 55)
-print("B) byteam — без season")
-d2 = get("https://site.web.api.espn.com/apis/common/v3/sports/football/nfl/statistics/byteam",
-         {"region": "us", "lang": "en"})
-if d2:
-    print("  верхние ключи:", list(d2.keys())[:12])
-    print("  команд:", len(d2.get("teams") or []))
-
-print()
-print("=" * 55)
-print("C) injuries")
-d3 = get("https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries")
-if d3:
-    print("  верхние ключи:", list(d3.keys()))
-    arr = d3.get("injuries") or []
-    print("  групп:", len(arr))
-    if arr:
-        g = arr[0]
-        print("  ключи группы:", list(g.keys()))
-        print("  фрагмент:", json.dumps(g, ensure_ascii=False)[:600])
-
-print()
-print("=" * 55)
-print("D) погода через 10 дней, forecast_days=16")
-when = dt.datetime.utcnow() + dt.timedelta(days=10)
-d4 = get("https://api.open-meteo.com/v1/forecast", {
-    "latitude": 47.595, "longitude": -122.332,
-    "hourly": "temperature_2m,wind_speed_10m",
-    "forecast_days": 16, "timezone": "UTC", "wind_speed_unit": "ms",
-})
-if d4:
-    times = (d4.get("hourly") or {}).get("time") or []
-    print("  точек:", len(times), "| первая:", times[:1], "| последняя:", times[-1:])
-    tgt = when.strftime("%Y-%m-%dT%H:00")
-    print("  цель", tgt, "найдена:", tgt in times)
-
-print()
-print("=" * 55)
-print("E) команда 25 (SEA) — статистика напрямую")
-d5 = get("https://site.web.api.espn.com/apis/common/v3/sports/football/nfl/teams/25/statistics",
-         {"region": "us", "lang": "en", "season": 2025, "seasontype": 2})
-if d5:
-    print("  верхние ключи:", list(d5.keys())[:12])
-    res = (d5.get("results") or {})
-    print("  results ключи:", list(res.keys())[:10])
-    for cat in (res.get("stats") or {}).get("categories", [])[:4]:
-        names = [s.get("name") for s in (cat.get("stats") or [])]
-        print(f"  [{cat.get('name')}] {names[:14]}")
+    grp = (d.get("injuries") or [])[0]
+    print("  displayName:", grp.get("displayName"))
+    items = grp.get("injuries") or []
+    print("  травм в группе:", len(items))
+    if items:
+        it = items[0]
+        print("  ключи травмы:", list(it.keys()))
+        print("  status:", it.get("status"))
+        ath = it.get("athlete") or {}
+        print("  ключи athlete:", list(ath.keys())[:20])
+        print("  displayName:", ath.get("displayName"),
+              "| shortName:", ath.get("shortName"))
+        print("  position:", json.dumps(ath.get("position") or {}, ensure_ascii=False)[:200])
+    print("\n  все displayName групп:")
+    print("   ", [g.get("displayName") for g in (d.get("injuries") or [])])
