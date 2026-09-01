@@ -1,338 +1,358 @@
 #!/usr/bin/env python3
 """
-NFL slate context — бесплатные источники без ключей.
-ESPN (расписание, форма, статистика, травмы) + Open-Meteo (погода).
-Не тратит кредиты Odds API.
+NFL slate context.
+Источники без ключей: nflverse games.csv (расписание, линии, отдых, крыша),
+ESPN injuries (травмы), Open-Meteo (погода).
+Кредиты Odds API не тратятся.
 """
 
+import csv
+import io
 import os
 import sys
 import datetime as dt
+from collections import defaultdict
 
 import requests
 
 TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
+WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "96"))
+FORM_GAMES = int(os.environ.get("FORM_GAMES", "8"))
+TIMEOUT = 40
 
-ESPN = "https://site.api.espn.com/apis/site/v2/sports/football/nfl"
-ESPN_WEB = "https://site.web.api.espn.com/apis/common/v3/sports/football/nfl"
-WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "96"))   # окно поиска матчей
-TIMEOUT = 25
+GAMES_CSV = ("https://github.com/nflverse/nflverse-data/releases/download/"
+             "schedules/games.csv")
+ESPN_INJ = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries"
 
-KEY_POS = {"QB", "RB", "WR", "TE", "LT", "OT", "CB", "EDGE", "DE", "LB", "S", "K"}
+KEY_POS = {"QB", "RB", "WR", "TE", "LT", "RT", "OT", "G", "C",
+           "CB", "S", "DE", "DT", "LB", "EDGE", "K"}
+SEVERE = {"Out", "Injured Reserve", "Doubtful", "Suspension"}
 
-VENUES = {
-    "Ford Field": (42.340, -83.046, "dome"),
-    "U.S. Bank Stadium": (44.974, -93.258, "dome"),
-    "Caesars Superdome": (29.951, -90.081, "dome"),
-    "Mercedes-Benz Stadium": (33.755, -84.401, "retractable"),
-    "NRG Stadium": (29.685, -95.411, "retractable"),
-    "AT&T Stadium": (32.748, -97.093, "retractable"),
-    "State Farm Stadium": (33.528, -112.263, "retractable"),
-    "Lucas Oil Stadium": (39.760, -86.164, "retractable"),
-    "Allegiant Stadium": (36.091, -115.184, "dome"),
-    "SoFi Stadium": (33.953, -118.339, "dome"),
-    "Lumen Field": (47.595, -122.332, "open"),
-    "Arrowhead Stadium": (39.049, -94.484, "open"),
-    "GEHA Field at Arrowhead Stadium": (39.049, -94.484, "open"),
-    "Highmark Stadium": (42.774, -78.787, "open"),
-    "Lambeau Field": (44.501, -88.062, "open"),
-    "Soldier Field": (41.862, -87.617, "open"),
-    "Gillette Stadium": (42.091, -71.264, "open"),
-    "MetLife Stadium": (40.814, -74.074, "open"),
-    "Lincoln Financial Field": (39.901, -75.168, "open"),
-    "Acrisure Stadium": (40.447, -80.016, "open"),
-    "M&T Bank Stadium": (39.278, -76.623, "open"),
-    "Cleveland Browns Stadium": (41.506, -81.700, "open"),
-    "Huntington Bank Field": (41.506, -81.700, "open"),
-    "Paycor Stadium": (39.095, -84.516, "open"),
-    "Nissan Stadium": (36.166, -86.771, "open"),
-    "EverBank Stadium": (30.324, -81.637, "open"),
-    "Hard Rock Stadium": (25.958, -80.239, "open"),
-    "Raymond James Stadium": (27.976, -82.503, "open"),
-    "Bank of America Stadium": (35.226, -80.853, "open"),
-    "FedExField": (38.908, -76.864, "open"),
-    "Northwest Stadium": (38.908, -76.864, "open"),
-    "Empower Field at Mile High": (39.744, -105.020, "open"),
-    "Levi's Stadium": (37.403, -121.970, "open"),
+ESPN2ABBR = {
+    "Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL",
+    "Buffalo Bills": "BUF", "Carolina Panthers": "CAR", "Chicago Bears": "CHI",
+    "Cincinnati Bengals": "CIN", "Cleveland Browns": "CLE", "Dallas Cowboys": "DAL",
+    "Denver Broncos": "DEN", "Detroit Lions": "DET", "Green Bay Packers": "GB",
+    "Houston Texans": "HOU", "Indianapolis Colts": "IND", "Jacksonville Jaguars": "JAX",
+    "Kansas City Chiefs": "KC", "Las Vegas Raiders": "LV", "Los Angeles Chargers": "LAC",
+    "Los Angeles Rams": "LA", "Miami Dolphins": "MIA", "Minnesota Vikings": "MIN",
+    "New England Patriots": "NE", "New Orleans Saints": "NO", "New York Giants": "NYG",
+    "New York Jets": "NYJ", "Philadelphia Eagles": "PHI", "Pittsburgh Steelers": "PIT",
+    "San Francisco 49ers": "SF", "Seattle Seahawks": "SEA", "Tampa Bay Buccaneers": "TB",
+    "Tennessee Titans": "TEN", "Washington Commanders": "WAS",
+}
+NAMES = {v: k.split()[-1] for k, v in ESPN2ABBR.items()}
+
+COORDS = {
+    "Lumen Field": (47.595, -122.332),
+    "Levi's Stadium": (37.403, -121.970),
+    "Empower Field at Mile High": (39.744, -105.020),
+    "Arrowhead Stadium": (39.049, -94.484),
+    "GEHA Field at Arrowhead Stadium": (39.049, -94.484),
+    "Highmark Stadium": (42.774, -78.787),
+    "Lambeau Field": (44.501, -88.062),
+    "Soldier Field": (41.862, -87.617),
+    "Gillette Stadium": (42.091, -71.264),
+    "MetLife Stadium": (40.814, -74.074),
+    "Lincoln Financial Field": (39.901, -75.168),
+    "Acrisure Stadium": (40.447, -80.016),
+    "Heinz Field": (40.447, -80.016),
+    "M&T Bank Stadium": (39.278, -76.623),
+    "Cleveland Browns Stadium": (41.506, -81.700),
+    "Huntington Bank Field": (41.506, -81.700),
+    "FirstEnergy Stadium": (41.506, -81.700),
+    "Paycor Stadium": (39.095, -84.516),
+    "Paul Brown Stadium": (39.095, -84.516),
+    "Nissan Stadium": (36.166, -86.771),
+    "EverBank Stadium": (30.324, -81.637),
+    "TIAA Bank Field": (30.324, -81.637),
+    "Hard Rock Stadium": (25.958, -80.239),
+    "Raymond James Stadium": (27.976, -82.503),
+    "Bank of America Stadium": (35.226, -80.853),
+    "FedExField": (38.908, -76.864),
+    "Northwest Stadium": (38.908, -76.864),
+    "Commanders Field": (38.908, -76.864),
+    "Ford Field": (42.340, -83.046),
+    "U.S. Bank Stadium": (44.974, -93.258),
+    "Caesars Superdome": (29.951, -90.081),
+    "Mercedes-Benz Superdome": (29.951, -90.081),
+    "Mercedes-Benz Stadium": (33.755, -84.401),
+    "NRG Stadium": (29.685, -95.411),
+    "Reliant Stadium": (29.685, -95.411),
+    "AT&T Stadium": (32.748, -97.093),
+    "State Farm Stadium": (33.528, -112.263),
+    "Lucas Oil Stadium": (39.760, -86.164),
+    "Allegiant Stadium": (36.091, -115.184),
+    "SoFi Stadium": (33.953, -118.339),
+    "Tottenham Hotspur Stadium": (51.604, -0.066),
+    "Wembley Stadium": (51.556, -0.280),
+    "Deutsche Bank Park": (50.068, 8.645),
+    "Allianz Arena": (48.219, 11.625),
+    "Estadio Azteca": (19.303, -99.150),
+    "Melbourne Cricket Ground": (-37.820, 144.983),
+    "Corinthians Arena": (-23.545, -46.474),
+    "Neo Quimica Arena": (-23.545, -46.474),
 }
 
-UA_BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-              "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
+
+def num(x):
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return None
 
 
-def get(url, params=None):
-    """
-    ESPN за Akamai отдаёт 403 на браузерный User-Agent с дата-центровых IP,
-    но пропускает запрос без него. Поэтому сначала пробуем без заголовка,
-    и только при 403 повторяем с браузерным.
-    """
-    for headers in ({}, {"User-Agent": UA_BROWSER}):
+def fetch_games():
+    r = requests.get(GAMES_CSV, timeout=TIMEOUT)
+    if r.status_code != 200:
+        print("games.csv HTTP", r.status_code)
+        return []
+    return list(csv.DictReader(io.StringIO(r.text)))
+
+
+def fetch_injuries():
+    out = {}
+    for headers in ({}, {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}):
         try:
-            r = requests.get(url, params=params, timeout=TIMEOUT, headers=headers)
-            if r.status_code == 200:
-                return r.json()
-            if r.status_code != 403:
-                print(f"HTTP {r.status_code} {url}")
-                return None
+            r = requests.get(ESPN_INJ, timeout=TIMEOUT, headers=headers)
         except Exception as e:
-            print(f"fetch failed {url}: {e}")
-            return None
-    print(f"HTTP 403 (обе попытки) {url}")
-    return None
-
-
-def scoreboard_events():
-    now = dt.datetime.now(dt.timezone.utc)
-    seen, events = set(), []
-    for off in range(0, WINDOW_HOURS // 24 + 2):
-        day = (now + dt.timedelta(days=off)).strftime("%Y%m%d")
-        data = get(f"{ESPN}/scoreboard", {"dates": day})
-        if not data:
-            continue
-        for ev in data.get("events", []):
-            if ev.get("id") in seen:
-                continue
-            try:
-                start = dt.datetime.fromisoformat(ev["date"].replace("Z", "+00:00"))
-            except Exception:
-                continue
-            if not (now <= start <= now + dt.timedelta(hours=WINDOW_HOURS)):
-                continue
-            seen.add(ev["id"])
-            events.append((start, ev))
-    return sorted(events, key=lambda x: x[0])
-
-
-def team_stats():
-    out = {}
-    data = get(f"{ESPN_WEB}/statistics/byteam", {"region": "us", "lang": "en"})
-    if not data:
+            print("injuries:", e)
+            return out
+        if r.status_code == 200:
+            data = r.json()
+            break
+        if r.status_code != 403:
+            print("injuries HTTP", r.status_code)
+            return out
+    else:
+        print("injuries 403")
         return out
-    for t in data.get("teams", []):
-        team = t.get("team", {}) or {}
-        ab = team.get("abbreviation")
-        if not ab:
-            continue
-        vals = {}
-        for cat in t.get("categories", []):
-            for st in cat.get("stats", []):
-                name = st.get("name") or ""
-                v = st.get("value")
-                if v is not None:
-                    vals[name] = v
-        out[ab] = {
-            "ppg": vals.get("avgPointsPerGame") or vals.get("pointsPerGame"),
-            "papg": vals.get("avgPointsAgainstPerGame") or vals.get("pointsAgainstPerGame"),
-            "ypp": vals.get("yardsPerPlay") or vals.get("netYardsPerPlay"),
-            "plays": vals.get("totalOffensivePlays") or vals.get("offensivePlays"),
-            "to_diff": vals.get("turnOverDifferential") or vals.get("turnoverDifferential"),
-        }
-    return out
 
-
-def injuries():
-    out = {}
-    data = get(f"{ESPN}/injuries")
-    if not data:
-        return out
     for grp in data.get("injuries", []):
-        team = grp.get("team", {}) or {}
-        ab = team.get("abbreviation") or grp.get("displayName")
+        ab = ESPN2ABBR.get(grp.get("displayName", ""))
         if not ab:
             continue
         rows = []
-        for inj in grp.get("injuries", []):
-            ath = inj.get("athlete", {}) or {}
+        for it in grp.get("injuries", []):
+            status = (it.get("status") or "").strip()
+            if status not in SEVERE:
+                continue
+            ath = it.get("athlete") or {}
             pos = ((ath.get("position") or {}).get("abbreviation") or "").upper()
-            status = (inj.get("status") or "").strip()
             if pos not in KEY_POS:
                 continue
-            if status.lower() in ("active", ""):
-                continue
-            rows.append((ath.get("shortName") or ath.get("displayName") or "?", pos, status))
+            rows.append((ath.get("shortName") or ath.get("displayName") or "?",
+                         pos, status))
         if rows:
-            order = {"Out": 0, "Doubtful": 1, "Questionable": 2}
-            rows.sort(key=lambda r: (order.get(r[2], 3), r[1]))
+            rank = {"Out": 0, "Injured Reserve": 1, "Suspension": 2, "Doubtful": 3}
+            rows.sort(key=lambda r: (0 if r[1] == "QB" else 1, rank.get(r[2], 9)))
             out[ab] = rows
     return out
 
 
-def weather(lat, lon, when):
-    data = get("https://api.open-meteo.com/v1/forecast", {
-        "latitude": lat, "longitude": lon,
-        "hourly": "temperature_2m,precipitation_probability,wind_speed_10m,wind_direction_10m",
-        "forecast_days": 7, "timezone": "UTC",
-        "wind_speed_unit": "ms", "temperature_unit": "celsius",
-    })
-    if not data:
-        return None
-    h = data.get("hourly", {})
-    times = h.get("time", [])
-    if not times:
-        return None
-    target = when.strftime("%Y-%m-%dT%H:00")
-    idx = times.index(target) if target in times else None
-    if idx is None:
-        return None
-
-    def at(key):
-        arr = h.get(key) or []
-        return arr[idx] if idx < len(arr) else None
-
-    deg = at("wind_direction_10m")
-    dirs = ["С", "СВ", "В", "ЮВ", "Ю", "ЮЗ", "З", "СЗ"]
-    compass = dirs[int((deg + 22.5) % 360 // 45)] if deg is not None else "?"
-    return {
-        "t": at("temperature_2m"),
-        "rain": at("precipitation_probability"),
-        "wind": at("wind_speed_10m"),
-        "dir": compass,
-    }
-
-
-def rest_days(ev_start, team_id, played):
-    last = played.get(team_id)
-    if not last:
-        return None
-    return (ev_start.date() - last.date()).days
-
-
-def previous_games():
-    out = {}
-    now = dt.datetime.now(dt.timezone.utc)
-    for back in range(1, 15):
-        day = (now - dt.timedelta(days=back)).strftime("%Y%m%d")
-        data = get(f"{ESPN}/scoreboard", {"dates": day})
-        if not data:
+def team_form(games, season):
+    played = []
+    for g in games:
+        if g.get("game_type") not in ("REG", "WC", "DIV", "CON", "SB"):
             continue
-        for ev in data.get("events", []):
-            st = ((ev.get("status") or {}).get("type") or {}).get("completed")
-            if not st:
-                continue
-            try:
-                d = dt.datetime.fromisoformat(ev["date"].replace("Z", "+00:00"))
-            except Exception:
-                continue
-            for c in ev.get("competitions", [{}])[0].get("competitors", []):
-                tid = (c.get("team") or {}).get("id")
-                if tid and tid not in out:
-                    out[tid] = d
+        hs, as_ = num(g.get("home_score")), num(g.get("away_score"))
+        if hs is None or as_ is None:
+            continue
+        s = num(g.get("season"))
+        if s is None or s > season:
+            continue
+        played.append((g.get("gameday", ""), g, hs, as_))
+    played.sort(key=lambda x: x[0])
+
+    by_team = defaultdict(list)
+    for _, g, hs, as_ in played:
+        by_team[g.get("home_team")].append((hs, as_, g.get("season")))
+        by_team[g.get("away_team")].append((as_, hs, g.get("season")))
+
+    out = {}
+    for ab, rows in by_team.items():
+        last = rows[-FORM_GAMES:]
+        if not last:
+            continue
+        out[ab] = {
+            "pf": sum(r[0] for r in last) / len(last),
+            "pa": sum(r[1] for r in last) / len(last),
+            "n": len(last),
+            "seasons": sorted({r[2] for r in last}),
+        }
     return out
 
 
-def build():
-    events = scoreboard_events()
-    if not events:
+def weather(lat, lon, when):
+    try:
+        r = requests.get("https://api.open-meteo.com/v1/forecast", timeout=TIMEOUT, params={
+            "latitude": lat, "longitude": lon,
+            "hourly": "temperature_2m,precipitation_probability,wind_speed_10m,wind_direction_10m",
+            "forecast_days": 16, "timezone": "UTC",
+            "wind_speed_unit": "ms", "temperature_unit": "celsius"})
+        if r.status_code != 200:
+            return None
+        h = r.json().get("hourly", {})
+    except Exception:
+        return None
+    times = h.get("time") or []
+    target = when.strftime("%Y-%m-%dT%H:00")
+    if target not in times:
+        return None
+    i = times.index(target)
+
+    def at(k):
+        a = h.get(k) or []
+        return a[i] if i < len(a) else None
+
+    deg = at("wind_direction_10m")
+    dirs = ["С", "СВ", "В", "ЮВ", "Ю", "ЮЗ", "З", "СЗ"]
+    return {"t": at("temperature_2m"), "rain": at("precipitation_probability"),
+            "wind": at("wind_speed_10m"),
+            "dir": dirs[int((deg + 22.5) % 360 // 45)] if deg is not None else "?"}
+
+
+def kickoff(g):
+    day, tm = g.get("gameday", ""), g.get("gametime", "")
+    if not day or not tm:
+        return None
+    try:
+        local = dt.datetime.strptime(f"{day} {tm}", "%Y-%m-%d %H:%M")
+        offset = 4 if 3 <= local.month <= 10 else 5
+        return local.replace(tzinfo=dt.timezone.utc) + dt.timedelta(hours=offset)
+    except Exception:
         return None
 
-    stats = team_stats()
-    inj = injuries()
-    played = previous_games()
 
-    blocks = []
-    for start, ev in events:
-        comp = (ev.get("competitions") or [{}])[0]
-        cs = comp.get("competitors") or []
-        home = next((c for c in cs if c.get("homeAway") == "home"), None)
-        away = next((c for c in cs if c.get("homeAway") == "away"), None)
-        if not home or not away:
+def build():
+    games = fetch_games()
+    if not games:
+        return None
+
+    now = dt.datetime.now(dt.timezone.utc)
+    horizon = now + dt.timedelta(hours=WINDOW_HOURS)
+
+    upcoming = []
+    for g in games:
+        if num(g.get("home_score")) is not None:
             continue
+        ko = kickoff(g)
+        if ko and now <= ko <= horizon:
+            upcoming.append((ko, g))
+    if not upcoming:
+        return None
+    upcoming.sort(key=lambda x: x[0])
 
-        ht, at_ = home.get("team", {}) or {}, away.get("team", {}) or {}
-        ha, aa = ht.get("abbreviation", "?"), at_.get("abbreviation", "?")
-        hn = ht.get("shortDisplayName") or ha
-        an = at_.get("shortDisplayName") or aa
+    season = max(num(g.get("season")) or 0 for _, g in upcoming)
+    form = team_form(games, season)
+    inj = fetch_injuries()
 
-        def rec(c):
-            for r in c.get("records") or []:
-                if r.get("type") in ("total", "overall") or r.get("name") == "overall":
-                    return r.get("summary", "")
-            recs = c.get("records") or []
-            return recs[0].get("summary", "") if recs else ""
+    head = (f"📋 <b>NFL — контекст слейта</b>  "
+            f"<i>{dt.datetime.utcnow():%d.%m %H:%M} UTC · {len(upcoming)} матчей</i>")
+    blocks = []
 
-        lines = [f"<b>{an} ({rec(away)}) @ {hn} ({rec(home)})</b>",
-                 f"<i>{start:%d.%m %H:%M} UTC</i>"]
+    for ko, g in upcoming:
+        ha, aa = g.get("home_team"), g.get("away_team")
+        hn, an = NAMES.get(ha, ha), NAMES.get(aa, aa)
+        wk = g.get("week", "?")
 
-        for tag, ab in ((an, aa), (hn, ha)):
-            s = stats.get(ab) or {}
-            bits = []
-            if s.get("ppg") is not None:
-                bits.append(f"забив {s['ppg']:.1f}")
-            if s.get("papg") is not None:
-                bits.append(f"проп {s['papg']:.1f}")
-            if s.get("ypp") is not None:
-                bits.append(f"{s['ypp']:.1f} я/розыгр")
-            if s.get("to_diff") is not None:
-                bits.append(f"TO {int(s['to_diff']):+d}")
-            if bits:
-                lines.append(f"   {tag}: " + " · ".join(bits))
+        L = [f"<b>{an} @ {hn}</b>  <i>нед.{wk} · {ko:%d.%m %H:%M} UTC</i>"]
 
-        hs, as_ = stats.get(ha) or {}, stats.get(aa) or {}
-        if all(x is not None for x in (hs.get("ppg"), hs.get("papg"),
-                                       as_.get("ppg"), as_.get("papg"))):
-            proj = (hs["ppg"] + as_["papg"]) / 2 + (as_["ppg"] + hs["papg"]) / 2
-            lines.append(f"   ⌀ ожидаемый тотал по форме: <b>{proj:.1f}</b>")
+        sl, tl = num(g.get("spread_line")), num(g.get("total_line"))
+        mk = []
+        if sl is not None:
+            fav, pts = (hn, sl) if sl > 0 else (an, -sl)
+            mk.append(f"{fav} −{abs(pts):g}" if pts else "ровно")
+        if tl is not None:
+            mk.append(f"тотал {tl:g}")
+        if g.get("home_moneyline"):
+            mk.append(f"ML {g.get('away_moneyline')}/{g.get('home_moneyline')}")
+        if mk:
+            L.append("   линия: " + " · ".join(mk))
 
-        rd = []
-        for tag, c in ((an, away), (hn, home)):
-            d = rest_days(start, (c.get("team") or {}).get("id"), played)
-            if d is not None:
-                mark = " ⚠️" if d <= 4 else (" 💤" if d >= 10 else "")
-                rd.append(f"{tag} {d}д{mark}")
-        if rd:
-            lines.append("   отдых: " + " · ".join(rd))
+        hf, af = form.get(ha), form.get(aa)
+        for tag, f in ((an, af), (hn, hf)):
+            if f:
+                yrs = "/".join(str(int(float(y))) for y in f["seasons"])
+                L.append(f"   {tag}: забив {f['pf']:.1f} · проп {f['pa']:.1f} "
+                         f"<i>({f['n']} матчей, {yrs})</i>")
+
+        if hf and af:
+            proj = (hf["pf"] + af["pa"]) / 2 + (af["pf"] + hf["pa"]) / 2
+            edge = ((hf["pf"] + af["pa"]) / 2) - ((af["pf"] + hf["pa"]) / 2)
+            tail = ""
+            if tl is not None:
+                d = proj - tl
+                tail = f"  <b>{'выше' if d > 0 else 'ниже'} линии на {abs(d):.1f}</b>"
+            L.append(f"   ⌀ по форме: тотал {proj:.1f}{tail}")
+            L.append(f"   ⌀ по форме: {hn} {edge:+.1f} дома")
+
+        hr, ar = num(g.get("home_rest")), num(g.get("away_rest"))
+        if hr is not None and ar is not None:
+            def mark(d):
+                return " ⚠️" if d <= 4 else (" 💤" if d >= 10 else "")
+            L.append(f"   отдых: {an} {ar:g}д{mark(ar)} · {hn} {hr:g}д{mark(hr)}")
 
         for tag, ab in ((an, aa), (hn, ha)):
             rows = inj.get(ab) or []
             if not rows:
                 continue
-            out_n = sum(1 for r in rows if r[2] == "Out")
-            top = ", ".join(f"{n} {p} ({s[:1]})" for n, p, s in rows[:4])
+            qb = any(r[1] == "QB" for r in rows)
+            top = ", ".join(f"{n} {p}" for n, p, _ in rows[:4])
             more = f" +{len(rows) - 4}" if len(rows) > 4 else ""
-            flag = " ⚠️" if out_n else ""
-            lines.append(f"   травмы {tag}{flag}: {top}{more}")
+            L.append(f"   травмы {tag}{' 🚨QB' if qb else ''}: {top}{more}")
 
-        venue = ((comp.get("venue") or {}).get("fullName")) or ""
-        vinfo = VENUES.get(venue)
-        if vinfo:
-            lat, lon, roof = vinfo
-            if roof == "dome":
-                lines.append("   погода: крытый стадион")
+        roof = (g.get("roof") or "").lower()
+        stadium = g.get("stadium") or ""
+        if roof in ("dome", "closed"):
+            L.append(f"   {stadium}: крытый")
+        else:
+            c = COORDS.get(stadium)
+            if not c:
+                L.append(f"   {stadium}: нет координат")
             else:
-                w = weather(lat, lon, start)
-                if w and w.get("wind") is not None:
-                    wind_flag = " ⚠️" if w["wind"] >= 8 else ""
-                    parts = [f"{w['t']:.0f}°C" if w.get("t") is not None else "",
-                             f"ветер {w['wind']:.0f} м/с {w['dir']}{wind_flag}",
-                             f"дождь {w['rain']}%" if w.get("rain") is not None else ""]
-                    tail = " · ".join(x for x in parts if x)
-                    prefix = "погода (раздвижная крыша)" if roof == "retractable" else "погода"
-                    lines.append(f"   {prefix}: {tail}")
-        elif venue:
-            lines.append(f"   стадион: {venue} (нет в таблице)")
+                w = weather(c[0], c[1], ko)
+                if not w or w.get("wind") is None:
+                    L.append(f"   {stadium}: прогноза пока нет")
+                else:
+                    bits = []
+                    if w.get("t") is not None:
+                        bits.append(f"{w['t']:.0f}°C")
+                    bits.append(f"ветер {w['wind']:.0f} м/с {w['dir']}"
+                                + (" ⚠️" if w["wind"] >= 8 else ""))
+                    if w.get("rain") is not None:
+                        bits.append(f"дождь {w['rain']}%")
+                    pre = "открытый" if roof == "outdoors" else roof
+                    L.append(f"   {stadium} ({pre}): " + " · ".join(bits))
 
-        blocks.append("\n".join(lines))
+        if g.get("div_game") == "1":
+            L.append("   дивизионный матч")
 
-    if not blocks:
-        return None
-    head = f"📋 <b>NFL — контекст слейта</b>  <i>{dt.datetime.utcnow():%d.%m %H:%M} UTC</i>"
+        blocks.append("\n".join(L))
+
     return head + "\n\n" + "\n\n".join(blocks)
 
 
 def tg_send(text):
     if not TG_TOKEN or not TG_CHAT:
-        print("Telegram не настроен")
+        print("Telegram не настроен\n")
         print(text)
         return
-    for i in range(0, len(text), 3800):
-        chunk = text[i:i + 3800]
-        r = requests.post(
-            f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-            data={"chat_id": TG_CHAT, "text": chunk,
-                  "parse_mode": "HTML", "disable_web_page_preview": True},
-            timeout=30)
-        print("TG:", r.status_code, r.text[:200])
+    parts, cur = [], ""
+    for block in text.split("\n\n"):
+        if len(cur) + len(block) > 3600:
+            parts.append(cur)
+            cur = block
+        else:
+            cur = f"{cur}\n\n{block}" if cur else block
+    if cur:
+        parts.append(cur)
+    for p in parts:
+        r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+                          data={"chat_id": TG_CHAT, "text": p, "parse_mode": "HTML",
+                                "disable_web_page_preview": True}, timeout=30)
+        print("TG:", r.status_code, r.text[:160])
         if r.status_code != 200:
             sys.exit(1)
 
