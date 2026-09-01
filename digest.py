@@ -2,18 +2,8 @@
 """
 Pre-round digest — one compact message per league at 09:00 UTC.
 
-Does NOT write CSV and does NOT commit. It sends a short summary of
-upcoming games for forwarding into chat.
-
-Edge is measured against Pinnacle with the vig removed. Raw Pinnacle
-prices carry ~2% margin, so comparing a best price to them flags
-noise; the fair price is what a real edge is measured against.
-
 Totals and spreads are priced on ONE anchored line — Pinnacle's number,
-or the most common across books if Pinnacle has none. Without the anchor
-each side's best price was hunted independently across every rung, so
-Over and Under came back on different numbers and were not two sides of
-the same bet.
+or the most common across books if Pinnacle has none.
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
@@ -46,9 +36,6 @@ BOOKS = ("pinnacle,betfair_ex_eu,matchbook,betsson,coolbet,"
          "draftkings,fanduel,betmgm,betrivers")
 MARKETS = "h2h,spreads,totals"
 
-# Edge against the DEVIGGED Pinnacle price. 3% is roughly where a gap
-# stops looking like noise; the old 2%-vs-raw threshold mostly flagged
-# the margin itself.
 EDGE_PCT = 3.0
 MSG_LIMIT = 3500
 
@@ -106,10 +93,7 @@ def collect(ev, market_key):
 
 
 def devig(quotes):
-    """Proportional vig removal. quotes: {name: (price, point)} -> {name: fair_price}.
-
-    Needs every side of the market; a one-sided quote cannot be cleaned.
-    """
+    """Proportional vig removal. Needs every side of the market."""
     if len(quotes) < 2:
         return {}
     total = sum(1.0 / p for p, _ in quotes.values())
@@ -119,10 +103,7 @@ def devig(quotes):
 
 
 def anchor_group(offers, pinn):
-    """The single line the whole market is priced on.
-
-    Pinnacle's two-sided line wins. Failing that, the line most books post.
-    """
+    """The single line the whole market is priced on."""
     two_sided = [g for g, q in pinn.items() if len(q) >= 2]
     if two_sided:
         counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
@@ -165,14 +146,19 @@ def pointed_rows(ev, market_key, label):
     fair = devig(quotes)
     pin_point = {n: p for n, (_, p) in quotes.items()}
 
+    if market_key == "spreads" and not pin_point and g is not None:
+        home = ev.get("home_team")
+        home_pts = [p for _, p, _ in offers.get(home, []) if group_key(p) == g]
+        if home_pts:
+            hp = Counter(home_pts).most_common(1)[0][0]
+            pin_point = {n: (hp if n == home else -hp) for n in offers}
+
     for name, entries in offers.items():
-        # Only books standing on the anchored line. Where Pinnacle names the
-        # exact point for this side, match its sign too — otherwise a book
-        # with the opposite favourite would slip into the same group.
         want = pin_point.get(name)
-        at = [e for e in entries
-              if (e[1] == want) if want is not None
-              else group_key(e[1]) == g]
+        if want is not None:
+            at = [e for e in entries if e[1] == want]
+        else:
+            at = [e for e in entries if group_key(e[1]) == g]
         if not at:
             pt = ("%+g" % want) if want is not None else (("%g" % g) if g is not None else "")
             rows.append("  %s %s %s: \u043d\u0435\u0442 \u0446\u0435\u043d\u044b \u043d\u0430 \u044d\u0442\u043e\u0439 \u043b\u0438\u043d\u0438\u0438"
