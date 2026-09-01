@@ -74,6 +74,42 @@ PARK = {
 }
 
 
+def park_factor(name):
+    """Match on substring — venues pick up sponsor prefixes mid-season."""
+    if not name:
+        return None
+    if name in PARK:
+        return PARK[name]
+    for k, v in PARK.items():
+        if k.lower() in name.lower() or name.lower() in k.lower():
+            return v
+    return None
+
+
+_VENUE_COORDS = {}
+
+
+def venue_coords(v):
+    """Coordinates from the hydrated game, else fetched from the venue itself."""
+    coords = ((v.get("location") or {}).get("defaultCoordinates")) or {}
+    lat, lon = coords.get("latitude"), coords.get("longitude")
+    if lat is not None and lon is not None:
+        return lat, lon
+    vid = v.get("id")
+    if vid is None:
+        return None, None
+    if vid in _VENUE_COORDS:
+        return _VENUE_COORDS[vid]
+    data = jget("%s/venues/%d?hydrate=location" % (STATS, vid))
+    got = (None, None)
+    for ven in (data or {}).get("venues", []):
+        c = (ven.get("location") or {}).get("defaultCoordinates") or {}
+        if c.get("latitude") is not None:
+            got = (c["latitude"], c["longitude"])
+    _VENUE_COORDS[vid] = got
+    return got
+
+
 def jget(url, timeout=30):
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "odds-monitor/1.0"})
@@ -232,12 +268,17 @@ def standings_form(season):
 def head_to_head(team_id, opp_id, season, limit=5):
     """Final scores of this season's meetings, most recent first."""
     url = ("%s/schedule?sportId=1&teamId=%d&opponentId=%d&season=%d"
-           "&startDate=%d-03-01&endDate=%s&hydrate=linescore"
+           "&startDate=%d-03-01&endDate=%s&hydrate=team,linescore"
            % (STATS, team_id, opp_id, season, season,
               datetime.now(timezone.utc).strftime("%Y-%m-%d")))
     data = jget(url)
     if not data:
         return []
+
+    def tag(side):
+        t = side.get("team") or {}
+        return t.get("abbreviation") or t.get("teamName") or t.get("name", "?")[:12]
+
     out = []
     for day in data.get("dates", []):
         for g in day.get("games", []):
@@ -248,9 +289,7 @@ def head_to_head(team_id, opp_id, season, limit=5):
             hs, as_ = h.get("score"), a.get("score")
             if hs is None or as_ is None:
                 continue
-            out.append("%s %d:%d %s" % ((a.get("team") or {}).get("abbreviation", "?"),
-                                        as_, hs,
-                                        (h.get("team") or {}).get("abbreviation", "?")))
+            out.append("%s %d:%d %s" % (tag(a), as_, hs, tag(h)))
     return out[-limit:][::-1]
 
 
@@ -320,21 +359,26 @@ def build_block(g, season, form):
     v = g.get("venue") or {}
     roof = ((v.get("fieldInfo") or {}).get("roofType") or "").lower()
     vname = v.get("name", "?")
-    pf = PARK.get(vname)
+    pf = park_factor(vname)
     pf_txt = ("  парк %d" % pf) if pf else ""
     out.append("  Стадион: %s%s%s"
                % (vname, pf_txt, ("  крыша: %s" % roof) if roof else ""))
 
     # weather, only where it can matter
-    coords = ((v.get("location") or {}).get("defaultCoordinates")) or {}
-    lat, lon = coords.get("latitude"), coords.get("longitude")
-    if roof in ("dome", "closed", "retractable roof (closed)"):
+    lat, lon = venue_coords(v)
+    if roof in ("dome", "closed", "indoor", "fixed"):
         out.append("  Погода: не важна, закрытый стадион")
     elif lat is not None and lon is not None:
         w = weather_at(lat, lon, start)
         if w:
-            out.append("  Погода: %s°C, ветер %s км/ч %s, осадки %s%%"
-                       % (w.get("t"), w.get("ws"), compass(w.get("wd")), w.get("rain")))
+            note = "  (крыша раздвижная — может быть закрыта)" if "retract" in roof else ""
+            out.append("  Погода: %s°C, ветер %s км/ч %s, осадки %s%%%s"
+                       % (w.get("t"), w.get("ws"), compass(w.get("wd")),
+                          w.get("rain"), note))
+        else:
+            out.append("  Погода: нет данных")
+    else:
+        out.append("  Погода: нет координат стадиона")
 
     # head to head this season
     if hid and aid:
