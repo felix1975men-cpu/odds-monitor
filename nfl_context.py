@@ -18,7 +18,7 @@ import requests
 TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "96"))
-FORM_GAMES = int(os.environ.get("FORM_GAMES", "8"))
+MIN_CURRENT = int(os.environ.get("MIN_CURRENT", "4"))   # с какого числа матчей верим текущему сезону
 TIMEOUT = 40
 
 GAMES_CSV = ("https://github.com/nflverse/nflverse-data/releases/download/"
@@ -152,34 +152,37 @@ def fetch_injuries():
 
 
 def team_form(games, season):
-    played = []
+    """
+    Только регулярный сезон — плей-офф выбрасывается, он искажает выборку
+    (финалисты играют против элиты, аутсайдеры доигрывают вторым составом).
+    Текущий сезон используется с MIN_CURRENT матчей, иначе берётся прошлый.
+    """
+    cur, prev = defaultdict(list), defaultdict(list)
     for g in games:
-        if g.get("game_type") not in ("REG", "WC", "DIV", "CON", "SB"):
+        if g.get("game_type") != "REG":
             continue
         hs, as_ = num(g.get("home_score")), num(g.get("away_score"))
-        if hs is None or as_ is None:
-            continue
         s = num(g.get("season"))
-        if s is None or s > season:
+        if hs is None or as_ is None or s is None:
             continue
-        played.append((g.get("gameday", ""), g, hs, as_))
-    played.sort(key=lambda x: x[0])
-
-    by_team = defaultdict(list)
-    for _, g, hs, as_ in played:
-        by_team[g.get("home_team")].append((hs, as_, g.get("season")))
-        by_team[g.get("away_team")].append((as_, hs, g.get("season")))
+        bucket = cur if s == season else (prev if s == season - 1 else None)
+        if bucket is None:
+            continue
+        bucket[g.get("home_team")].append((hs, as_))
+        bucket[g.get("away_team")].append((as_, hs))
 
     out = {}
-    for ab, rows in by_team.items():
-        last = rows[-FORM_GAMES:]
-        if not last:
+    for ab in set(list(cur) + list(prev)):
+        rows, stale = cur.get(ab, []), False
+        if len(rows) < MIN_CURRENT:
+            rows, stale = prev.get(ab, []), True
+        if not rows:
             continue
         out[ab] = {
-            "pf": sum(r[0] for r in last) / len(last),
-            "pa": sum(r[1] for r in last) / len(last),
-            "n": len(last),
-            "seasons": sorted({r[2] for r in last}),
+            "pf": sum(r[0] for r in rows) / len(rows),
+            "pa": sum(r[1] for r in rows) / len(rows),
+            "n": len(rows),
+            "stale": stale,
         }
     return out
 
@@ -255,9 +258,8 @@ def build():
     for ko, g in upcoming:
         ha, aa = g.get("home_team"), g.get("away_team")
         hn, an = NAMES.get(ha, ha), NAMES.get(aa, aa)
-        wk = g.get("week", "?")
 
-        L = [f"<b>{an} @ {hn}</b>  <i>нед.{wk} · {ko:%d.%m %H:%M} UTC</i>"]
+        L = [f"<b>{an} @ {hn}</b>  <i>нед.{g.get('week','?')} · {ko:%d.%m %H:%M} UTC</i>"]
 
         sl, tl = num(g.get("spread_line")), num(g.get("total_line"))
         mk = []
@@ -274,19 +276,24 @@ def build():
         hf, af = form.get(ha), form.get(aa)
         for tag, f in ((an, af), (hn, hf)):
             if f:
-                yrs = "/".join(str(int(float(y))) for y in f["seasons"])
+                src = "прошлый сезон" if f["stale"] else "текущий сезон"
                 L.append(f"   {tag}: забив {f['pf']:.1f} · проп {f['pa']:.1f} "
-                         f"<i>({f['n']} матчей, {yrs})</i>")
+                         f"<i>({f['n']} матчей, {src})</i>")
 
         if hf and af:
             proj = (hf["pf"] + af["pa"]) / 2 + (af["pf"] + hf["pa"]) / 2
             edge = ((hf["pf"] + af["pa"]) / 2) - ((af["pf"] + hf["pa"]) / 2)
-            tail = ""
-            if tl is not None:
-                d = proj - tl
-                tail = f"  <b>{'выше' if d > 0 else 'ниже'} линии на {abs(d):.1f}</b>"
-            L.append(f"   ⌀ по форме: тотал {proj:.1f}{tail}")
-            L.append(f"   ⌀ по форме: {hn} {edge:+.1f} дома")
+            if hf["stale"] or af["stale"]:
+                L.append(f"   ⌀ прошлый сезон, для справки: тотал {proj:.1f} · "
+                         f"{hn} {edge:+.1f} дома")
+                L.append("   <i>состав и штаб сменились — с линией не сравниваю</i>")
+            else:
+                tail = ""
+                if tl is not None:
+                    d = proj - tl
+                    tail = f"  <b>{'выше' if d > 0 else 'ниже'} линии на {abs(d):.1f}</b>"
+                L.append(f"   ⌀ по форме: тотал {proj:.1f}{tail}")
+                L.append(f"   ⌀ по форме: {hn} {edge:+.1f} дома")
 
         hr, ar = num(g.get("home_rest")), num(g.get("away_rest"))
         if hr is not None and ar is not None:
@@ -323,8 +330,9 @@ def build():
                                 + (" ⚠️" if w["wind"] >= 8 else ""))
                     if w.get("rain") is not None:
                         bits.append(f"дождь {w['rain']}%")
-                    pre = "открытый" if roof == "outdoors" else roof
-                    L.append(f"   {stadium} ({pre}): " + " · ".join(bits))
+                    label = {"outdoors": " (открытый)", "open": " (открытый)",
+                             "retractable": " (раздвижная)"}.get(roof, "")
+                    L.append(f"   {stadium}{label}: " + " · ".join(bits))
 
         if g.get("div_game") == "1":
             L.append("   дивизионный матч")
