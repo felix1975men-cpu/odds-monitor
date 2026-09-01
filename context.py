@@ -25,6 +25,7 @@ import os
 import json
 import urllib.request
 import urllib.parse
+import time
 import urllib.error
 from datetime import datetime, timezone, timedelta
 
@@ -307,19 +308,27 @@ _INJ = {}
 
 
 def injuries(team_id, limit=3):
-    """Players on the 40-man who are not active — injured list and the like."""
+    """Players actually unavailable — injured lists, suspensions, leave.
+
+    The 40-man carries a lot of 'Reassigned to Minors', which is roster
+    housekeeping rather than an absence, so it is filtered out.
+    """
     if team_id in _INJ:
         return _INJ[team_id]
     data = jget("%s/teams/%d/roster?rosterType=40Man&hydrate=person"
                 % (STATS, team_id))
+    keep = ("injured", "il", "suspend", "restricted", "bereavement",
+            "paternity", "family")
     out = []
     for e in (data or {}).get("roster", []):
-        st = (e.get("status") or {})
-        desc = (st.get("description") or "")
-        if desc and desc.lower() != "active":
-            name = (e.get("person") or {}).get("fullName", "?")
-            pos = ((e.get("position") or {}).get("abbreviation") or "")
-            out.append("%s %s (%s)" % (pos, name, desc))
+        desc = ((e.get("status") or {}).get("description") or "")
+        low = desc.lower()
+        if not any(k in low for k in keep):
+            continue
+        name = (e.get("person") or {}).get("fullName", "?")
+        pos = ((e.get("position") or {}).get("abbreviation") or "")
+        short = desc.replace("Injured ", "IL ")
+        out.append("%s %s (%s)" % (pos, name, short))
     _INJ[team_id] = out
     return out
 
@@ -381,12 +390,26 @@ def head_to_head(team_id, opp_id, season, limit=5):
 
 # ---------------------------------------------------------------- weather
 
+_WX = {}
+
+
 def weather_at(lat, lon, when):
-    """Temperature, wind and rain chance for the hour of first pitch."""
-    url = ("%s?latitude=%.4f&longitude=%.4f&timezone=UTC&forecast_days=3"
-           "&hourly=temperature_2m,wind_speed_10m,wind_direction_10m,"
-           "precipitation_probability" % (METEO, lat, lon))
-    data = jget(url)
+    """Temperature, wind and rain chance for the hour of first pitch.
+
+    Cached per venue and retried once — firing fifteen calls back to back
+    was silently losing a few of them.
+    """
+    key = (round(lat, 3), round(lon, 3))
+    if key not in _WX:
+        url = ("%s?latitude=%.4f&longitude=%.4f&timezone=UTC&forecast_days=3"
+               "&hourly=temperature_2m,wind_speed_10m,wind_direction_10m,"
+               "precipitation_probability" % (METEO, lat, lon))
+        data = jget(url)
+        if not data:
+            time.sleep(2)
+            data = jget(url)
+        _WX[key] = data
+    data = _WX[key]
     if not data:
         return None
     h = data.get("hourly") or {}
