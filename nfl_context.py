@@ -16,7 +16,7 @@ TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/football/nfl"
 ESPN_WEB = "https://site.web.api.espn.com/apis/common/v3/sports/football/nfl"
-WINDOW_HOURS = 96
+WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "96"))   # окно поиска матчей
 TIMEOUT = 25
 
 KEY_POS = {"QB", "RB", "WR", "TE", "LT", "OT", "CB", "EDGE", "DE", "LB", "S", "K"}
@@ -57,18 +57,29 @@ VENUES = {
     "Levi's Stadium": (37.403, -121.970, "open"),
 }
 
+UA_BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
+
 
 def get(url, params=None):
-    try:
-        r = requests.get(url, params=params, timeout=TIMEOUT,
-                         headers={"User-Agent": "Mozilla/5.0"})
-        if r.status_code != 200:
-            print(f"HTTP {r.status_code} {url}")
+    """
+    ESPN за Akamai отдаёт 403 на браузерный User-Agent с дата-центровых IP,
+    но пропускает запрос без него. Поэтому сначала пробуем без заголовка,
+    и только при 403 повторяем с браузерным.
+    """
+    for headers in ({}, {"User-Agent": UA_BROWSER}):
+        try:
+            r = requests.get(url, params=params, timeout=TIMEOUT, headers=headers)
+            if r.status_code == 200:
+                return r.json()
+            if r.status_code != 403:
+                print(f"HTTP {r.status_code} {url}")
+                return None
+        except Exception as e:
+            print(f"fetch failed {url}: {e}")
             return None
-        return r.json()
-    except Exception as e:
-        print(f"fetch failed {url}: {e}")
-        return None
+    print(f"HTTP 403 (обе попытки) {url}")
+    return None
 
 
 def scoreboard_events():
