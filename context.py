@@ -237,7 +237,7 @@ def fmt_pitcher(p, line):
 # ------------------------------------------------------------------- form
 
 def standings_form(season):
-    """{team_id: (W-L, last ten, streak)} for both leagues."""
+    """{team_id: record, last ten, streak, runs, home/away splits}."""
     out = {}
     url = ("%s/standings?leagueId=103,104&season=%d&standingsTypes=regularSeason"
            % (STATS, season))
@@ -249,17 +249,103 @@ def standings_form(season):
             tid = (tr.get("team") or {}).get("id")
             if tid is None:
                 continue
-            last10 = ""
+            splits = {}
             for sp in ((tr.get("records") or {}).get("splitRecords") or []):
-                if sp.get("type") == "lastTen":
-                    last10 = "%s-%s" % (sp.get("wins"), sp.get("losses"))
+                splits[sp.get("type")] = "%s-%s" % (sp.get("wins"), sp.get("losses"))
             out[tid] = {
                 "wl": "%s-%s" % (tr.get("wins"), tr.get("losses")),
-                "last10": last10,
+                "last10": splits.get("lastTen", ""),
+                "home": splits.get("home", ""),
+                "away": splits.get("away", ""),
                 "streak": ((tr.get("streak") or {}).get("streakCode") or ""),
                 "rs": tr.get("runsScored"),
                 "ra": tr.get("runsAllowed"),
             }
+    return out
+
+
+_RECENT = {}
+
+
+def team_recent(team_id, season, n=15):
+    """Record and run differential over the last n completed games."""
+    if (team_id, n) in _RECENT:
+        return _RECENT[(team_id, n)]
+    url = ("%s/schedule?sportId=1&teamId=%d&season=%d&startDate=%d-03-01&endDate=%s"
+           % (STATS, team_id, season, season,
+              datetime.now(timezone.utc).strftime("%Y-%m-%d")))
+    data = jget(url)
+    res = None
+    if data:
+        games = []
+        for day in data.get("dates", []):
+            for g in day.get("games", []):
+                if (g.get("status") or {}).get("abstractGameState") != "Final":
+                    continue
+                t = g.get("teams") or {}
+                for side, other in (("home", "away"), ("away", "home")):
+                    s = t.get(side) or {}
+                    if ((s.get("team") or {}).get("id")) != team_id:
+                        continue
+                    o = t.get(other) or {}
+                    if s.get("score") is None or o.get("score") is None:
+                        continue
+                    games.append((g.get("gameDate", ""), s["score"], o["score"]))
+        games.sort()
+        tail = games[-n:]
+        if tail:
+            w = sum(1 for _, f, a in tail if f > a)
+            res = {"wl": "%d-%d" % (w, len(tail) - w),
+                   "rs": sum(f for _, f, _ in tail),
+                   "ra": sum(a for _, _, a in tail),
+                   "n": len(tail)}
+    _RECENT[(team_id, n)] = res
+    return res
+
+
+_INJ = {}
+
+
+def injuries(team_id, limit=3):
+    """Players on the 40-man who are not active — injured list and the like."""
+    if team_id in _INJ:
+        return _INJ[team_id]
+    data = jget("%s/teams/%d/roster?rosterType=40Man&hydrate=person"
+                % (STATS, team_id))
+    out = []
+    for e in (data or {}).get("roster", []):
+        st = (e.get("status") or {})
+        desc = (st.get("description") or "")
+        if desc and desc.lower() != "active":
+            name = (e.get("person") or {}).get("fullName", "?")
+            pos = ((e.get("position") or {}).get("abbreviation") or "")
+            out.append("%s %s (%s)" % (pos, name, desc))
+    _INJ[team_id] = out
+    return out
+
+
+def pitcher_recent(pid, season, n=3):
+    """The starter's last n outings: date, innings, earned runs."""
+    if not pid:
+        return []
+    data = jget("%s/people/%d/stats?stats=gameLog&group=pitching&season=%d"
+                % (STATS, pid, season))
+    rows = []
+    for st in (data or {}).get("stats", []):
+        for sp in st.get("splits", []):
+            s = sp.get("stat") or {}
+            if not (s.get("gamesStarted") or s.get("inningsPitched")):
+                continue
+            rows.append((sp.get("date", ""), s.get("inningsPitched"),
+                         s.get("earnedRuns"), s.get("strikeOuts")))
+    rows.sort()
+    out = []
+    for d, ip, er, so in rows[-n:][::-1]:
+        try:
+            dd = datetime.strptime(d, "%Y-%m-%d").strftime("%d.%m")
+        except (ValueError, TypeError):
+            dd = d
+        out.append("%s %sIP %sER %sK" % (dd, ip, er, so))
     return out
 
 
@@ -339,21 +425,29 @@ def build_block(g, season, form):
            % (away_t.get("name", "?"), home_t.get("name", "?"),
               start.strftime("%d.%m %H:%M"))]
 
-    # records and form
-    for side, team in (("гости", away_t), ("хозяева", home_t)):
-        f = form.get(team.get("id")) or {}
+    # records, splits and recent form
+    for side, team, where in (("гости", away_t, "away"), ("хозяева", home_t, "home")):
+        tid = team.get("id")
+        f = form.get(tid) or {}
         if f:
-            rs, ra = f.get("rs"), f.get("ra")
-            diff = ("  RS/RA %s/%s" % (rs, ra)) if rs is not None and ra is not None else ""
-            out.append("  %s: %s, посл.10 %s, серия %s%s"
-                       % (side, f.get("wl", "?"), f.get("last10") or "?",
-                          f.get("streak") or "?", diff))
+            out.append("  %s: %s, дома %s, в гостях %s, посл.10 %s, серия %s  RS/RA %s/%s"
+                       % (side, f.get("wl", "?"), f.get("home") or "?",
+                          f.get("away") or "?", f.get("last10") or "?",
+                          f.get("streak") or "?", f.get("rs"), f.get("ra")))
+        r15 = team_recent(tid, season, 15) if tid else None
+        if r15:
+            out.append("    посл.%d: %s, забито %d, пропущено %d"
+                       % (r15["n"], r15["wl"], r15["rs"], r15["ra"]))
 
-    # probable starters
+    # probable starters with their last outings
     for side, key in (("гости", "away"), ("хозяева", "home")):
         p = (t.get(key) or {}).get("probablePitcher")
-        line = pitcher_line((p or {}).get("id"), season)
+        pid = (p or {}).get("id")
+        line = pitcher_line(pid, season)
         out.append("  P %s: %s" % (side, fmt_pitcher(p, line)))
+        last = pitcher_recent(pid, season)
+        if last:
+            out.append("    старты: " + " | ".join(last))
 
     # venue, roof, park factor
     v = g.get("venue") or {}
@@ -385,6 +479,17 @@ def build_block(g, season, form):
         h2h = head_to_head(hid, aid, season)
         if h2h:
             out.append("  Очные: " + " | ".join(h2h))
+
+    # not-active players on the 40-man
+    for side, team in (("гости", away_t), ("хозяева", home_t)):
+        tid = team.get("id")
+        if not tid:
+            continue
+        inj = injuries(tid)
+        if inj:
+            more = ("  +ещё %d" % (len(inj) - 3)) if len(inj) > 3 else ""
+            out.append("  Вне строя (%s, %d): %s%s"
+                       % (side, len(inj), "; ".join(inj[:3]), more))
 
     return "\n".join(out)
 
