@@ -2,8 +2,9 @@
 """
 Pre-round digest — one compact message per league at 09:00 UTC.
 
-Totals and spreads are priced on ONE anchored line — Pinnacle's number,
-or the most common across books if Pinnacle has none.
+Totals and spreads are priced on ONE anchored line. For totals a .5 line
+wins even when Pinnacle stands on a whole number: a whole total can push,
+and losing the fair price beats losing the bet.
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
@@ -73,6 +74,11 @@ def group_key(point):
     return None if point is None else abs(point)
 
 
+def is_half(g):
+    """True for 8.5, false for 9.0 — the .5 lines are the ones that cannot push."""
+    return g is not None and abs((g * 2) % 2 - 1) < 1e-9
+
+
 def collect(ev, market_key):
     """{outcome: [(price, point, book)]} plus pinnacle quotes by group."""
     offers = {}
@@ -102,15 +108,36 @@ def devig(quotes):
     return {n: 1.0 / ((1.0 / p) / total) for n, (p, _) in quotes.items()}
 
 
-def anchor_group(offers, pinn):
+def two_sided_groups(offers):
+    """Groups where at least two different outcomes are quoted somewhere."""
+    names = {}
+    for name, entries in offers.items():
+        for _, p, _ in entries:
+            names.setdefault(group_key(p), set()).add(name)
+    return {g for g, ns in names.items() if g is not None and len(ns) >= 2}
+
+
+def anchor_group(offers, pinn, market_key):
     """The single line the whole market is priced on."""
-    two_sided = [g for g, q in pinn.items() if len(q) >= 2]
+    counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
+    counts.pop(None, None)
+    two_sided = two_sided_groups(offers)
+    pin_two = [g for g, q in pinn.items() if g is not None and len(q) >= 2]
+
+    if market_key == "totals":
+        pin_half = [g for g in pin_two if is_half(g)]
+        if pin_half:
+            return max(pin_half, key=lambda g: counts.get(g, 0))
+        any_half = [g for g in two_sided if is_half(g)]
+        if any_half:
+            return max(any_half, key=lambda g: counts.get(g, 0))
+
+    if pin_two:
+        return max(pin_two, key=lambda g: counts.get(g, 0))
     if two_sided:
-        counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
         return max(two_sided, key=lambda g: counts.get(g, 0))
     if pinn:
-        return list(pinn)[0]
-    counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
+        return next((g for g in pinn if g is not None), None)
     return counts.most_common(1)[0][0] if counts else None
 
 
@@ -141,7 +168,7 @@ def pointed_rows(ev, market_key, label):
     if not offers:
         return rows
 
-    g = anchor_group(offers, pinn)
+    g = anchor_group(offers, pinn, market_key)
     quotes = pinn.get(g, {})
     fair = devig(quotes)
     pin_point = {n: p for n, (_, p) in quotes.items()}
