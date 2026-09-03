@@ -131,7 +131,9 @@ def tg_send(text):
     try:
         urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def parse_iso(s):
@@ -444,12 +446,13 @@ def build_block(g, season, form):
     hid, aid = home_t.get("id"), away_t.get("id")
     start = parse_iso(g["gameDate"])
 
-    out = ["\n%s @ %s  (%s UTC)"
-           % (away_t.get("name", "?"), home_t.get("name", "?"),
+    # европейская подача: хозяева первыми
+    out = ["\n%s - %s  (%s UTC)"
+           % (home_t.get("name", "?"), away_t.get("name", "?"),
               start.strftime("%d.%m %H:%M"))]
 
     # records, splits and recent form
-    for side, team, where in (("гости", away_t, "away"), ("хозяева", home_t, "home")):
+    for side, team, where in (("хозяева", home_t, "home"), ("гости", away_t, "away")):
         tid = team.get("id")
         f = form.get(tid) or {}
         if f:
@@ -463,7 +466,7 @@ def build_block(g, season, form):
                        % (r15["n"], r15["wl"], r15["rs"], r15["ra"]))
 
     # probable starters with their last outings
-    for side, key in (("гости", "away"), ("хозяева", "home")):
+    for side, key in (("хозяева", "home"), ("гости", "away")):
         p = (t.get(key) or {}).get("probablePitcher")
         pid = (p or {}).get("id")
         line = pitcher_line(pid, season)
@@ -504,7 +507,7 @@ def build_block(g, season, form):
             out.append("  Очные: " + " | ".join(h2h))
 
     # not-active players on the 40-man
-    for side, team in (("гости", away_t), ("хозяева", home_t)):
+    for side, team in (("хозяева", home_t), ("гости", away_t)):
         tid = team.get("id")
         if not tid:
             continue
