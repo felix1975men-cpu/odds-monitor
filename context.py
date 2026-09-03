@@ -306,6 +306,35 @@ def team_recent(team_id, season, n=15):
     return res
 
 
+_IL_DATES = {}
+
+
+def il_dates(team_id, days=21):
+    """{имя игрока: дата постановки} — из ленты транзакций команды.
+
+    Ростер отдаёт только статус, без даты, поэтому свежую потерю от
+    месячной по нему не отличить. Транзакции дату дают.
+    """
+    if team_id in _IL_DATES:
+        return _IL_DATES[team_id]
+    now = datetime.now(timezone.utc)
+    data = jget("%s/transactions?teamId=%d&startDate=%s&endDate=%s"
+                % (STATS, team_id,
+                   (now - timedelta(days=days)).strftime("%Y-%m-%d"),
+                   now.strftime("%Y-%m-%d")))
+    out = {}
+    for t in (data or {}).get("transactions", []):
+        desc = (t.get("description") or "").lower()
+        if "injured list" not in desc or "placed" not in desc:
+            continue
+        name = (t.get("person") or {}).get("fullName")
+        date = t.get("effectiveDate") or t.get("date")
+        if name and date:
+            out[name] = date          # последняя постановка перекрывает раннюю
+    _IL_DATES[team_id] = out
+    return out
+
+
 _INJ = {}
 
 
@@ -330,9 +359,23 @@ def injuries(team_id, limit=3):
         name = (e.get("person") or {}).get("fullName", "?")
         pos = ((e.get("position") or {}).get("abbreviation") or "")
         short = desc.replace("Injured ", "IL ")
-        out.append("%s %s (%s)" % (pos, name, short))
+        out.append((pos, name, short))
     _INJ[team_id] = out
     return out
+
+
+def split_injuries(team_id, fresh_days=14):
+    """Свежие потери отдельно от давних — месячное отсутствие уже в цене."""
+    dates = il_dates(team_id)
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=fresh_days)).strftime("%Y-%m-%d")
+    fresh, old = [], []
+    for pos, name, short in injuries(team_id):
+        d = dates.get(name)
+        if d and d >= cutoff:
+            fresh.append("%s %s (%s, %s.%s)" % (pos, name, short, d[8:10], d[5:7]))
+        else:
+            old.append("%s %s (%s)" % (pos, name, short))
+    return fresh, old
 
 
 def pitcher_recent(pid, season, n=3):
@@ -506,16 +549,18 @@ def build_block(g, season, form):
         if h2h:
             out.append("  Очные: " + " | ".join(h2h))
 
-    # not-active players on the 40-man
+    # потери: свежие отдельно от давних
     for side, team in (("хозяева", home_t), ("гости", away_t)):
         tid = team.get("id")
         if not tid:
             continue
-        inj = injuries(tid)
-        if inj:
-            more = ("  +ещё %d" % (len(inj) - 3)) if len(inj) > 3 else ""
-            out.append("  Вне строя (%s, %d): %s%s"
-                       % (side, len(inj), "; ".join(inj[:3]), more))
+        fresh, old = split_injuries(tid)
+        if fresh:
+            out.append("  СВЕЖИЕ потери (%s, %d): %s" % (side, len(fresh), "; ".join(fresh)))
+        if old:
+            more = ("  +ещё %d" % (len(old) - 3)) if len(old) > 3 else ""
+            out.append("  Давно вне строя (%s, %d): %s%s"
+                       % (side, len(old), "; ".join(old[:3]), more))
 
     return "\n".join(out)
 
