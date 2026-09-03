@@ -2,9 +2,18 @@
 """
 Pre-round digest — one compact message per league at 09:00 UTC.
 
-Totals and spreads are priced on ONE anchored line. For totals a .5 line
-wins even when Pinnacle stands on a whole number: a whole total can push,
-and losing the fair price beats losing the bet.
+Does NOT write CSV and does NOT commit. It sends a short summary of
+upcoming games for forwarding into chat.
+
+Edge is measured against Pinnacle with the vig removed. Raw Pinnacle
+prices carry ~2% margin, so comparing a best price to them flags
+noise; the fair price is what a real edge is measured against.
+
+Totals and spreads are priced on ONE anchored line — Pinnacle's number,
+or the most common across books if Pinnacle has none. Without the anchor
+each side's best price was hunted independently across every rung, so
+Over and Under came back on different numbers and were not two sides of
+the same bet.
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
@@ -37,6 +46,9 @@ BOOKS = ("pinnacle,betfair_ex_eu,matchbook,betsson,coolbet,"
          "draftkings,fanduel,betmgm,betrivers")
 MARKETS = "h2h,spreads,totals"
 
+# Edge against the DEVIGGED Pinnacle price. 3% is roughly where a gap
+# stops looking like noise; the old 2%-vs-raw threshold mostly flagged
+# the margin itself.
 EDGE_PCT = 3.0
 MSG_LIMIT = 3500
 
@@ -62,7 +74,9 @@ def tg_send(text):
     try:
         urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def parse_iso(s):
@@ -72,11 +86,6 @@ def parse_iso(s):
 def group_key(point):
     """Two sides of the same line share a group; +1.5 and -1.5 belong together."""
     return None if point is None else abs(point)
-
-
-def is_half(g):
-    """True for 8.5, false for 9.0 — the .5 lines are the ones that cannot push."""
-    return g is not None and abs((g * 2) % 2 - 1) < 1e-9
 
 
 def collect(ev, market_key):
@@ -99,13 +108,21 @@ def collect(ev, market_key):
 
 
 def devig(quotes):
-    """Proportional vig removal. Needs every side of the market."""
+    """Proportional vig removal. quotes: {name: (price, point)} -> {name: fair_price}.
+
+    Needs every side of the market; a one-sided quote cannot be cleaned.
+    """
     if len(quotes) < 2:
         return {}
     total = sum(1.0 / p for p, _ in quotes.values())
     if total <= 0:
         return {}
     return {n: 1.0 / ((1.0 / p) / total) for n, (p, _) in quotes.items()}
+
+
+def is_half(g):
+    """True for 8.5, false for 9.0 — the .5 lines are the ones that cannot push."""
+    return g is not None and abs((g * 2) % 2 - 1) < 1e-9
 
 
 def two_sided_groups(offers):
@@ -118,7 +135,12 @@ def two_sided_groups(offers):
 
 
 def anchor_group(offers, pinn, market_key):
-    """The single line the whole market is priced on."""
+    """The single line the whole market is priced on.
+
+    For totals a .5 line wins even when Pinnacle is standing on a whole
+    number: a whole total can push, and we would rather lose the fair
+    price than lose the bet. Spreads keep Pinnacle's line as before.
+    """
     counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
     counts.pop(None, None)
     two_sided = two_sided_groups(offers)
@@ -174,6 +196,9 @@ def pointed_rows(ev, market_key, label):
     pin_point = {n: p for n, (_, p) in quotes.items()}
 
     if market_key == "spreads" and not pin_point and g is not None:
+        # No Pinnacle to name the favourite. Settle it by majority on the home
+        # side and mirror it, or a book quoting the other favourite at the same
+        # number would be printed as if it were the same bet.
         home = ev.get("home_team")
         home_pts = [p for _, p, _ in offers.get(home, []) if group_key(p) == g]
         if home_pts:
@@ -181,6 +206,9 @@ def pointed_rows(ev, market_key, label):
             pin_point = {n: (hp if n == home else -hp) for n in offers}
 
     for name, entries in offers.items():
+        # Only books standing on the anchored line. Where Pinnacle names the
+        # exact point for this side, match its sign too — otherwise a book
+        # with the opposite favourite would slip into the same group.
         want = pin_point.get(name)
         if want is not None:
             at = [e for e in entries if e[1] == want]
@@ -232,8 +260,9 @@ def main():
     blocks = []
     for ev in games:
         start = parse_iso(ev["commence_time"]).strftime("%d.%m %H:%M")
-        block = ["\n%s \u2014 %s  (%s UTC)" % (ev.get("away_team", "?"),
-                                               ev.get("home_team", "?"), start)]
+        # европейская подача: хозяева первыми
+        block = ["\n%s \u2014 %s  (%s UTC)" % (ev.get("home_team", "?"),
+                                               ev.get("away_team", "?"), start)]
         block += h2h_rows(ev)
         block += pointed_rows(ev, "totals", "T")
         block += pointed_rows(ev, "spreads", "F")
