@@ -46,7 +46,9 @@ def tg_send(text):
     try:
         urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def load_rows(sport):
@@ -93,6 +95,25 @@ def anchor(rows, market):
     if not allp:
         return None
     return Counter(allp).most_common(1)[0][0]
+
+
+def sides_at(index, market, a, home, books=None):
+    """По одной записи на сторону.
+
+    На форе книги расходятся в том, кто фаворит, и у одной команды
+    появляются записи и на -1.5, и на +1.5. Раньше словарь по имени
+    команды молча оставлял последнюю. Теперь знак хозяев решается
+    большинством книг, а сторона гостей зеркалится.
+    """
+    ent = at_anchor(index, market, a)
+    if market != "spreads":
+        return {o: (p, px) for o, p, px in ent}
+    pts = [p for o, p, _ in ent if o == home]
+    if len(set(pts)) <= 1:
+        return {o: (p, px) for o, p, px in ent}
+    weight = (lambda p: books.get(("spreads", home, p), 1)) if books else (lambda p: 1)
+    hp = max(set(pts), key=weight)
+    return {o: (p, px) for o, p, px in ent if p == (hp if o == home else -hp)}
 
 
 def at_anchor(index, market, a):
@@ -145,12 +166,13 @@ def main():
             continue
 
         # best available price per market/outcome/point at digest time
-        best = {}
+        best, books = {}, Counter()
         for r in open_rows:
             pr = num(r["price"])
             if pr is None:
                 continue
             k = (r["market"], r["outcome"], point_of(r))
+            books[k] += 1
             if k not in best or pr > best[k]:
                 best[k] = pr
 
@@ -174,16 +196,21 @@ def main():
         # --- totals and spreads: both sides, one anchored line ---
         for m in TWO_SIDED:
             a_open, a_close = anchor(open_rows, m), anchor(close_rows, m)
-            o_side = {o: (p, px) for o, p, px in at_anchor(best, m, a_open)}
-            c_side = {o: (p, px) for o, p, px in at_anchor(close_px, m, a_close)}
-            same = a_open is not None and a_open == a_close
-            for o in sorted(set(o_side) | set(c_side)):
+            o_side = sides_at(best, m, a_open, home, books)
+            c_side = sides_at(close_px, m, a_close, home)
+            order = ["Over", "Under"] if m == "totals" else [home, away]
+            names = [o for o in order if o in o_side or o in c_side]
+            names += sorted((set(o_side) | set(c_side)) - set(names))
+            for o in names:
                 op = o_side.get(o)
                 cp = c_side.get(o)
                 if op is None and cp is None:
                     continue
+                # comparable only if THIS side kept the same signed point:
+                # on spreads the favourite can flip, which turns -1.5 into +1.5
+                same = op is not None and cp is not None and op[0] == cp[0]
                 if same:
-                    tag = fmt_point(m, op[0] if op else cp[0])
+                    tag = fmt_point(m, op[0])
                 else:
                     tag = "%s>%s" % (fmt_point(m, op[0]) if op else "-",
                                      fmt_point(m, cp[0]) if cp else "-")
