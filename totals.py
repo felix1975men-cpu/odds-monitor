@@ -29,7 +29,7 @@ from datetime import datetime, timezone, timedelta
 
 STATS = "https://statsapi.mlb.com/api/v1"
 WINDOW_HOURS = 30
-H2H_CAP = 30
+H2H_CAP = 60           # у соседей по дивизиону 30 резало по живому
 H2H_OLDEST = 2000          # глубже не копаем
 MSG_LIMIT = 3500
 
@@ -54,7 +54,9 @@ def tg_send(text):
     try:
         urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def parse_iso(s):
