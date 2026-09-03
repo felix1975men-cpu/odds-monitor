@@ -1,0 +1,22 @@
+name: Totals method
+
+on:
+  schedule:
+    - cron: "20 9 * * *"   # после снимка и сводки
+  workflow_dispatch:
+
+jobs:
+  totals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Send totals table
+        env:
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TG_TOKEN: ${{ secrets.TG_TOKEN_MLB }}
+        run: python totals.py
