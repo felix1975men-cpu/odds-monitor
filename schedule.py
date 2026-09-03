@@ -60,7 +60,9 @@ def tg_send(text):
     try:
         urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def parse_iso(s):
@@ -91,8 +93,9 @@ def main():
     lines = []
     for i, ev in enumerate(games, 1):
         start = parse_iso(ev["commence_time"]).strftime("%d.%m %H:%M")
-        lines.append("%2d. %s @ %s  (%s UTC)"
-                     % (i, ev.get("away_team", "?"), ev.get("home_team", "?"), start))
+        # европейская подача: хозяева первыми
+        lines.append("%2d. %s - %s  (%s UTC)"
+                     % (i, ev.get("home_team", "?"), ev.get("away_team", "?"), start))
 
     chunk, sent = header, 0
     for ln in lines:
