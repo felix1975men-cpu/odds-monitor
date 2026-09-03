@@ -58,7 +58,9 @@ def tg_send(text):
     try:
         urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def score_of(game, team):
@@ -106,7 +108,8 @@ def main():
         winner = home if hs > as_ else (away if as_ > hs else "draw")
         rows.append([g["id"], now.strftime("%Y-%m-%dT%H:%M:%SZ"),
                      g.get("commence_time", ""), home, away, hs, as_, winner])
-        lines.append("%s %d : %d %s" % (away[:18], as_, hs, home[:18]))
+        # европейская подача: хозяева первыми, счёт хозяева:гости
+        lines.append("%s %d : %d %s" % (home[:18], hs, as_, away[:18]))
 
     if not rows:
         print("nothing new since the last run")
