@@ -230,9 +230,10 @@ def main():
                 ("очные дом", h2h_tot)]
         body = "\n".join("    %s (%d)\n      %s" % (nm, len(v), picture(v, line))
                          for nm, v in rows)
-        blocks.append("%2d. %s - %s   тотал %s\n%s"
+        # время в заголовке различает игры дабл-хедера: картина у них одна
+        blocks.append("%2d. %s - %s  %s   тотал %s\n%s"
                       % (n, H.get("abbreviation", "?"), A.get("abbreviation", "?"),
-                         line, body))
+                         parse_iso(g["gameDate"]).strftime("%H:%M"), line, body))
 
     if not blocks:
         print("нет матчей с линией в снимке")
