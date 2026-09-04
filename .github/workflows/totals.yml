@@ -2,7 +2,7 @@ name: Totals method
 
 on:
   schedule:
-    - cron: "20 9 * * *"   # после снимка и сводки
+    - cron: "0 10 * * *"
   workflow_dispatch:
 
 jobs:
