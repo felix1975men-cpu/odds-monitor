@@ -53,3 +53,57 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-05T00:16:46Z,closing,1b0e8aa1b257757991d6d1e3d3d0bab9,2026-09-05T00:41:00Z,Colorado Rockies,St. Louis Cardinals,betfair_ex_eu,h2h,St. Louis Cardinals,,1.84
 2026-09-05T00:16:46Z,closing,1b0e8aa1b257757991d6d1e3d3d0bab9,2026-09-05T00:41:00Z,Colorado Rockies,St. Louis Cardinals,betfair_ex_eu,h2h_lay,Colorado Rockies,,2.18
 2026-09-05T00:16:46Z,closing,1b0e8aa1b257757991d6d1e3d3d0bab9,2026-09-05T00:41:00Z,Colorado Rockies,St. Louis Cardinals,betfair_ex_eu,h2h_lay,St. Louis Cardinals,,1.87
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,fanduel,h2h,New York Yankees,,1.91
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,fanduel,h2h,San Diego Padres,,1.94
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,fanduel,spreads,New York Yankees,-1.5,2.5
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,fanduel,spreads,San Diego Padres,1.5,1.55
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,fanduel,totals,Over,7.5,1.96
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,fanduel,totals,Under,7.5,1.85
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,coolbet,h2h,New York Yankees,,1.87
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,coolbet,h2h,San Diego Padres,,1.95
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,coolbet,spreads,New York Yankees,-1.5,2.45
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,coolbet,spreads,San Diego Padres,1.5,1.56
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,coolbet,totals,Over,7.5,1.96
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,coolbet,totals,Under,7.5,1.85
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betsson,h2h,New York Yankees,,1.88
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betsson,h2h,San Diego Padres,,1.92
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betsson,spreads,New York Yankees,-1.5,2.45
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betsson,spreads,San Diego Padres,1.5,1.53
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betsson,totals,Over,7.5,1.93
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betsson,totals,Under,7.5,1.83
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betmgm,h2h,New York Yankees,,1.91
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betmgm,h2h,San Diego Padres,,1.91
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betmgm,spreads,New York Yankees,-1.5,2.5
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betmgm,spreads,San Diego Padres,1.5,1.54
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betmgm,totals,Over,7.5,2.0
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betmgm,totals,Under,7.5,1.83
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,draftkings,h2h,New York Yankees,,1.89
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,draftkings,h2h,San Diego Padres,,1.93
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,draftkings,spreads,New York Yankees,-1.5,2.49
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,draftkings,spreads,San Diego Padres,1.5,1.55
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,draftkings,totals,Over,7.5,2.04
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,draftkings,totals,Under,7.5,1.79
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,pinnacle,h2h,New York Yankees,,1.94
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,pinnacle,h2h,San Diego Padres,,1.98
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,pinnacle,spreads,New York Yankees,-1.5,2.57
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,pinnacle,spreads,San Diego Padres,1.5,1.57
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,pinnacle,totals,Over,7.5,2.07
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,pinnacle,totals,Under,7.5,1.83
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betrivers,h2h,New York Yankees,,1.88
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betrivers,h2h,San Diego Padres,,1.96
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betrivers,spreads,New York Yankees,-1.5,2.55
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betrivers,spreads,San Diego Padres,1.5,1.51
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betrivers,totals,Over,7.0,1.81
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betrivers,totals,Under,7.0,2.05
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,h2h,New York Yankees,,1.95
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,h2h,San Diego Padres,,2.04
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,h2h_lay,New York Yankees,,1.96
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,h2h_lay,San Diego Padres,,2.06
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,spreads,New York Yankees,-1.5,2.6
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,spreads,San Diego Padres,1.5,1.58
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,totals,Over,7.5,2.08
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,matchbook,totals,Under,7.5,1.86
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betfair_ex_eu,h2h,New York Yankees,,1.95
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betfair_ex_eu,h2h,San Diego Padres,,2.04
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betfair_ex_eu,h2h_lay,New York Yankees,,1.96
+2026-09-05T01:24:07Z,closing,2d3ba8f32a3003fe2c9866328f0b1a2b,2026-09-05T01:41:00Z,San Diego Padres,New York Yankees,betfair_ex_eu,h2h_lay,San Diego Padres,,2.06
