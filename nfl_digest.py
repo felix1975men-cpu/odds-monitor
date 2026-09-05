@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 NFL сводка на тур. Кредиты НЕ тратит — читает последний снимок,
-который уже собрал odds-монитор в data/snapshots.csv.
+который уже собрал odds-монитор в data/nfl/ГГГГ-ММ-ДД.csv.
 
 Порядок для каждого рынка:
   1) выбирается ОДНА линия — Pinnacle, а если её нет, то та,
@@ -22,8 +22,11 @@ import requests
 TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "120"))
-SNAPSHOTS = os.environ.get("SNAPSHOTS", "data/snapshots.csv")
+SNAPSHOTS = os.environ.get("SNAPSHOTS", "data/nfl")   # файл или папка с CSV по дням
 ANCHOR = "pinnacle"
+
+NEED = {"ts", "event_id", "commence_time", "home", "away",
+        "book", "market", "outcome", "point", "price"}
 
 
 def num(x):
@@ -33,16 +36,37 @@ def num(x):
         return None
 
 
+def read_csv(path):
+    with open(path, encoding="utf-8") as f:
+        rd = csv.DictReader(f)
+        cols = set(rd.fieldnames or [])
+        missing = NEED - cols
+        if missing:
+            print(f"{path}: не хватает колонок {sorted(missing)}")
+            print(f"  есть: {sorted(cols)}")
+            return []
+        return list(rd)
+
+
 def load():
+    """SNAPSHOTS — либо конкретный файл, либо папка с файлами по дням."""
+    if os.path.isdir(SNAPSHOTS):
+        files = sorted(f for f in os.listdir(SNAPSHOTS) if f.endswith(".csv"))
+        if not files:
+            print("в папке нет csv:", SNAPSHOTS)
+            return []
+        rows = []
+        for name in files[-2:]:
+            rows += read_csv(os.path.join(SNAPSHOTS, name))
+        print("прочитано:", files[-2:], "->", len(rows), "строк")
+        return rows
     if not os.path.exists(SNAPSHOTS):
-        print("нет файла", SNAPSHOTS)
+        print("нет пути", SNAPSHOTS)
         return []
-    with open(SNAPSHOTS, encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+    return read_csv(SNAPSHOTS)
 
 
 def devig(p1, p2):
-    """Две цены -> вероятности без маржи."""
     if not p1 or not p2:
         return None, None
     i1, i2 = 1 / p1, 1 / p2
@@ -88,7 +112,6 @@ def pick_line(rows, market, home=None):
 
 
 def best_prices(rows, market, line, home, away):
-    """{сторона: (лучшая цена, книга)} на выбранной линии."""
     out = {}
     for r in rows:
         pt = num(r["point"])
@@ -116,7 +139,6 @@ def best_prices(rows, market, line, home, away):
 
 
 def pin_line(rows, market, home):
-    """Собственная линия Pinnacle, чтобы отметить расхождение с опорной."""
     pts = [num(r["point"]) for r in rows if r["book"] == ANCHOR
            and (r["outcome"] == home if market == "spreads" else True)
            and num(r["point"]) is not None]
@@ -124,7 +146,6 @@ def pin_line(rows, market, home):
 
 
 def pin_pair(rows, market, line, home, away):
-    """Пара цен Pinnacle на ЕГО СОБСТВЕННОЙ линии — для fair."""
     p = {}
     for r in rows:
         if r["book"] != ANCHOR:
