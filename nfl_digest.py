@@ -22,11 +22,24 @@ import requests
 TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "120"))
-SNAPSHOTS = os.environ.get("SNAPSHOTS", "data/nfl")   # файл или папка с CSV по дням
+SNAPSHOTS = os.environ.get("SNAPSHOTS", "data/nfl")
 ANCHOR = "pinnacle"
 
 NEED = {"ts", "event_id", "commence_time", "home", "away",
         "book", "market", "outcome", "point", "price"}
+
+ALIASES = {
+    "snapshot_utc": "ts",
+    "snapshot": "ts",
+    "timestamp": "ts",
+    "commence_utc": "commence_time",
+    "commence": "commence_time",
+    "start_time": "commence_time",
+    "home_team": "home",
+    "away_team": "away",
+    "bookmaker": "book",
+    "name": "outcome",
+}
 
 
 def num(x):
@@ -36,16 +49,30 @@ def num(x):
         return None
 
 
+def normalize(row):
+    out = {}
+    for k, v in row.items():
+        out[ALIASES.get(k, k)] = v
+    return out
+
+
 def read_csv(path):
     with open(path, encoding="utf-8") as f:
         rd = csv.DictReader(f)
-        cols = set(rd.fieldnames or [])
+        cols = {ALIASES.get(c, c) for c in (rd.fieldnames or [])}
         missing = NEED - cols
         if missing:
             print(f"{path}: не хватает колонок {sorted(missing)}")
-            print(f"  есть: {sorted(cols)}")
+            print(f"  есть: {sorted(rd.fieldnames or [])}")
             return []
-        return list(rd)
+        rows = [normalize(r) for r in rd]
+        modes = {(r.get("mode") or "").lower() for r in rows}
+        if modes - {""}:
+            live = {"live", "inplay", "in_play"}
+            rows = [r for r in rows if (r.get("mode") or "").lower() not in live]
+            print(f"  {os.path.basename(path)}: режимы {sorted(modes)}, "
+                  f"после отсева лайва {len(rows)} строк")
+        return rows
 
 
 def load():
