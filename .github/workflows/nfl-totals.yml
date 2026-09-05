@@ -2,7 +2,7 @@ name: NFL totals
 
 on:
   schedule:
-    - cron: "40 8 * * *"
+    - cron: "40 8 * * 4,6,0,1"
   workflow_dispatch:
     inputs:
       window:
