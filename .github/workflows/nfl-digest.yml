@@ -1,0 +1,27 @@
+name: NFL digest
+
+on:
+  schedule:
+    - cron: "0 9 * * 3,4,6,0,1"
+  workflow_dispatch:
+    inputs:
+      window:
+        description: "Окно поиска матчей в часах"
+        required: false
+        default: "120"
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: NFL digest
+        env:
+          TG_TOKEN:     ${{ secrets.TG_TOKEN_NFL }}
+          TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
+          WINDOW_HOURS: ${{ inputs.window || '120' }}
+        run: python nfl_digest.py
