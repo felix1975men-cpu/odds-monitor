@@ -27,7 +27,9 @@ STATS_TEAM = ("https://github.com/nflverse/nflverse-data/releases/download/"
               "stats_team/stats_team_reg_{season}.csv")
 ESPN_INJ = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries"
 
-HOME_FIELD = 2.0          # преимущество своего поля в очках
+HOME_FIELD = 2.0     # преимущество своего поля в очках
+MIN_MOM = 4          # раньше четырёх матчей серия ничего не значит
+TAIL = 5             # глубина хвоста моментума
 
 KEY_POS = {"QB", "RB", "WR", "TE", "LT", "RT", "OT", "G", "C",
            "CB", "S", "DE", "DT", "LB", "EDGE", "K"}
@@ -136,8 +138,8 @@ def fetch_games():
 
 def fetch_epa(season):
     """
-    {ABBR: EPA за розыгрыш в АТАКЕ}. Защитного EPA в stats_team нет —
-    он есть только в pbp. Пробуем текущий сезон, при 404 берём прошлый.
+    {ABBR: EPA за розыгрыш в АТАКЕ}. Защитного EPA в stats_team нет,
+    он есть только в pbp. При 404 откатываемся на прошлый сезон.
     """
     for s in (int(season), int(season) - 1):
         try:
@@ -234,6 +236,60 @@ def team_form(games, season):
             "stale": stale,
         }
     return out
+
+
+def momentum(games, season, team, tail=TAIL):
+    """
+    Хвост текущего сезона: серия, покрытие гандикапа, тоталы, тренд очков.
+    Возвращает None, пока сыграно меньше MIN_MOM матчей.
+    """
+    rows = []
+    for g in games:
+        if g.get("game_type") != "REG":
+            continue
+        if num(g.get("season")) != season:
+            continue
+        hs, as_ = num(g.get("home_score")), num(g.get("away_score"))
+        if hs is None or as_ is None:
+            continue
+        ha, aa = g.get("home_team"), g.get("away_team")
+        if team not in (ha, aa):
+            continue
+        at_home = team == ha
+        my, opp = (hs, as_) if at_home else (as_, hs)
+        sl, tl = num(g.get("spread_line")), num(g.get("total_line"))
+        ats = None
+        if sl is not None:
+            line_for_me = sl if at_home else -sl
+            ats = (my - opp) - line_for_me
+        over = (hs + as_) - tl if tl is not None else None
+        rows.append({"day": g.get("gameday", ""), "my": my, "opp": opp,
+                     "ats": ats, "over": over})
+
+    if len(rows) < MIN_MOM:
+        return None
+    rows.sort(key=lambda r: r["day"])
+    season_pf = sum(r["my"] for r in rows) / len(rows)
+    t = rows[-tail:]
+
+    def res(r):
+        return "W" if r["my"] > r["opp"] else ("L" if r["my"] < r["opp"] else "T")
+
+    last, cnt = res(t[-1]), 0
+    for r in reversed(rows):
+        if res(r) != last:
+            break
+        cnt += 1
+
+    ats_rows = [r for r in t if r["ats"] is not None]
+    ov_rows = [r for r in t if r["over"] is not None]
+    return {
+        "streak": f"{last}{cnt}",
+        "seq": "".join(res(r) for r in t),
+        "ats": (sum(1 for r in ats_rows if r["ats"] > 0), len(ats_rows)) if ats_rows else None,
+        "tot": (sum(1 for r in ov_rows if r["over"] > 0), len(ov_rows)) if ov_rows else None,
+        "trend": sum(r["my"] for r in t) / len(t) - season_pf,
+    }
 
 
 def weather(lat, lon, when):
@@ -358,6 +414,20 @@ def build():
                              f"на {abs(ds):.1f}</b>")
                 L.append(f"   ⌀ по форме: {hn} {edge:+.1f} "
                          f"(поле +{HOME_FIELD:g}){stail}")
+
+        for tag, ab in ((hn, ha), (an, aa)):
+            m = momentum(games, season, ab)
+            if not m:
+                continue
+            bits = [f"серия <b>{m['streak']}</b>", m["seq"]]
+            if m["ats"]:
+                bits.append(f"против линии {m['ats'][0]}/{m['ats'][1]}")
+            if m["tot"]:
+                bits.append(f"выше тотала {m['tot'][0]}/{m['tot'][1]}")
+            if abs(m["trend"]) >= 1:
+                arrow = "↑" if m["trend"] > 0 else "↓"
+                bits.append(f"очки {arrow}{abs(m['trend']):.1f}")
+            L.append(f"   моментум {tag}: " + " · ".join(bits))
 
         eh, ea = epa.get(ha), epa.get(aa)
         if eh is not None and ea is not None:
