@@ -2,7 +2,7 @@
 """
 NFL slate context.
 Источники без ключей: nflverse games.csv (расписание, линии, отдых, крыша),
-ESPN injuries (травмы), Open-Meteo (погода).
+nflverse stats_team (EPA атаки), ESPN injuries, Open-Meteo.
 Кредиты Odds API не тратятся.
 """
 
@@ -18,12 +18,16 @@ import requests
 TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "96"))
-MIN_CURRENT = int(os.environ.get("MIN_CURRENT", "4"))   # с какого числа матчей верим текущему сезону
-TIMEOUT = 40
+MIN_CURRENT = int(os.environ.get("MIN_CURRENT", "4"))
+TIMEOUT = 60
 
 GAMES_CSV = ("https://github.com/nflverse/nflverse-data/releases/download/"
              "schedules/games.csv")
+STATS_TEAM = ("https://github.com/nflverse/nflverse-data/releases/download/"
+              "stats_team/stats_team_reg_{season}.csv")
 ESPN_INJ = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries"
+
+HOME_FIELD = 2.0          # преимущество своего поля в очках
 
 KEY_POS = {"QB", "RB", "WR", "TE", "LT", "RT", "OT", "G", "C",
            "CB", "S", "DE", "DT", "LB", "EDGE", "K"}
@@ -95,12 +99,31 @@ COORDS = {
     "Neo Quimica Arena": (-23.545, -46.474),
 }
 
+UA_BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
+
 
 def num(x):
     try:
         return float(x)
     except (TypeError, ValueError):
         return None
+
+
+def get(url, params=None):
+    for headers in ({}, {"User-Agent": UA_BROWSER}):
+        try:
+            r = requests.get(url, params=params, timeout=TIMEOUT, headers=headers)
+            if r.status_code == 200:
+                return r.json()
+            if r.status_code != 403:
+                print(f"HTTP {r.status_code} {url}")
+                return None
+        except Exception as e:
+            print(f"fetch failed {url}: {e}")
+            return None
+    print(f"HTTP 403 (обе попытки) {url}")
+    return None
 
 
 def fetch_games():
@@ -111,9 +134,39 @@ def fetch_games():
     return list(csv.DictReader(io.StringIO(r.text)))
 
 
+def fetch_epa(season):
+    """
+    {ABBR: EPA за розыгрыш в АТАКЕ}. Защитного EPA в stats_team нет —
+    он есть только в pbp. Пробуем текущий сезон, при 404 берём прошлый.
+    """
+    for s in (int(season), int(season) - 1):
+        try:
+            r = requests.get(STATS_TEAM.format(season=s), timeout=TIMEOUT)
+        except Exception as e:
+            print("stats_team:", e)
+            return {}, None
+        if r.status_code != 200:
+            print(f"stats_team {s}: HTTP {r.status_code}")
+            continue
+        out = {}
+        for x in csv.DictReader(io.StringIO(r.text)):
+            ab = x.get("team")
+            if not ab:
+                continue
+            plays = (num(x.get("attempts")) or 0) + (num(x.get("carries")) or 0)
+            if plays < 100:
+                continue
+            epa = (num(x.get("passing_epa")) or 0) + (num(x.get("rushing_epa")) or 0)
+            out[ab] = epa / plays
+        if out:
+            return out, s
+    return {}, None
+
+
 def fetch_injuries():
     out = {}
-    for headers in ({}, {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}):
+    data = None
+    for headers in ({}, {"User-Agent": UA_BROWSER}):
         try:
             r = requests.get(ESPN_INJ, timeout=TIMEOUT, headers=headers)
         except Exception as e:
@@ -125,7 +178,7 @@ def fetch_injuries():
         if r.status_code != 403:
             print("injuries HTTP", r.status_code)
             return out
-    else:
+    if not data:
         print("injuries 403")
         return out
 
@@ -152,11 +205,7 @@ def fetch_injuries():
 
 
 def team_form(games, season):
-    """
-    Только регулярный сезон — плей-офф выбрасывается, он искажает выборку
-    (финалисты играют против элиты, аутсайдеры доигрывают вторым составом).
-    Текущий сезон используется с MIN_CURRENT матчей, иначе берётся прошлый.
-    """
+    """Только регулярный сезон. Текущий с MIN_CURRENT матчей, иначе прошлый."""
     cur, prev = defaultdict(list), defaultdict(list)
     for g in games:
         if g.get("game_type") != "REG":
@@ -249,17 +298,19 @@ def build():
 
     season = max(num(g.get("season")) or 0 for _, g in upcoming)
     form = team_form(games, season)
+    epa, epa_season = fetch_epa(season)
     inj = fetch_injuries()
 
+    src = f" · EPA {epa_season}" if epa_season else ""
     head = (f"📋 <b>NFL — контекст слейта</b>  "
-            f"<i>{dt.datetime.utcnow():%d.%m %H:%M} UTC · {len(upcoming)} матчей</i>")
+            f"<i>{dt.datetime.utcnow():%d.%m %H:%M} UTC · {len(upcoming)} матчей{src}</i>")
     blocks = []
 
     for ko, g in upcoming:
         ha, aa = g.get("home_team"), g.get("away_team")
         hn, an = NAMES.get(ha, ha), NAMES.get(aa, aa)
 
-        L = [f"<b>{an} @ {hn}</b>  <i>нед.{g.get('week','?')} · {ko:%d.%m %H:%M} UTC</i>"]
+        L = [f"<b>{hn} - {an}</b>  <i>нед.{g.get('week','?')} · {ko:%d.%m %H:%M} UTC</i>"]
 
         sl, tl = num(g.get("spread_line")), num(g.get("total_line"))
         mk = []
@@ -269,23 +320,30 @@ def build():
         if tl is not None:
             mk.append(f"тотал {tl:g}")
         if g.get("home_moneyline"):
-            mk.append(f"ML {g.get('away_moneyline')}/{g.get('home_moneyline')}")
+            mk.append(f"ML {g.get('home_moneyline')}/{g.get('away_moneyline')}")
         if mk:
             L.append("   линия: " + " · ".join(mk))
 
         hf, af = form.get(ha), form.get(aa)
-        for tag, f in ((an, af), (hn, hf)):
+        for tag, ab, f in ((hn, ha, hf), (an, aa, af)):
+            bits = []
             if f:
-                src = "прошлый сезон" if f["stale"] else "текущий сезон"
-                L.append(f"   {tag}: забив {f['pf']:.1f} · проп {f['pa']:.1f} "
-                         f"<i>({f['n']} матчей, {src})</i>")
+                src2 = "прошлый" if f["stale"] else "текущий"
+                bits.append(f"забив {f['pf']:.1f} · проп {f['pa']:.1f} "
+                            f"<i>({f['n']} матчей, {src2})</i>")
+            e = epa.get(ab)
+            if e is not None:
+                bits.append(f"EPA атаки <b>{e:+.3f}</b>")
+            if bits:
+                L.append(f"   {tag}: " + " · ".join(bits))
 
         if hf and af:
             proj = (hf["pf"] + af["pa"]) / 2 + (af["pf"] + hf["pa"]) / 2
-            edge = ((hf["pf"] + af["pa"]) / 2) - ((af["pf"] + hf["pa"]) / 2)
+            raw = ((hf["pf"] + af["pa"]) / 2) - ((af["pf"] + hf["pa"]) / 2)
+            edge = raw + HOME_FIELD
             if hf["stale"] or af["stale"]:
                 L.append(f"   ⌀ прошлый сезон, для справки: тотал {proj:.1f} · "
-                         f"{hn} {edge:+.1f} дома")
+                         f"{hn} {edge:+.1f} (с учётом своего поля +{HOME_FIELD:g})")
                 L.append("   <i>состав и штаб сменились — с линией не сравниваю</i>")
             else:
                 tail = ""
@@ -293,15 +351,25 @@ def build():
                     d = proj - tl
                     tail = f"  <b>{'выше' if d > 0 else 'ниже'} линии на {abs(d):.1f}</b>"
                 L.append(f"   ⌀ по форме: тотал {proj:.1f}{tail}")
-                L.append(f"   ⌀ по форме: {hn} {edge:+.1f} дома")
+                stail = ""
+                if sl is not None:
+                    ds = edge - sl
+                    stail = (f"  <b>{'сильнее' if ds > 0 else 'слабее'} линии "
+                             f"на {abs(ds):.1f}</b>")
+                L.append(f"   ⌀ по форме: {hn} {edge:+.1f} "
+                         f"(поле +{HOME_FIELD:g}){stail}")
+
+        eh, ea = epa.get(ha), epa.get(aa)
+        if eh is not None and ea is not None:
+            L.append(f"   ⌀ по EPA: {hn} {eh - ea:+.3f} за розыгрыш")
 
         hr, ar = num(g.get("home_rest")), num(g.get("away_rest"))
         if hr is not None and ar is not None:
             def mark(d):
                 return " ⚠️" if d <= 4 else (" 💤" if d >= 10 else "")
-            L.append(f"   отдых: {an} {ar:g}д{mark(ar)} · {hn} {hr:g}д{mark(hr)}")
+            L.append(f"   отдых: {hn} {hr:g}д{mark(hr)} · {an} {ar:g}д{mark(ar)}")
 
-        for tag, ab in ((an, aa), (hn, ha)):
+        for tag, ab in ((hn, ha), (an, aa)):
             rows = inj.get(ab) or []
             if not rows:
                 continue
