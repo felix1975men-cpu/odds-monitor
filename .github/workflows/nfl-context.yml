@@ -2,7 +2,7 @@ name: NFL context
 
 on:
   schedule:
-    - cron: "35 8 * * 4,6,0,1"
+    - cron: "35 8 * * 3,4,6,0,1"
   workflow_dispatch:
     inputs:
       window:
