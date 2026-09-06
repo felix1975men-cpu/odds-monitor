@@ -1893,3 +1893,165 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-06T17:09:24Z,closing,739d53b2d2899aaf9a833b48ae636d03,2026-09-06T17:35:00Z,Pittsburgh Pirates,Los Angeles Angels,betfair_ex_eu,h2h,Pittsburgh Pirates,,1.61
 2026-09-06T17:09:24Z,closing,739d53b2d2899aaf9a833b48ae636d03,2026-09-06T17:35:00Z,Pittsburgh Pirates,Los Angeles Angels,betfair_ex_eu,h2h_lay,Los Angeles Angels,,2.64
 2026-09-06T17:09:24Z,closing,739d53b2d2899aaf9a833b48ae636d03,2026-09-06T17:35:00Z,Pittsburgh Pirates,Los Angeles Angels,betfair_ex_eu,h2h_lay,Pittsburgh Pirates,,1.63
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,fanduel,h2h,Chicago Cubs,,1.7
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,fanduel,h2h,Miami Marlins,,2.2
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,fanduel,spreads,Chicago Cubs,-1.5,2.16
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,fanduel,spreads,Miami Marlins,1.5,1.71
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,fanduel,totals,Over,8.0,1.83
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,fanduel,totals,Under,8.0,1.98
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,draftkings,h2h,Chicago Cubs,,1.73
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,draftkings,h2h,Miami Marlins,,2.14
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,draftkings,spreads,Chicago Cubs,-1.5,2.19
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,draftkings,spreads,Miami Marlins,1.5,1.7
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,draftkings,totals,Over,8.0,1.85
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,draftkings,totals,Under,8.0,1.97
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betmgm,h2h,Chicago Cubs,,1.69
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betmgm,h2h,Miami Marlins,,2.2
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betmgm,spreads,Chicago Cubs,-1.5,2.1
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betmgm,spreads,Miami Marlins,1.5,1.74
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betmgm,totals,Over,8.0,1.85
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betmgm,totals,Under,8.0,1.98
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,h2h,Chicago Cubs,,1.78
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,h2h,Miami Marlins,,2.26
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,h2h_lay,Chicago Cubs,,1.79
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,h2h_lay,Miami Marlins,,2.28
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,spreads,Chicago Cubs,-1.5,2.28
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,spreads,Miami Marlins,1.5,1.72
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,totals,Over,8.5,2.08
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,matchbook,totals,Under,8.5,1.86
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,pinnacle,h2h,Chicago Cubs,,1.74
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,pinnacle,h2h,Miami Marlins,,2.25
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,pinnacle,spreads,Chicago Cubs,-1.5,2.22
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,pinnacle,spreads,Miami Marlins,1.5,1.74
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,pinnacle,totals,Over,8.0,1.88
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,pinnacle,totals,Under,8.0,2.02
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,coolbet,h2h,Chicago Cubs,,1.7
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,coolbet,h2h,Miami Marlins,,2.17
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,coolbet,spreads,Chicago Cubs,-1.5,2.15
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,coolbet,spreads,Miami Marlins,1.5,1.71
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,coolbet,totals,Over,8.0,1.89
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,coolbet,totals,Under,8.0,1.92
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betsson,h2h,Chicago Cubs,,1.72
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betsson,h2h,Miami Marlins,,2.12
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betsson,spreads,Chicago Cubs,-1.5,2.17
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betsson,spreads,Miami Marlins,1.5,1.66
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betsson,totals,Over,8.0,1.8
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betsson,totals,Under,8.0,1.97
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betrivers,h2h,Chicago Cubs,,1.7
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betrivers,h2h,Miami Marlins,,2.2
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betrivers,spreads,Chicago Cubs,-1.5,2.1
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betrivers,spreads,Miami Marlins,1.5,1.75
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betrivers,totals,Over,8.5,1.97
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betrivers,totals,Under,8.5,1.83
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betfair_ex_eu,h2h,Chicago Cubs,,1.77
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betfair_ex_eu,h2h,Miami Marlins,,2.26
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betfair_ex_eu,h2h_lay,Chicago Cubs,,1.79
+2026-09-06T17:23:38Z,closing,109d31adb57ca2a65a0e61f6bc9ad6c7,2026-09-06T17:41:00Z,Miami Marlins,Chicago Cubs,betfair_ex_eu,h2h_lay,Miami Marlins,,2.3
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,draftkings,h2h,Cleveland Guardians,,1.58
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,draftkings,h2h,Detroit Tigers,,2.41
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,draftkings,spreads,Cleveland Guardians,-1.5,2.34
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,draftkings,spreads,Detroit Tigers,1.5,1.62
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,draftkings,totals,Over,7.0,1.95
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,draftkings,totals,Under,7.0,1.87
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,fanduel,h2h,Cleveland Guardians,,1.6
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,fanduel,h2h,Detroit Tigers,,2.4
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,fanduel,spreads,Cleveland Guardians,-1.5,2.32
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,fanduel,spreads,Detroit Tigers,1.5,1.62
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,fanduel,totals,Over,7.0,1.98
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,fanduel,totals,Under,7.0,1.83
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betmgm,h2h,Cleveland Guardians,,1.59
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betmgm,h2h,Detroit Tigers,,2.4
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betmgm,spreads,Cleveland Guardians,-1.5,2.25
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betmgm,spreads,Detroit Tigers,1.5,1.65
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betmgm,totals,Over,7.0,1.98
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betmgm,totals,Under,7.0,1.85
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,h2h,Cleveland Guardians,,1.64
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,h2h,Detroit Tigers,,2.52
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,h2h_lay,Cleveland Guardians,,1.66
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,h2h_lay,Detroit Tigers,,2.58
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,spreads,Cleveland Guardians,-1.5,2.4
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,spreads,Detroit Tigers,1.5,1.66
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,totals,Over,6.5,1.8
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,matchbook,totals,Under,6.5,2.14
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,pinnacle,h2h,Cleveland Guardians,,1.62
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,pinnacle,h2h,Detroit Tigers,,2.48
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,pinnacle,spreads,Cleveland Guardians,-1.5,2.39
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,pinnacle,spreads,Detroit Tigers,1.5,1.65
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,pinnacle,totals,Over,7.0,2.01
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,pinnacle,totals,Under,7.0,1.88
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,coolbet,h2h,Cleveland Guardians,,1.59
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,coolbet,h2h,Detroit Tigers,,2.37
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,coolbet,spreads,Cleveland Guardians,-1.5,2.33
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,coolbet,spreads,Detroit Tigers,1.5,1.61
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,coolbet,totals,Over,7.0,1.96
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,coolbet,totals,Under,7.0,1.85
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betsson,h2h,Cleveland Guardians,,1.58
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betsson,h2h,Detroit Tigers,,2.37
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betsson,spreads,Cleveland Guardians,-1.5,2.27
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betsson,spreads,Detroit Tigers,1.5,1.6
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betsson,totals,Over,7.5,2.13
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betsson,totals,Under,7.5,1.68
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betrivers,h2h,Cleveland Guardians,,1.57
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betrivers,h2h,Detroit Tigers,,2.43
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betrivers,spreads,Cleveland Guardians,-1.5,2.28
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betrivers,spreads,Detroit Tigers,1.5,1.64
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betrivers,totals,Over,7.0,1.87
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betrivers,totals,Under,7.0,1.81
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betfair_ex_eu,h2h,Cleveland Guardians,,1.63
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betfair_ex_eu,h2h,Detroit Tigers,,2.52
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betfair_ex_eu,h2h_lay,Cleveland Guardians,,1.66
+2026-09-06T17:23:38Z,closing,f864d689c5ac704d8c9a644afb516e5a,2026-09-06T17:45:00Z,Cleveland Guardians,Detroit Tigers,betfair_ex_eu,h2h_lay,Detroit Tigers,,2.58
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,draftkings,h2h,New York Mets,,1.64
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,draftkings,h2h,San Francisco Giants,,2.3
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,draftkings,spreads,New York Mets,-1.5,2.34
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,draftkings,spreads,San Francisco Giants,1.5,1.61
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,draftkings,totals,Over,8.0,1.88
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,draftkings,totals,Under,8.0,1.93
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betmgm,h2h,New York Mets,,1.59
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betmgm,h2h,San Francisco Giants,,2.4
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betmgm,spreads,New York Mets,-1.5,2.25
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betmgm,spreads,San Francisco Giants,1.5,1.67
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betmgm,totals,Over,8.0,1.91
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betmgm,totals,Under,8.0,1.91
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,coolbet,h2h,New York Mets,,1.6
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,coolbet,h2h,San Francisco Giants,,2.35
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,coolbet,spreads,New York Mets,-1.5,2.27
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,coolbet,spreads,San Francisco Giants,1.5,1.64
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,coolbet,totals,Over,8.0,1.91
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,coolbet,totals,Under,8.0,1.91
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,fanduel,h2h,New York Mets,,1.57
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,fanduel,h2h,San Francisco Giants,,2.46
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,fanduel,spreads,New York Mets,-1.5,2.22
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,fanduel,spreads,San Francisco Giants,1.5,1.68
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,fanduel,totals,Over,8.0,1.91
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,fanduel,totals,Under,8.0,1.91
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betsson,h2h,New York Mets,,1.58
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betsson,h2h,San Francisco Giants,,2.37
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betsson,spreads,New York Mets,-1.5,2.17
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betsson,spreads,San Francisco Giants,1.5,1.66
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betsson,totals,Over,8.5,1.98
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betsson,totals,Under,8.5,1.79
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betrivers,h2h,New York Mets,,1.61
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betrivers,h2h,San Francisco Giants,,2.38
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betrivers,spreads,New York Mets,-1.5,2.23
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betrivers,spreads,San Francisco Giants,1.5,1.66
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betrivers,totals,Over,8.0,1.89
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betrivers,totals,Under,8.0,1.79
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,h2h,New York Mets,,1.63
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,h2h,San Francisco Giants,,2.52
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,h2h_lay,New York Mets,,1.66
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,h2h_lay,San Francisco Giants,,2.58
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,spreads,New York Mets,-1.5,2.34
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,spreads,San Francisco Giants,1.5,1.7
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,totals,Over,7.5,1.82
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,matchbook,totals,Under,7.5,2.08
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betfair_ex_eu,h2h,New York Mets,,1.63
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betfair_ex_eu,h2h,San Francisco Giants,,2.52
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betfair_ex_eu,h2h_lay,New York Mets,,1.66
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,betfair_ex_eu,h2h_lay,San Francisco Giants,,2.58
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,pinnacle,h2h,New York Mets,,1.61
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,pinnacle,h2h,San Francisco Giants,,2.5
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,pinnacle,spreads,New York Mets,-1.5,2.33
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,pinnacle,spreads,San Francisco Giants,1.5,1.68
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,pinnacle,totals,Over,8.0,1.99
+2026-09-06T17:23:38Z,closing,756b1fa5fc5aae0f6173b45c15d5e49f,2026-09-06T17:45:00Z,New York Mets,San Francisco Giants,pinnacle,totals,Under,8.0,1.9
