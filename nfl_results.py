@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-NFL: результаты вчерашних матчей + закрытие Pinnacle для CLV.
-Кредиты Odds API не тратит.
-  результаты — nflverse games.csv (счета, линия)
-  закрытие   — data/nfl/*.csv, снимки odds-монитора
+NFL, 08:00 UTC. Два сообщения подряд:
+  1) результаты — счета сыгранных матчей (nflverse games.csv)
+  2) движение линий — сводка -> закрытие Pinnacle, CLV по обеим сторонам
+Кредиты Odds API не тратит: цены берутся из снимков odds-монитора.
 Хозяева первыми, счёт хозяева:гости.
 """
 
@@ -68,18 +68,10 @@ def load_snaps():
         return []
     files = sorted(f for f in os.listdir(SNAPSHOTS) if f.endswith(".csv"))
     rows = []
-    for name in files[-3:]:
+    for name in files[-4:]:
         rows += read_csv(os.path.join(SNAPSHOTS, name))
-    print("снимки:", files[-3:], "->", len(rows), "строк")
+    print("снимки:", files[-4:], "->", len(rows), "строк")
     return rows
-
-
-def devig(a, b):
-    if not a or not b:
-        return None, None
-    ia, ib = 1/a, 1/b
-    s = ia + ib
-    return ia/s, ib/s
 
 
 def kickoff(g):
@@ -94,105 +86,120 @@ def kickoff(g):
         return None
 
 
-def pin_close(snaps, home, away):
-    """Закрывающие цены Pinnacle по последнему снимку перед стартом."""
-    rows = [r for r in snaps if r["home"] == home and r["away"] == away
-            and r["book"] == ANCHOR]
-    if not rows:
-        return None
-    last = max(r["ts"] for r in rows)
-    rows = [r for r in rows if r["ts"] == last]
-    out = {"ts": last}
+def side_of(r, home, away):
+    n = r["outcome"]
+    if r["market"] == "totals":
+        return n.lower()
+    return "home" if n == home else ("away" if n == away else None)
+
+
+def snap_state(rows, home, away):
+    """Линия Pinnacle, лучшая цена по стороне на этой линии и цена Pinnacle."""
+    out = {}
     for mkt in ("h2h", "spreads", "totals"):
         mr = [r for r in rows if r["market"] == mkt]
         if not mr:
             continue
-        if mkt == "totals":
-            pt = next((num(r["point"]) for r in mr if r["point"]), None)
-            o = next((num(r["price"]) for r in mr if r["outcome"].lower()=="over"), None)
-            u = next((num(r["price"]) for r in mr if r["outcome"].lower()=="under"), None)
-            fo, fu = devig(o, u)
-            out[mkt] = {"line": pt, "a": o, "b": u, "fa": fo, "fb": fu}
+        pin = [r for r in mr if r["book"] == ANCHOR]
+        if not pin:
+            continue
+        if mkt == "spreads":
+            line = next((num(r["point"]) for r in pin
+                         if r["outcome"] == home and r["point"]), None)
         else:
-            h = next((num(r["price"]) for r in mr if r["outcome"] == home), None)
-            a = next((num(r["price"]) for r in mr if r["outcome"] == away), None)
-            pt = next((num(r["point"]) for r in mr
-                       if r["outcome"] == home and r["point"]), None)
-            fh, fa = devig(h, a)
-            out[mkt] = {"line": pt, "a": h, "b": a, "fa": fh, "fb": fa}
+            line = next((num(r["point"]) for r in pin if r["point"]), None)
+
+        def on_line(r):
+            if line is None:
+                return True
+            pt = num(r["point"])
+            if pt is None:
+                return False
+            return abs(abs(pt) - abs(line)) < 1e-6 if mkt == "spreads" \
+                else abs(pt - line) < 1e-6
+
+        best, pinp = {}, {}
+        for r in mr:
+            if not on_line(r):
+                continue
+            pr = num(r["price"])
+            s = side_of(r, home, away)
+            if not pr or not s:
+                continue
+            if s not in best or pr > best[s]:
+                best[s] = pr
+            if r["book"] == ANCHOR:
+                pinp[s] = pr
+        out[mkt] = {"line": line, "best": best, "pin": pinp}
     return out
 
 
-def build():
-    r = requests.get(GAMES_CSV, timeout=TIMEOUT)
-    if r.status_code != 200:
-        print("games.csv HTTP", r.status_code)
+def movement(snaps, home, away):
+    """Первый снимок (сводка) против последнего перед стартом (закрытие)."""
+    rows = [r for r in snaps if r["home"] == home and r["away"] == away]
+    if not rows:
         return None
-    games = list(csv.DictReader(io.StringIO(r.text)))
-
-    now = dt.datetime.now(dt.timezone.utc)
-    since = now - dt.timedelta(hours=BACK_HOURS)
-
-    done = []
-    for g in games:
-        hs, as_ = num(g.get("home_score")), num(g.get("away_score"))
-        if hs is None or as_ is None:
-            continue
-        ko = kickoff(g)
-        if ko and since <= ko <= now:
-            done.append((ko, g, hs, as_))
-    if not done:
+    times = sorted({r["ts"] for r in rows})
+    if len(times) < 2:
         return None
-    done.sort(key=lambda x: x[0])
+    first, last = times[0], times[-1]
+    a = snap_state([r for r in rows if r["ts"] == first], home, away)
+    b = snap_state([r for r in rows if r["ts"] == last], home, away)
+    return {"open": a, "close": b}
 
-    snaps = load_snaps()
 
-    head = (f"🏁 <b>NFL — результаты</b>  "
-            f"<i>{dt.datetime.utcnow():%d.%m} · {len(done)} матчей</i>")
+def build_results(games_done):
+    head = (f"🏈 <b>NFL — результаты</b>\n"
+            f"{dt.datetime.utcnow():%Y-%m-%d %H:%M} UTC  |  "
+            f"матчей: {len(games_done)}")
+    lines = []
+    for ko, g, hs, as_ in games_done:
+        hn = NAMES.get(g.get("home_team"), g.get("home_team"))
+        an = NAMES.get(g.get("away_team"), g.get("away_team"))
+        lines.append(f"{hn} {hs:.0f} : {as_:.0f} {an}")
+    return head + "\n\n" + "\n".join(lines)
+
+
+def build_movement(games_done, snaps):
+    head = (f"📉 <b>NFL — движение линий</b>\n"
+            f"{dt.datetime.utcnow():%Y-%m-%d %H:%M} UTC  |  "
+            f"событий: {len(games_done)}\n"
+            f"<i>сводка -&gt; закрытие pinnacle  |  обе стороны, "
+            f"линия pinnacle  |  x = линия сдвинулась</i>")
     blocks = []
-
-    for ko, g, hs, as_ in done:
+    for ko, g, hs, as_ in games_done:
         ha, aa = g.get("home_team"), g.get("away_team")
         hn, an = NAMES.get(ha, ha), NAMES.get(aa, aa)
-        sl, tl = num(g.get("spread_line")), num(g.get("total_line"))
-        total, margin = hs + as_, hs - as_
+        mv = movement(snaps, hn, an) or movement(snaps, ha, aa)
+        if not mv:
+            blocks.append(f"<b>{hn} - {an}</b>\n  <i>снимков не хватает</i>")
+            continue
 
-        L = [f"<b>{hn} {hs:.0f}:{as_:.0f} {an}</b>  "
-             f"<i>нед.{g.get('week','?')} · {ko:%d.%m}</i>"]
-
-        res = []
-        if sl is not None:
-            cov = margin - sl
-            side = hn if cov > 0 else (an if cov < 0 else "возврат")
-            res.append(f"гандикап {sl:+g}: <b>{side}</b>")
-        if tl is not None:
-            d = total - tl
-            res.append(f"тотал {tl:g}: <b>{'выше' if d>0 else 'ниже' if d<0 else 'возврат'}</b> ({total:.0f})")
-        if res:
-            L.append("   " + " · ".join(res))
-
-        cl = pin_close(snaps, hn, an) or pin_close(snaps, ha, aa)
-        if cl:
-            L.append(f"   <i>закрытие Pinnacle, снимок {cl['ts']}</i>")
-            for mkt, label in (("h2h","ML"),("spreads","HC"),("totals","Тотал")):
-                c = cl.get(mkt)
-                if not c or not c["a"] or not c["b"]:
+        L = [f"<b>{hn} - {an}</b>"]
+        for mkt, tag in (("h2h","ML"), ("totals","T"), ("spreads","F")):
+            o, c = mv["open"].get(mkt), mv["close"].get(mkt)
+            if not o or not c:
+                continue
+            moved = (o["line"] is not None and c["line"] is not None
+                     and abs(o["line"] - c["line"]) > 1e-6)
+            x = " x" if moved else ""
+            if mkt == "totals":
+                sides = [("over", f"Over {c['line']:g}"),
+                         ("under", f"Under {c['line']:g}")]
+            elif mkt == "spreads":
+                sides = [("home", f"{hn} {c['line']:+g}"),
+                         ("away", f"{an} {-c['line']:+g}")]
+            else:
+                sides = [("home", hn), ("away", an)]
+            for key, label in sides:
+                op, cp = o["best"].get(key), c["pin"].get(key)
+                if not op or not cp:
                     continue
-                if mkt == "totals":
-                    n1, n2 = f"Over {c['line']:g}", f"Under {c['line']:g}"
-                elif mkt == "spreads":
-                    n1 = f"{hn} {c['line']:+g}" if c["line"] is not None else hn
-                    n2 = f"{an} {-c['line']:+g}" if c["line"] is not None else an
-                else:
-                    n1, n2 = hn, an
-                L.append(f"   {label}: {n1} <b>{c['a']:.2f}</b> "
-                         f"({c['fa']*100:.0f}%) · {n2} <b>{c['b']:.2f}</b> "
-                         f"({c['fb']*100:.0f}%)")
-        else:
-            L.append("   <i>закрытия Pinnacle в снимках нет</i>")
-
+                clv = (op / cp - 1) * 100
+                sign = "+" if clv >= 0 else ""
+                L.append(f"  {tag} {label}   {op:.2f}&gt;{cp:.2f} "
+                         f"{sign}{clv:.1f}%{x}")
         blocks.append("\n".join(L))
-
     return head + "\n\n" + "\n\n".join(blocks)
 
 
@@ -219,11 +226,30 @@ def tg_send(text):
 
 
 def main():
-    msg = build()
-    if not msg:
+    r = requests.get(GAMES_CSV, timeout=TIMEOUT)
+    if r.status_code != 200:
+        print("games.csv HTTP", r.status_code)
+        return
+    games = list(csv.DictReader(io.StringIO(r.text)))
+
+    now = dt.datetime.now(dt.timezone.utc)
+    since = now - dt.timedelta(hours=BACK_HOURS)
+
+    done = []
+    for g in games:
+        hs, as_ = num(g.get("home_score")), num(g.get("away_score"))
+        if hs is None or as_ is None:
+            continue
+        ko = kickoff(g)
+        if ko and since <= ko <= now:
+            done.append((ko, g, hs, as_))
+    if not done:
         print("Сыгранных матчей в окне нет")
         return
-    tg_send(msg)
+    done.sort(key=lambda x: x[0])
+
+    tg_send(build_results(done))
+    tg_send(build_movement(done, load_snaps()))
 
 
 if __name__ == "__main__":
