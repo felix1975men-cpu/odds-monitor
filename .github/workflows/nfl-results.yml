@@ -1,0 +1,27 @@
+name: NFL results
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      back:
+        description: "Окно назад в часах"
+        required: false
+        default: "36"
+
+jobs:
+  results:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: NFL results
+        env:
+          TG_TOKEN:   ${{ secrets.TG_TOKEN_NFL }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          BACK_HOURS: ${{ inputs.back || '36' }}
+        run: python nfl_results.py
