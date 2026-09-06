@@ -21,7 +21,7 @@ import requests
 TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "120"))
-DEPTH = int(os.environ.get("DEPTH", "30"))
+DEPTH = int(os.environ.get("DEPTH", "60"))
 PER_LINE = int(os.environ.get("PER_LINE", "15"))
 TIMEOUT = 40
 
