@@ -2,13 +2,17 @@ name: NFL totals
 
 on:
   schedule:
-    - cron: "40 8 * * 3,4,6,0,1"
+    - cron: "0 10 * * 3,4,6,0,1"
   workflow_dispatch:
     inputs:
       window:
         description: "Окно поиска матчей в часах"
         required: false
         default: "120"
+      per_line:
+        description: "Знаков в строке (20 или 30)"
+        required: false
+        default: "20"
 
 jobs:
   totals:
@@ -24,4 +28,5 @@ jobs:
           TG_TOKEN:     ${{ secrets.TG_TOKEN_NFL }}
           TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
           WINDOW_HOURS: ${{ inputs.window || '120' }}
+          PER_LINE:     ${{ inputs.per_line || '20' }}
         run: python nfl_totals.py
