@@ -1207,3 +1207,57 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-10T22:39:06Z,closing,de5c4fe6a041ce8073e59e063fe7f31f,2026-09-10T23:05:00Z,New York Yankees,Colorado Rockies,betfair_ex_eu,h2h,New York Yankees,,1.4
 2026-09-10T22:39:06Z,closing,de5c4fe6a041ce8073e59e063fe7f31f,2026-09-10T23:05:00Z,New York Yankees,Colorado Rockies,betfair_ex_eu,h2h_lay,Colorado Rockies,,3.5
 2026-09-10T22:39:06Z,closing,de5c4fe6a041ce8073e59e063fe7f31f,2026-09-10T23:05:00Z,New York Yankees,Colorado Rockies,betfair_ex_eu,h2h_lay,New York Yankees,,1.41
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,fanduel,h2h,Chicago White Sox,,1.89
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,fanduel,h2h,Pittsburgh Pirates,,1.96
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,fanduel,spreads,Chicago White Sox,1.5,1.49
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,fanduel,spreads,Pittsburgh Pirates,-1.5,2.68
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,fanduel,totals,Over,7.5,1.87
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,fanduel,totals,Under,7.5,1.95
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betsson,h2h,Chicago White Sox,,1.85
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betsson,h2h,Pittsburgh Pirates,,1.95
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betsson,spreads,Chicago White Sox,-1.5,2.65
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betsson,spreads,Pittsburgh Pirates,1.5,1.46
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betsson,totals,Over,8.0,1.95
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betsson,totals,Under,8.0,1.82
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,draftkings,h2h,Chicago White Sox,,1.87
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,draftkings,h2h,Pittsburgh Pirates,,1.96
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,draftkings,spreads,Chicago White Sox,1.5,1.52
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,draftkings,spreads,Pittsburgh Pirates,-1.5,2.58
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,draftkings,totals,Over,7.5,1.84
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,draftkings,totals,Under,7.5,1.98
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betmgm,h2h,Chicago White Sox,,1.85
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betmgm,h2h,Pittsburgh Pirates,,1.98
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betmgm,spreads,Chicago White Sox,1.5,1.5
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betmgm,spreads,Pittsburgh Pirates,-1.5,2.65
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betmgm,totals,Over,7.5,1.85
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betmgm,totals,Under,7.5,1.98
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betrivers,h2h,Chicago White Sox,,1.93
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betrivers,h2h,Pittsburgh Pirates,,1.91
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betrivers,spreads,Chicago White Sox,1.5,1.51
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betrivers,spreads,Pittsburgh Pirates,-1.5,2.55
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betrivers,totals,Over,8.0,1.89
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betrivers,totals,Under,8.0,1.79
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,coolbet,h2h,Chicago White Sox,,1.87
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,coolbet,h2h,Pittsburgh Pirates,,1.95
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,coolbet,spreads,Chicago White Sox,1.5,1.52
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,coolbet,spreads,Pittsburgh Pirates,-1.5,2.55
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,coolbet,totals,Over,7.5,1.85
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,coolbet,totals,Under,7.5,1.96
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betfair_ex_eu,h2h,Chicago White Sox,,1.92
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betfair_ex_eu,h2h,Pittsburgh Pirates,,2.06
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betfair_ex_eu,h2h_lay,Chicago White Sox,,1.94
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,betfair_ex_eu,h2h_lay,Pittsburgh Pirates,,2.1
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,h2h,Chicago White Sox,,1.92
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,h2h,Pittsburgh Pirates,,2.06
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,h2h_lay,Chicago White Sox,,1.94
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,h2h_lay,Pittsburgh Pirates,,2.08
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,spreads,Chicago White Sox,1.5,1.53
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,spreads,Pittsburgh Pirates,-1.5,2.66
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,totals,Over,7.5,1.91
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,matchbook,totals,Under,7.5,2.0
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,pinnacle,h2h,Chicago White Sox,,1.88
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,pinnacle,h2h,Pittsburgh Pirates,,2.05
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,pinnacle,spreads,Chicago White Sox,-1.5,2.89
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,pinnacle,spreads,Pittsburgh Pirates,1.5,1.47
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,pinnacle,totals,Over,7.5,1.92
+2026-09-10T23:23:50Z,closing,46bb732d224f9da07f9e3bb2f32281cc,2026-09-10T23:41:00Z,Chicago White Sox,Pittsburgh Pirates,pinnacle,totals,Under,7.5,1.97
