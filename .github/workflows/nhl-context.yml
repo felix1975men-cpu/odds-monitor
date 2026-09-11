@@ -1,0 +1,22 @@
+name: NHL context
+
+on:
+  schedule:
+    - cron: "35 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  context:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Schedule and context
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN_NHL }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python nhl_context.py
