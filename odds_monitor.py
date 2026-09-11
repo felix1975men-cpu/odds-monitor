@@ -42,6 +42,9 @@ MARKETS = "h2h,spreads,totals"
 CLOSE_MIN = 10
 CLOSE_MAX = 30
 
+# Telegram hard limit is 4096; leave room for the chunk counter.
+TG_CHUNK = 3800
+
 CSV_HEADER = ["snapshot_utc", "mode", "event_id", "commence_utc",
               "home", "away", "book", "market", "outcome", "point", "price"]
 
@@ -60,21 +63,59 @@ def api_get(path, **params):
         sys.exit(1)
 
 
-def tg_send(text):
+def _tg_post(text):
     url = "https://api.telegram.org/bot%s/sendMessage" % os.environ["TG_TOKEN"]
     data = urllib.parse.urlencode({
         "chat_id": os.environ["TG_CHAT_ID"],
-        "text": text[:4000],
+        "text": text,
         "disable_web_page_preview": "true",
     }).encode()
+    urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
+
+
+def chunks(text, size=TG_CHUNK):
+    """Split on line boundaries so a message never cuts a price in half."""
+    out, buf = [], ""
+    for line in text.split("\n"):
+        if len(buf) + len(line) + 1 > size and buf:
+            out.append(buf)
+            buf = line
+        else:
+            buf = line if not buf else buf + "\n" + line
+    if buf:
+        out.append(buf)
+    return out
+
+
+def tg_send(text):
+    """Send, splitting long digests. Raises after logging so the job turns red."""
+    parts = chunks(text)
     try:
-        urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
+        for i, part in enumerate(parts, 1):
+            suffix = "" if len(parts) == 1 else "\n\n(%d/%d)" % (i, len(parts))
+            _tg_post(part + suffix)
     except Exception as e:
         print("Telegram send failed: %s" % e)
+        raise
 
 
 def parse_iso(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
+
+
+def is_three_way(mk):
+    """NHL preseason/regulation 1X2 arrives under the h2h key. Not the same market."""
+    if mk.get("key") != "h2h":
+        return False
+    outcomes = mk.get("outcomes", [])
+    if len(outcomes) > 2:
+        return True
+    return any((oc.get("name", "") or "").strip().lower() == "draw" for oc in outcomes)
+
+
+def market_key(mk):
+    """Three-way h2h is stored under its own name so h2h stays one clean market."""
+    return "h2h_3way" if is_three_way(mk) else mk["key"]
 
 
 def flatten(events, stamp, mode):
@@ -83,11 +124,12 @@ def flatten(events, stamp, mode):
     for ev in events:
         for bm in ev.get("bookmakers", []):
             for mk in bm.get("markets", []):
+                mkey = market_key(mk)
                 for oc in mk.get("outcomes", []):
                     rows.append([
                         stamp, mode, ev["id"], ev["commence_time"],
                         ev.get("home_team", ""), ev.get("away_team", ""),
-                        bm["key"], mk["key"], oc.get("name", ""),
+                        bm["key"], mkey, oc.get("name", ""),
                         oc.get("point", ""), oc.get("price", ""),
                     ])
     return rows
@@ -125,22 +167,28 @@ def mark_done(sport, ids):
             f.write(i + "\n")
 
 
-def summarise(sport, events, stamp, mode, left):
-    """Short Telegram digest: Pinnacle as the anchor, best available price."""
+def summarise(sport, events, stamp, mode, left, rows):
+    """Short Telegram digest: Pinnacle as the anchor, best available price.
+    European order — HOME team first. Two-way h2h only."""
     head = "%s \u2014 %s\n%s UTC\n" % (
         TITLES[sport],
         "\u0417\u0410\u041a\u0420\u042b\u0422\u0418\u0415" if mode == "closing" else "\u0441\u043d\u0438\u043c\u043e\u043a",
         stamp[:16].replace("T", " "))
     lines = []
-    for ev in sorted(events, key=lambda e: e["commence_time"])[:12]:
+    three_way = 0
+    for ev in sorted(events, key=lambda e: e["commence_time"]):
         start = parse_iso(ev["commence_time"]).strftime("%d.%m %H:%M")
-        lines.append("\n%s \u2014 %s  (%s)" % (ev.get("away_team", "?"),
-                                               ev.get("home_team", "?"), start))
+        home = ev.get("home_team", "?")
+        away = ev.get("away_team", "?")
+        lines.append("\n%s \u2014 %s  (%s)" % (home, away, start))
         prices = {}
         pin = {}
         for bm in ev.get("bookmakers", []):
             for mk in bm.get("markets", []):
-                if mk["key"] != "h2h":
+                if mk.get("key") != "h2h":
+                    continue
+                if is_three_way(mk):
+                    three_way += 1
                     continue
                 for oc in mk.get("outcomes", []):
                     n = oc.get("name", "")
@@ -151,12 +199,29 @@ def summarise(sport, events, stamp, mode, left):
                         prices[n] = (p, bm["key"])
                     if bm["key"] == "pinnacle":
                         pin[n] = p
-        for team, (best, book) in prices.items():
+        if not prices:
+            lines.append("  \u0434\u0432\u0443\u0445\u0438\u0441\u0445\u043e\u0434\u043d\u043e\u0433\u043e ML \u043d\u0435\u0442 \u2014 \u0442\u043e\u043b\u044c\u043a\u043e 1X2")
+            continue
+        # home first, then away, then anything else
+        order = {home: 0, away: 1}
+        for team in sorted(prices, key=lambda t: (order.get(t, 2), t)):
+            best, book = prices[team]
             anchor = (" | pin %.2f" % pin[team]) if team in pin else ""
             lines.append("  %s: %.2f (%s)%s" % (team[:22], best, book, anchor))
+
+    counts = {}
+    for r in rows:
+        counts[r[7]] = counts.get(r[7], 0) + 1
+    mk_line = ", ".join("%s %d" % (k, counts[k]) for k in sorted(counts))
+
     tail = "\n\n\u0441\u043e\u0431\u044b\u0442\u0438\u0439: %d" % len(events)
     if left:
         tail += "  |  \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: %s" % left
+    if mk_line:
+        tail += "\n\u0432 csv: %s" % mk_line
+    if three_way:
+        tail += ("\n1X2 (\u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f) \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e \u0443 %d \u043a\u043d\u0438\u0433 \u2014 "
+                 "\u0432 csv \u043a\u0430\u043a h2h_3way" % three_way)
     return head + "".join(lines) + tail
 
 
@@ -198,7 +263,7 @@ def main():
     if mode == "closing":
         mark_done(sport, [e["id"] for e in odds])
 
-    tg_send(summarise(sport, odds, stamp, mode, left))
+    tg_send(summarise(sport, odds, stamp, mode, left, rows))
     print("wrote %d rows to %s | credits used %s, left %s" % (len(rows), path, used, left))
     # Signal the workflow that there is something to commit.
     gh = os.environ.get("GITHUB_OUTPUT")
