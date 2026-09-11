@@ -15,6 +15,13 @@ each side's best price was hunted independently across every rung, so
 Over and Under came back on different numbers and were not two sides of
 the same bet.
 
+A line can only become the anchor if at least MIN_BOOKS different books
+stand on it. A number quoted by one book alone is not a market: on
+7 September it produced totals a full point away from the consensus,
+and on 11 September a Yankees total of 8.5 while the market sat at 7.5.
+Where no line clears the bar the market is skipped with a note instead
+of printing a lone book's number as if it were the line.
+
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
 """
@@ -51,6 +58,10 @@ MARKETS = "h2h,spreads,totals"
 # the margin itself.
 EDGE_PCT = 3.0
 MSG_LIMIT = 3500
+
+# Minimum number of different books standing on a line before it can be
+# used as the anchor for totals or spreads.
+MIN_BOOKS = 2
 
 
 def api_get(path, **params):
@@ -125,6 +136,18 @@ def is_half(g):
     return g is not None and abs((g * 2) % 2 - 1) < 1e-9
 
 
+def group_books(offers):
+    """{group: set of books standing on that line}, either side counts."""
+    books = {}
+    for entries in offers.values():
+        for _, p, bk in entries:
+            g = group_key(p)
+            if g is None:
+                continue
+            books.setdefault(g, set()).add(bk)
+    return books
+
+
 def two_sided_groups(offers):
     """Groups where at least two different outcomes are quoted somewhere."""
     names = {}
@@ -135,32 +158,43 @@ def two_sided_groups(offers):
 
 
 def anchor_group(offers, pinn, market_key):
-    """The single line the whole market is priced on.
+    """The single line the whole market is priced on, or None.
+
+    A candidate line must carry at least MIN_BOOKS different books —
+    Pinnacle's own number included, since one book alone is not a market.
 
     For totals a .5 line wins even when Pinnacle is standing on a whole
     number: a whole total can push, and we would rather lose the fair
     price than lose the bet. Spreads keep Pinnacle's line as before.
+
+    Returns None when nothing clears the bar; the caller then skips the
+    market rather than quoting a line only one book posts.
     """
-    counts = Counter(group_key(p) for e in offers.values() for _, p, _ in e)
-    counts.pop(None, None)
-    two_sided = two_sided_groups(offers)
-    pin_two = [g for g, q in pinn.items() if g is not None and len(q) >= 2]
+    books = group_books(offers)
+    solid = {g for g, bs in books.items() if len(bs) >= MIN_BOOKS}
+    if not solid:
+        return None
+
+    def widest(groups):
+        return max(groups, key=lambda g: len(books.get(g, ())))
+
+    two_sided = two_sided_groups(offers) & solid
+    pin_two = [g for g, q in pinn.items()
+               if g is not None and len(q) >= 2 and g in solid]
 
     if market_key == "totals":
         pin_half = [g for g in pin_two if is_half(g)]
         if pin_half:
-            return max(pin_half, key=lambda g: counts.get(g, 0))
+            return widest(pin_half)
         any_half = [g for g in two_sided if is_half(g)]
         if any_half:
-            return max(any_half, key=lambda g: counts.get(g, 0))
+            return widest(any_half)
 
     if pin_two:
-        return max(pin_two, key=lambda g: counts.get(g, 0))
+        return widest(pin_two)
     if two_sided:
-        return max(two_sided, key=lambda g: counts.get(g, 0))
-    if pinn:
-        return next((g for g in pinn if g is not None), None)
-    return counts.most_common(1)[0][0] if counts else None
+        return widest(two_sided)
+    return None
 
 
 def h2h_rows(ev):
@@ -191,11 +225,17 @@ def pointed_rows(ev, market_key, label):
         return rows
 
     g = anchor_group(offers, pinn, market_key)
+    if g is None:
+        rows.append("  %s: \u043d\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043d\u0430 %d \u043a\u043d\u0438\u0433\u0430\u0445 \u2014 \u043f\u0440\u043e\u043f\u0443\u0441\u043a"
+                    % (label, MIN_BOOKS))
+        return rows
+
+    line_books = len(group_books(offers).get(g, ()))
     quotes = pinn.get(g, {})
     fair = devig(quotes)
     pin_point = {n: p for n, (_, p) in quotes.items()}
 
-    if market_key == "spreads" and not pin_point and g is not None:
+    if market_key == "spreads" and not pin_point:
         # No Pinnacle to name the favourite. Settle it by majority on the home
         # side and mirror it, or a book quoting the other favourite at the same
         # number would be printed as if it were the same bet.
@@ -215,13 +255,13 @@ def pointed_rows(ev, market_key, label):
         else:
             at = [e for e in entries if group_key(e[1]) == g]
         if not at:
-            pt = ("%+g" % want) if want is not None else (("%g" % g) if g is not None else "")
+            pt = ("%+g" % want) if want is not None else ("%g" % g)
             rows.append("  %s %s %s: \u043d\u0435\u0442 \u0446\u0435\u043d\u044b \u043d\u0430 \u044d\u0442\u043e\u0439 \u043b\u0438\u043d\u0438\u0438"
                         % (label, name[:14], pt))
             continue
         best, point, book = max(at, key=lambda x: x[0])
         pt = ("%+g" % point) if point is not None else ""
-        src = "%s, %d\u043a\u043d" % (book, len(at))
+        src = "%s, %d\u043a\u043d \u043d\u0430 \u043b\u0438\u043d\u0438\u0438" % (book, line_books)
         if name in fair:
             edge = (best / fair[name] - 1) * 100
             flag = "  <<" if edge >= EDGE_PCT else ""
@@ -252,10 +292,10 @@ def main():
     header = ("%s \u2014 \u0441\u0432\u043e\u0434\u043a\u0430 \u043d\u0430 \u0442\u0443\u0440\n"
               "%s UTC  |  \u043c\u0430\u0442\u0447\u0435\u0439: %d  |  \u043e\u043a\u043d\u043e: %d\u0447\n"
               "fair = Pinnacle \u0431\u0435\u0437 \u043c\u0430\u0440\u0436\u0438  |  "
-              "\u0442\u043e\u0442\u0430\u043b \u0438 \u0444\u043e\u0440\u0430 \u2014 \u043e\u0434\u043d\u0430 \u043b\u0438\u043d\u0438\u044f  |  "
+              "\u0442\u043e\u0442\u0430\u043b \u0438 \u0444\u043e\u0440\u0430 \u2014 \u043e\u0434\u043d\u0430 \u043b\u0438\u043d\u0438\u044f, \u043c\u0438\u043d\u0438\u043c\u0443\u043c %d \u043a\u043d\u0438\u0433\u0438  |  "
               "<< = \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u043e\u0442 %.0f%%\n"
               % (TITLES[sport], now.strftime("%Y-%m-%d %H:%M"), len(games),
-                 WINDOW_HOURS[sport], EDGE_PCT))
+                 WINDOW_HOURS[sport], MIN_BOOKS, EDGE_PCT))
 
     blocks = []
     for ev in games:
