@@ -1,57 +1,94 @@
 #!/usr/bin/env python3
-"""Что доступно в релизах nflverse: EPA, стартовые QB, снэпы."""
-import csv
-import io
-import requests
+"""
+probe.py — NHL API reconnaissance. Run from GitHub Actions, not a phone browser.
+Costs nothing: api-web.nhle.com needs no key.
 
-BASE = "https://github.com/nflverse/nflverse-data/releases/download"
-T = 60
+Usage in a workflow step:
+    run: python probe.py
+"""
 
-TESTS = [
-    ("stats_team 2025",       f"{BASE}/stats_team/stats_team_reg_2025.csv"),
-    ("stats_team 2026",       f"{BASE}/stats_team/stats_team_reg_2026.csv"),
-    ("stats_player 2025",     f"{BASE}/stats_player/stats_player_reg_2025.csv"),
-    ("depth_charts 2025",     f"{BASE}/depth_charts/depth_charts_2025.csv"),
-    ("depth_charts 2026",     f"{BASE}/depth_charts/depth_charts_2026.csv"),
-    ("snap_counts 2025",      f"{BASE}/snap_counts/snap_counts_2025.csv"),
-    ("rosters 2026",          f"{BASE}/rosters/roster_2026.csv"),
-    ("injuries 2026",         f"{BASE}/injuries/injuries_2026.csv"),
-    ("pbp 2025 (тяжёлый)",    f"{BASE}/pbp/play_by_play_2025.csv"),
+import json
+import urllib.request
+import urllib.error
+from datetime import datetime, timezone, timedelta
+
+BASE = "https://api-web.nhle.com/v1"
+
+UA_BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
+
+# (label, path, list of json keys we hope to find somewhere in the body)
+TARGETS = [
+    ("schedule day",    "/schedule/%s" % today,              ["gameWeek", "games", "startTimeUTC"]),
+    ("scores day",      "/score/%s" % yesterday,             ["games", "homeTeam", "awayTeam", "gameOutcome", "lastPeriodType"]),
+    ("standings",       "/standings/now",                    ["standings", "teamAbbrev", "goalFor", "goalAgainst"]),
+    ("club schedule",   "/club-schedule-season/BOS/now",     ["games", "gameType"]),
+    ("team stats",      "/club-stats/BOS/now",               ["skaters", "goalies"]),
+    ("boxscore probe",  "/gamecenter/2025020001/boxscore",   ["homeTeam", "awayTeam", "periodDescriptor"]),
 ]
 
-for name, url in TESTS:
-    print("=" * 55)
-    print(name)
+
+def probe(label, path, keys, ua):
+    url = BASE + path
+    req = urllib.request.Request(url)
+    if ua:
+        req.add_header("User-Agent", ua)
+    tag = "browser-UA" if ua else "no-UA     "
     try:
-        # только заголовок: тянем первые 200 КБ
-        r = requests.get(url, timeout=T, stream=True,
-                         headers={"Range": "bytes=0-200000"})
-        print(f"  HTTP {r.status_code}")
-        if r.status_code not in (200, 206):
-            continue
-        text = r.content.decode("utf-8", errors="replace")
-        lines = text.splitlines()
-        if not lines:
-            print("  пусто")
-            continue
-        cols = next(csv.reader([lines[0]]))
-        print(f"  колонок: {len(cols)}")
-        print(f"  {cols}")
-        # ищем ключевые поля
-        low = [c.lower() for c in cols]
-        marks = []
-        for key in ("epa", "success", "cpoe", "dakota", "wpa",
-                    "passing_epa", "rushing_epa", "position",
-                    "depth_team", "offense_snaps", "player_name", "team"):
-            hit = [c for c in cols if key == c.lower()]
-            if hit:
-                marks.append(hit[0])
-        if marks:
-            print(f"  ЕСТЬ: {marks}")
-        if len(lines) > 1:
-            row = next(csv.reader([lines[1]]))
-            pairs = [f"{c}={v}" for c, v in zip(cols, row)][:14]
-            print(f"  пример: {pairs}")
+        with urllib.request.urlopen(req, timeout=30) as r:
+            raw = r.read().decode("utf-8", "replace")
+            size = len(raw)
+            found, missing = [], []
+            try:
+                json.loads(raw)
+                parsed = True
+            except Exception:
+                parsed = False
+            for k in keys:
+                (found if '"%s"' % k in raw else missing).append(k)
+            print("  %s  %s  %d bytes  json=%s" % (tag, r.status, size, parsed))
+            print("      есть: %s" % (", ".join(found) or "—"))
+            if missing:
+                print("      НЕТ:  %s" % ", ".join(missing))
+            return raw if parsed else None
+    except urllib.error.HTTPError as e:
+        print("  %s  HTTP %s  %s" % (tag, e.code, e.read().decode("utf-8", "replace")[:120]))
     except Exception as e:
-        print(f"  ОШИБКА: {e}")
-    print()
+        print("  %s  FAILED  %s" % (tag, e))
+    return None
+
+
+def main():
+    print("NHL API probe | %s UTC" % datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M"))
+    print("base: %s\n" % BASE)
+    samples = {}
+    for label, path, keys in TARGETS:
+        print("%s  ->  %s" % (label, path))
+        a = probe(label, path, keys, None)
+        b = probe(label, path, keys, UA_BROWSER)
+        samples[label] = a or b
+        print()
+
+    # Structure of the scores payload matters most — that is what results.py parses.
+    raw = samples.get("scores day")
+    if raw:
+        try:
+            data = json.loads(raw)
+            games = data.get("games", [])
+            print("=" * 52)
+            print("scores day: игр в ответе %d" % len(games))
+            if games:
+                g = games[0]
+                print("ключи верхнего уровня матча:")
+                print("  " + ", ".join(sorted(g.keys())))
+                print("\nпервый матч целиком (обрезано 1500):")
+                print(json.dumps(g, ensure_ascii=False, indent=1)[:1500])
+        except Exception as e:
+            print("scores parse failed: %s" % e)
+
+
+if __name__ == "__main__":
+    main()
