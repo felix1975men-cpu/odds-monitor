@@ -5,10 +5,14 @@ Odds monitor — 4 sports, one script.
 Modes:
   scheduled : plain snapshot of the whole league (3 credits)
   closing   : checks /events (FREE), and only pulls odds if a game
-              starts in the next ~10-30 minutes (3 credits)
+              starts inside the closing window (3 credits)
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
+Env optional:
+  MODE        scheduled (default) | closing
+  CLOSE_MIN   minutes before kickoff, near edge  (default 10)
+  CLOSE_MAX   minutes before kickoff, far edge   (default 30)
 """
 
 import os
@@ -38,9 +42,20 @@ BOOKS = ("pinnacle,betfair_ex_eu,matchbook,betsson,coolbet,"
          "draftkings,fanduel,betmgm,betrivers")
 MARKETS = "h2h,spreads,totals"
 
+
+def env_int(name, default):
+    """Closing window edges are per-league: a cron that slips past a narrow
+    window loses the snapshot for good, so NHL runs wider than the default."""
+    raw = os.environ.get(name, "")
+    try:
+        return int(raw)
+    except (TypeError, ValueError):
+        return default
+
+
 # Closing trigger window, minutes before kickoff.
-CLOSE_MIN = 10
-CLOSE_MAX = 30
+CLOSE_MIN = env_int("CLOSE_MIN", 10)
+CLOSE_MAX = env_int("CLOSE_MAX", 30)
 
 # Telegram hard limit is 4096; leave room for the chunk counter.
 TG_CHUNK = 3800
@@ -167,7 +182,21 @@ def mark_done(sport, ids):
             f.write(i + "\n")
 
 
-def summarise(sport, events, stamp, mode, left, rows):
+def pending_soon(events, already, now, hours=1):
+    """Games starting within the next hour that still have no closing snapshot.
+    Printed in the digest so a missed window is visible the same evening."""
+    hi = now + timedelta(hours=hours)
+    out = 0
+    for e in events:
+        if e["id"] in already:
+            continue
+        t = parse_iso(e["commence_time"])
+        if now <= t <= hi:
+            out += 1
+    return out
+
+
+def summarise(sport, events, stamp, mode, left, rows, waiting=None):
     """Short Telegram digest: Pinnacle as the anchor, best available price.
     European order — HOME team first. Two-way h2h only."""
     head = "%s \u2014 %s\n%s UTC\n" % (
@@ -219,6 +248,10 @@ def summarise(sport, events, stamp, mode, left, rows):
         tail += "  |  \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: %s" % left
     if mk_line:
         tail += "\n\u0432 csv: %s" % mk_line
+    if mode == "closing":
+        tail += "\n\u043e\u043a\u043d\u043e: %d-%d \u043c\u0438\u043d \u0434\u043e \u0441\u0442\u0430\u0440\u0442\u0430" % (CLOSE_MIN, CLOSE_MAX)
+        if waiting:
+            tail += "\n\u0431\u0435\u0437 \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u044f \u0432 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0439 \u0447\u0430\u0441: %d" % waiting
     if three_way:
         tail += ("\n1X2 (\u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f) \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e \u0443 %d \u043a\u043d\u0438\u0433 \u2014 "
                  "\u0432 csv \u043a\u0430\u043a h2h_3way" % three_way)
@@ -233,8 +266,12 @@ def main():
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     targets = None
+    waiting = None
 
     if mode == "closing":
+        if CLOSE_MIN >= CLOSE_MAX:
+            print("bad window: CLOSE_MIN %d >= CLOSE_MAX %d" % (CLOSE_MIN, CLOSE_MAX))
+            sys.exit(1)
         # FREE call — costs no credits.
         events, _, _ = api_get("/sports/%s/events" % key)
         already = done_ids(sport)
@@ -242,10 +279,13 @@ def main():
         hi = now + timedelta(minutes=CLOSE_MAX)
         targets = [e["id"] for e in events
                    if e["id"] not in already and lo <= parse_iso(e["commence_time"]) <= hi]
+        waiting = pending_soon(events, already, now)
         if not targets:
-            print("no games in the closing window; exiting without spending credits")
+            print("no games in the %d-%d min window; exiting without spending credits "
+                  "(%d game(s) pending in the next hour)" % (CLOSE_MIN, CLOSE_MAX, waiting))
             return
-        print("closing window hit for %d event(s)" % len(targets))
+        print("closing window (%d-%d min) hit for %d event(s)" % (
+            CLOSE_MIN, CLOSE_MAX, len(targets)))
 
     odds, left, used = api_get("/sports/%s/odds" % key,
                                bookmakers=BOOKS, markets=MARKETS,
@@ -263,7 +303,7 @@ def main():
     if mode == "closing":
         mark_done(sport, [e["id"] for e in odds])
 
-    tg_send(summarise(sport, odds, stamp, mode, left, rows))
+    tg_send(summarise(sport, odds, stamp, mode, left, rows, waiting))
     print("wrote %d rows to %s | credits used %s, left %s" % (len(rows), path, used, left))
     # Signal the workflow that there is something to commit.
     gh = os.environ.get("GITHUB_OUTPUT")
