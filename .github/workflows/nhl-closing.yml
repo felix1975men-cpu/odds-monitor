@@ -1,0 +1,56 @@
+name: NHL closing snapshots
+
+on:
+  schedule:
+    # UTC. Хоккейный пояс: дневные матчи от 16:00, вечерние до ~02:30,
+    # западное побережье заканчивает окно к 04:00.
+    - cron: "*/5 16-23 * * *"
+    - cron: "*/5 0-4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: odds-commit
+  cancel-in-progress: false
+
+jobs:
+  closing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Closing snapshot
+        id: run
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          TG_TOKEN: ${{ secrets.TG_TOKEN_NHL }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          SPORT: nhl
+          MODE: closing
+          CLOSE_MIN: "10"
+          CLOSE_MAX: "45"
+        run: python odds_monitor.py
+
+      - name: Commit data
+        if: steps.run.outputs.changed == 'true'
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "nhl closing $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 5
+          done
+          echo "push failed after retries" >&2
+          exit 1
