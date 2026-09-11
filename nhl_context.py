@@ -3,6 +3,8 @@
 nhl_context.py — 08:35 UTC.
 Пары ближайшего окна + контекст: форма, GF/GA, дни отдыха, бэк-ту-бэк,
 длина выезда, очные на площадке хозяев, вероятные вратари.
+Раздельная статистика дома/в гостях (глубина 30, добор из прошлого сезона)
+и базовая проекция тотала.
 Цен НЕ печатает — прогноз даётся до цены.
 
 api-web.nhle.com, без ключа, ТРЕБУЕТ браузерный User-Agent.
@@ -22,6 +24,8 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 WINDOW_H = 30          # окно тура в часах
 FORM_N = 15            # глубина формы
+SPLIT_N = 30           # глубина раздельной статистики дома / в гостях
+REG_TYPE = 2           # gameType регулярного чемпионата
 TG_CHUNK = 3800
 
 
@@ -125,14 +129,34 @@ def standings_map():
 _sched_cache = {}
 
 
-def season_games(team):
+def sched_json(team, season="now"):
+    key = (team, season)
+    if key not in _sched_cache:
+        _sched_cache[key] = api("/club-schedule-season/%s/%s" % (team, season)) or {}
+    return _sched_cache[key]
+
+
+def season_games(team, season="now"):
     """Все игры команды в сезоне, отсортированы по дате."""
-    if team in _sched_cache:
-        return _sched_cache[team]
-    js = api("/club-schedule-season/%s/now" % team)
-    games = sorted((js or {}).get("games", []), key=lambda g: g.get("gameDate", ""))
-    _sched_cache[team] = games
-    return games
+    js = sched_json(team, season)
+    return sorted(js.get("games", []), key=lambda g: g.get("gameDate", ""))
+
+
+def prev_season_id(team):
+    """Номер прошлого сезона: из API, иначе арифметикой, иначе по календарю."""
+    js = sched_json(team, "now")
+    p = js.get("previousSeason")
+    if p:
+        return str(p)
+    c = js.get("currentSeason")
+    if c:
+        try:
+            return str(int(c) - 10001)
+        except Exception:
+            pass
+    now = datetime.now(timezone.utc)
+    start = now.year if now.month >= 8 else now.year - 1
+    return "%d%d" % (start - 1, start)
 
 
 def finished(games):
@@ -158,6 +182,55 @@ def form(team, games, n=FORM_N):
         else:
             l += 1
     return w, l, otl, gf, ga
+
+
+# ---------- раздельная статистика дома / в гостях ----------
+
+def venue_rows(team, games, at_home):
+    """(забито, пропущено) по сыгранным матчам регулярки на нужной площадке."""
+    rows = []
+    for g in finished(games):
+        if g.get("gameType") != REG_TYPE:
+            continue
+        h, a = g.get("homeTeam", {}), g.get("awayTeam", {})
+        is_home = abbrev(h) == team
+        if is_home != at_home:
+            continue
+        us, them = (h, a) if is_home else (a, h)
+        sf, sa = us.get("score"), them.get("score")
+        if sf is None or sa is None:
+            continue
+        rows.append((sf, sa))
+    return rows
+
+
+def split_stats(team, at_home, n=SPLIT_N):
+    """Забито и пропущено за игру на своей/чужой площадке.
+    Текущий сезон, добор из прошлого до глубины n.
+    Возвращает (gf_per, ga_per, использовано, взято из прошлого сезона)."""
+    rows = venue_rows(team, season_games(team, "now"), at_home)
+    from_prev = 0
+    if len(rows) < n:
+        prev = venue_rows(team, season_games(team, prev_season_id(team)), at_home)
+        need = n - len(rows)
+        take = prev[-need:] if need > 0 else []
+        from_prev = len(take)
+        rows = take + rows
+    rows = rows[-n:]
+    if not rows:
+        return None, None, 0, 0
+    gf = sum(r[0] for r in rows) / float(len(rows))
+    ga = sum(r[1] for r in rows) / float(len(rows))
+    return gf, ga, len(rows), from_prev
+
+
+def split_line(label, gf, ga, used, from_prev):
+    if not used:
+        return "    %s: нет данных" % label
+    src = "%d матчей" % used
+    if from_prev:
+        src += ", из них %d из прошлого сезона" % from_prev
+    return "    %s: забито %.2f, пропущено %.2f за игру (%s)" % (label, gf, ga, src)
 
 
 def rest_info(team, games, kickoff):
@@ -263,6 +336,19 @@ def main():
             d if d is not None else "?", ", БЭК-ТУ-БЭК" if b2b else "",
             ", выезд %d-я игра подряд" % trip if trip > 1 else ""))
 
+        h_gf, h_ga, h_used, h_prev = split_stats(home, True)
+        a_gf, a_ga, a_used, a_prev = split_stats(away, False)
+        b.append("  Формула (глубина %d, только регулярка):" % SPLIT_N)
+        b.append(split_line("%s дома" % home, h_gf, h_ga, h_used, h_prev))
+        b.append(split_line("%s в гостях" % away, a_gf, a_ga, a_used, a_prev))
+        if h_used and a_used:
+            exp_h = (h_gf + a_ga) / 2.0
+            exp_a = (a_gf + h_ga) / 2.0
+            b.append("    база: хозяева %.2f + гости %.2f = %.2f (без поправки)" % (
+                exp_h, exp_a, exp_h + exp_a))
+        else:
+            b.append("    база: не считается — нет данных")
+
         hh = h2h(home, away)
         b.append("  Очные (у хозяев): " + (" | ".join(hh) if hh else "в этом сезоне не было"))
 
@@ -270,7 +356,7 @@ def main():
         b.append("  Вратари: " + (gk if gk else "состав не объявлен"))
         blocks.append("\n".join(b))
 
-    ctx = "\U0001F3D2 NHL — контекст тура\n%s UTC  |  матчей: %d\nбез коэффициентов  |  площадка нейтральна, погоды нет\n\n" % (
+    ctx = "\U0001F3D2 NHL — контекст тура\n%s UTC  |  матчей: %d\nбез коэффициентов  |  фактор площадки внутри раздельной статистики, погоды нет\n\n" % (
         now.strftime("%Y-%m-%d %H:%M"), len(games))
     tg_send(ctx + "\n\n".join(blocks))
     print("context sent for %d game(s)" % len(games))
