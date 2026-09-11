@@ -1509,3 +1509,57 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-11T15:13:15Z,scheduled,89750de1ac29c31e5d404f2f05763ca9,2026-09-12T02:16:00Z,San Francisco Giants,San Diego Padres,betfair_ex_eu,h2h,San Francisco Giants,,2.28
 2026-09-11T15:13:15Z,scheduled,89750de1ac29c31e5d404f2f05763ca9,2026-09-12T02:16:00Z,San Francisco Giants,San Diego Padres,betfair_ex_eu,h2h_lay,San Diego Padres,,1.78
 2026-09-11T15:13:15Z,scheduled,89750de1ac29c31e5d404f2f05763ca9,2026-09-12T02:16:00Z,San Francisco Giants,San Diego Padres,betfair_ex_eu,h2h_lay,San Francisco Giants,,2.34
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,fanduel,h2h,Chicago Cubs,,1.53
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,fanduel,h2h,Pittsburgh Pirates,,2.6
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,fanduel,spreads,Chicago Cubs,-1.5,2.12
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,fanduel,spreads,Pittsburgh Pirates,1.5,1.75
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,fanduel,totals,Over,8.5,1.96
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,fanduel,totals,Under,8.5,1.85
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betfair_ex_eu,h2h,Chicago Cubs,,1.56
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betfair_ex_eu,h2h,Pittsburgh Pirates,,2.72
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betfair_ex_eu,h2h_lay,Chicago Cubs,,1.58
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betfair_ex_eu,h2h_lay,Pittsburgh Pirates,,2.8
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betsson,h2h,Chicago Cubs,,1.51
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betsson,h2h,Pittsburgh Pirates,,2.57
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betsson,spreads,Chicago Cubs,-1.5,2.07
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betsson,spreads,Pittsburgh Pirates,1.5,1.72
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betsson,totals,Over,8.5,1.93
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betsson,totals,Under,8.5,1.83
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,coolbet,h2h,Chicago Cubs,,1.5
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,coolbet,h2h,Pittsburgh Pirates,,2.6
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,coolbet,spreads,Chicago Cubs,-1.5,2.1
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,coolbet,spreads,Pittsburgh Pirates,1.5,1.75
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,coolbet,totals,Over,8.0,1.87
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,coolbet,totals,Under,8.0,1.95
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,h2h,Chicago Cubs,,1.57
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,h2h,Pittsburgh Pirates,,2.72
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,h2h_lay,Chicago Cubs,,1.58
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,h2h_lay,Pittsburgh Pirates,,2.76
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,spreads,Chicago Cubs,-1.5,2.1
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,spreads,Pittsburgh Pirates,1.5,1.83
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,totals,Over,8.5,1.96
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,matchbook,totals,Under,8.5,1.93
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betrivers,h2h,Chicago Cubs,,1.5
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betrivers,h2h,Pittsburgh Pirates,,2.65
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betrivers,spreads,Chicago Cubs,-1.5,2.05
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betrivers,spreads,Pittsburgh Pirates,1.5,1.79
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betrivers,totals,Over,8.5,1.96
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betrivers,totals,Under,8.5,1.85
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,draftkings,h2h,Chicago Cubs,,1.52
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,draftkings,h2h,Pittsburgh Pirates,,2.59
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,draftkings,spreads,Chicago Cubs,-1.5,2.1
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,draftkings,spreads,Pittsburgh Pirates,1.5,1.76
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,draftkings,totals,Over,8.0,1.85
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,draftkings,totals,Under,8.0,1.98
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betmgm,h2h,Chicago Cubs,,1.53
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betmgm,h2h,Pittsburgh Pirates,,2.55
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betmgm,spreads,Chicago Cubs,-1.5,2.05
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betmgm,spreads,Pittsburgh Pirates,1.5,1.8
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betmgm,totals,Over,8.5,1.98
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,betmgm,totals,Under,8.5,1.85
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,pinnacle,h2h,Chicago Cubs,,1.55
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,pinnacle,h2h,Pittsburgh Pirates,,2.67
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,pinnacle,spreads,Chicago Cubs,-1.5,2.13
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,pinnacle,spreads,Pittsburgh Pirates,1.5,1.8
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,pinnacle,totals,Over,8.5,1.97
+2026-09-11T17:51:11Z,closing,2c93c46c050aa7c593f71d0b3fa569fe,2026-09-11T18:21:00Z,Chicago Cubs,Pittsburgh Pirates,pinnacle,totals,Under,8.5,1.92
