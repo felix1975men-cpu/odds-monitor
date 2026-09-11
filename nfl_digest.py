@@ -5,9 +5,15 @@ NFL сводка на тур. Кредиты НЕ тратит — читает 
 
 Порядок для каждого рынка:
   1) выбирается ОДНА линия — Pinnacle, а если её нет, то та,
-     на которой стоит больше книг; для тотала .5 бьёт целое число
+     на которой стоит больше книг; для тотала .5 бьёт целое число.
+     Линия годится в опоры только если на ней стоит не меньше
+     MIN_BOOKS разных книг: цифра одной конторы — это не рынок.
+     Если такой линии нет, рынок пропускается с пометкой.
   2) на этой линии берётся лучшая цена по каждой стороне
-  3) fair — цена Pinnacle с убранной маржой, эталон вероятности
+  3) fair — цена Pinnacle с убранной маржой, эталон вероятности.
+     Сначала ищется цена Pinnacle НА ТОЙ ЖЕ линии, что и ставка;
+     только если её там нет, берётся основная линия Pinnacle,
+     и тогда в строке стоит пометка о расхождении номеров.
 Хозяева всегда первыми.
 """
 
@@ -24,6 +30,9 @@ TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "120"))
 SNAPSHOTS = os.environ.get("SNAPSHOTS", "data/nfl")
 ANCHOR = "pinnacle"
+
+# Сколько разных книг должно стоять на линии, чтобы она годилась в опоры.
+MIN_BOOKS = 2
 
 NEED = {"ts", "event_id", "commence_time", "home", "away",
         "book", "market", "outcome", "point", "price"}
@@ -101,41 +110,66 @@ def devig(p1, p2):
     return i1 / s, i2 / s
 
 
+def line_books(rows, market, home=None):
+    """{номер линии: множество книг, стоящих на ней}.
+
+    Для гандикапа считаются только строки СО СТОРОНЫ ХОЗЯЕВ, чтобы
+    сохранить знак; для тотала обе стороны стоят на одном номере.
+    """
+    out = {}
+    for r in rows:
+        pt = num(r["point"])
+        if pt is None:
+            continue
+        if market == "spreads" and r["outcome"] != home:
+            continue
+        out.setdefault(pt, set()).add(r["book"])
+    return out
+
+
+def pin_points(rows, market, home=None):
+    """Номера линий, на которых стоит сам Pinnacle."""
+    out = set()
+    for r in rows:
+        if r["book"] != ANCHOR:
+            continue
+        if market == "spreads" and r["outcome"] != home:
+            continue
+        pt = num(r["point"])
+        if pt is not None:
+            out.add(pt)
+    return out
+
+
 def pick_line(rows, market, home=None):
     """
-    Опорная линия: Pinnacle, иначе самая популярная.
-    Для гандикапа берётся точка СО СТОРОНЫ ХОЗЯЕВ, чтобы не потерять знак.
+    Опорная линия: Pinnacle, иначе самая многокнижная.
+    Только линии минимум с MIN_BOOKS книгами. None — опоры нет.
     Для тотала .5 бьёт целое число.
     """
-    if market == "spreads":
-        pin_h = [num(r["point"]) for r in rows
-                 if r["book"] == ANCHOR and r["outcome"] == home
-                 and num(r["point"]) is not None]
-        if pin_h:
-            return pin_h[0]
-        cnt_h = Counter(num(r["point"]) for r in rows
-                        if r["outcome"] == home and num(r["point"]) is not None)
-        return cnt_h.most_common(1)[0][0] if cnt_h else None
+    books = line_books(rows, market, home)
+    solid = {p: b for p, b in books.items() if len(b) >= MIN_BOOKS}
+    if not solid:
+        return None
 
-    pin = {num(r["point"]) for r in rows
-           if r["book"] == ANCHOR and r["point"] not in (None, "")}
-    pin = {p for p in pin if p is not None}
+    def widest(cands):
+        return max(cands, key=lambda p: (len(solid[p]), -abs(p)))
+
+    pin = pin_points(rows, market, home)
+
     if market == "totals":
-        half = {p for p in pin if abs(p % 1 - 0.5) < 1e-6}
+        half = {p for p in solid if abs(p % 1 - 0.5) < 1e-6}
+        pin_half = half & pin
+        if pin_half:
+            return widest(pin_half)
         if half:
-            return max(half)
-        if pin:
-            other = Counter(num(r["point"]) for r in rows
-                            if r["point"] not in (None, "")
-                            and num(r["point"]) is not None
-                            and abs(num(r["point"]) % 1 - 0.5) < 1e-6)
-            if other:
-                return other.most_common(1)[0][0]
-            return max(pin)
+            return widest(half)
+        # половинной линии ни у кого нет — остаётся целая, о ней предупредим ниже
 
-    cnt = Counter(num(r["point"]) for r in rows
-                  if r["point"] not in (None, "") and num(r["point"]) is not None)
-    return cnt.most_common(1)[0][0] if cnt else None
+    pin_solid = set(solid) & pin
+    if pin_solid:
+        return widest(pin_solid)
+    return widest(set(solid))
 
 
 def best_prices(rows, market, line, home, away):
@@ -230,7 +264,8 @@ def build():
     books = sorted({r["book"] for r in snap})
     head = (f"💹 <b>NFL сводка на тур</b>  <i>{len(events)} матчей · "
             f"снимок {last_ts} UTC</i>\n"
-            f"<i>{len(books)} книг · fair = Pinnacle без маржи</i>")
+            f"<i>{len(books)} книг · fair = Pinnacle без маржи · "
+            f"опора минимум на {MIN_BOOKS} книгах</i>")
     if ANCHOR not in books:
         head += "\n⚠️ <i>Pinnacle в снимке нет — опора по большинству книг, fair недоступен</i>"
 
@@ -244,13 +279,29 @@ def build():
             if not mrows:
                 continue
             line = pick_line(mrows, market, home)
+
+            if market in ("spreads", "totals") and line is None:
+                L.append(f"<b>{label}</b>")
+                L.append(f"   ⚠️ <i>нет линии минимум на {MIN_BOOKS} книгах — пропуск</i>")
+                continue
+
             best = best_prices(mrows, market, line, home, away)
-            pl = pin_line(mrows, market, home)
-            f1, f2 = pin_pair(mrows, market, pl, home, away)
-            fair1, fair2 = devig(f1, f2)
+
+            # fair сначала ищем на линии самой ставки, и только если
+            # Pinnacle там не стоит — на его собственной линии, с пометкой
             note = ""
-            if pl is not None and line is not None and abs(pl - line) > 1e-6:
-                note = f" <i>(fair по линии Pinnacle {pl:g})</i>"
+            f1, f2 = pin_pair(mrows, market, line, home, away)
+            if not (f1 and f2) and market in ("spreads", "totals"):
+                pl = pin_line(mrows, market, home)
+                if pl is not None and (line is None or abs(pl - line) > 1e-6):
+                    g1, g2 = pin_pair(mrows, market, pl, home, away)
+                    if g1 and g2:
+                        f1, f2 = g1, g2
+                        note = (f" <i>(fair по линии Pinnacle {pl:g}, "
+                                f"ставка на {line:g})</i>")
+            fair1, fair2 = devig(f1, f2)
+
+            nb = len(line_books(mrows, market, home).get(line, ())) if line is not None else 0
 
             if market == "totals":
                 s1, s2 = "over", "under"
@@ -264,7 +315,7 @@ def build():
                 else:
                     n1, n2 = home, away
 
-            L.append(f"<b>{label}</b>")
+            L.append(f"<b>{label}</b>" + (f" <i>{nb}кн на линии</i>" if nb else ""))
             for side, nm, fair in ((s1, n1, fair1), (s2, n2, fair2)):
                 if side not in best:
                     continue
