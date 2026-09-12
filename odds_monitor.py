@@ -3,9 +3,16 @@
 Odds monitor — 4 sports, one script.
 
 Modes:
-  scheduled : plain snapshot of the whole league (3 credits)
+  scheduled : snapshot of everything starting inside the league horizon
+              (3 credits)
   closing   : checks /events (FREE), and only pulls odds if a game
               starts inside the closing window (3 credits)
+
+The API returns every event the books have open — in the NFL that is 212
+events against 16 in the round, months of future weeks included. Those
+rows bloated the CSV and split the digest into eight Telegram messages,
+so scheduled snapshots are cut to the league horizon before anything is
+written or sent.
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
@@ -13,6 +20,7 @@ Env optional:
   MODE        scheduled (default) | closing
   CLOSE_MIN   minutes before kickoff, near edge  (default 10)
   CLOSE_MAX   minutes before kickoff, far edge   (default 30)
+  HORIZON_H   scheduled horizon in hours (default: per league below)
 """
 
 import os
@@ -35,6 +43,9 @@ SPORTS = {
 
 TITLES = {"nfl": "\U0001F3C8 NFL", "nba": "\U0001F3C0 NBA",
           "nhl": "\U0001F3D2 NHL", "mlb": "\u26BE MLB"}
+
+# Scheduled horizon per league — same numbers digest.py uses.
+HORIZON = {"nfl": 96, "nba": 30, "nhl": 30, "mlb": 30}
 
 # 9 bookmakers = counts as ONE region for billing (up to 10 = 1 region).
 # Pinnacle + exchanges as the sharp anchor, US books for spreads/totals depth.
@@ -196,7 +207,8 @@ def pending_soon(events, already, now, hours=1):
     return out
 
 
-def summarise(sport, events, stamp, mode, left, rows, waiting=None):
+def summarise(sport, events, stamp, mode, left, rows, waiting=None,
+              horizon_h=None, dropped=0):
     """Short Telegram digest: Pinnacle as the anchor, best available price.
     European order — HOME team first. Two-way h2h only."""
     head = "%s \u2014 %s\n%s UTC\n" % (
@@ -248,6 +260,10 @@ def summarise(sport, events, stamp, mode, left, rows, waiting=None):
         tail += "  |  \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: %s" % left
     if mk_line:
         tail += "\n\u0432 csv: %s" % mk_line
+    if mode == "scheduled" and horizon_h:
+        tail += "\n\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442: %d\u0447" % horizon_h
+        if dropped:
+            tail += ", \u0432\u043d\u0435 \u043e\u043a\u043d\u0430 \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e: %d" % dropped
     if mode == "closing":
         tail += "\n\u043e\u043a\u043d\u043e: %d-%d \u043c\u0438\u043d \u0434\u043e \u0441\u0442\u0430\u0440\u0442\u0430" % (CLOSE_MIN, CLOSE_MAX)
         if waiting:
@@ -267,6 +283,8 @@ def main():
 
     targets = None
     waiting = None
+    horizon_h = None
+    dropped = 0
 
     if mode == "closing":
         if CLOSE_MIN >= CLOSE_MAX:
@@ -293,6 +311,15 @@ def main():
 
     if mode == "closing":
         odds = [e for e in odds if e["id"] in targets]
+    else:
+        # Books keep months of future rounds open; only the current horizon
+        # belongs in the CSV and the digest.
+        horizon_h = env_int("HORIZON_H", HORIZON.get(sport, 30))
+        edge = now + timedelta(hours=horizon_h)
+        total = len(odds)
+        odds = [e for e in odds if now <= parse_iso(e["commence_time"]) <= edge]
+        dropped = total - len(odds)
+        print("horizon %dh: kept %d of %d event(s)" % (horizon_h, len(odds), total))
 
     if not odds:
         print("no events returned; nothing written")
@@ -303,7 +330,8 @@ def main():
     if mode == "closing":
         mark_done(sport, [e["id"] for e in odds])
 
-    tg_send(summarise(sport, odds, stamp, mode, left, rows, waiting))
+    tg_send(summarise(sport, odds, stamp, mode, left, rows, waiting,
+                      horizon_h, dropped))
     print("wrote %d rows to %s | credits used %s, left %s" % (len(rows), path, used, left))
     # Signal the workflow that there is something to commit.
     gh = os.environ.get("GITHUB_OUTPUT")
