@@ -1,35 +1,38 @@
 #!/usr/bin/env python3
 """
-Odds monitor — 4 sports, one script.
+Pre-round digest — one compact message per league at 09:00 UTC.
 
-Modes:
-  scheduled : snapshot of everything starting inside the league horizon
-              (3 credits)
-  closing   : checks /events (FREE), and only pulls odds if a game
-              starts inside the closing window (3 credits)
+Does NOT write CSV and does NOT commit. It sends a short summary of
+upcoming games for forwarding into chat.
 
-The API returns every event the books have open — in the NFL that is 212
-events against 16 in the round, months of future weeks included. Those
-rows bloated the CSV and split the digest into eight Telegram messages,
-so scheduled snapshots are cut to the league horizon before anything is
-written or sent.
+Edge is measured against Pinnacle with the vig removed. Raw Pinnacle
+prices carry ~2% margin, so comparing a best price to them flags
+noise; the fair price is what a real edge is measured against.
+
+Totals and spreads are priced on ONE anchored line — Pinnacle's number,
+or the most common across books if Pinnacle has none. Without the anchor
+each side's best price was hunted independently across every rung, so
+Over and Under came back on different numbers and were not two sides of
+the same bet.
+
+A line can only become the anchor if at least MIN_BOOKS different books
+stand on it. A number quoted by one book alone is not a market: on
+7 September it produced totals a full point away from the consensus,
+and on 11 September a Yankees total of 8.5 while the market sat at 7.5.
+Where no line clears the bar the market is skipped with a note instead
+of printing a lone book's number as if it were the line.
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
-Env optional:
-  MODE        scheduled (default) | closing
-  CLOSE_MIN   minutes before kickoff, near edge  (default 10)
-  CLOSE_MAX   minutes before kickoff, far edge   (default 30)
-  HORIZON_H   scheduled horizon in hours (default: per league below)
 """
 
 import os
-import sys
-import csv
 import json
+import sys
 import urllib.request
 import urllib.parse
 import urllib.error
+from collections import Counter
 from datetime import datetime, timezone, timedelta
 
 API = "https://api.the-odds-api.com/v4"
@@ -44,35 +47,21 @@ SPORTS = {
 TITLES = {"nfl": "\U0001F3C8 NFL", "nba": "\U0001F3C0 NBA",
           "nhl": "\U0001F3D2 NHL", "mlb": "\u26BE MLB"}
 
-# Scheduled horizon per league — same numbers digest.py uses.
-HORIZON = {"nfl": 96, "nba": 30, "nhl": 30, "mlb": 30}
+WINDOW_HOURS = {"nfl": 96, "nba": 30, "nhl": 30, "mlb": 30}
 
-# 9 bookmakers = counts as ONE region for billing (up to 10 = 1 region).
-# Pinnacle + exchanges as the sharp anchor, US books for spreads/totals depth.
 BOOKS = ("pinnacle,betfair_ex_eu,matchbook,betsson,coolbet,"
          "draftkings,fanduel,betmgm,betrivers")
 MARKETS = "h2h,spreads,totals"
 
+# Edge against the DEVIGGED Pinnacle price. 3% is roughly where a gap
+# stops looking like noise; the old 2%-vs-raw threshold mostly flagged
+# the margin itself.
+EDGE_PCT = 3.0
+MSG_LIMIT = 3500
 
-def env_int(name, default):
-    """Closing window edges are per-league: a cron that slips past a narrow
-    window loses the snapshot for good, so NHL runs wider than the default."""
-    raw = os.environ.get(name, "")
-    try:
-        return int(raw)
-    except (TypeError, ValueError):
-        return default
-
-
-# Closing trigger window, minutes before kickoff.
-CLOSE_MIN = env_int("CLOSE_MIN", 10)
-CLOSE_MAX = env_int("CLOSE_MAX", 30)
-
-# Telegram hard limit is 4096; leave room for the chunk counter.
-TG_CHUNK = 3800
-
-CSV_HEADER = ["snapshot_utc", "mode", "event_id", "commence_utc",
-              "home", "away", "book", "market", "outcome", "point", "price"]
+# Minimum number of different books standing on a line before it can be
+# used as the anchor for totals or spreads.
+MIN_BOOKS = 2
 
 
 def api_get(path, **params):
@@ -80,47 +69,23 @@ def api_get(path, **params):
     url = "%s%s?%s" % (API, path, urllib.parse.urlencode(params))
     try:
         with urllib.request.urlopen(url, timeout=60) as r:
-            body = json.loads(r.read().decode("utf-8"))
-            left = r.headers.get("x-requests-remaining")
-            used = r.headers.get("x-requests-last")
-            return body, left, used
+            return json.loads(r.read().decode("utf-8")), r.headers.get("x-requests-remaining")
     except urllib.error.HTTPError as e:
         print("API error %s: %s" % (e.code, e.read().decode("utf-8")[:300]))
         sys.exit(1)
 
 
-def _tg_post(text):
+def tg_send(text):
     url = "https://api.telegram.org/bot%s/sendMessage" % os.environ["TG_TOKEN"]
     data = urllib.parse.urlencode({
         "chat_id": os.environ["TG_CHAT_ID"],
         "text": text,
         "disable_web_page_preview": "true",
     }).encode()
-    urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
-
-
-def chunks(text, size=TG_CHUNK):
-    """Split on line boundaries so a message never cuts a price in half."""
-    out, buf = [], ""
-    for line in text.split("\n"):
-        if len(buf) + len(line) + 1 > size and buf:
-            out.append(buf)
-            buf = line
-        else:
-            buf = line if not buf else buf + "\n" + line
-    if buf:
-        out.append(buf)
-    return out
-
-
-def tg_send(text):
-    """Send, splitting long digests. Raises after logging so the job turns red."""
-    parts = chunks(text)
     try:
-        for i, part in enumerate(parts, 1):
-            suffix = "" if len(parts) == 1 else "\n\n(%d/%d)" % (i, len(parts))
-            _tg_post(part + suffix)
+        urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30).read()
     except Exception as e:
+        # раньше ошибка глушилась и job оставался зелёным при пустом телеграме
         print("Telegram send failed: %s" % e)
         raise
 
@@ -129,215 +94,235 @@ def parse_iso(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
-def is_three_way(mk):
-    """NHL preseason/regulation 1X2 arrives under the h2h key. Not the same market."""
-    if mk.get("key") != "h2h":
-        return False
-    outcomes = mk.get("outcomes", [])
-    if len(outcomes) > 2:
-        return True
-    return any((oc.get("name", "") or "").strip().lower() == "draw" for oc in outcomes)
+def group_key(point):
+    """Two sides of the same line share a group; +1.5 and -1.5 belong together."""
+    return None if point is None else abs(point)
 
 
-def market_key(mk):
-    """Three-way h2h is stored under its own name so h2h stays one clean market."""
-    return "h2h_3way" if is_three_way(mk) else mk["key"]
+def collect(ev, market_key):
+    """{outcome: [(price, point, book)]} plus pinnacle quotes by group."""
+    offers = {}
+    pinn = {}
+    for bm in ev.get("bookmakers", []):
+        for mk in bm.get("markets", []):
+            if mk["key"] != market_key:
+                continue
+            for oc in mk.get("outcomes", []):
+                price = oc.get("price")
+                if price is None:
+                    continue
+                name, point = oc.get("name", "?"), oc.get("point")
+                offers.setdefault(name, []).append((price, point, bm["key"]))
+                if bm["key"] == "pinnacle":
+                    pinn.setdefault(group_key(point), {})[name] = (price, point)
+    return offers, pinn
 
 
-def flatten(events, stamp, mode):
-    """Turn the API response into flat CSV rows."""
+def devig(quotes):
+    """Proportional vig removal. quotes: {name: (price, point)} -> {name: fair_price}.
+
+    Needs every side of the market; a one-sided quote cannot be cleaned.
+    """
+    if len(quotes) < 2:
+        return {}
+    total = sum(1.0 / p for p, _ in quotes.values())
+    if total <= 0:
+        return {}
+    return {n: 1.0 / ((1.0 / p) / total) for n, (p, _) in quotes.items()}
+
+
+def is_half(g):
+    """True for 8.5, false for 9.0 — the .5 lines are the ones that cannot push."""
+    return g is not None and abs((g * 2) % 2 - 1) < 1e-9
+
+
+def group_books(offers):
+    """{group: set of books standing on that line}, either side counts."""
+    books = {}
+    for entries in offers.values():
+        for _, p, bk in entries:
+            g = group_key(p)
+            if g is None:
+                continue
+            books.setdefault(g, set()).add(bk)
+    return books
+
+
+def two_sided_groups(offers):
+    """Groups where at least two different outcomes are quoted somewhere."""
+    names = {}
+    for name, entries in offers.items():
+        for _, p, _ in entries:
+            names.setdefault(group_key(p), set()).add(name)
+    return {g for g, ns in names.items() if g is not None and len(ns) >= 2}
+
+
+def anchor_group(offers, pinn, market_key):
+    """The single line the whole market is priced on, or None.
+
+    A candidate line must carry at least MIN_BOOKS different books —
+    Pinnacle's own number included, since one book alone is not a market.
+
+    For totals a .5 line wins even when Pinnacle is standing on a whole
+    number: a whole total can push, and we would rather lose the fair
+    price than lose the bet. Spreads keep Pinnacle's line as before.
+
+    Returns None when nothing clears the bar; the caller then skips the
+    market rather than quoting a line only one book posts.
+    """
+    books = group_books(offers)
+    solid = {g for g, bs in books.items() if len(bs) >= MIN_BOOKS}
+    if not solid:
+        return None
+
+    def widest(groups):
+        return max(groups, key=lambda g: len(books.get(g, ())))
+
+    two_sided = two_sided_groups(offers) & solid
+    pin_two = [g for g, q in pinn.items()
+               if g is not None and len(q) >= 2 and g in solid]
+
+    if market_key == "totals":
+        pin_half = [g for g in pin_two if is_half(g)]
+        if pin_half:
+            return widest(pin_half)
+        any_half = [g for g in two_sided if is_half(g)]
+        if any_half:
+            return widest(any_half)
+
+    if pin_two:
+        return widest(pin_two)
+    if two_sided:
+        return widest(two_sided)
+    return None
+
+
+def h2h_rows(ev):
     rows = []
-    for ev in events:
-        for bm in ev.get("bookmakers", []):
-            for mk in bm.get("markets", []):
-                mkey = market_key(mk)
-                for oc in mk.get("outcomes", []):
-                    rows.append([
-                        stamp, mode, ev["id"], ev["commence_time"],
-                        ev.get("home_team", ""), ev.get("away_team", ""),
-                        bm["key"], mkey, oc.get("name", ""),
-                        oc.get("point", ""), oc.get("price", ""),
-                    ])
+    offers, pinn = collect(ev, "h2h")
+    fair = devig(pinn.get(None, {}))
+    for name, entries in offers.items():
+        best, _, book = max(entries, key=lambda x: x[0])
+        raw = pinn.get(None, {}).get(name)
+        if name in fair:
+            edge = (best / fair[name] - 1) * 100
+            flag = "  <<" if edge >= EDGE_PCT else ""
+            rows.append("  %s: %.2f (%s) | pin %.2f \u2192 fair %.2f  %+.1f%%%s"
+                        % (name[:20], best, book, raw[0], fair[name], edge, flag))
+        elif raw:
+            rows.append("  %s: %.2f (%s) | pin %.2f (\u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u044f\u044f)"
+                        % (name[:20], best, book, raw[0]))
+        else:
+            rows.append("  %s: %.2f (%s) | pin -" % (name[:20], best, book))
     return rows
 
 
-def write_rows(sport, rows):
-    """One CSV per league per day; snapshots append, never overwrite."""
-    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    folder = os.path.join("data", sport)
-    os.makedirs(folder, exist_ok=True)
-    path = os.path.join(folder, "%s.csv" % day)
-    new = not os.path.exists(path)
-    with open(path, "a", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        if new:
-            w.writerow(CSV_HEADER)
-        w.writerows(rows)
-    return path
+def pointed_rows(ev, market_key, label):
+    """Spreads/totals: both sides priced on one anchored line."""
+    rows = []
+    offers, pinn = collect(ev, market_key)
+    if not offers:
+        return rows
 
+    g = anchor_group(offers, pinn, market_key)
+    if g is None:
+        rows.append("  %s: \u043d\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043d\u0430 %d \u043a\u043d\u0438\u0433\u0430\u0445 \u2014 \u043f\u0440\u043e\u043f\u0443\u0441\u043a"
+                    % (label, MIN_BOOKS))
+        return rows
 
-def done_ids(sport):
-    path = os.path.join("data", sport, "closing_done.txt")
-    if not os.path.exists(path):
-        return set()
-    with open(path, encoding="utf-8") as f:
-        return set(x.strip() for x in f if x.strip())
+    line_books = len(group_books(offers).get(g, ()))
+    quotes = pinn.get(g, {})
+    fair = devig(quotes)
+    pin_point = {n: p for n, (_, p) in quotes.items()}
 
+    if market_key == "spreads" and not pin_point:
+        # No Pinnacle to name the favourite. Settle it by majority on the home
+        # side and mirror it, or a book quoting the other favourite at the same
+        # number would be printed as if it were the same bet.
+        home = ev.get("home_team")
+        home_pts = [p for _, p, _ in offers.get(home, []) if group_key(p) == g]
+        if home_pts:
+            hp = Counter(home_pts).most_common(1)[0][0]
+            pin_point = {n: (hp if n == home else -hp) for n in offers}
 
-def mark_done(sport, ids):
-    folder = os.path.join("data", sport)
-    os.makedirs(folder, exist_ok=True)
-    path = os.path.join(folder, "closing_done.txt")
-    with open(path, "a", encoding="utf-8") as f:
-        for i in ids:
-            f.write(i + "\n")
-
-
-def pending_soon(events, already, now, hours=1):
-    """Games starting within the next hour that still have no closing snapshot.
-    Printed in the digest so a missed window is visible the same evening."""
-    hi = now + timedelta(hours=hours)
-    out = 0
-    for e in events:
-        if e["id"] in already:
+    for name, entries in offers.items():
+        # Only books standing on the anchored line. Where Pinnacle names the
+        # exact point for this side, match its sign too — otherwise a book
+        # with the opposite favourite would slip into the same group.
+        want = pin_point.get(name)
+        if want is not None:
+            at = [e for e in entries if e[1] == want]
+        else:
+            at = [e for e in entries if group_key(e[1]) == g]
+        if not at:
+            pt = ("%+g" % want) if want is not None else ("%g" % g)
+            rows.append("  %s %s %s: \u043d\u0435\u0442 \u0446\u0435\u043d\u044b \u043d\u0430 \u044d\u0442\u043e\u0439 \u043b\u0438\u043d\u0438\u0438"
+                        % (label, name[:14], pt))
             continue
-        t = parse_iso(e["commence_time"])
-        if now <= t <= hi:
-            out += 1
-    return out
-
-
-def summarise(sport, events, stamp, mode, left, rows, waiting=None,
-              horizon_h=None, dropped=0):
-    """Short Telegram digest: Pinnacle as the anchor, best available price.
-    European order — HOME team first. Two-way h2h only."""
-    head = "%s \u2014 %s\n%s UTC\n" % (
-        TITLES[sport],
-        "\u0417\u0410\u041a\u0420\u042b\u0422\u0418\u0415" if mode == "closing" else "\u0441\u043d\u0438\u043c\u043e\u043a",
-        stamp[:16].replace("T", " "))
-    lines = []
-    three_way = 0
-    for ev in sorted(events, key=lambda e: e["commence_time"]):
-        start = parse_iso(ev["commence_time"]).strftime("%d.%m %H:%M")
-        home = ev.get("home_team", "?")
-        away = ev.get("away_team", "?")
-        lines.append("\n%s \u2014 %s  (%s)" % (home, away, start))
-        prices = {}
-        pin = {}
-        for bm in ev.get("bookmakers", []):
-            for mk in bm.get("markets", []):
-                if mk.get("key") != "h2h":
-                    continue
-                if is_three_way(mk):
-                    three_way += 1
-                    continue
-                for oc in mk.get("outcomes", []):
-                    n = oc.get("name", "")
-                    p = oc.get("price")
-                    if p is None:
-                        continue
-                    if p > prices.get(n, (0, ""))[0]:
-                        prices[n] = (p, bm["key"])
-                    if bm["key"] == "pinnacle":
-                        pin[n] = p
-        if not prices:
-            lines.append("  \u0434\u0432\u0443\u0445\u0438\u0441\u0445\u043e\u0434\u043d\u043e\u0433\u043e ML \u043d\u0435\u0442 \u2014 \u0442\u043e\u043b\u044c\u043a\u043e 1X2")
-            continue
-        # home first, then away, then anything else
-        order = {home: 0, away: 1}
-        for team in sorted(prices, key=lambda t: (order.get(t, 2), t)):
-            best, book = prices[team]
-            anchor = (" | pin %.2f" % pin[team]) if team in pin else ""
-            lines.append("  %s: %.2f (%s)%s" % (team[:22], best, book, anchor))
-
-    counts = {}
-    for r in rows:
-        counts[r[7]] = counts.get(r[7], 0) + 1
-    mk_line = ", ".join("%s %d" % (k, counts[k]) for k in sorted(counts))
-
-    tail = "\n\n\u0441\u043e\u0431\u044b\u0442\u0438\u0439: %d" % len(events)
-    if left:
-        tail += "  |  \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: %s" % left
-    if mk_line:
-        tail += "\n\u0432 csv: %s" % mk_line
-    if mode == "scheduled" and horizon_h:
-        tail += "\n\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442: %d\u0447" % horizon_h
-        if dropped:
-            tail += ", \u0432\u043d\u0435 \u043e\u043a\u043d\u0430 \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e: %d" % dropped
-    if mode == "closing":
-        tail += "\n\u043e\u043a\u043d\u043e: %d-%d \u043c\u0438\u043d \u0434\u043e \u0441\u0442\u0430\u0440\u0442\u0430" % (CLOSE_MIN, CLOSE_MAX)
-        if waiting:
-            tail += "\n\u0431\u0435\u0437 \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u044f \u0432 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0439 \u0447\u0430\u0441: %d" % waiting
-    if three_way:
-        tail += ("\n1X2 (\u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f) \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e \u0443 %d \u043a\u043d\u0438\u0433 \u2014 "
-                 "\u0432 csv \u043a\u0430\u043a h2h_3way" % three_way)
-    return head + "".join(lines) + tail
+        best, point, book = max(at, key=lambda x: x[0])
+        pt = ("%+g" % point) if point is not None else ""
+        src = "%s, %d\u043a\u043d \u043d\u0430 \u043b\u0438\u043d\u0438\u0438" % (book, line_books)
+        if name in fair:
+            edge = (best / fair[name] - 1) * 100
+            flag = "  <<" if edge >= EDGE_PCT else ""
+            rows.append("  %s %s %s: %.2f (%s) | fair %.2f  %+.1f%%%s"
+                        % (label, name[:14], pt, best, src, fair[name], edge, flag))
+        else:
+            rows.append("  %s %s %s: %.2f (%s) | pin -"
+                        % (label, name[:14], pt, best, src))
+    return rows
 
 
 def main():
     sport = os.environ["SPORT"].lower()
-    mode = os.environ.get("MODE", "scheduled").lower()
-    key = SPORTS[sport]
     now = datetime.now(timezone.utc)
-    stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    horizon = now + timedelta(hours=WINDOW_HOURS[sport])
 
-    targets = None
-    waiting = None
-    horizon_h = None
-    dropped = 0
+    odds, left = api_get("/sports/%s/odds" % SPORTS[sport],
+                         bookmakers=BOOKS, markets=MARKETS,
+                         oddsFormat="decimal", dateFormat="iso")
 
-    if mode == "closing":
-        if CLOSE_MIN >= CLOSE_MAX:
-            print("bad window: CLOSE_MIN %d >= CLOSE_MAX %d" % (CLOSE_MIN, CLOSE_MAX))
-            sys.exit(1)
-        # FREE call — costs no credits.
-        events, _, _ = api_get("/sports/%s/events" % key)
-        already = done_ids(sport)
-        lo = now + timedelta(minutes=CLOSE_MIN)
-        hi = now + timedelta(minutes=CLOSE_MAX)
-        targets = [e["id"] for e in events
-                   if e["id"] not in already and lo <= parse_iso(e["commence_time"]) <= hi]
-        waiting = pending_soon(events, already, now)
-        if not targets:
-            print("no games in the %d-%d min window; exiting without spending credits "
-                  "(%d game(s) pending in the next hour)" % (CLOSE_MIN, CLOSE_MAX, waiting))
-            return
-        print("closing window (%d-%d min) hit for %d event(s)" % (
-            CLOSE_MIN, CLOSE_MAX, len(targets)))
+    games = sorted([e for e in odds if now <= parse_iso(e["commence_time"]) <= horizon],
+                   key=lambda e: e["commence_time"])
 
-    odds, left, used = api_get("/sports/%s/odds" % key,
-                               bookmakers=BOOKS, markets=MARKETS,
-                               oddsFormat="decimal", dateFormat="iso")
-
-    if mode == "closing":
-        odds = [e for e in odds if e["id"] in targets]
-    else:
-        # Books keep months of future rounds open; only the current horizon
-        # belongs in the CSV and the digest.
-        horizon_h = env_int("HORIZON_H", HORIZON.get(sport, 30))
-        edge = now + timedelta(hours=horizon_h)
-        total = len(odds)
-        odds = [e for e in odds if now <= parse_iso(e["commence_time"]) <= edge]
-        dropped = total - len(odds)
-        print("horizon %dh: kept %d of %d event(s)" % (horizon_h, len(odds), total))
-
-    if not odds:
-        print("no events returned; nothing written")
+    if not games:
+        print("no games inside the %dh window" % WINDOW_HOURS[sport])
         return
 
-    rows = flatten(odds, stamp, mode)
-    path = write_rows(sport, rows)
-    if mode == "closing":
-        mark_done(sport, [e["id"] for e in odds])
+    header = ("%s \u2014 \u0441\u0432\u043e\u0434\u043a\u0430 \u043d\u0430 \u0442\u0443\u0440\n"
+              "%s UTC  |  \u043c\u0430\u0442\u0447\u0435\u0439: %d  |  \u043e\u043a\u043d\u043e: %d\u0447\n"
+              "fair = Pinnacle \u0431\u0435\u0437 \u043c\u0430\u0440\u0436\u0438  |  "
+              "\u0442\u043e\u0442\u0430\u043b \u0438 \u0444\u043e\u0440\u0430 \u2014 \u043e\u0434\u043d\u0430 \u043b\u0438\u043d\u0438\u044f, \u043c\u0438\u043d\u0438\u043c\u0443\u043c %d \u043a\u043d\u0438\u0433\u0438  |  "
+              "<< = \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u043e\u0442 %.0f%%\n"
+              % (TITLES[sport], now.strftime("%Y-%m-%d %H:%M"), len(games),
+                 WINDOW_HOURS[sport], MIN_BOOKS, EDGE_PCT))
 
-    tg_send(summarise(sport, odds, stamp, mode, left, rows, waiting,
-                      horizon_h, dropped))
-    print("wrote %d rows to %s | credits used %s, left %s" % (len(rows), path, used, left))
-    # Signal the workflow that there is something to commit.
-    gh = os.environ.get("GITHUB_OUTPUT")
-    if gh:
-        with open(gh, "a") as f:
-            f.write("changed=true\n")
+    blocks = []
+    for ev in games:
+        start = parse_iso(ev["commence_time"]).strftime("%d.%m %H:%M")
+        # европейская подача: хозяева первыми
+        block = ["\n%s \u2014 %s  (%s UTC)" % (ev.get("home_team", "?"),
+                                               ev.get("away_team", "?"), start)]
+        block += h2h_rows(ev)
+        block += pointed_rows(ev, "totals", "T")
+        block += pointed_rows(ev, "spreads", "F")
+        blocks.append("\n".join(block))
+
+    chunk = header
+    sent = 0
+    for b in blocks:
+        if len(chunk) + len(b) > MSG_LIMIT:
+            tg_send(chunk)
+            sent += 1
+            chunk = ""
+        chunk += b + "\n"
+    if chunk.strip():
+        chunk += "\n\u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: %s" % left
+        tg_send(chunk)
+        sent += 1
+
+    print("digest sent in %d message(s), %d games, credits left %s"
+          % (sent, len(games), left))
 
 
 if __name__ == "__main__":
