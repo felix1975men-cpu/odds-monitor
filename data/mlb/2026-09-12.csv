@@ -2555,3 +2555,163 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-12T19:38:23Z,closing,119e7c7799ddcc034a09522f5abe00ba,2026-09-12T20:06:00Z,San Francisco Giants,San Diego Padres,betfair_ex_eu,h2h,San Francisco Giants,,2.68
 2026-09-12T19:38:23Z,closing,119e7c7799ddcc034a09522f5abe00ba,2026-09-12T20:06:00Z,San Francisco Giants,San Diego Padres,betfair_ex_eu,h2h_lay,San Diego Padres,,1.59
 2026-09-12T19:38:23Z,closing,119e7c7799ddcc034a09522f5abe00ba,2026-09-12T20:06:00Z,San Francisco Giants,San Diego Padres,betfair_ex_eu,h2h_lay,San Francisco Giants,,2.74
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,fanduel,h2h,Boston Red Sox,,1.43
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,fanduel,h2h,Kansas City Royals,,2.9
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,fanduel,spreads,Boston Red Sox,-1.5,2.0
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,fanduel,spreads,Kansas City Royals,1.5,1.83
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,fanduel,totals,Over,8.5,1.87
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,fanduel,totals,Under,8.5,1.95
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betsson,h2h,Boston Red Sox,,1.44
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betsson,h2h,Kansas City Royals,,2.78
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betsson,spreads,Boston Red Sox,-1.5,1.93
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betsson,spreads,Kansas City Royals,1.5,1.83
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betsson,totals,Over,8.5,1.82
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betsson,totals,Under,8.5,1.95
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betmgm,h2h,Boston Red Sox,,1.44
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betmgm,h2h,Kansas City Royals,,2.85
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betmgm,spreads,Boston Red Sox,-1.5,1.95
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betmgm,spreads,Kansas City Royals,1.5,1.87
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betmgm,totals,Over,8.5,1.85
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betmgm,totals,Under,8.5,1.98
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,draftkings,h2h,Boston Red Sox,,1.44
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,draftkings,h2h,Kansas City Royals,,2.83
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,draftkings,spreads,Boston Red Sox,-1.5,1.95
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,draftkings,spreads,Kansas City Royals,1.5,1.88
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,draftkings,totals,Over,8.5,1.85
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,draftkings,totals,Under,8.5,1.98
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,coolbet,h2h,Boston Red Sox,,1.43
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,coolbet,h2h,Kansas City Royals,,2.85
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,coolbet,spreads,Boston Red Sox,-1.5,2.0
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,coolbet,spreads,Kansas City Royals,1.5,1.82
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,coolbet,totals,Over,8.5,1.89
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,coolbet,totals,Under,8.5,1.92
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,pinnacle,h2h,Boston Red Sox,,1.47
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,pinnacle,h2h,Kansas City Royals,,2.92
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,pinnacle,spreads,Boston Red Sox,-1.5,2.04
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,pinnacle,spreads,Kansas City Royals,1.5,1.87
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,pinnacle,totals,Over,8.5,1.88
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,pinnacle,totals,Under,8.5,2.0
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,h2h,Boston Red Sox,,1.48
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,h2h,Kansas City Royals,,3.05
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,h2h_lay,Boston Red Sox,,1.49
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,h2h_lay,Kansas City Royals,,3.1
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,spreads,Boston Red Sox,-1.5,2.04
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,spreads,Kansas City Royals,1.5,1.9
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,totals,Over,8.5,1.92
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,matchbook,totals,Under,8.5,2.0
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betrivers,h2h,Boston Red Sox,,1.42
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betrivers,h2h,Kansas City Royals,,3.0
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betrivers,spreads,Boston Red Sox,-1.5,1.88
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betrivers,spreads,Kansas City Royals,1.5,1.93
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betrivers,totals,Over,8.5,1.88
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betrivers,totals,Under,8.5,1.93
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h,Boston Red Sox,,1.48
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h,Kansas City Royals,,3.05
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h_lay,Boston Red Sox,,1.49
+2026-09-12T19:50:46Z,closing,faaa421be783eb6c7c0a7508f6d200a8,2026-09-12T20:11:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h_lay,Kansas City Royals,,3.1
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,fanduel,h2h,Cleveland Guardians,,1.93
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,fanduel,h2h,Minnesota Twins,,1.93
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,fanduel,spreads,Cleveland Guardians,-1.5,2.5
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,fanduel,spreads,Minnesota Twins,1.5,1.55
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,fanduel,totals,Over,8.5,1.94
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,fanduel,totals,Under,8.5,1.88
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betmgm,h2h,Cleveland Guardians,,1.91
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betmgm,h2h,Minnesota Twins,,1.91
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betmgm,totals,Over,8.5,1.98
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betmgm,totals,Under,8.5,1.85
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betsson,h2h,Cleveland Guardians,,1.9
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betsson,h2h,Minnesota Twins,,1.9
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betsson,spreads,Cleveland Guardians,1.5,1.43
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betsson,spreads,Minnesota Twins,-1.5,2.75
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betsson,totals,Over,8.5,1.93
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betsson,totals,Under,8.5,1.83
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,draftkings,h2h,Cleveland Guardians,,1.93
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,draftkings,h2h,Minnesota Twins,,1.9
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,draftkings,spreads,Cleveland Guardians,-1.5,2.49
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,draftkings,spreads,Minnesota Twins,1.5,1.55
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,draftkings,totals,Over,8.0,1.83
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,draftkings,totals,Under,8.0,1.99
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betrivers,h2h,Cleveland Guardians,,1.93
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betrivers,h2h,Minnesota Twins,,1.89
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betrivers,spreads,Cleveland Guardians,-1.5,2.55
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betrivers,spreads,Minnesota Twins,1.5,1.53
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betrivers,totals,Over,8.5,1.97
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betrivers,totals,Under,8.5,1.83
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,coolbet,h2h,Cleveland Guardians,,1.91
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,coolbet,h2h,Minnesota Twins,,1.91
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,coolbet,spreads,Cleveland Guardians,-1.5,2.47
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,coolbet,spreads,Minnesota Twins,1.5,1.55
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,coolbet,totals,Over,8.0,1.85
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,coolbet,totals,Under,8.0,1.96
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betfair_ex_eu,h2h,Cleveland Guardians,,2.0
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betfair_ex_eu,h2h,Minnesota Twins,,1.98
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betfair_ex_eu,h2h_lay,Cleveland Guardians,,2.04
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,betfair_ex_eu,h2h_lay,Minnesota Twins,,2.0
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,h2h,Cleveland Guardians,,2.0
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,h2h,Minnesota Twins,,1.98
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,h2h_lay,Cleveland Guardians,,2.04
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,h2h_lay,Minnesota Twins,,2.0
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,spreads,Cleveland Guardians,-1.5,2.58
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,spreads,Minnesota Twins,1.5,1.59
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,totals,Over,8.5,2.02
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,matchbook,totals,Under,8.5,1.91
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,pinnacle,h2h,Cleveland Guardians,,1.97
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,pinnacle,h2h,Minnesota Twins,,1.95
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,pinnacle,spreads,Cleveland Guardians,-1.5,2.53
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,pinnacle,spreads,Minnesota Twins,1.5,1.58
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,pinnacle,totals,Over,8.5,2.01
+2026-09-12T19:50:46Z,closing,7c083bc7ca5ace85fbfaee34ab962b91,2026-09-12T20:11:00Z,Minnesota Twins,Cleveland Guardians,pinnacle,totals,Under,8.5,1.88
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,fanduel,h2h,Los Angeles Dodgers,,1.58
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,fanduel,h2h,Miami Marlins,,2.44
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,fanduel,spreads,Los Angeles Dodgers,-1.5,2.04
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,fanduel,spreads,Miami Marlins,1.5,1.8
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,fanduel,totals,Over,7.5,1.81
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,fanduel,totals,Under,7.5,2.02
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,coolbet,h2h,Los Angeles Dodgers,,1.58
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,coolbet,h2h,Miami Marlins,,2.4
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,coolbet,spreads,Los Angeles Dodgers,-1.5,2.0
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,coolbet,spreads,Miami Marlins,1.5,1.82
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,coolbet,totals,Over,8.0,1.96
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,coolbet,totals,Under,8.0,1.85
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betmgm,h2h,Los Angeles Dodgers,,1.59
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betmgm,h2h,Miami Marlins,,2.4
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betmgm,spreads,Los Angeles Dodgers,-1.5,2.0
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betmgm,spreads,Miami Marlins,1.5,1.83
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betmgm,totals,Over,8.0,1.95
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betmgm,totals,Under,8.0,1.87
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betsson,h2h,Los Angeles Dodgers,,1.58
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betsson,h2h,Miami Marlins,,2.37
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betsson,spreads,Los Angeles Dodgers,-1.5,1.97
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betsson,spreads,Miami Marlins,1.5,1.8
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betsson,totals,Over,8.0,1.9
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betsson,totals,Under,8.0,1.86
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,draftkings,h2h,Los Angeles Dodgers,,1.6
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,draftkings,h2h,Miami Marlins,,2.38
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,draftkings,spreads,Los Angeles Dodgers,-1.5,2.0
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,draftkings,spreads,Miami Marlins,1.5,1.83
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,draftkings,totals,Over,8.0,1.95
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,draftkings,totals,Under,8.0,1.88
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,pinnacle,h2h,Los Angeles Dodgers,,1.62
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,pinnacle,h2h,Miami Marlins,,2.48
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,pinnacle,spreads,Los Angeles Dodgers,-1.5,2.03
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,pinnacle,spreads,Miami Marlins,1.5,1.88
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,pinnacle,totals,Over,8.0,2.02
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,pinnacle,totals,Under,8.0,1.87
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betrivers,h2h,Los Angeles Dodgers,,1.55
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betrivers,h2h,Miami Marlins,,2.55
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betrivers,spreads,Los Angeles Dodgers,-1.5,1.93
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betrivers,spreads,Miami Marlins,1.5,1.88
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betrivers,totals,Over,8.0,1.83
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betrivers,totals,Under,8.0,1.85
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betfair_ex_eu,h2h,Los Angeles Dodgers,,1.64
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betfair_ex_eu,h2h,Miami Marlins,,2.52
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betfair_ex_eu,h2h_lay,Los Angeles Dodgers,,1.66
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,betfair_ex_eu,h2h_lay,Miami Marlins,,2.56
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,h2h,Los Angeles Dodgers,,1.64
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,h2h,Miami Marlins,,2.52
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,h2h_lay,Los Angeles Dodgers,,1.65
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,h2h_lay,Miami Marlins,,2.58
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,spreads,Los Angeles Dodgers,-1.5,2.04
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,spreads,Miami Marlins,1.5,1.88
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,totals,Over,7.5,1.88
+2026-09-12T19:50:46Z,closing,964e45be7256059f585689e2580e6e87,2026-09-12T20:11:00Z,Miami Marlins,Los Angeles Dodgers,matchbook,totals,Under,7.5,2.04
