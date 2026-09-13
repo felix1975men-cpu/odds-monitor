@@ -8,8 +8,16 @@ on:
 permissions:
   contents: write
 
+# Своя группа, отдельно от odds-commit.
+# 12 сентября закрытия оборвались после 19:50 UTC и не сняли семь
+# вечерних матчей плюс Chicago Cubs - Pittsburgh из дыры 17:09-18:42:
+# в очереди группы GitHub держит только ОДИН ожидающий запуск, и
+# каждый следующий запрос вытеснял ожидающее закрытие. При кроне раз
+# в 15 минут эта работа попадает под вытеснение чаще всех остальных.
+# CLV по тем пикам потерян навсегда — закрытие снимается только в
+# окне перед матчем и задним числом не восстанавливается.
 concurrency:
-  group: odds-commit
+  group: odds-closing
   cancel-in-progress: false
 
 jobs:
@@ -46,9 +54,11 @@ jobs:
             exit 0
           fi
           git commit -m "${{ matrix.sport }} closing $(date -u +%Y-%m-%dT%H:%MZ)"
-          for i in 1 2 3; do
+          # Пять попыток с растущей паузой: закрытия теперь пушат
+          # параллельно со снапшотами и результатами.
+          for i in 1 2 3 4 5; do
             git pull --rebase --autostash && git push && exit 0
-            sleep 5
+            sleep $((i * 5))
           done
           echo "push failed after retries" >&2
           exit 1
