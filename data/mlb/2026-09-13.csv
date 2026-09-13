@@ -1397,3 +1397,57 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-13T19:23:54Z,closing,119261d49b81854e942bebf7f44afa6b,2026-09-13T19:46:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h,Kansas City Royals,,2.74
 2026-09-13T19:23:54Z,closing,119261d49b81854e942bebf7f44afa6b,2026-09-13T19:46:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h_lay,Boston Red Sox,,1.58
 2026-09-13T19:23:54Z,closing,119261d49b81854e942bebf7f44afa6b,2026-09-13T19:46:00Z,Boston Red Sox,Kansas City Royals,betfair_ex_eu,h2h_lay,Kansas City Royals,,2.84
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,fanduel,h2h,Athletics,,2.16
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,fanduel,h2h,Seattle Mariners,,1.74
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,fanduel,spreads,Athletics,1.5,1.71
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,fanduel,spreads,Seattle Mariners,-1.5,2.16
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,fanduel,totals,Over,9.5,2.08
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,fanduel,totals,Under,9.5,1.76
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betmgm,h2h,Athletics,,2.1
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betmgm,h2h,Seattle Mariners,,1.74
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betmgm,spreads,Athletics,1.5,1.69
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betmgm,spreads,Seattle Mariners,-1.5,2.2
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betmgm,totals,Over,9.0,1.85
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betmgm,totals,Under,9.0,1.98
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,draftkings,h2h,Athletics,,2.11
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,draftkings,h2h,Seattle Mariners,,1.75
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,draftkings,spreads,Athletics,1.5,1.68
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,draftkings,spreads,Seattle Mariners,-1.5,2.23
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,draftkings,totals,Over,9.0,1.94
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,draftkings,totals,Under,9.0,1.88
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,h2h,Athletics,,2.18
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,h2h,Seattle Mariners,,1.83
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,h2h_lay,Athletics,,2.2
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,h2h_lay,Seattle Mariners,,1.85
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,spreads,Athletics,1.5,1.7
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,spreads,Seattle Mariners,-1.5,2.3
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,totals,Over,8.5,1.8
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,matchbook,totals,Under,8.5,2.12
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betsson,h2h,Athletics,,2.07
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betsson,h2h,Seattle Mariners,,1.76
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betsson,spreads,Athletics,1.5,1.66
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betsson,spreads,Seattle Mariners,-1.5,2.17
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betsson,totals,Over,10.0,2.27
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betsson,totals,Under,10.0,1.6
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,pinnacle,h2h,Athletics,,2.17
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,pinnacle,h2h,Seattle Mariners,,1.79
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,pinnacle,spreads,Athletics,1.5,1.73
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,pinnacle,spreads,Seattle Mariners,-1.5,2.23
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,pinnacle,totals,Over,9.0,1.98
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,pinnacle,totals,Under,9.0,1.91
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,coolbet,h2h,Athletics,,2.12
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,coolbet,h2h,Seattle Mariners,,1.73
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,coolbet,spreads,Athletics,1.5,1.68
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,coolbet,spreads,Seattle Mariners,-1.5,2.2
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,coolbet,totals,Over,9.0,1.87
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,coolbet,totals,Under,9.0,1.95
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betrivers,h2h,Athletics,,2.16
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betrivers,h2h,Seattle Mariners,,1.73
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betrivers,spreads,Athletics,1.5,1.7
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betrivers,spreads,Seattle Mariners,-1.5,2.18
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betrivers,totals,Over,9.0,1.85
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betrivers,totals,Under,9.0,1.83
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betfair_ex_eu,h2h,Athletics,,2.16
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betfair_ex_eu,h2h,Seattle Mariners,,1.82
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betfair_ex_eu,h2h_lay,Athletics,,2.22
+2026-09-13T19:37:06Z,closing,24dff06b7aac0693e5e299af47f50290,2026-09-13T20:06:00Z,Athletics,Seattle Mariners,betfair_ex_eu,h2h_lay,Seattle Mariners,,1.85
