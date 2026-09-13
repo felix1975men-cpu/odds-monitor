@@ -8,8 +8,15 @@ on:
 permissions:
   contents: write
 
+# Своя группа, отдельно от odds-commit.
+# В очереди группы GitHub держит только ОДИН ожидающий запуск: пока
+# результаты ждали снапшоты, следующий запрос в ту же группу вытеснил
+# их с сообщением "Canceling since a higher priority waiting request
+# exists" — 13 сентября так пропал весь блок результатов и движения
+# линий. Гонка за push с другими воркфлоу закрывается циклом
+# pull --rebase ниже, а не общей очередью.
 concurrency:
-  group: odds-commit
+  group: odds-results
   cancel-in-progress: false
 
 jobs:
@@ -40,7 +47,7 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           TG_TOKEN: ${{ secrets[format('TG_TOKEN_{0}', matrix.sport)] }}
           SPORT: ${{ matrix.sport }}
-        run: python movement.py  
+        run: python movement.py
 
       - name: Commit results
         run: |
@@ -52,8 +59,10 @@ jobs:
             exit 0
           fi
           git commit -m "${{ matrix.sport }} results $(date -u +%Y-%m-%d)"
-          for i in 1 2 3; do
+          # Пять попыток с растущей паузой: теперь результаты и снапшоты
+          # могут пушить одновременно, и разойтись они должны здесь.
+          for i in 1 2 3 4 5; do
             git pull --rebase --autostash && git push && exit 0
-            sleep 5
+            sleep $((i * 5))
           done
           exit 1
