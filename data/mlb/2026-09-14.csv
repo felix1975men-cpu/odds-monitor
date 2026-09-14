@@ -2291,3 +2291,601 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-14T22:11:44Z,closing,fd0c792d70a4325cb16c03c7af9a089a,2026-09-14T22:41:00Z,Cincinnati Reds,Los Angeles Dodgers,pinnacle,alternate_totals,Under,8.0,1.75
 2026-09-14T22:11:44Z,closing,fd0c792d70a4325cb16c03c7af9a089a,2026-09-14T22:41:00Z,Cincinnati Reds,Los Angeles Dodgers,pinnacle,alternate_totals,Under,8.5,1.65
 2026-09-14T22:11:44Z,closing,fd0c792d70a4325cb16c03c7af9a089a,2026-09-14T22:41:00Z,Cincinnati Reds,Los Angeles Dodgers,pinnacle,alternate_totals,Under,9.0,1.49
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,h2h,Detroit Tigers,,2.2
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,h2h,Toronto Blue Jays,,1.7
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,spreads,Detroit Tigers,1.5,1.53
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,spreads,Toronto Blue Jays,-1.5,2.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,totals,Over,7.5,1.91
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,totals,Under,7.5,1.91
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,h2h,Detroit Tigers,,2.18
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,h2h,Toronto Blue Jays,,1.69
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,spreads,Detroit Tigers,1.5,1.54
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,spreads,Toronto Blue Jays,-1.5,2.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,totals,Over,7.5,1.91
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,totals,Under,7.5,1.91
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,h2h,Detroit Tigers,,2.23
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,h2h,Toronto Blue Jays,,1.67
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,spreads,Detroit Tigers,1.5,1.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,spreads,Toronto Blue Jays,-1.5,2.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,totals,Over,7.5,1.93
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,totals,Under,7.5,1.89
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,h2h,Detroit Tigers,,2.2
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,h2h,Toronto Blue Jays,,1.68
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,spreads,Detroit Tigers,1.5,1.53
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,spreads,Toronto Blue Jays,-1.5,2.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,totals,Over,7.5,1.93
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,totals,Under,7.5,1.88
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,h2h,Detroit Tigers,,2.28
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,h2h,Toronto Blue Jays,,1.76
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,h2h_lay,Detroit Tigers,,2.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,h2h_lay,Toronto Blue Jays,,1.77
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,spreads,Detroit Tigers,1.5,1.57
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,spreads,Toronto Blue Jays,-1.5,2.62
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,totals,Over,7.5,1.99
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,matchbook,totals,Under,7.5,1.92
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,h2h,Detroit Tigers,,2.25
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,h2h,Toronto Blue Jays,,1.74
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,spreads,Detroit Tigers,1.5,1.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,spreads,Toronto Blue Jays,-1.5,2.63
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,totals,Over,7.5,1.96
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,totals,Under,7.5,1.93
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betfair_ex_eu,h2h,Detroit Tigers,,2.28
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betfair_ex_eu,h2h,Toronto Blue Jays,,1.76
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betfair_ex_eu,h2h_lay,Detroit Tigers,,2.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betfair_ex_eu,h2h_lay,Toronto Blue Jays,,1.77
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betsson,h2h,Detroit Tigers,,2.18
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betsson,h2h,Toronto Blue Jays,,1.68
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betsson,spreads,Detroit Tigers,1.5,1.54
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betsson,spreads,Toronto Blue Jays,-1.5,2.42
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betsson,totals,Over,7.5,1.86
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betsson,totals,Under,7.5,1.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,h2h,Baltimore Orioles,,2.18
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,h2h,New York Mets,,1.72
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,spreads,Baltimore Orioles,1.5,1.52
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,spreads,New York Mets,-1.5,2.6
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,totals,Over,8.5,2.04
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,totals,Under,8.5,1.78
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,h2h,Baltimore Orioles,,2.2
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,h2h,New York Mets,,1.69
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,spreads,Baltimore Orioles,1.5,1.54
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,spreads,New York Mets,-1.5,2.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,totals,Over,8.0,1.83
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,totals,Under,8.0,2.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,h2h,Baltimore Orioles,,2.18
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,h2h,New York Mets,,1.7
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,spreads,Baltimore Orioles,1.5,1.55
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,spreads,New York Mets,-1.5,2.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,totals,Over,8.5,1.94
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,totals,Under,8.5,1.88
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,h2h,Baltimore Orioles,,2.23
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,h2h,New York Mets,,1.68
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,spreads,Baltimore Orioles,1.5,1.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,spreads,New York Mets,-1.5,2.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,totals,Over,8.0,1.78
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,totals,Under,8.0,1.89
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,h2h,Baltimore Orioles,,2.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,h2h,New York Mets,,1.72
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,h2h_lay,Baltimore Orioles,,2.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,h2h_lay,New York Mets,,1.77
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,spreads,Baltimore Orioles,1.5,1.61
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,spreads,New York Mets,-1.5,2.54
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,totals,Over,8.5,2.06
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,matchbook,totals,Under,8.5,1.87
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,h2h,Baltimore Orioles,,2.27
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,h2h,New York Mets,,1.72
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,spreads,Baltimore Orioles,1.5,1.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,spreads,New York Mets,-1.5,2.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,totals,Over,8.0,1.88
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,totals,Under,8.0,2.01
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betfair_ex_eu,h2h,Baltimore Orioles,,2.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betfair_ex_eu,h2h,New York Mets,,1.73
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betfair_ex_eu,h2h_lay,Baltimore Orioles,,2.36
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betfair_ex_eu,h2h_lay,New York Mets,,1.77
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betsson,h2h,Baltimore Orioles,,2.18
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betsson,h2h,New York Mets,,1.68
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betsson,spreads,Baltimore Orioles,1.5,1.56
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betsson,spreads,New York Mets,-1.5,2.36
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betsson,totals,Over,8.5,1.93
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betsson,totals,Under,8.5,1.83
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,6.5,1.03
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,5.5,1.06
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,4.5,1.11
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,3.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,2.5,1.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,1.5,1.52
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-1.5,2.9
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-2.5,4.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-3.5,5.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-4.5,7.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-5.5,10.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-6.5,12.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-7.5,15.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Detroit Tigers,-8.5,18.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-8.5,16.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-7.5,14.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-6.5,11.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-5.5,8.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-4.5,6.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-3.5,4.6
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-2.5,3.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,-1.5,2.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,1.5,1.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,2.5,1.23
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,3.5,1.14
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,4.5,1.08
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,5.5,1.04
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_spreads,Toronto Blue Jays,6.5,1.02
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,2.5,1.02
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,3.5,1.11
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,4.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,5.5,1.34
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,6.5,1.52
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,7.5,1.88
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,8.5,2.24
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,9.5,2.9
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,10.5,3.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,11.5,4.6
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,12.5,5.8
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,13.5,7.8
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,14.5,10.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,15.5,13.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,16.5,16.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Over,17.5,19.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,1.5,18.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,2.5,12.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,3.5,6.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,4.5,4.6
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,5.5,3.15
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,6.5,2.48
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,7.5,1.88
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,8.5,1.63
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,9.5,1.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,10.5,1.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,11.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,12.5,1.12
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,13.5,1.07
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,14.5,1.04
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,fanduel,alternate_totals,Under,15.5,1.02
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Detroit Tigers,2.5,1.31
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Detroit Tigers,1.5,1.54
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Detroit Tigers,-1.5,2.85
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Detroit Tigers,-2.5,4.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Detroit Tigers,3.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Detroit Tigers,-3.5,5.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Toronto Blue Jays,-2.5,3.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Toronto Blue Jays,-1.5,2.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Toronto Blue Jays,1.5,1.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Toronto Blue Jays,2.5,1.22
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Toronto Blue Jays,-3.5,4.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_spreads,Toronto Blue Jays,3.5,1.13
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,3.5,1.09
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,4.0,1.1
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,4.5,1.17
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,5.0,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,5.5,1.33
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,6.0,1.36
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,6.5,1.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,7.0,1.65
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,7.5,1.91
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,8.0,2.05
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,8.5,2.25
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,9.0,2.65
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,9.5,3.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,10.0,3.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,10.5,3.7
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,11.0,4.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,11.5,4.75
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,12.0,5.75
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,12.5,5.75
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,13.0,7.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,3.0,1.02
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,3.5,6.75
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,4.0,6.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,4.5,4.75
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,5.0,4.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,5.5,3.2
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,6.0,3.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,6.5,2.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,7.0,2.18
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,7.5,1.91
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,8.0,1.71
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,8.5,1.62
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,9.0,1.45
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,9.5,1.36
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,10.0,1.31
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,10.5,1.27
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,11.0,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,11.5,1.17
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,12.0,1.12
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,12.5,1.12
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,13.0,1.07
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,2.5,12.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,3.0,11.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,2.0,21.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betmgm,alternate_totals,Under,2.0,20.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-4.5,7.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-4.0,7.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-3.5,5.56
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-3.0,5.25
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-2.5,4.06
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-2.0,3.73
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-1.5,2.94
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,-1.0,2.63
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,1.0,1.78
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,2.0,1.38
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,2.5,1.32
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,3.0,1.22
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,3.5,1.2
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,4.0,1.13
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,4.5,1.12
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Detroit Tigers,5.0,1.07
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,4.5,1.07
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,4.0,1.08
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,3.5,1.13
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,3.0,1.14
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,2.5,1.22
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,2.0,1.26
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,1.5,1.38
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,1.0,1.46
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-1.0,1.99
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-2.0,2.94
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-2.5,3.23
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-3.0,4.04
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-3.5,4.33
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-4.0,5.58
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-4.5,5.87
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_spreads,Toronto Blue Jays,-5.0,7.6
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,4.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,5.0,1.22
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,5.5,1.37
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,6.0,1.42
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,6.5,1.54
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,7.0,1.68
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,8.0,2.06
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,8.5,2.22
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,9.0,2.59
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,9.5,2.85
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,10.0,3.24
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,10.5,3.42
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,11.0,4.25
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,11.5,4.52
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,12.0,5.35
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Over,12.5,5.53
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,4.5,4.49
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,5.0,4.06
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,5.5,2.99
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,6.0,2.77
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,6.5,2.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,7.0,2.13
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,8.0,1.72
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,8.5,1.63
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,9.0,1.47
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,9.5,1.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,10.0,1.32
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,10.5,1.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,11.0,1.21
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,11.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,12.0,1.14
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,draftkings,alternate_totals,Under,12.5,1.13
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Detroit Tigers,-1.5,3.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Detroit Tigers,1.5,1.53
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Detroit Tigers,3.0,1.22
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Detroit Tigers,-2.0,3.75
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Detroit Tigers,2.0,1.36
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Detroit Tigers,2.5,1.32
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Toronto Blue Jays,1.5,1.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Toronto Blue Jays,-1.5,2.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Toronto Blue Jays,-3.0,4.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Toronto Blue Jays,2.0,1.28
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Toronto Blue Jays,-2.0,3.1
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_spreads,Toronto Blue Jays,-2.5,3.45
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,6.5,1.56
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,7.0,1.66
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,11.5,4.8
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,12.0,5.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,8.0,2.02
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,7.5,1.93
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,11.0,4.1
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,10.0,3.15
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,6.0,1.41
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,9.5,2.95
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,8.5,2.28
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,10.5,3.6
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,5.5,1.4
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Over,9.0,2.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,6.5,2.43
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,7.0,2.06
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,11.5,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,12.0,1.12
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,8.0,1.68
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,7.5,1.88
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,11.0,1.19
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,10.0,1.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,6.0,2.63
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,9.5,1.41
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,8.5,1.64
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,10.5,1.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,5.5,3.0
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,betrivers,alternate_totals,Under,9.0,1.43
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,1.5,1.55
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,-1.5,2.96
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,-1.0,2.65
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,1.0,1.79
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,2.0,1.38
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,2.5,1.32
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Detroit Tigers,3.0,1.21
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,-1.5,2.63
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,1.5,1.42
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,1.0,1.52
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,-1.0,2.12
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,-2.0,3.21
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,-2.5,3.5
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_spreads,Toronto Blue Jays,-3.0,4.42
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,7.5,1.96
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,6.0,1.44
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,6.5,1.57
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,7.0,1.72
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,8.0,2.13
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,8.5,2.3
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Over,9.0,2.67
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,7.5,1.93
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,6.0,2.86
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,6.5,2.49
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,7.0,2.21
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,8.0,1.78
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,8.5,1.67
+2026-09-14T22:45:35Z,closing,b2124bf9ac2a7c068e866541e3d9bebe,2026-09-14T23:08:00Z,Toronto Blue Jays,Detroit Tigers,pinnacle,alternate_totals,Under,9.0,1.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,6.5,1.02
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,5.5,1.05
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,4.5,1.1
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,3.5,1.17
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,2.5,1.29
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,1.5,1.49
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-1.5,2.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-2.5,4.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-3.5,5.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-4.5,7.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-5.5,10.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-6.5,13.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-7.5,16.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-8.5,18.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-8.5,18.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-7.5,16.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-6.5,12.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-5.5,9.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-4.5,6.6
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-3.5,4.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-2.5,3.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,-1.5,2.58
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,1.5,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,2.5,1.23
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,3.5,1.14
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,4.5,1.08
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,5.5,1.04
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_spreads,New York Mets,6.5,1.02
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,3.5,1.06
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,4.5,1.13
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,5.5,1.29
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,6.5,1.43
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,7.5,1.74
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,8.5,2.04
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,9.5,2.68
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,10.5,3.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,11.5,4.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,12.5,5.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,13.5,7.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,14.5,9.7
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,15.5,12.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,16.5,15.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Over,17.5,18.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,2.5,16.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,3.5,8.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,4.5,5.8
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,5.5,3.55
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,6.5,2.8
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,7.5,2.06
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,8.5,1.76
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,9.5,1.45
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,10.5,1.32
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,11.5,1.2
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,12.5,1.14
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,13.5,1.08
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,14.5,1.05
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,fanduel,alternate_totals,Under,15.5,1.02
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,2.5,1.31
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,1.5,1.54
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,-1.5,2.85
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,-2.5,3.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,-3.5,5.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,3.5,1.19
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,New York Mets,-2.5,3.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,New York Mets,-1.5,2.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,New York Mets,1.5,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,New York Mets,2.5,1.24
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,New York Mets,3.5,1.14
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_spreads,New York Mets,-3.5,4.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,3.5,1.07
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,4.0,1.07
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,4.5,1.12
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,5.0,1.14
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,5.5,1.27
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,6.0,1.29
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,6.5,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,7.0,1.48
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,7.5,1.67
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,8.0,1.83
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,8.5,1.98
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,9.0,2.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,9.5,2.54
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,10.0,2.85
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,10.5,3.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,11.0,3.7
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,11.5,3.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,12.0,4.6
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,12.5,4.75
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,13.0,6.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,13.5,6.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,3.0,1.02
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,2.5,1.01
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,3.5,7.75
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,4.0,7.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,4.5,5.75
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,5.0,5.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,5.5,3.7
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,6.0,3.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,6.5,2.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,7.0,2.6
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,7.5,2.15
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,8.0,2.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,8.5,1.8
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,9.0,1.61
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,9.5,1.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,10.0,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,10.5,1.36
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,11.0,1.27
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,11.5,1.24
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,12.0,1.18
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,12.5,1.17
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,13.0,1.11
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,13.5,1.1
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,2.5,15.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,3.0,14.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,2.5,14.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betmgm,alternate_totals,Under,3.0,14.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-4.5,6.93
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-4.0,6.65
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-3.5,5.11
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-3.0,4.82
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-2.5,3.8
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-2.0,3.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-1.5,2.82
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-1.0,2.53
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,1.0,1.76
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,2.0,1.38
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,2.5,1.32
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,3.0,1.23
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,3.5,1.21
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,4.0,1.14
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,4.5,1.13
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,5.0,1.08
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,4.5,1.09
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,4.0,1.09
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,3.5,1.15
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,3.0,1.17
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,2.5,1.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,2.0,1.28
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,1.5,1.41
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,1.0,1.49
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-1.0,2.01
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-2.0,2.95
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-2.5,3.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-3.0,3.99
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-3.5,4.26
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-4.0,5.34
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-4.5,5.6
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_spreads,New York Mets,-5.0,7.2
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,4.5,1.13
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,5.0,1.15
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,5.5,1.28
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,6.0,1.31
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,6.5,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,7.0,1.49
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,7.5,1.67
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,8.0,1.77
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,9.0,2.15
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,9.5,2.37
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,10.0,2.64
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,10.5,2.81
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,11.0,3.38
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,11.5,3.64
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,12.0,4.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Over,12.5,4.44
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,4.5,5.53
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,5.0,5.08
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,5.5,3.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,6.0,3.34
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,6.5,2.83
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,7.0,2.54
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,7.5,2.15
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,8.0,2.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,9.0,1.67
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,9.5,1.56
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,10.0,1.46
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,10.5,1.41
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,11.0,1.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,11.5,1.27
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,12.0,1.21
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,draftkings,alternate_totals,Under,12.5,1.19
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,1.5,1.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,3.0,1.25
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,-2.0,3.8
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,-1.5,3.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,2.0,1.41
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,2.5,1.36
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,New York Mets,-1.5,2.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,New York Mets,-3.0,3.95
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,New York Mets,2.0,1.28
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,New York Mets,1.5,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,New York Mets,-2.0,2.88
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_spreads,New York Mets,-2.5,3.2
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,6.5,1.44
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,9.5,2.48
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,7.5,1.73
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,8.5,2.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,6.0,1.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,11.5,3.9
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,10.0,2.65
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,11.0,3.35
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,12.0,4.1
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,7.0,1.5
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,9.0,2.15
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,5.5,1.3
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,10.5,3.0
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Over,8.0,1.78
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,6.5,2.8
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,9.5,1.55
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,7.5,2.12
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,8.5,1.83
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,6.0,3.1
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,11.5,1.27
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,10.0,1.41
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,11.0,1.27
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,12.0,1.18
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,7.0,2.38
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,9.0,1.61
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,5.5,3.55
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,10.5,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,betrivers,alternate_totals,Under,8.0,1.89
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,1.5,1.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,-1.5,2.94
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,-1.0,2.66
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,1.0,1.82
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,2.0,1.4
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,2.5,1.34
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,3.0,1.23
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,-1.5,2.57
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,1.5,1.42
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,1.0,1.52
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,-1.0,2.08
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,-2.0,3.12
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,-2.5,3.41
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_spreads,New York Mets,-3.0,4.28
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,8.0,1.88
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,6.5,1.45
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,7.0,1.55
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,7.5,1.75
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,8.5,2.03
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,9.0,2.35
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Over,9.5,2.61
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,8.0,2.01
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,6.5,2.83
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,7.0,2.55
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,7.5,2.16
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,8.5,1.85
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,9.0,1.64
+2026-09-14T22:45:35Z,closing,6f154c72fa0631ec5a970f84c1492463,2026-09-14T23:11:00Z,New York Mets,Baltimore Orioles,pinnacle,alternate_totals,Under,9.5,1.52
