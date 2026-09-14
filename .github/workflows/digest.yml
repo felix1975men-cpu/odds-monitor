@@ -12,7 +12,10 @@ jobs:
       max-parallel: 1
       fail-fast: false
       matrix:
-        sport: [nfl, nba, nhl, mlb]
+        # nfl ушёл в nfl-digest.yml — общий digest.py не умеет
+        # опираться на Pinnacle, когда её линия стоит на целом,
+        # а моя ставка на .5, и молча отдаёт прочерк.
+        sport: [nba, nhl, mlb]
     steps:
       - uses: actions/checkout@v4
 
