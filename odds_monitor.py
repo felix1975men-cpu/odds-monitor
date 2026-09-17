@@ -6,14 +6,20 @@ Modes:
   scheduled : snapshot of everything starting inside the league horizon
               (3 credits)
   closing   : checks /events (FREE), and only pulls odds if a game
-              starts inside the closing window (3 credits, plus 2 per
-              event for alternate lines — see fetch_alts)
+              starts inside the closing window (3 credits), then pulls
+              alternate lines per event (2 credits each)
 
 The API returns every event the books have open — in the NFL that is 212
 events against 16 in the round, months of future weeks included. Those
 rows bloated the CSV and split the digest into eight Telegram messages,
 so scheduled snapshots are cut to the league horizon before anything is
 written or sent.
+
+Alternate totals and spreads exist only on the per-event endpoint, one
+match at a time. Without them a closing price can only be read off the
+book's main line, and a pick standing half a goal away is logged as
+incomparable instead of carrying a CLV number. In hockey, where totals
+sit narrow, that is most of the picks — so closing snapshots fetch them.
 
 Env required:
   ODDS_API_KEY, TG_TOKEN, TG_CHAT_ID, SPORT
@@ -22,7 +28,8 @@ Env optional:
   CLOSE_MIN   minutes before kickoff, near edge  (default 10)
   CLOSE_MAX   minutes before kickoff, far edge   (default 30)
   HORIZON_H   scheduled horizon in hours (default: per league below)
-  NO_ALTS     set to 1 to skip alternate lines on closing
+  ALT         1 (default) | 0 — fetch alternate lines on closing
+  ALT_MAX     max events to fetch alternates for in one run (default 16)
 """
 
 import os
@@ -55,9 +62,8 @@ BOOKS = ("pinnacle,betfair_ex_eu,matchbook,betsson,coolbet,"
          "draftkings,fanduel,betmgm,betrivers")
 MARKETS = "h2h,spreads,totals"
 
-# Alternate lines are NOT available on /odds at any price — the API serves
-# them only from the per-event endpoint, one call per game.
-ALT_MARKETS = "alternate_spreads,alternate_totals"
+# Per-event only. Two markets = 2 credits per match.
+ALT_MARKETS = "alternate_totals,alternate_spreads"
 
 
 def env_int(name, default):
@@ -81,10 +87,8 @@ CSV_HEADER = ["snapshot_utc", "mode", "event_id", "commence_utc",
               "home", "away", "book", "market", "outcome", "point", "price"]
 
 
-def api_get(path, soft=False, **params):
-    """soft=True returns (None, None, None) on an HTTP error instead of
-    killing the run — used for per-event alternate calls, where one game
-    without alternate coverage must not cost us the whole closing snapshot."""
+def api_get(path, **params):
+    """Hard fetch: a failure here means no snapshot, so the job stops."""
     params["apiKey"] = os.environ["ODDS_API_KEY"]
     url = "%s%s?%s" % (API, path, urllib.parse.urlencode(params))
     try:
@@ -95,9 +99,24 @@ def api_get(path, soft=False, **params):
             return body, left, used
     except urllib.error.HTTPError as e:
         print("API error %s: %s" % (e.code, e.read().decode("utf-8")[:300]))
-        if soft:
-            return None, None, None
         sys.exit(1)
+
+
+def api_get_soft(path, **params):
+    """Best-effort fetch for alternates. The main snapshot is already in hand,
+    so a failure costs extra lines, not the run."""
+    params["apiKey"] = os.environ["ODDS_API_KEY"]
+    url = "%s%s?%s" % (API, path, urllib.parse.urlencode(params))
+    try:
+        with urllib.request.urlopen(url, timeout=60) as r:
+            body = json.loads(r.read().decode("utf-8"))
+            return body, r.headers.get("x-requests-remaining")
+    except urllib.error.HTTPError as e:
+        print("alt fetch HTTP %s on %s: %s"
+              % (e.code, path, e.read().decode("utf-8")[:200]))
+    except Exception as e:
+        print("alt fetch failed on %s: %s" % (path, e))
+    return None, None
 
 
 def _tg_post(text):
@@ -172,46 +191,26 @@ def flatten(events, stamp, mode):
     return rows
 
 
-def fetch_alts(key, events, stamp, mode):
-    """Pull alternate spreads and totals, one API call per event.
-
-    Why this exists: CLV compares the price I took on MY number against the
-    same number at close. Pinnacle's main line often sits half a point away
-    (I take Over 44.5, they close on 44) — a different bet, so the comparison
-    is meaningless without the alternate ladder. Alternate markets cannot be
-    requested from /odds at all, only from /events/{id}/odds.
-
-    Cost: 2 credits per event (2 markets x 1 region).
-    """
-    rows = []
-    left = None
-    for ev in events:
-        body, ev_left, _ = api_get("/sports/%s/events/%s/odds" % (key, ev["id"]),
-                                   soft=True, bookmakers=BOOKS,
-                                   markets=ALT_MARKETS,
-                                   oddsFormat="decimal", dateFormat="iso")
-        if ev_left:
-            left = ev_left
+def fetch_alternates(key, events, stamp, mode, cap):
+    """Alternate rungs, one event per call. Returns (rows, events_done, left)."""
+    rows, done, left = [], 0, None
+    for ev in events[:cap]:
+        body, rem = api_get_soft("/sports/%s/events/%s/odds" % (key, ev["id"]),
+                                 bookmakers=BOOKS, markets=ALT_MARKETS,
+                                 oddsFormat="decimal", dateFormat="iso")
+        if rem:
+            left = rem
         if not body:
-            print("  no alternate lines for %s" % ev["id"])
             continue
-        rows.extend(flatten([body], stamp, mode))
-    return rows, left
-
-
-def alt_note(rows):
-    """Pinnacle is the only book CLV is measured against. If the alternate
-    ladder comes back without it, the whole exercise is dead and I want to
-    see that the same evening, not three weeks later."""
-    if not rows:
-        return "\n\u0430\u043b\u044c\u0442. \u043b\u0438\u043d\u0438\u0438: \u043f\u0443\u0441\u0442\u043e"
-    books = sorted(set(r[6] for r in rows))
-    points = sorted(set(str(r[9]) for r in rows if r[9] != ""))
-    note = "\n\u0430\u043b\u044c\u0442. \u043b\u0438\u043d\u0438\u0438: %d \u0441\u0442\u0440\u043e\u043a, \u043a\u043d\u0438\u0433 %d, \u043d\u043e\u043c\u0435\u0440\u043e\u0432 %d" % (
-        len(rows), len(books), len(points))
-    if "pinnacle" not in books:
-        note += "\n\u26a0\ufe0f \u0411\u0415\u0417 PINNACLE \u2014 CLV \u043f\u043e \u043d\u0438\u043c \u043d\u0435 \u043f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c"
-    return note
+        # The per-event endpoint returns one event object, not a list.
+        got = flatten([body], stamp, mode)
+        if got:
+            rows += got
+            done += 1
+    if len(events) > cap:
+        print("alt cap %d hit: %d event(s) left without alternates"
+              % (cap, len(events) - cap))
+    return rows, done, left
 
 
 def write_rows(sport, rows):
@@ -261,7 +260,7 @@ def pending_soon(events, already, now, hours=1):
 
 
 def summarise(sport, events, stamp, mode, left, rows, waiting=None,
-              horizon_h=None, dropped=0, alts=None):
+              horizon_h=None, dropped=0, alt_events=0, alt_rows=0):
     """Short Telegram digest: Pinnacle as the anchor, best available price.
     European order — HOME team first. Two-way h2h only."""
     head = "%s \u2014 %s\n%s UTC\n" % (
@@ -319,9 +318,13 @@ def summarise(sport, events, stamp, mode, left, rows, waiting=None,
             tail += ", \u0432\u043d\u0435 \u043e\u043a\u043d\u0430 \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e: %d" % dropped
     if mode == "closing":
         tail += "\n\u043e\u043a\u043d\u043e: %d-%d \u043c\u0438\u043d \u0434\u043e \u0441\u0442\u0430\u0440\u0442\u0430" % (CLOSE_MIN, CLOSE_MAX)
+        if alt_events:
+            tail += "\n\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u044b: %d \u043c\u0430\u0442\u0447\u0435\u0439, %d \u0441\u0442\u0440\u043e\u043a" % (
+                alt_events, alt_rows)
+        else:
+            tail += "\n\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432 \u043d\u0435\u0442"
         if waiting:
             tail += "\n\u0431\u0435\u0437 \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u044f \u0432 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0439 \u0447\u0430\u0441: %d" % waiting
-        tail += alt_note(alts or [])
     if three_way:
         tail += ("\n1X2 (\u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f) \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043e \u0443 %d \u043a\u043d\u0438\u0433 \u2014 "
                  "\u0432 csv \u043a\u0430\u043a h2h_3way" % three_way)
@@ -339,6 +342,8 @@ def main():
     waiting = None
     horizon_h = None
     dropped = 0
+    alt_events = 0
+    alt_rows_n = 0
 
     if mode == "closing":
         if CLOSE_MIN >= CLOSE_MAX:
@@ -381,20 +386,21 @@ def main():
 
     rows = flatten(odds, stamp, mode)
 
-    alt_rows = []
-    if mode == "closing" and os.environ.get("NO_ALTS") != "1":
-        alt_rows, alt_left = fetch_alts(key, odds, stamp, mode)
+    if mode == "closing" and env_int("ALT", 1):
+        cap = env_int("ALT_MAX", 16)
+        alt_rows, alt_events, alt_left = fetch_alternates(key, odds, stamp, mode, cap)
+        alt_rows_n = len(alt_rows)
+        rows += alt_rows
         if alt_left:
             left = alt_left
-        rows += alt_rows
-        print("alternate lines: %d row(s) from %d event(s)" % (len(alt_rows), len(odds)))
+        print("alternates: %d event(s), %d row(s)" % (alt_events, alt_rows_n))
 
     path = write_rows(sport, rows)
     if mode == "closing":
         mark_done(sport, [e["id"] for e in odds])
 
     tg_send(summarise(sport, odds, stamp, mode, left, rows, waiting,
-                      horizon_h, dropped, alt_rows))
+                      horizon_h, dropped, alt_events, alt_rows_n))
     print("wrote %d rows to %s | credits used %s, left %s" % (len(rows), path, used, left))
     # Signal the workflow that there is something to commit.
     gh = os.environ.get("GITHUB_OUTPUT")
