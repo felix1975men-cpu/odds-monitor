@@ -3571,3 +3571,672 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-17T21:13:21Z,scheduled,ceb78c18c34b6f6922ac73e4cb32b373,2026-09-19T02:15:00Z,Los Angeles Dodgers,San Francisco Giants,betmgm,spreads,San Francisco Giants,1.5,2.15
 2026-09-17T21:13:21Z,scheduled,ceb78c18c34b6f6922ac73e4cb32b373,2026-09-19T02:15:00Z,Los Angeles Dodgers,San Francisco Giants,betmgm,totals,Over,8.0,1.91
 2026-09-17T21:13:21Z,scheduled,ceb78c18c34b6f6922ac73e4cb32b373,2026-09-19T02:15:00Z,Los Angeles Dodgers,San Francisco Giants,betmgm,totals,Under,8.0,1.91
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,h2h,New York Mets,,1.77
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,h2h,Philadelphia Phillies,,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,spreads,Philadelphia Phillies,1.5,1.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,totals,Over,8.5,1.98
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,totals,Under,8.5,1.83
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h,New York Mets,,1.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h,Philadelphia Phillies,,2.14
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h_lay,New York Mets,,1.88
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h_lay,Philadelphia Phillies,,2.18
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,spreads,New York Mets,-1.5,2.68
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,spreads,Philadelphia Phillies,1.5,1.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,totals,Over,8.5,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,totals,Under,8.5,1.83
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,h2h,New York Mets,,1.76
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,h2h,Philadelphia Phillies,,2.09
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,spreads,New York Mets,-1.5,2.54
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,spreads,Philadelphia Phillies,1.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,totals,Over,8.0,1.84
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,totals,Under,8.0,1.99
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,h2h,New York Mets,,1.82
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,h2h,Philadelphia Phillies,,2.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,spreads,New York Mets,-1.5,2.66
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,spreads,Philadelphia Phillies,1.5,1.54
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,totals,Over,8.0,1.94
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,totals,Under,8.0,1.94
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,h2h,New York Mets,,1.74
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,h2h,Philadelphia Phillies,,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,spreads,Philadelphia Phillies,1.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,totals,Over,8.0,1.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,totals,Under,8.0,1.98
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,h2h,New York Mets,,1.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,h2h,Philadelphia Phillies,,2.06
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,spreads,Philadelphia Phillies,1.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,totals,Over,8.0,1.77
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,totals,Under,8.0,1.91
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,h2h,New York Mets,,1.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,h2h,Philadelphia Phillies,,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,spreads,Philadelphia Phillies,1.5,1.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,totals,Over,8.0,1.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,totals,Under,8.0,1.96
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h,New York Mets,,1.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h,Philadelphia Phillies,,2.14
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h_lay,New York Mets,,1.87
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h_lay,Philadelphia Phillies,,2.18
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,h2h,New York Mets,,1.76
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,h2h,Philadelphia Phillies,,2.07
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,spreads,New York Mets,-1.5,2.45
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,spreads,Philadelphia Phillies,1.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,totals,Over,8.5,1.93
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,totals,Under,8.5,1.83
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,h2h,Houston Astros,,1.68
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,h2h,Kansas City Royals,,2.24
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,spreads,Houston Astros,-1.5,2.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,spreads,Kansas City Royals,1.5,1.59
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,totals,Over,8.5,1.78
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,totals,Under,8.5,2.04
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,h2h,Houston Astros,,1.65
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,h2h,Kansas City Royals,,2.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,spreads,Houston Astros,-1.5,2.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,spreads,Kansas City Royals,1.5,1.61
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,totals,Over,9.0,2.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,totals,Under,9.0,1.77
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,h2h,Houston Astros,,1.7
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,h2h,Kansas City Royals,,2.2
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,spreads,Houston Astros,-1.5,2.18
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,spreads,Kansas City Royals,1.5,1.68
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,totals,Over,9.0,1.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,totals,Under,9.0,1.83
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,h2h,Houston Astros,,1.64
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,h2h,Kansas City Royals,,2.29
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,spreads,Houston Astros,-1.5,2.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,spreads,Kansas City Royals,1.5,1.61
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,totals,Over,9.0,1.98
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,totals,Under,9.0,1.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,h2h,Houston Astros,,1.66
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,h2h,Kansas City Royals,,2.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,spreads,Houston Astros,-1.5,2.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,spreads,Kansas City Royals,1.5,1.62
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,totals,Over,9.0,2.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,totals,Under,9.0,1.82
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betfair_ex_eu,h2h,Houston Astros,,1.71
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betfair_ex_eu,h2h,Kansas City Royals,,2.36
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betfair_ex_eu,h2h_lay,Houston Astros,,1.74
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betfair_ex_eu,h2h_lay,Kansas City Royals,,2.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,h2h,Houston Astros,,1.73
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,h2h,Kansas City Royals,,2.36
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,h2h_lay,Houston Astros,,1.74
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,h2h_lay,Kansas City Royals,,2.38
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,spreads,Houston Astros,-1.5,2.42
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,spreads,Kansas City Royals,1.5,1.64
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,totals,Over,8.5,1.86
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,matchbook,totals,Under,8.5,2.08
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betsson,h2h,Houston Astros,,1.66
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betsson,h2h,Kansas City Royals,,2.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betsson,spreads,Houston Astros,-1.5,2.27
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betsson,spreads,Kansas City Royals,1.5,1.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betsson,totals,Over,9.0,1.93
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betsson,totals,Under,9.0,1.83
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,h2h,Houston Astros,,1.7
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,h2h,Kansas City Royals,,2.32
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,spreads,Houston Astros,-1.5,2.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,spreads,Kansas City Royals,1.5,1.64
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,totals,Over,8.5,1.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,totals,Under,8.5,2.04
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-8.5,15.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-7.5,12.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-6.5,10.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-5.5,7.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-4.5,6.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-3.5,4.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-2.5,3.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-1.5,2.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,1.5,1.44
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,2.5,1.26
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,3.5,1.15
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,4.5,1.09
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,5.5,1.05
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,6.5,1.02
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,7.5,1.02
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,6.5,1.04
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,5.5,1.07
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,4.5,1.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,3.5,1.19
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,2.5,1.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,1.5,1.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-1.5,2.72
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-2.5,3.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-3.5,5.2
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-4.5,7.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-5.5,9.7
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-6.5,12.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-7.5,15.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-8.5,18.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,3.5,1.06
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,4.5,1.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,5.5,1.27
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,6.5,1.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,7.5,1.68
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,8.5,1.98
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,9.5,2.54
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,10.5,3.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,11.5,4.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,12.5,4.9
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,13.5,6.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,14.5,8.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,15.5,11.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,16.5,12.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,17.5,16.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,18.5,19.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,2.5,16.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,3.5,9.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,4.5,5.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,5.5,3.65
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,6.5,2.9
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,7.5,2.14
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,8.5,1.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,9.5,1.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,10.5,1.36
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,11.5,1.23
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,12.5,1.17
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,13.5,1.11
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,14.5,1.07
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,15.5,1.03
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,16.5,1.02
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,4.5,1.09
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,4.0,1.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,3.5,1.15
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,3.0,1.17
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,2.5,1.26
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,2.0,1.29
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,1.5,1.42
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,1.0,1.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-1.0,2.07
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-2.0,3.02
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-2.5,3.33
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-3.0,4.2
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-3.5,4.49
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-4.0,5.89
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-4.5,6.19
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-5.0,8.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-4.5,6.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-4.0,6.57
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-3.5,5.03
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-3.0,4.74
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-2.5,3.74
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-2.0,3.43
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-1.5,2.78
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-1.0,2.46
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,1.0,1.72
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,2.0,1.36
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,2.5,1.31
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,3.0,1.21
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,3.5,1.19
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,4.0,1.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,4.5,1.11
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,5.0,1.06
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,4.5,1.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,5.0,1.14
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,5.5,1.27
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,6.0,1.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,6.5,1.41
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,7.0,1.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,7.5,1.69
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,8.5,1.96
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,9.0,2.23
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,9.5,2.47
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,10.0,2.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,10.5,2.99
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,11.0,3.68
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,11.5,3.96
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,12.0,4.72
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,12.5,4.92
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,4.5,5.84
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,5.0,5.35
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,5.5,3.65
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,6.0,3.39
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,6.5,2.82
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,7.0,2.51
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,7.5,2.11
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,8.5,1.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,9.0,1.62
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,9.5,1.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,10.0,1.41
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,10.5,1.37
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,11.0,1.26
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,11.5,1.23
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,12.0,1.17
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,12.5,1.16
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-1.5,2.66
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,1.5,1.46
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,1.0,1.58
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-1.0,2.2
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-2.0,3.22
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-2.5,3.49
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-3.0,4.36
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,1.5,1.54
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,-1.5,2.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,-1.0,2.49
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,1.0,1.74
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,2.0,1.38
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,2.5,1.33
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,3.0,1.22
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,8.0,1.94
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,6.5,1.47
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,7.0,1.58
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,7.5,1.79
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,8.5,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,9.0,2.41
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,9.5,2.65
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,8.0,1.94
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,6.5,2.77
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,7.0,2.48
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,7.5,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,8.5,1.79
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,9.0,1.61
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,9.5,1.51
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,-2.5,3.25
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,1.5,1.44
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,2.5,1.27
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,3.5,1.16
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,-3.5,4.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,2.5,1.33
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,1.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,-1.5,2.7
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,-2.5,3.7
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,-3.5,5.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,3.5,1.19
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,3.5,1.07
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,4.0,1.07
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,4.5,1.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,5.0,1.14
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,5.5,1.27
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,6.0,1.31
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,6.5,1.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,7.0,1.48
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,7.5,1.69
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,8.0,1.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,8.5,2.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,9.0,2.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,9.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,10.0,2.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,10.5,3.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,11.0,3.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,11.5,4.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,12.0,4.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,12.5,5.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,13.0,6.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,13.5,6.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,2.5,1.01
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,2.5,1.01
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,3.5,7.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,4.0,7.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,4.5,5.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,5.0,5.25
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,5.5,3.7
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,6.0,3.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,6.5,2.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,7.0,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,7.5,2.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,8.0,1.98
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,8.5,1.77
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,9.0,1.59
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,9.5,1.48
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,10.0,1.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,10.5,1.35
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,11.0,1.25
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,11.5,1.22
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,12.0,1.17
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,12.5,1.16
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,13.0,1.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,13.5,1.09
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,2.5,14.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,3.0,13.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,2.5,14.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,3.0,14.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,-2.5,3.4
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,-3.0,4.25
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,1.5,1.47
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,-2.0,3.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,2.0,1.34
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,1.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,2.5,1.33
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,3.0,1.23
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,-1.5,2.7
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,2.0,1.38
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,-2.0,3.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,7.5,1.72
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,6.5,1.44
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,11.5,3.75
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,6.0,1.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,13.0,5.1
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,10.0,2.6
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,12.0,4.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,7.0,1.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,8.0,1.77
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,9.0,2.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,5.5,1.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,10.5,2.95
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,11.0,3.25
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,12.5,4.6
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,9.5,2.45
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,8.5,1.97
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,7.5,2.14
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,6.5,2.8
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,11.5,1.28
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,6.0,3.05
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,13.0,1.12
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,10.0,1.42
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,12.0,1.19
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,7.0,2.38
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,8.0,1.91
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,9.0,1.62
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,5.5,3.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,10.5,1.41
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,11.0,1.28
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,12.5,1.2
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,9.5,1.56
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,8.5,1.83
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,2.5,1.3
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,-1.5,2.55
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,-2.5,3.35
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,1.5,1.47
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,-3.5,4.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,-2.5,3.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,1.5,1.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,2.5,1.33
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,-1.5,2.7
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,3.5,1.21
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,7.0,1.54
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,9.5,2.52
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,6.5,1.45
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,8.0,1.85
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,9.0,2.27
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,8.5,2.0
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,7.5,1.73
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,7.0,2.5
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,9.5,1.53
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,6.5,2.78
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,8.0,1.96
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,9.0,1.64
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,8.5,1.82
+2026-09-17T22:50:54Z,closing,86a852d517d266c4d6c74e570caffa06,2026-09-17T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,7.5,2.12
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-8.5,15.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-7.5,12.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-6.5,10.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-5.5,7.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-4.5,5.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-3.5,4.2
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-2.5,3.2
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,-1.5,2.38
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,1.5,1.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,2.5,1.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,3.5,1.16
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,4.5,1.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,5.5,1.06
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Houston Astros,6.5,1.03
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,7.5,1.02
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,6.5,1.04
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,5.5,1.08
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,4.5,1.13
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,3.5,1.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,2.5,1.34
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,1.5,1.56
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-1.5,2.86
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-2.5,3.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-3.5,5.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-4.5,6.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-5.5,9.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-6.5,11.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-7.5,14.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-8.5,16.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,3.5,1.04
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,4.5,1.09
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,5.5,1.21
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,6.5,1.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,7.5,1.54
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,8.5,1.77
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,9.5,2.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,10.5,2.62
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,11.5,3.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,12.5,4.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,13.5,5.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,14.5,6.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,15.5,9.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,16.5,11.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,17.5,13.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Over,18.5,16.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,2.5,18.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,3.5,10.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,4.5,7.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,5.5,4.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,6.5,3.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,7.5,2.44
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,8.5,2.02
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,9.5,1.64
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,10.5,1.48
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,11.5,1.31
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,12.5,1.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,13.5,1.15
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,14.5,1.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,15.5,1.06
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,16.5,1.03
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,fanduel,alternate_totals,Under,17.5,1.02
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Houston Astros,-2.5,3.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Houston Astros,-1.5,2.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Houston Astros,1.5,1.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Houston Astros,2.5,1.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Houston Astros,-3.5,3.9
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Houston Astros,3.5,1.16
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,2.5,1.36
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,1.5,1.61
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,-1.5,2.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,-2.5,3.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,3.5,1.24
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,-3.5,5.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,3.5,1.05
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,4.0,1.05
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,4.5,1.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,5.0,1.11
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,5.5,1.21
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,6.0,1.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,6.5,1.31
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,7.0,1.36
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,7.5,1.54
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,8.0,1.62
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,8.5,1.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,9.0,2.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,9.5,2.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,10.0,2.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,10.5,2.7
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,11.0,3.2
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,11.5,3.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,12.0,4.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,12.5,4.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,13.0,5.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,13.5,5.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,14.0,6.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,3.5,9.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,4.0,8.75
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,4.5,6.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,5.0,6.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,5.5,4.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,6.0,4.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,6.5,3.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,7.0,3.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,7.5,2.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,8.0,2.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,8.5,2.05
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,9.0,1.77
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,9.5,1.62
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,10.0,1.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,10.5,1.44
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,11.0,1.33
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,11.5,1.31
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,12.0,1.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,12.5,1.21
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,13.0,1.14
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,13.5,1.13
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,14.0,1.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betmgm,alternate_totals,Under,3.0,17.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Houston Astros,-3.0,3.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Houston Astros,-2.5,2.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Houston Astros,1.5,1.44
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Houston Astros,2.0,1.33
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Houston Astros,-2.0,2.55
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Houston Astros,-1.5,2.18
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,3.0,1.33
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,2.5,1.43
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,-1.5,2.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,-2.0,3.35
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,2.0,1.51
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,1.5,1.68
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,6.5,1.36
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,12.0,3.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,11.5,2.95
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,8.0,1.57
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,7.0,1.38
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,14.0,4.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,9.5,2.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,10.5,2.43
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,13.0,3.75
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,12.5,3.45
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,8.5,1.77
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,10.0,2.18
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,11.0,2.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,9.0,1.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,7.5,1.56
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Over,13.5,4.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,6.5,3.2
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,12.0,1.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,11.5,1.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,8.0,2.18
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,7.0,2.75
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,14.0,1.15
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,9.5,1.75
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,10.5,1.56
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,13.0,1.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,12.5,1.32
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,8.5,2.08
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,10.0,1.57
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,11.0,1.42
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,9.0,1.83
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,7.5,2.45
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,betrivers,alternate_totals,Under,13.5,1.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,4.0,1.08
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,3.5,1.14
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,3.0,1.15
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,2.5,1.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,2.0,1.26
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,1.5,1.37
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,1.0,1.45
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-1.0,1.9
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-2.0,2.71
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-2.5,2.98
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-3.0,3.68
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-3.5,3.97
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-4.0,5.05
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-4.5,5.33
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-5.0,6.86
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Houston Astros,-5.5,7.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-4.0,7.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-3.5,5.38
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-3.0,5.1
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-2.5,4.01
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-2.0,3.7
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-1.5,2.97
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-1.0,2.67
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,1.0,1.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,2.0,1.44
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,2.5,1.37
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,3.0,1.26
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,3.5,1.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,4.0,1.15
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,4.5,1.14
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,5.0,1.09
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,5.5,1.08
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,5.5,1.21
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,6.0,1.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,6.5,1.31
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,7.0,1.37
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,7.5,1.54
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,8.0,1.62
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,8.5,1.75
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,9.5,2.16
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,10.0,2.38
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,10.5,2.54
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,11.0,3.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,11.5,3.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,12.0,3.75
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,12.5,3.93
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,13.0,4.95
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Over,13.5,5.22
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,5.5,4.26
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,6.0,4.01
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,6.5,3.31
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,7.0,2.97
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,7.5,2.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,8.0,2.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,8.5,2.02
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,9.5,1.66
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,10.0,1.55
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,10.5,1.49
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,11.0,1.37
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,11.5,1.32
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,12.0,1.25
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,12.5,1.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,13.0,1.16
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,draftkings,alternate_totals,Under,13.5,1.14
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Houston Astros,1.5,1.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Houston Astros,2.5,1.27
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Houston Astros,-1.5,2.3
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Houston Astros,-2.5,2.93
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Houston Astros,-3.5,3.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,-1.5,2.93
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,-2.5,3.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,1.5,1.62
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,2.5,1.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,3.5,1.27
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,9.0,2.0
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,7.5,1.57
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,8.0,1.66
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,9.5,2.2
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,8.5,1.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,10.0,2.42
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Over,10.5,2.6
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,9.0,1.82
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,7.5,2.42
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,8.0,2.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,9.5,1.68
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,8.5,2.02
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,10.0,1.57
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,coolbet,alternate_totals,Under,10.5,1.5
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,-1.5,2.41
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,1.5,1.4
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,1.0,1.49
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,-1.0,1.99
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,-2.0,2.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,-2.5,3.11
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Houston Astros,-3.0,3.8
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,1.5,1.64
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,-1.5,3.01
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,-1.0,2.72
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,1.0,1.9
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,2.0,1.47
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,2.5,1.39
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,3.0,1.27
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,8.5,1.85
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,7.0,1.43
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,7.5,1.61
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,8.0,1.7
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,9.0,2.07
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,9.5,2.31
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Over,10.0,2.54
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,8.5,2.04
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,7.0,2.92
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,7.5,2.42
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,8.0,2.23
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,9.0,1.81
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,9.5,1.66
+2026-09-17T22:50:54Z,closing,b9c3b50472005c67c30de323cd8a5396,2026-09-17T23:17:00Z,Houston Astros,Kansas City Royals,pinnacle,alternate_totals,Under,10.0,1.55
