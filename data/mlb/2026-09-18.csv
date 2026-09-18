@@ -3982,3 +3982,967 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-18T22:38:56Z,closing,042985f4157bf2837a03506fd2fedeb7,2026-09-18T23:06:00Z,Baltimore Orioles,Milwaukee Brewers,pinnacle,alternate_totals,Under,8.5,1.85
 2026-09-18T22:38:56Z,closing,042985f4157bf2837a03506fd2fedeb7,2026-09-18T23:06:00Z,Baltimore Orioles,Milwaukee Brewers,pinnacle,alternate_totals,Under,9.0,1.67
 2026-09-18T22:38:56Z,closing,042985f4157bf2837a03506fd2fedeb7,2026-09-18T23:06:00Z,Baltimore Orioles,Milwaukee Brewers,pinnacle,alternate_totals,Under,9.5,1.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,h2h,Athletics,,2.98
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,h2h,Cleveland Guardians,,1.42
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,spreads,Athletics,1.5,1.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,spreads,Cleveland Guardians,-1.5,1.98
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,totals,Over,8.5,1.96
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,totals,Under,8.5,1.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,h2h,Athletics,,2.98
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,h2h,Cleveland Guardians,,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,spreads,Athletics,1.5,1.93
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,spreads,Cleveland Guardians,-1.5,1.9
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,totals,Over,8.0,1.89
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,totals,Under,8.0,1.93
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,h2h,Athletics,,2.93
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,h2h,Cleveland Guardians,,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,spreads,Athletics,1.5,1.87
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,spreads,Cleveland Guardians,-1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,totals,Over,8.5,1.96
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,totals,Under,8.5,1.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,h2h,Athletics,,3.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,h2h,Cleveland Guardians,,1.45
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,h2h_lay,Athletics,,3.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,h2h_lay,Cleveland Guardians,,1.47
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,spreads,Athletics,1.5,2.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,spreads,Cleveland Guardians,-1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,totals,Over,8.5,2.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,matchbook,totals,Under,8.5,1.82
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,h2h,Athletics,,3.04
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,h2h,Cleveland Guardians,,1.44
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,spreads,Athletics,1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,spreads,Cleveland Guardians,-1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,totals,Over,8.0,1.92
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,totals,Under,8.0,1.97
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,h2h,Athletics,,2.9
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,h2h,Cleveland Guardians,,1.43
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,spreads,Athletics,1.5,1.91
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,spreads,Cleveland Guardians,-1.5,1.91
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,totals,Over,8.0,1.87
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,totals,Under,8.0,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,h2h,Athletics,,3.05
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,h2h,Cleveland Guardians,,1.4
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,spreads,Athletics,1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,spreads,Cleveland Guardians,-1.5,1.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,totals,Over,8.0,1.78
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,totals,Under,8.0,1.89
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betsson,h2h,Athletics,,2.84
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betsson,h2h,Cleveland Guardians,,1.43
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betsson,spreads,Athletics,1.5,1.87
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betsson,spreads,Cleveland Guardians,-1.5,1.89
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betsson,totals,Over,8.0,1.83
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betsson,totals,Under,8.0,1.93
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betfair_ex_eu,h2h,Athletics,,3.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betfair_ex_eu,h2h,Cleveland Guardians,,1.46
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betfair_ex_eu,h2h_lay,Athletics,,3.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betfair_ex_eu,h2h_lay,Cleveland Guardians,,1.47
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,h2h,Boston Red Sox,,2.12
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,h2h,Tampa Bay Rays,,1.76
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,spreads,Boston Red Sox,1.5,1.49
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,spreads,Tampa Bay Rays,-1.5,2.68
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,totals,Over,7.5,2.12
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,totals,Under,7.5,1.72
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,h2h,Boston Red Sox,,2.14
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,h2h,Tampa Bay Rays,,1.73
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,spreads,Boston Red Sox,1.5,1.51
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,spreads,Tampa Bay Rays,-1.5,2.63
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,totals,Over,7.0,1.89
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,totals,Under,7.0,1.93
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,h2h,Boston Red Sox,,2.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,h2h,Tampa Bay Rays,,1.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,spreads,Boston Red Sox,1.5,1.53
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,spreads,Tampa Bay Rays,-1.5,2.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,totals,Over,7.0,1.83
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,totals,Under,7.0,2.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,h2h,Boston Red Sox,,2.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,h2h,Tampa Bay Rays,,1.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,spreads,Boston Red Sox,1.5,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,spreads,Tampa Bay Rays,-1.5,2.6
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,totals,Over,7.0,1.91
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,totals,Under,7.0,1.91
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h,Boston Red Sox,,2.22
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h,Tampa Bay Rays,,1.78
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h_lay,Boston Red Sox,,2.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h_lay,Tampa Bay Rays,,1.82
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,spreads,Boston Red Sox,1.5,1.54
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,spreads,Tampa Bay Rays,-1.5,2.66
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,totals,Over,6.5,1.73
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,totals,Under,6.5,2.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,h2h,Boston Red Sox,,2.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,h2h,Tampa Bay Rays,,1.76
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,spreads,Boston Red Sox,1.5,1.52
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,spreads,Tampa Bay Rays,-1.5,2.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,totals,Over,7.0,1.95
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,totals,Under,7.0,1.93
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,h2h,Boston Red Sox,,2.16
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,h2h,Tampa Bay Rays,,1.73
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,spreads,Boston Red Sox,1.5,1.51
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,spreads,Tampa Bay Rays,-1.5,2.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,totals,Over,7.0,1.8
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,totals,Under,7.0,1.88
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betsson,h2h,Boston Red Sox,,2.12
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betsson,h2h,Tampa Bay Rays,,1.72
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betsson,spreads,Boston Red Sox,1.5,1.53
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betsson,spreads,Tampa Bay Rays,-1.5,2.45
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betsson,totals,Over,7.0,1.83
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betsson,totals,Under,7.0,1.93
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h,Boston Red Sox,,2.22
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h,Tampa Bay Rays,,1.77
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h_lay,Boston Red Sox,,2.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h_lay,Tampa Bay Rays,,1.82
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,h2h,New York Mets,,1.81
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,h2h,Philadelphia Phillies,,2.06
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,spreads,New York Mets,-1.5,2.64
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,spreads,Philadelphia Phillies,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,totals,Over,8.5,1.88
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,totals,Under,8.5,1.94
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,h2h,New York Mets,,1.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,h2h,Philadelphia Phillies,,2.02
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,spreads,New York Mets,-1.5,2.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,spreads,Philadelphia Phillies,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,totals,Over,8.5,1.91
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,totals,Under,8.5,1.91
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,h2h,New York Mets,,1.76
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,h2h,Philadelphia Phillies,,2.08
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,spreads,New York Mets,-1.5,2.62
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,spreads,Philadelphia Phillies,1.5,1.51
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,totals,Over,8.5,1.87
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,totals,Under,8.5,1.95
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,h2h,New York Mets,,1.88
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,h2h,Philadelphia Phillies,,1.95
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,spreads,New York Mets,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,spreads,Philadelphia Phillies,-1.5,2.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,totals,Over,8.5,1.94
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,totals,Under,8.5,1.87
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,h2h,New York Mets,,1.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,h2h,Philadelphia Phillies,,2.05
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,spreads,New York Mets,-1.5,2.65
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,spreads,Philadelphia Phillies,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,totals,Over,8.5,1.87
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,totals,Under,8.5,1.95
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,h2h,New York Mets,,1.78
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,h2h,Philadelphia Phillies,,2.03
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,spreads,New York Mets,-1.5,2.45
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,spreads,Philadelphia Phillies,1.5,1.53
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,totals,Over,8.5,1.83
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betsson,totals,Under,8.5,1.93
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h,New York Mets,,1.83
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h,Philadelphia Phillies,,2.16
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h_lay,New York Mets,,1.87
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betfair_ex_eu,h2h_lay,Philadelphia Phillies,,2.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h,New York Mets,,1.83
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h,Philadelphia Phillies,,2.16
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h_lay,New York Mets,,1.86
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,h2h_lay,Philadelphia Phillies,,2.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,spreads,New York Mets,-1.5,2.66
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,spreads,Philadelphia Phillies,1.5,1.54
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,totals,Over,8.5,1.98
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,matchbook,totals,Under,8.5,1.98
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,h2h,New York Mets,,1.83
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,h2h,Philadelphia Phillies,,2.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,spreads,New York Mets,-1.5,2.73
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,spreads,Philadelphia Phillies,1.5,1.51
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,totals,Over,8.5,1.93
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,totals,Under,8.5,1.96
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,8.5,1.02
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,7.5,1.05
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,6.5,1.09
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,5.5,1.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,4.5,1.23
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,3.5,1.34
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,2.5,1.52
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,1.5,1.82
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,-1.5,4.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,-2.5,6.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,-3.5,9.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,-4.5,12.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Athletics,-5.5,16.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-8.5,12.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-7.5,9.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-6.5,7.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-5.5,5.4
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-4.5,4.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-3.5,3.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-2.5,2.48
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,-1.5,1.96
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,1.5,1.21
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,2.5,1.11
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,3.5,1.05
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_spreads,Cleveland Guardians,4.5,1.02
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,3.5,1.07
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,4.5,1.13
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,5.5,1.29
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,6.5,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,7.5,1.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,8.5,2.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,9.5,2.54
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,10.5,3.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,11.5,3.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,12.5,4.6
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,13.5,6.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,14.5,7.8
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,15.5,11.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,16.5,12.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,17.5,16.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Over,18.5,18.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,2.5,15.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,3.5,7.8
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,4.5,5.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,5.5,3.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,6.5,2.86
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,7.5,2.12
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,8.5,1.78
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,9.5,1.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,10.5,1.38
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,11.5,1.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,12.5,1.19
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,13.5,1.11
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,14.5,1.07
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,15.5,1.03
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,fanduel,alternate_totals,Under,16.5,1.02
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,-3.0,7.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,-2.5,5.75
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,-2.0,5.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,-1.5,4.06
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,-1.0,3.71
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,1.0,2.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,2.0,1.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,2.5,1.57
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,3.0,1.43
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,3.5,1.37
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,4.0,1.27
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,4.5,1.24
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,5.0,1.17
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,5.5,1.15
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,6.0,1.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Athletics,6.5,1.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,3.0,1.07
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,2.5,1.12
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,2.0,1.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,1.5,1.22
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,1.0,1.26
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-1.0,1.54
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-2.0,2.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-2.5,2.34
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-3.0,2.74
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-3.5,3.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-4.0,3.64
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-4.5,3.9
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-5.0,4.83
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-5.5,5.08
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-6.0,6.37
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_spreads,Cleveland Guardians,-6.5,6.61
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,4.5,1.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,5.0,1.17
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,5.5,1.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,6.0,1.33
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,6.5,1.44
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,7.0,1.53
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,7.5,1.72
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,8.5,1.99
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,9.0,2.27
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,9.5,2.51
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,10.0,2.83
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,10.5,3.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,11.0,3.62
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,11.5,3.87
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,12.0,4.61
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Over,12.5,4.82
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,4.5,5.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,5.0,4.8
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,5.5,3.42
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,6.0,3.19
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,6.5,2.71
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,7.0,2.42
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,7.5,2.06
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,8.5,1.78
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,9.0,1.6
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,9.5,1.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,10.0,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,10.5,1.37
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,11.0,1.27
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,11.5,1.24
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,12.0,1.18
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,draftkings,alternate_totals,Under,12.5,1.17
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Athletics,3.5,1.37
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Athletics,4.5,1.24
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Athletics,-1.5,3.9
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Athletics,2.5,1.57
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Athletics,1.5,1.87
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Cleveland Guardians,-3.5,3.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Cleveland Guardians,-4.5,4.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Cleveland Guardians,1.5,1.26
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Cleveland Guardians,-2.5,2.42
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_spreads,Cleveland Guardians,-1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,10.0,2.78
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,7.5,1.71
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,7.0,1.52
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,9.5,2.47
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,8.5,1.96
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,9.0,2.23
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Over,8.0,1.82
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,10.0,1.45
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,7.5,2.15
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,7.0,2.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,9.5,1.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,8.5,1.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,9.0,1.66
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,coolbet,alternate_totals,Under,8.0,2.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,-1.5,3.99
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,-1.0,3.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,1.0,2.48
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,2.0,1.71
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,2.5,1.56
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Athletics,3.0,1.4
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,-1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,1.5,1.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,1.0,1.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,-1.0,1.6
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,-2.0,2.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,-2.5,2.53
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_spreads,Cleveland Guardians,-3.0,3.04
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,8.0,1.92
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,6.5,1.44
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,7.0,1.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,7.5,1.76
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,8.5,2.08
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,9.0,2.36
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Over,9.5,2.59
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,8.0,1.97
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,6.5,2.86
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,7.0,2.56
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,7.5,2.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,8.5,1.81
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,9.0,1.63
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,pinnacle,alternate_totals,Under,9.5,1.53
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Athletics,2.5,1.53
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Athletics,1.5,1.91
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Athletics,-1.5,3.9
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Athletics,3.5,1.33
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Athletics,4.5,1.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Athletics,5.5,1.12
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Cleveland Guardians,-2.5,2.45
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Cleveland Guardians,-1.5,1.91
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Cleveland Guardians,1.5,1.24
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Cleveland Guardians,-3.5,3.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Cleveland Guardians,-4.5,4.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_spreads,Cleveland Guardians,-5.5,5.75
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,3.5,1.07
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,4.0,1.07
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,4.5,1.13
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,5.0,1.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,5.5,1.27
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,6.0,1.31
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,6.5,1.4
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,7.0,1.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,7.5,1.69
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,8.0,1.87
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,8.5,2.05
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,9.0,2.35
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,9.5,2.65
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,10.0,3.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,10.5,3.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,11.0,3.9
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,11.5,4.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,12.0,5.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,12.5,5.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,13.0,6.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,13.5,6.75
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Over,2.5,1.01
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,3.5,7.75
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,4.0,7.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,4.5,5.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,5.0,5.25
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,5.5,3.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,6.0,3.4
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,6.5,2.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,7.0,2.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,7.5,2.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,8.0,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,8.5,1.71
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,9.0,1.56
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,9.5,1.45
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,10.0,1.36
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,10.5,1.33
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,11.0,1.24
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,11.5,1.21
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,12.0,1.16
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,12.5,1.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,13.0,1.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,13.5,1.09
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,3.0,13.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betmgm,alternate_totals,Under,2.5,14.0
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Athletics,1.5,1.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Athletics,3.5,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Athletics,4.0,1.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Athletics,2.0,1.74
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Athletics,2.5,1.61
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Athletics,3.0,1.47
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Cleveland Guardians,-1.5,1.85
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Cleveland Guardians,-3.5,2.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Cleveland Guardians,-4.0,3.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Cleveland Guardians,-2.0,2.08
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Cleveland Guardians,-2.5,2.33
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_spreads,Cleveland Guardians,-3.0,2.7
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,12.0,4.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,8.0,1.78
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,11.0,3.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,5.5,1.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,9.5,2.48
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,6.5,1.44
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,8.5,1.97
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,7.5,1.73
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,7.0,1.5
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,9.0,2.15
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,6.0,1.3
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,12.5,4.6
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,10.5,2.95
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,11.5,3.8
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,10.0,2.65
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Over,13.0,5.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,12.0,1.19
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,8.0,1.89
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,11.0,1.27
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,5.5,3.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,9.5,1.55
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,6.5,2.8
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,8.5,1.83
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,7.5,2.14
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,7.0,2.38
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,9.0,1.61
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,6.0,3.1
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,12.5,1.2
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,10.5,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,11.5,1.27
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,10.0,1.41
+2026-09-18T22:51:36Z,closing,faeba6575c679e03be0a8b007d243848,2026-09-18T23:11:00Z,Cleveland Guardians,Athletics,betrivers,alternate_totals,Under,13.0,1.12
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,7.5,1.02
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,6.5,1.03
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,5.5,1.06
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,4.5,1.11
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,3.5,1.17
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,2.5,1.29
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,1.5,1.47
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-1.5,2.68
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-2.5,3.8
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-3.5,5.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-4.5,7.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-5.5,9.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-6.5,12.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-7.5,15.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-8.5,16.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-8.5,15.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-7.5,13.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-6.5,11.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-5.5,8.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-4.5,6.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-3.5,4.9
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-2.5,3.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-1.5,2.64
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,1.5,1.45
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,2.5,1.26
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,3.5,1.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,4.5,1.09
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,5.5,1.05
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,6.5,1.02
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,2.5,1.02
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,3.5,1.12
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,4.5,1.21
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,5.5,1.42
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,6.5,1.62
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,7.5,2.08
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,8.5,2.54
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,9.5,3.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,10.5,4.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,11.5,5.6
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,12.5,7.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,13.5,9.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,14.5,12.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,15.5,16.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,16.5,18.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,1.5,18.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,2.5,12.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,3.5,6.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,4.5,4.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,5.5,2.82
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,6.5,2.26
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,7.5,1.72
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,8.5,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,9.5,1.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,10.5,1.23
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,11.5,1.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,12.5,1.09
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,13.5,1.05
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,14.5,1.02
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-4.5,7.8
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-4.0,7.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-3.5,5.57
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-3.0,5.26
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-2.5,4.02
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-2.0,3.67
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-1.5,2.86
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-1.0,2.53
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,1.0,1.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,2.0,1.34
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,2.5,1.29
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,3.0,1.19
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,3.5,1.17
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,4.0,1.11
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,4.5,1.1
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,5.0,1.05
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,4.5,1.07
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,4.0,1.07
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,3.5,1.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,3.0,1.14
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,2.5,1.23
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,2.0,1.26
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,1.5,1.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,1.0,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-1.0,2.09
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-2.0,3.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-2.5,3.47
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-3.0,4.43
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-3.5,4.74
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-4.0,6.25
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-4.5,6.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-5.0,8.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,3.5,1.14
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,4.0,1.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,4.5,1.23
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,5.0,1.28
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,5.5,1.45
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,6.0,1.53
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,6.5,1.67
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,7.5,2.11
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,8.0,2.34
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,8.5,2.52
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,9.0,3.07
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,9.5,3.38
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,10.0,3.94
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,10.5,4.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,11.0,5.32
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,11.5,5.62
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,3.5,5.42
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,4.0,5.11
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,4.5,3.94
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,5.0,3.51
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,5.5,2.65
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,6.0,2.44
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,6.5,2.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,7.5,1.69
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,8.0,1.57
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,8.5,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,9.0,1.35
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,9.5,1.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,10.0,1.23
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,10.5,1.22
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,11.0,1.14
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,11.5,1.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,2.5,1.31
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,1.5,1.53
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,-1.5,2.85
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,-2.5,4.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,-3.5,5.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,3.5,1.17
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,-2.5,3.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,-1.5,2.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,1.5,1.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,2.5,1.22
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,3.5,1.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,-3.5,4.75
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,3.5,1.11
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,4.0,1.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,4.5,1.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,5.0,1.24
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,5.5,1.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,6.0,1.45
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,6.5,1.61
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,7.0,1.83
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,7.5,2.05
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,8.0,2.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,8.5,2.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,9.0,3.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,9.5,3.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,10.0,3.9
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,10.5,4.1
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,11.0,5.25
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,11.5,5.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,12.0,6.75
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,12.5,6.75
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,2.5,1.03
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,3.0,1.03
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,1.5,1.01
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,3.5,6.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,4.0,5.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,4.5,4.33
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,5.0,3.9
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,5.5,2.85
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,6.0,2.65
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,6.5,2.25
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,7.0,2.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,7.5,1.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,8.0,1.59
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,8.5,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,9.0,1.36
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,9.5,1.31
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,10.0,1.24
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,10.5,1.22
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,11.0,1.14
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,11.5,1.13
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,12.0,1.09
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,12.5,1.09
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,2.5,11.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,3.0,10.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,2.0,17.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,1.5,17.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,-3.5,5.1
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,2.5,1.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,-1.5,2.8
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,1.5,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,-2.5,3.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,3.5,1.17
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,-2.5,3.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,1.5,1.44
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,-1.5,2.6
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,2.5,1.28
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,6.5,1.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,8.0,2.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,6.0,1.58
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,7.0,1.91
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,8.5,2.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,7.5,2.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,5.5,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,6.5,2.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,8.0,1.58
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,6.0,2.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,7.0,1.91
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,8.5,1.52
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,7.5,1.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,5.5,2.6
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,1.5,1.52
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,-1.5,2.93
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,-1.0,2.63
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,1.0,1.76
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,2.0,1.36
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,2.5,1.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,3.0,1.19
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-1.5,2.7
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,1.5,1.42
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,1.0,1.52
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-1.0,2.17
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-2.0,3.35
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-2.5,3.66
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-3.0,4.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,7.0,1.95
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,5.5,1.49
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,6.0,1.57
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,6.5,1.72
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,7.5,2.22
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,8.0,2.47
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,8.5,2.64
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,7.0,1.93
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,5.5,2.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,6.0,2.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,6.5,2.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,7.5,1.71
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,8.0,1.58
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,8.5,1.51
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,-2.0,3.85
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,2.5,1.3
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,1.5,1.51
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,2.0,1.36
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,-1.5,3.05
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,3.0,1.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,2.0,1.27
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-2.5,3.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-1.5,2.55
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-2.0,3.2
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,1.5,1.38
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-3.0,4.6
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,10.5,4.0
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,11.0,4.6
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,10.0,3.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,5.5,1.47
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,8.5,2.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,7.5,2.1
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,8.0,2.23
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,6.5,1.68
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,7.0,1.8
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,9.0,2.8
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,6.0,1.5
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,9.5,3.25
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,5.0,1.26
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,4.5,1.24
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,10.5,1.25
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,11.0,1.15
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,10.0,1.25
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,5.5,2.75
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,8.5,1.54
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,7.5,1.75
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,8.0,1.56
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,6.5,2.23
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,7.0,1.88
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,9.0,1.36
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,6.0,2.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,9.5,1.35
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,5.0,3.4
+2026-09-18T22:51:36Z,closing,82ab22dcd4b5a9fd457f4a06b2e93579,2026-09-18T23:11:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,4.5,4.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-8.5,15.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-7.5,12.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-6.5,10.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-5.5,7.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-4.5,6.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-3.5,4.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-2.5,3.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,-1.5,2.62
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,1.5,1.47
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,2.5,1.29
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,3.5,1.18
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,4.5,1.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,5.5,1.06
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,New York Mets,6.5,1.03
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,7.5,1.02
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,6.5,1.04
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,5.5,1.07
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,4.5,1.12
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,3.5,1.19
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,2.5,1.29
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,1.5,1.48
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-1.5,2.64
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-2.5,3.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-3.5,4.7
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-4.5,6.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-5.5,9.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-6.5,11.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-7.5,14.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_spreads,Philadelphia Phillies,-8.5,18.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,3.5,1.06
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,4.5,1.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,5.5,1.25
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,6.5,1.36
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,7.5,1.62
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,8.5,1.88
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,9.5,2.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,10.5,2.9
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,11.5,3.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,12.5,4.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,13.5,6.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,14.5,7.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,15.5,10.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,16.5,12.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,17.5,16.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Over,18.5,19.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,2.5,16.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,3.5,9.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,4.5,6.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,5.5,3.85
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,6.5,3.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,7.5,2.24
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,8.5,1.88
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,9.5,1.56
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,10.5,1.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,11.5,1.26
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,12.5,1.19
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,13.5,1.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,14.5,1.07
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,15.5,1.04
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,fanduel,alternate_totals,Under,16.5,1.02
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,-1.5,2.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,3.5,1.21
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,2.5,1.32
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,-2.5,3.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,New York Mets,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,-3.5,4.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,-2.5,3.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,2.5,1.32
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_spreads,Philadelphia Phillies,-1.5,2.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,10.0,2.67
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,9.5,2.37
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,8.5,1.91
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,9.0,2.15
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,8.0,1.76
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,7.0,1.48
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Over,7.5,1.66
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,10.0,1.48
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,9.5,1.59
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,8.5,1.91
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,9.0,1.71
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,8.0,2.08
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,7.0,2.67
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,coolbet,alternate_totals,Under,7.5,2.23
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,4.5,1.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,4.0,1.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,3.5,1.17
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,3.0,1.19
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,2.5,1.28
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,2.0,1.32
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,1.5,1.45
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,1.0,1.55
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-1.0,2.12
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-2.0,3.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-2.5,3.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-3.0,4.26
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-3.5,4.55
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-4.0,5.85
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-4.5,6.13
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,New York Mets,-5.0,8.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-4.5,6.42
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-4.0,6.14
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-3.5,4.74
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-3.0,4.45
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-2.5,3.52
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-2.0,3.24
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-1.5,2.66
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,-1.0,2.38
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,1.0,1.69
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,2.0,1.35
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,2.5,1.3
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,3.0,1.21
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,3.5,1.18
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,4.0,1.12
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,4.5,1.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_spreads,Philadelphia Phillies,5.0,1.06
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,5.0,1.13
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,5.5,1.24
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,6.0,1.27
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,6.5,1.36
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,7.0,1.44
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,7.5,1.61
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,8.0,1.7
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,9.0,2.07
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,9.5,2.29
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,10.0,2.55
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,10.5,2.72
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,11.0,3.3
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,11.5,3.57
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,12.0,4.16
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,12.5,4.34
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Over,13.0,5.49
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,5.0,5.57
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,5.5,3.86
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,6.0,3.61
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,6.5,3.02
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,7.0,2.71
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,7.5,2.25
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,8.0,2.09
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,9.0,1.72
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,9.5,1.59
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,10.0,1.49
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,10.5,1.43
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,11.0,1.31
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,11.5,1.27
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,12.0,1.21
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,12.5,1.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,draftkings,alternate_totals,Under,13.0,1.13
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,2.5,1.32
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,New York Mets,-1.5,2.7
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,-1.5,2.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,-2.5,3.45
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_spreads,Philadelphia Phillies,1.5,1.47
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,11.5,3.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,6.5,1.43
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,8.5,1.94
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,7.5,1.68
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,9.5,2.43
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,10.5,2.9
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,12.5,4.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Over,5.5,1.29
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,11.5,1.28
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,6.5,2.88
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,8.5,1.87
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,7.5,2.18
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,9.5,1.56
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,10.5,1.42
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,12.5,1.21
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,5.5,3.65
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,-2.5,3.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,-1.5,2.65
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,1.5,1.45
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,2.5,1.29
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,3.5,1.17
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,New York Mets,-3.5,4.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,2.5,1.29
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,1.5,1.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,-1.5,2.65
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,-2.5,3.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,-3.5,4.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_spreads,Philadelphia Phillies,3.5,1.17
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,3.5,1.05
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,4.0,1.06
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,4.5,1.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,5.0,1.11
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,5.5,1.22
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,6.0,1.25
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,6.5,1.33
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,7.0,1.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,7.5,1.59
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,8.0,1.69
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,8.5,1.87
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,9.0,2.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,9.5,2.35
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,10.0,2.65
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,10.5,2.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,11.0,3.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,11.5,3.7
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,12.0,4.25
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,12.5,4.4
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,13.0,5.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,13.5,5.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,14.0,7.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,3.5,8.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,4.0,8.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,4.5,6.25
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,5.0,6.0
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,5.5,4.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,6.0,3.8
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,6.5,3.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,7.0,2.85
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,7.5,2.3
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,8.0,2.1
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,8.5,1.95
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,9.0,1.69
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,9.5,1.57
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,10.0,1.45
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,10.5,1.43
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,11.0,1.31
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,11.5,1.27
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,12.0,1.21
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,12.5,1.19
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,13.0,1.13
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,13.5,1.12
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,14.0,1.09
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,betmgm,alternate_totals,Under,3.0,15.5
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-1.5,2.73
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,1.5,1.49
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,1.0,1.6
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-1.0,2.24
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-2.0,3.34
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-2.5,3.63
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,New York Mets,-3.0,4.57
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,1.5,1.51
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,-1.5,2.71
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,-1.0,2.44
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,1.0,1.71
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,2.0,1.36
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,2.5,1.31
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_spreads,Philadelphia Phillies,3.0,1.2
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,8.5,1.93
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,7.0,1.47
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,7.5,1.67
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,8.0,1.77
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,9.0,2.16
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,9.5,2.41
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Over,10.0,2.68
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,8.5,1.96
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,7.0,2.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,7.5,2.3
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,8.0,2.13
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,9.0,1.75
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,9.5,1.61
+2026-09-18T22:51:36Z,closing,49deafc3a88bf69634e0f3510d62b0ee,2026-09-18T23:16:00Z,New York Mets,Philadelphia Phillies,pinnacle,alternate_totals,Under,10.0,1.5
