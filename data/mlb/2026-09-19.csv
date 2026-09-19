@@ -6105,3 +6105,662 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-19T22:38:01Z,closing,3ffa69e9cd90187364365a87f82ce273,2026-09-19T23:06:00Z,Texas Rangers,Toronto Blue Jays,pinnacle,alternate_totals,Under,8.0,1.81
 2026-09-19T22:38:01Z,closing,3ffa69e9cd90187364365a87f82ce273,2026-09-19T23:06:00Z,Texas Rangers,Toronto Blue Jays,pinnacle,alternate_totals,Under,8.5,1.69
 2026-09-19T22:38:01Z,closing,3ffa69e9cd90187364365a87f82ce273,2026-09-19T23:06:00Z,Texas Rangers,Toronto Blue Jays,pinnacle,alternate_totals,Under,9.0,1.53
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,h2h,Atlanta Braves,,2.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,h2h,Houston Astros,,1.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,spreads,Atlanta Braves,1.5,1.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,spreads,Houston Astros,-1.5,2.58
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,totals,Over,8.5,1.82
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,totals,Under,8.5,2.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,h2h,Atlanta Braves,,2.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,h2h,Houston Astros,,1.73
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,spreads,Atlanta Braves,1.5,1.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,spreads,Houston Astros,-1.5,2.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,totals,Over,8.5,1.83
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,totals,Under,8.5,1.99
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,h2h,Atlanta Braves,,2.15
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,h2h,Houston Astros,,1.71
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,totals,Under,8.5,1.98
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,h2h,Atlanta Braves,,2.17
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,h2h,Houston Astros,,1.79
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,spreads,Atlanta Braves,1.5,1.56
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,spreads,Houston Astros,-1.5,2.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,totals,Over,8.5,1.84
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,totals,Under,8.5,2.06
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,h2h,Atlanta Braves,,2.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,h2h,Houston Astros,,1.79
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,h2h_lay,Atlanta Braves,,2.28
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,h2h_lay,Houston Astros,,1.81
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,spreads,Atlanta Braves,1.5,1.61
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,spreads,Houston Astros,-1.5,2.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,matchbook,totals,Under,8.5,2.06
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,h2h,Atlanta Braves,,2.12
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,h2h,Houston Astros,,1.73
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,spreads,Atlanta Braves,1.5,1.53
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,spreads,Houston Astros,-1.5,2.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,totals,Over,8.5,1.82
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,totals,Under,8.5,2.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betsson,h2h,Atlanta Braves,,2.12
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betsson,h2h,Houston Astros,,1.72
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betsson,spreads,Atlanta Braves,1.5,1.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betsson,spreads,Houston Astros,-1.5,2.42
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betsson,totals,Over,9.0,1.95
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betsson,totals,Under,9.0,1.82
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,h2h,Atlanta Braves,,2.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,h2h,Houston Astros,,1.74
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,spreads,Atlanta Braves,1.5,1.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,spreads,Houston Astros,-1.5,2.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,totals,Under,8.5,1.96
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betfair_ex_eu,h2h,Atlanta Braves,,2.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betfair_ex_eu,h2h,Houston Astros,,1.79
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betfair_ex_eu,h2h_lay,Atlanta Braves,,2.28
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betfair_ex_eu,h2h_lay,Houston Astros,,1.81
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,h2h,St. Louis Cardinals,,1.93
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,h2h,Washington Nationals,,1.93
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,spreads,St. Louis Cardinals,1.5,1.57
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,spreads,Washington Nationals,-1.5,2.46
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,totals,Over,8.5,1.83
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,totals,Under,8.5,1.98
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,h2h,St. Louis Cardinals,,1.87
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,h2h,Washington Nationals,,1.96
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,spreads,St. Louis Cardinals,1.5,1.53
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,spreads,Washington Nationals,-1.5,2.55
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,totals,Over,8.5,1.81
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,totals,Under,8.5,2.03
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,h2h,St. Louis Cardinals,,1.99
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,h2h,Washington Nationals,,1.93
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,spreads,St. Louis Cardinals,-1.5,2.88
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,spreads,Washington Nationals,1.5,1.47
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,totals,Over,8.5,1.87
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,totals,Under,8.5,2.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,h2h,St. Louis Cardinals,,1.91
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,h2h,Washington Nationals,,1.91
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,spreads,St. Louis Cardinals,1.5,1.54
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,spreads,Washington Nationals,-1.5,2.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,totals,Under,8.5,1.98
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,h2h,St. Louis Cardinals,,2.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,h2h,Washington Nationals,,1.97
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,h2h_lay,St. Louis Cardinals,,2.04
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,h2h_lay,Washington Nationals,,1.99
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,spreads,St. Louis Cardinals,1.5,1.58
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,spreads,Washington Nationals,-1.5,2.54
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,totals,Over,8.5,1.93
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,matchbook,totals,Under,8.5,2.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,h2h,St. Louis Cardinals,,1.89
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,h2h,Washington Nationals,,1.92
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,spreads,St. Louis Cardinals,1.5,1.56
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,spreads,Washington Nationals,-1.5,2.45
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,totals,Over,8.5,1.82
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,totals,Under,8.5,2.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betsson,h2h,St. Louis Cardinals,,1.88
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betsson,h2h,Washington Nationals,,1.92
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betsson,spreads,St. Louis Cardinals,-1.5,2.65
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betsson,spreads,Washington Nationals,1.5,1.46
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betsson,totals,Over,9.0,1.95
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betsson,totals,Under,9.0,1.82
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,h2h,St. Louis Cardinals,,1.85
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,h2h,Washington Nationals,,1.97
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,spreads,St. Louis Cardinals,1.5,1.51
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,spreads,Washington Nationals,-1.5,2.55
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,totals,Over,9.0,1.87
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,totals,Under,9.0,1.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betfair_ex_eu,h2h,St. Louis Cardinals,,2.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betfair_ex_eu,h2h,Washington Nationals,,1.96
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betfair_ex_eu,h2h_lay,St. Louis Cardinals,,2.04
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betfair_ex_eu,h2h_lay,Washington Nationals,,1.99
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,7.5,1.02
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,6.5,1.03
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,5.5,1.06
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,4.5,1.11
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,3.5,1.19
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,2.5,1.29
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,1.5,1.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-1.5,2.68
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-2.5,3.55
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-3.5,4.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-4.5,6.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-5.5,8.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-6.5,10.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-7.5,13.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Atlanta Braves,-8.5,16.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-8.5,16.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-7.5,13.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-6.5,11.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-5.5,8.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-4.5,6.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-3.5,4.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-2.5,3.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,-1.5,2.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,1.5,1.45
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,2.5,1.29
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,3.5,1.19
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,4.5,1.11
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,5.5,1.06
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,6.5,1.04
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_spreads,Houston Astros,7.5,1.02
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,3.5,1.04
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,4.5,1.1
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,5.5,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,6.5,1.31
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,7.5,1.56
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,8.5,1.78
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,9.5,2.24
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,10.5,2.64
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,11.5,3.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,12.5,4.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,13.5,5.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,14.5,7.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,15.5,9.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,16.5,11.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,17.5,15.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Over,18.5,18.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,2.5,18.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,3.5,10.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,4.5,7.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,5.5,4.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,6.5,3.35
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,7.5,2.38
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,8.5,2.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,9.5,1.63
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,10.5,1.47
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,11.5,1.29
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,12.5,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,13.5,1.13
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,14.5,1.09
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,15.5,1.05
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,fanduel,alternate_totals,Under,16.5,1.03
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-4.5,6.66
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-4.0,6.39
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-3.5,4.95
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-3.0,4.66
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-2.5,3.68
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-2.0,3.38
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-1.5,2.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,-1.0,2.46
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,1.0,1.74
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,2.0,1.37
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,2.5,1.31
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,3.0,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,3.5,1.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,4.0,1.13
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,4.5,1.12
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Atlanta Braves,5.0,1.08
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,4.5,1.09
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,4.0,1.1
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,3.5,1.16
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,3.0,1.18
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,2.5,1.26
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,2.0,1.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,1.5,1.43
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,1.0,1.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-1.0,2.04
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-2.0,2.99
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-2.5,3.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-3.0,4.05
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-3.5,4.32
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-4.0,5.48
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-4.5,5.74
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_spreads,Houston Astros,-5.0,7.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,5.5,1.23
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,6.0,1.26
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,6.5,1.35
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,7.0,1.42
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,7.5,1.58
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,8.0,1.68
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,9.0,2.02
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,9.5,2.25
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,10.0,2.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,10.5,2.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,11.0,3.23
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,11.5,3.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,12.0,4.09
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,12.5,4.28
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,13.0,5.41
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Over,13.5,5.67
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,5.5,3.96
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,6.0,3.71
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,6.5,3.09
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,7.0,2.78
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,7.5,2.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,8.0,2.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,9.0,1.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,9.5,1.61
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,10.0,1.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,10.5,1.44
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,11.0,1.32
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,11.5,1.28
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,12.0,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,12.5,1.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,13.0,1.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,draftkings,alternate_totals,Under,13.5,1.13
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Atlanta Braves,2.5,1.31
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Atlanta Braves,1.5,1.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Atlanta Braves,-1.5,2.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Atlanta Braves,-2.5,3.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Atlanta Braves,3.5,1.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Atlanta Braves,-3.5,5.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Houston Astros,-2.5,3.4
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Houston Astros,-1.5,2.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Houston Astros,1.5,1.43
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Houston Astros,2.5,1.27
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Houston Astros,-3.5,4.33
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_spreads,Houston Astros,3.5,1.16
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,3.5,1.05
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,4.0,1.05
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,4.5,1.1
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,5.0,1.11
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,5.5,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,6.0,1.24
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,6.5,1.33
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,7.0,1.4
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,7.5,1.57
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,8.0,1.67
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,9.0,2.05
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,9.5,2.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,10.0,2.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,10.5,2.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,11.0,3.4
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,11.5,3.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,12.0,4.1
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,12.5,4.33
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,13.0,5.25
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,13.5,5.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,14.0,6.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,3.5,9.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,4.0,8.75
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,4.5,6.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,5.0,6.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,5.5,4.1
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,6.0,3.9
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,6.5,3.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,7.0,2.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,7.5,2.35
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,8.0,2.15
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,8.5,1.98
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,9.0,1.71
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,9.5,1.59
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,10.0,1.48
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,10.5,1.43
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,11.0,1.31
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,11.5,1.29
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,12.0,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,12.5,1.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,13.0,1.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,13.5,1.13
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,14.0,1.09
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betmgm,alternate_totals,Under,3.0,16.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,1.5,1.56
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,-1.5,2.79
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,-1.0,2.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,1.0,1.78
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,2.0,1.4
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,2.5,1.34
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Atlanta Braves,3.0,1.23
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,-1.5,2.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,1.5,1.46
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,1.0,1.56
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,-1.0,2.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,-2.0,3.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,-2.5,3.42
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_spreads,Houston Astros,-3.0,4.27
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,8.5,1.84
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,7.0,1.44
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,7.5,1.61
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,8.0,1.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,9.0,2.07
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,9.5,2.33
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Over,10.0,2.59
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,8.5,2.06
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,7.0,2.86
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,7.5,2.41
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,8.0,2.24
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,9.0,1.81
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,9.5,1.65
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,pinnacle,alternate_totals,Under,10.0,1.53
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Atlanta Braves,-2.5,3.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Atlanta Braves,2.5,1.34
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Atlanta Braves,3.5,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Atlanta Braves,-1.5,2.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Atlanta Braves,1.5,1.53
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Houston Astros,2.5,1.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Houston Astros,-2.5,3.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Houston Astros,-3.5,4.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Houston Astros,1.5,1.47
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_spreads,Houston Astros,-1.5,2.52
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,9.5,2.25
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,8.5,1.82
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,7.0,1.43
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,9.0,2.02
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,8.0,1.68
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,7.5,1.6
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Over,10.0,2.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,9.5,1.65
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,8.5,2.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,7.0,2.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,9.0,1.8
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,8.0,2.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,7.5,2.35
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,coolbet,alternate_totals,Under,10.0,1.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Atlanta Braves,2.5,1.33
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Atlanta Braves,3.0,1.24
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Atlanta Braves,-2.0,3.45
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Atlanta Braves,-1.5,2.8
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Atlanta Braves,1.5,1.54
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Atlanta Braves,2.0,1.38
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Houston Astros,-2.5,3.35
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Houston Astros,-3.0,4.2
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Houston Astros,2.0,1.32
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Houston Astros,1.5,1.43
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Houston Astros,-1.5,2.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_spreads,Houston Astros,-2.0,3.05
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,13.0,4.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,12.5,4.25
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,6.5,1.38
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,9.5,2.28
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,11.0,3.0
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,9.0,1.97
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,12.0,3.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,10.0,2.4
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,10.5,2.7
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,5.5,1.26
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,11.5,3.5
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,7.0,1.42
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,8.0,1.66
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,6.0,1.26
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,7.5,1.62
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,13.0,1.14
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,12.5,1.23
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,6.5,3.1
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,9.5,1.64
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,11.0,1.32
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,9.0,1.72
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,12.0,1.22
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,10.0,1.49
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,10.5,1.47
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,5.5,3.9
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,11.5,1.3
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,7.0,2.63
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,8.0,2.06
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,6.0,3.4
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,7.5,2.32
+2026-09-19T22:50:58Z,closing,59107b6e1d8da5c416a35642b03d5e58,2026-09-19T23:11:00Z,Houston Astros,Atlanta Braves,betrivers,alternate_totals,Under,8.5,1.96
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-8.5,16.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-7.5,15.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-6.5,11.6
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-5.5,9.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-4.5,7.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-3.5,5.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-2.5,3.85
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,-1.5,2.86
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,1.5,1.54
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,2.5,1.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,3.5,1.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,4.5,1.13
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,5.5,1.07
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,6.5,1.04
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,St. Louis Cardinals,7.5,1.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,6.5,1.03
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,5.5,1.05
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,4.5,1.09
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,3.5,1.15
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,2.5,1.25
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,1.5,1.41
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-1.5,2.42
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-2.5,3.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-3.5,4.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-4.5,5.7
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-5.5,7.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-6.5,10.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-7.5,13.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_spreads,Washington Nationals,-8.5,16.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,3.5,1.04
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,4.5,1.09
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,5.5,1.23
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,6.5,1.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,7.5,1.58
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,8.5,1.82
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,9.5,2.28
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,10.5,2.72
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,11.5,3.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,12.5,4.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,13.5,5.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,14.5,7.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,15.5,9.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,16.5,11.6
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,17.5,15.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Over,18.5,18.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,2.5,18.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,3.5,9.7
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,4.5,7.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,5.5,4.1
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,6.5,3.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,7.5,2.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,8.5,1.96
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,9.5,1.6
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,10.5,1.44
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,11.5,1.29
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,12.5,1.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,13.5,1.14
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,14.5,1.09
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,15.5,1.05
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,fanduel,alternate_totals,Under,16.5,1.03
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,5.0,1.07
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,4.5,1.12
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,4.0,1.13
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,3.5,1.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,3.0,1.23
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,2.5,1.33
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,2.0,1.38
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,1.0,1.63
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-1.0,2.24
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-1.5,2.66
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-2.0,3.22
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-2.5,3.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-3.0,4.39
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-3.5,4.67
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-4.0,5.99
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,St. Louis Cardinals,-4.5,6.27
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-5.0,7.7
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-4.5,5.93
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-4.0,5.63
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-3.5,4.32
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-3.0,4.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-2.5,3.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-2.0,2.94
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,-1.0,2.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,1.0,1.62
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,1.5,1.45
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,2.0,1.33
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,2.5,1.28
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,3.0,1.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,3.5,1.18
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,4.0,1.11
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_spreads,Washington Nationals,4.5,1.11
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,5.5,1.22
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,6.0,1.24
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,6.5,1.33
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,7.0,1.39
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,7.5,1.56
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,8.0,1.65
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,9.0,1.99
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,9.5,2.23
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,10.0,2.48
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,10.5,2.65
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,11.0,3.16
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,11.5,3.42
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,12.0,3.99
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,12.5,4.19
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,13.0,5.24
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Over,13.5,5.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,5.5,4.13
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,6.0,3.89
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,6.5,3.22
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,7.0,2.89
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,7.5,2.36
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,8.0,2.19
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,9.0,1.78
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,9.5,1.62
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,10.0,1.51
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,10.5,1.45
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,11.0,1.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,11.5,1.29
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,12.0,1.23
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,12.5,1.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,13.0,1.14
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,draftkings,alternate_totals,Under,13.5,1.13
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,-1.5,2.88
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,1.5,1.55
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,1.0,1.71
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,-1.0,2.43
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,-2.0,3.48
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,-2.5,3.73
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,St. Louis Cardinals,-3.0,4.63
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,1.5,1.47
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,-1.5,2.53
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,-1.0,2.23
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,1.0,1.62
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,2.0,1.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,2.5,1.29
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_spreads,Washington Nationals,3.0,1.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,8.5,1.87
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,7.0,1.44
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,7.5,1.62
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,8.0,1.72
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,9.0,2.08
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,9.5,2.32
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Over,10.0,2.56
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,8.5,2.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,7.0,2.88
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,7.5,2.39
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,8.0,2.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,9.0,1.81
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,9.5,1.65
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,pinnacle,alternate_totals,Under,10.0,1.54
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,St. Louis Cardinals,-2.5,3.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,St. Louis Cardinals,-1.5,2.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,St. Louis Cardinals,1.5,1.54
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,St. Louis Cardinals,2.5,1.33
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,St. Louis Cardinals,-3.5,5.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,St. Louis Cardinals,3.5,1.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,Washington Nationals,2.5,1.25
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,Washington Nationals,1.5,1.43
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,Washington Nationals,-1.5,2.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,Washington Nationals,-2.5,3.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,Washington Nationals,3.5,1.15
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_spreads,Washington Nationals,-3.5,4.25
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,3.5,1.05
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,4.0,1.06
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,4.5,1.1
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,5.0,1.11
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,5.5,1.22
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,6.0,1.24
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,6.5,1.33
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,7.0,1.4
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,7.5,1.57
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,8.0,1.67
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,8.5,1.85
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,9.0,2.05
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,9.5,2.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,10.0,2.6
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,10.5,2.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,11.0,3.4
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,11.5,3.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,12.0,4.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,12.5,4.4
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,13.0,5.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,13.5,5.75
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,14.0,7.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,3.5,8.75
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,4.0,8.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,4.5,6.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,5.0,6.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,5.5,4.1
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,6.0,3.9
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,6.5,3.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,7.0,2.85
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,7.5,2.35
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,8.0,2.15
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,8.5,1.98
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,9.0,1.71
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,9.5,1.59
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,10.0,1.48
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,10.5,1.43
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,11.0,1.31
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,11.5,1.29
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,12.0,1.21
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,12.5,1.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,13.0,1.13
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,13.5,1.12
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,14.0,1.09
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betmgm,alternate_totals,Under,3.0,16.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,St. Louis Cardinals,-2.5,3.6
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,St. Louis Cardinals,1.5,1.56
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,St. Louis Cardinals,2.5,1.36
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,St. Louis Cardinals,3.5,1.24
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,St. Louis Cardinals,-1.5,2.7
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,Washington Nationals,2.5,1.29
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,Washington Nationals,-1.5,2.45
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,Washington Nationals,-2.5,3.15
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,Washington Nationals,-3.5,4.1
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_spreads,Washington Nationals,1.5,1.47
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,10.0,2.47
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,10.5,2.67
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,8.0,1.68
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,7.5,1.59
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,9.5,2.23
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,9.0,2.02
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Over,8.5,1.82
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,10.0,1.55
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,10.5,1.48
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,8.0,2.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,7.5,2.37
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,9.5,1.66
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,9.0,1.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,coolbet,alternate_totals,Under,8.5,2.0
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,St. Louis Cardinals,-2.0,3.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,St. Louis Cardinals,2.5,1.33
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,St. Louis Cardinals,1.5,1.51
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,St. Louis Cardinals,3.0,1.24
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,St. Louis Cardinals,2.0,1.38
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,St. Louis Cardinals,-1.5,2.7
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,Washington Nationals,2.0,1.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,Washington Nationals,-2.5,3.35
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,Washington Nationals,-1.5,2.55
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,Washington Nationals,-3.0,4.1
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,Washington Nationals,-2.0,3.05
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_spreads,Washington Nationals,1.5,1.47
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,13.0,4.25
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,11.0,2.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,12.0,3.4
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,11.5,3.2
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,12.5,3.85
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,6.5,1.34
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,9.5,2.15
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,8.5,1.77
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,9.0,1.87
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,8.0,1.57
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,7.0,1.36
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,10.5,2.5
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,10.0,2.25
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Over,7.5,1.56
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,13.0,1.17
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,11.0,1.36
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,12.0,1.26
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,11.5,1.36
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,12.5,1.27
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,6.5,3.3
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,9.5,1.72
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,8.5,2.07
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,9.0,1.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,8.0,2.17
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,7.0,2.8
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,10.5,1.54
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,10.0,1.56
+2026-09-19T22:50:58Z,closing,29327cf0a9d96265c67832a691838a89,2026-09-19T23:16:00Z,St. Louis Cardinals,Washington Nationals,betrivers,alternate_totals,Under,7.5,2.45
