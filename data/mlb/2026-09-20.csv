@@ -2792,3 +2792,657 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-20T16:51:52Z,closing,09a8d21707b561bb7c88b6b936dff49c,2026-09-20T17:11:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,6.0,2.65
 2026-09-20T16:51:52Z,closing,09a8d21707b561bb7c88b6b936dff49c,2026-09-20T17:11:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,11.5,1.2
 2026-09-20T16:51:52Z,closing,09a8d21707b561bb7c88b6b936dff49c,2026-09-20T17:11:00Z,New York Mets,Philadelphia Phillies,betrivers,alternate_totals,Under,8.5,1.66
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,h2h,Kansas City Royals,,2.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,h2h,Pittsburgh Pirates,,1.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,spreads,Kansas City Royals,-1.5,2.64
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,spreads,Pittsburgh Pirates,1.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,totals,Over,8.5,1.96
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,totals,Under,8.5,1.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,h2h,Kansas City Royals,,1.96
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,h2h,Pittsburgh Pirates,,1.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,spreads,Kansas City Royals,1.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,spreads,Pittsburgh Pirates,-1.5,2.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,totals,Over,8.5,1.95
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,totals,Under,8.5,1.87
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betsson,h2h,Kansas City Royals,,1.98
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betsson,h2h,Pittsburgh Pirates,,1.83
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betsson,spreads,Kansas City Royals,1.5,1.48
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betsson,spreads,Pittsburgh Pirates,-1.5,2.56
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betsson,totals,Over,8.5,1.88
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betsson,totals,Under,8.5,1.88
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,h2h,Kansas City Royals,,2.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,h2h,Pittsburgh Pirates,,1.83
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,spreads,Kansas City Royals,-1.5,2.66
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,spreads,Pittsburgh Pirates,1.5,1.49
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,totals,Over,8.5,1.95
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,totals,Under,8.5,1.88
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,h2h,Kansas City Royals,,2.08
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,h2h,Pittsburgh Pirates,,1.9
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,h2h_lay,Kansas City Royals,,2.1
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,h2h_lay,Pittsburgh Pirates,,1.92
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,spreads,Kansas City Royals,-1.5,2.66
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,spreads,Pittsburgh Pirates,1.5,1.53
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,totals,Over,8.5,1.97
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,matchbook,totals,Under,8.5,1.96
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,h2h,Kansas City Royals,,1.93
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,h2h,Pittsburgh Pirates,,1.91
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,spreads,Kansas City Royals,-1.5,2.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,spreads,Pittsburgh Pirates,1.5,1.53
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,totals,Over,8.5,1.93
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,totals,Under,8.5,1.88
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betfair_ex_eu,h2h,Kansas City Royals,,2.08
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betfair_ex_eu,h2h,Pittsburgh Pirates,,1.89
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betfair_ex_eu,h2h_lay,Kansas City Royals,,2.14
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betfair_ex_eu,h2h_lay,Pittsburgh Pirates,,1.92
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,h2h,Kansas City Royals,,2.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,h2h,Pittsburgh Pirates,,1.83
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,spreads,Kansas City Royals,-1.5,2.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,spreads,Pittsburgh Pirates,1.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,totals,Over,8.5,1.95
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,totals,Under,8.5,1.87
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,h2h,Kansas City Royals,,2.08
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,h2h,Pittsburgh Pirates,,1.86
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,spreads,Kansas City Royals,1.5,1.48
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,spreads,Pittsburgh Pirates,-1.5,2.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,totals,Over,8.5,1.97
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,totals,Under,8.5,1.91
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,h2h,Boston Red Sox,,2.27
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,h2h,Tampa Bay Rays,,1.65
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,spreads,Boston Red Sox,1.5,1.58
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,spreads,Tampa Bay Rays,-1.5,2.43
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,totals,Over,7.5,1.94
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,totals,Under,7.5,1.88
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betsson,h2h,Boston Red Sox,,2.22
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betsson,h2h,Tampa Bay Rays,,1.66
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betsson,spreads,Boston Red Sox,1.5,1.58
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betsson,spreads,Tampa Bay Rays,-1.5,2.32
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betsson,totals,Over,7.5,1.88
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betsson,totals,Under,7.5,1.88
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,h2h,Boston Red Sox,,2.23
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,h2h,Tampa Bay Rays,,1.66
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,spreads,Boston Red Sox,1.5,1.57
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,spreads,Tampa Bay Rays,-1.5,2.42
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,totals,Over,7.5,1.95
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,totals,Under,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,h2h,Boston Red Sox,,2.25
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,h2h,Tampa Bay Rays,,1.65
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,spreads,Boston Red Sox,1.5,1.59
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,spreads,Tampa Bay Rays,-1.5,2.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,totals,Over,7.5,1.95
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,totals,Under,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h,Boston Red Sox,,2.38
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h,Tampa Bay Rays,,1.71
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h_lay,Boston Red Sox,,2.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,h2h_lay,Tampa Bay Rays,,1.73
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,spreads,Boston Red Sox,1.5,1.63
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,spreads,Tampa Bay Rays,-1.5,2.48
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,totals,Over,7.5,2.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,matchbook,totals,Under,7.5,1.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,h2h,Boston Red Sox,,2.22
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,h2h,Tampa Bay Rays,,1.69
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,spreads,Boston Red Sox,1.5,1.56
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,spreads,Tampa Bay Rays,-1.5,2.46
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,totals,Over,7.5,1.96
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,totals,Under,7.5,1.85
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,h2h,Boston Red Sox,,2.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,h2h,Tampa Bay Rays,,1.68
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,spreads,Boston Red Sox,1.5,1.61
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,spreads,Tampa Bay Rays,-1.5,2.46
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,totals,Over,7.5,2.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,totals,Under,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,h2h,Boston Red Sox,,2.23
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,h2h,Tampa Bay Rays,,1.68
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,spreads,Boston Red Sox,1.5,1.56
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,spreads,Tampa Bay Rays,-1.5,2.45
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,totals,Over,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,totals,Under,7.5,1.94
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h,Boston Red Sox,,2.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h,Tampa Bay Rays,,1.71
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h_lay,Boston Red Sox,,2.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betfair_ex_eu,h2h_lay,Tampa Bay Rays,,1.73
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,5.5,1.03
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,4.5,1.07
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,3.5,1.14
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,2.5,1.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,1.5,1.41
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-1.5,2.62
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-2.5,3.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-3.5,4.7
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-4.5,6.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-5.5,9.3
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-6.5,13.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Kansas City Royals,-7.5,16.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-7.5,18.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-6.5,14.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-5.5,11.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-4.5,7.8
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-3.5,5.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-2.5,3.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,-1.5,2.86
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,1.5,1.48
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,2.5,1.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,3.5,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,4.5,1.1
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,5.5,1.05
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_spreads,Pittsburgh Pirates,6.5,1.02
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,3.5,1.05
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,4.5,1.11
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,5.5,1.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,6.5,1.38
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,7.5,1.68
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,8.5,1.96
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,9.5,2.54
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,10.5,3.1
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,11.5,4.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,12.5,5.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,13.5,6.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,14.5,8.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,15.5,11.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,16.5,13.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,17.5,16.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Over,18.5,19.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,2.5,16.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,3.5,9.3
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,4.5,6.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,5.5,3.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,6.5,3.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,7.5,2.16
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,8.5,1.82
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,9.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,10.5,1.36
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,11.5,1.23
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,12.5,1.16
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,13.5,1.1
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,14.5,1.06
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,15.5,1.03
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,fanduel,alternate_totals,Under,16.5,1.02
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,1.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,-3.5,4.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,-2.5,3.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,2.5,1.32
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Kansas City Royals,-1.5,2.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Pittsburgh Pirates,-1.5,2.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Pittsburgh Pirates,3.5,1.21
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Pittsburgh Pirates,2.5,1.32
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Pittsburgh Pirates,-2.5,3.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_spreads,Pittsburgh Pirates,1.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,7.0,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,9.5,2.42
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,8.0,1.8
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,10.0,2.7
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,9.0,2.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,8.5,1.95
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Over,7.5,1.68
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,7.0,2.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,9.5,1.57
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,8.0,2.02
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,10.0,1.47
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,9.0,1.68
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,8.5,1.87
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,coolbet,alternate_totals,Under,7.5,2.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-5.0,8.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-4.5,6.35
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-4.0,6.07
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-3.5,4.68
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-3.0,4.37
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-2.5,3.42
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-2.0,3.13
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,-1.0,2.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,1.0,1.62
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,1.5,1.44
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,2.0,1.31
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,2.5,1.27
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,3.0,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,3.5,1.16
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,4.0,1.1
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Kansas City Royals,4.5,1.09
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,5.0,1.06
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,4.5,1.1
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,4.0,1.11
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,3.5,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,3.0,1.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,2.5,1.3
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,2.0,1.34
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,1.0,1.59
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-1.0,2.23
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-1.5,2.69
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-2.0,3.31
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-2.5,3.62
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-3.0,4.62
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-3.5,4.93
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-4.0,6.48
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_spreads,Pittsburgh Pirates,-4.5,6.76
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,4.5,1.12
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,5.0,1.14
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,5.5,1.26
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,6.0,1.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,6.5,1.39
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,7.0,1.47
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,7.5,1.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,8.0,1.76
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,9.0,2.17
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,9.5,2.42
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,10.0,2.71
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,10.5,2.89
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,11.0,3.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,11.5,3.77
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,12.0,4.43
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Over,12.5,4.62
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,4.5,5.84
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,5.0,5.37
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,5.5,3.69
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,6.0,3.45
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,6.5,2.91
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,7.0,2.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,7.5,2.17
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,8.0,2.01
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,9.0,1.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,9.5,1.54
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,10.0,1.44
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,10.5,1.39
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,11.0,1.28
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,11.5,1.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,12.0,1.19
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,draftkings,alternate_totals,Under,12.5,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,-3.0,4.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,-2.5,3.3
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,-2.0,3.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,-1.5,2.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,2.0,1.3
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Kansas City Royals,1.5,1.43
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Pittsburgh Pirates,3.0,1.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Pittsburgh Pirates,2.5,1.34
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Pittsburgh Pirates,2.0,1.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Pittsburgh Pirates,1.5,1.53
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Pittsburgh Pirates,-2.0,3.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_spreads,Pittsburgh Pirates,-1.5,2.8
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,12.5,4.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,7.0,1.47
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,13.0,4.9
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,6.5,1.42
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,11.5,3.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,12.0,3.9
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,6.0,1.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,5.5,1.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,10.5,2.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,8.5,1.93
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,9.5,2.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,10.0,2.55
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,9.0,2.08
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,11.0,3.15
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,7.5,1.68
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Over,8.0,1.74
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,12.5,1.21
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,7.0,2.48
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,13.0,1.13
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,6.5,2.9
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,11.5,1.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,12.0,1.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,6.0,3.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,5.5,3.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,10.5,1.43
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,8.5,1.88
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,9.5,1.57
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,10.0,1.43
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,9.0,1.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,11.0,1.3
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,7.5,2.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betrivers,alternate_totals,Under,8.0,1.94
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,2.5,1.27
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,1.5,1.45
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,-1.5,2.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,-2.5,3.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,3.5,1.16
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Kansas City Royals,-3.5,4.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Pittsburgh Pirates,-2.5,3.7
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Pittsburgh Pirates,-1.5,2.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Pittsburgh Pirates,1.5,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Pittsburgh Pirates,2.5,1.31
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Pittsburgh Pirates,-3.5,5.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_spreads,Pittsburgh Pirates,3.5,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,3.5,1.06
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,4.0,1.06
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,4.5,1.11
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,5.0,1.13
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,5.5,1.24
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,6.0,1.27
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,6.5,1.36
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,7.0,1.44
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,7.5,1.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,8.0,1.77
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,8.5,1.95
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,9.0,2.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,9.5,2.45
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,10.0,2.75
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,10.5,2.9
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,11.0,3.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,11.5,3.8
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,12.0,4.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,12.5,4.6
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,13.0,5.75
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,13.5,6.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,14.0,7.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,3.5,8.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,4.0,8.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,4.5,6.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,5.0,5.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,5.5,3.9
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,6.0,3.7
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,6.5,3.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,7.0,2.7
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,7.5,2.2
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,8.0,2.0
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,8.5,1.87
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,9.0,1.65
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,9.5,1.53
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,10.0,1.43
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,10.5,1.4
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,11.0,1.29
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,11.5,1.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,12.0,1.19
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,12.5,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,13.0,1.12
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,13.5,1.11
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,14.0,1.08
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,betmgm,alternate_totals,Under,3.0,14.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,1.5,1.48
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,-1.5,2.62
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,-1.0,2.36
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,1.0,1.67
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,2.0,1.33
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,2.5,1.28
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Kansas City Royals,3.0,1.18
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,-1.5,2.85
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,1.5,1.52
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,1.0,1.63
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,-1.0,2.32
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,-2.0,3.53
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,-2.5,3.83
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_spreads,Pittsburgh Pirates,-3.0,4.87
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,8.5,1.97
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,7.0,1.5
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,7.5,1.69
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,8.0,1.81
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,9.0,2.24
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,9.5,2.49
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Over,10.0,2.77
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,8.5,1.91
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,7.0,2.66
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,7.5,2.25
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,8.0,2.08
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,9.0,1.7
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,9.5,1.58
+2026-09-20T17:10:33Z,closing,dcb006d706956d2de3545b8814e80ff9,2026-09-20T17:36:00Z,Pittsburgh Pirates,Kansas City Royals,pinnacle,alternate_totals,Under,10.0,1.47
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-4.5,7.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-4.0,7.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-3.5,5.52
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-3.0,5.22
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-2.5,4.05
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-2.0,3.74
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-1.5,3.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,-1.0,2.68
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,1.0,1.81
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,2.0,1.41
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,2.5,1.35
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,3.0,1.24
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,3.5,1.22
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,4.0,1.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,4.5,1.13
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Boston Red Sox,5.0,1.07
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,4.5,1.08
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,4.0,1.08
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,3.5,1.13
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,3.0,1.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,2.5,1.22
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,2.0,1.25
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,1.5,1.37
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,1.0,1.45
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-1.0,1.94
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-2.0,2.83
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-2.5,3.11
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-3.0,3.85
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-3.5,4.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-4.0,5.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-4.5,5.59
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_spreads,Tampa Bay Rays,-5.0,7.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,4.5,1.19
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,5.0,1.23
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,5.5,1.38
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,6.0,1.43
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,6.5,1.55
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,7.0,1.69
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,8.0,2.08
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,8.5,2.24
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,9.0,2.61
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,9.5,2.86
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,10.0,3.25
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,10.5,3.43
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,11.0,4.23
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,11.5,4.49
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,12.0,5.31
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Over,12.5,5.49
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,4.5,4.46
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,5.0,4.01
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,5.5,2.93
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,6.0,2.72
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,6.5,2.38
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,7.0,2.11
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,8.0,1.71
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,8.5,1.62
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,9.0,1.47
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,9.5,1.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,10.0,1.32
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,10.5,1.29
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,11.0,1.21
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,11.5,1.19
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,12.0,1.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,draftkings,alternate_totals,Under,12.5,1.13
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,-1.5,2.93
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,2.5,1.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,3.5,1.23
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,-2.5,3.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Boston Red Sox,1.5,1.57
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,1.5,1.41
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,-2.5,3.15
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,-3.5,4.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,2.5,1.26
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_spreads,Tampa Bay Rays,-1.5,2.42
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,7.0,1.73
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,8.5,2.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,9.0,2.67
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,7.5,1.95
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,8.0,2.12
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,9.5,2.93
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Over,6.5,1.58
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,7.0,2.12
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,8.5,1.62
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,9.0,1.48
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,8.0,1.73
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,9.5,1.41
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,coolbet,alternate_totals,Under,6.5,2.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,2.5,1.35
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,1.5,1.59
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,-1.5,3.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,-2.5,4.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,3.5,1.21
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Boston Red Sox,-3.5,5.75
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,-2.5,3.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,-1.5,2.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,1.5,1.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,2.5,1.21
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,-3.5,4.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_spreads,Tampa Bay Rays,3.5,1.12
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,3.5,1.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,4.0,1.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,4.5,1.17
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,5.0,1.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,5.5,1.34
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,6.0,1.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,6.5,1.53
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,7.0,1.67
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,7.5,1.95
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,8.0,2.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,8.5,2.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,9.0,2.7
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,9.5,3.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,10.0,3.5
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,10.5,3.7
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,11.0,4.6
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,11.5,5.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,12.0,5.75
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,12.5,6.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,13.0,7.75
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,3.0,1.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,3.5,6.5
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,4.0,6.25
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,4.5,4.75
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,5.0,4.33
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,5.5,3.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,6.0,2.85
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,6.5,2.45
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,7.0,2.15
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,8.0,1.69
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,8.5,1.59
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,9.0,1.44
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,9.5,1.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,10.0,1.29
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,10.5,1.27
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,11.0,1.18
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,11.5,1.16
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,12.0,1.12
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,12.5,1.11
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,13.0,1.07
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,3.0,11.5
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,2.5,12.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betmgm,alternate_totals,Under,2.0,19.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,7.5,1.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,6.5,1.04
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,5.5,1.07
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,4.5,1.12
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,3.5,1.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,2.5,1.32
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,1.5,1.54
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-1.5,2.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-2.5,3.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-3.5,5.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-4.5,7.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-5.5,9.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-6.5,11.6
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-7.5,14.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Boston Red Sox,-8.5,16.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-8.5,14.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-7.5,12.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-6.5,10.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-5.5,7.8
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-4.5,5.8
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-3.5,4.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-2.5,3.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,-1.5,2.44
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,1.5,1.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,2.5,1.24
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,3.5,1.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,4.5,1.08
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,5.5,1.05
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_spreads,Tampa Bay Rays,6.5,1.03
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,2.5,1.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,3.5,1.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,4.5,1.19
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,5.5,1.38
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,6.5,1.58
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,7.5,1.98
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,8.5,2.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,9.5,3.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,10.5,3.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,11.5,5.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,12.5,7.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,13.5,9.7
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,14.5,12.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,15.5,16.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Over,16.5,18.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,1.5,18.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,2.5,13.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,3.5,6.6
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,4.5,4.5
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,5.5,2.96
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,6.5,2.34
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,7.5,1.8
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,8.5,1.57
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,9.5,1.34
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,10.5,1.24
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,11.5,1.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,12.5,1.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,13.5,1.05
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,fanduel,alternate_totals,Under,14.5,1.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,1.5,1.61
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,-1.5,3.15
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,-1.0,2.83
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,1.0,1.89
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,2.0,1.44
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,2.5,1.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Boston Red Sox,3.0,1.24
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-1.5,2.46
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,1.5,1.37
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,1.0,1.46
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-1.0,1.99
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-2.0,2.97
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-2.5,3.26
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_spreads,Tampa Bay Rays,-3.0,4.09
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,7.5,2.02
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,6.0,1.43
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,6.5,1.57
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,7.0,1.75
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,8.0,2.19
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,8.5,2.35
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Over,9.0,2.7
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,6.0,2.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,6.5,2.49
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,7.0,2.17
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,8.0,1.73
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,8.5,1.64
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,pinnacle,alternate_totals,Under,9.0,1.49
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,2.5,1.34
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,-2.0,3.9
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,-1.5,3.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,1.5,1.56
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,2.0,1.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Boston Red Sox,3.0,1.24
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-2.5,3.3
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,2.0,1.26
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,1.5,1.38
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-1.5,2.45
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-2.0,3.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_spreads,Tampa Bay Rays,-3.0,4.1
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,7.0,1.61
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,6.0,1.38
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,8.0,1.94
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,10.0,3.0
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,9.5,2.8
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,6.5,1.53
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,5.5,1.36
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,10.5,3.4
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,11.0,3.85
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,12.0,4.8
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,9.0,2.43
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,8.5,2.2
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,11.5,4.5
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Over,7.5,1.87
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,7.0,2.15
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,6.0,2.75
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,8.0,1.74
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,10.0,1.33
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,9.5,1.43
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,6.5,2.55
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,5.5,3.15
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,10.5,1.33
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,11.0,1.21
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,12.0,1.14
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,9.0,1.48
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,8.5,1.68
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,11.5,1.21
+2026-09-20T17:10:33Z,closing,07a49329fbb35ea5b26f59b425b089bc,2026-09-20T17:40:00Z,Tampa Bay Rays,Boston Red Sox,betrivers,alternate_totals,Under,7.5,1.94
