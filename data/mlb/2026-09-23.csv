@@ -6923,3 +6923,649 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-23T22:52:05Z,closing,24e2844ddd06b300f6491b2912fa652c,2026-09-23T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,alternate_totals,Under,6.5,2.23
 2026-09-23T22:52:05Z,closing,24e2844ddd06b300f6491b2912fa652c,2026-09-23T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,alternate_totals,Under,8.0,1.64
 2026-09-23T22:52:05Z,closing,24e2844ddd06b300f6491b2912fa652c,2026-09-23T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,alternate_totals,Under,5.5,2.78
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,h2h,Chicago Cubs,,1.56
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,h2h,Miami Marlins,,2.52
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,spreads,Chicago Cubs,-1.5,2.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,spreads,Miami Marlins,1.5,1.64
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,totals,Over,6.5,1.82
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,totals,Under,6.5,2.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betsson,h2h,Chicago Cubs,,1.54
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betsson,h2h,Miami Marlins,,2.48
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betsson,spreads,Chicago Cubs,-1.5,2.17
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betsson,spreads,Miami Marlins,1.5,1.66
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betsson,totals,Over,7.0,1.97
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betsson,totals,Under,7.0,1.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,h2h,Chicago Cubs,,1.53
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,h2h,Miami Marlins,,2.55
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,spreads,Chicago Cubs,-1.5,2.18
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,spreads,Miami Marlins,1.5,1.69
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,totals,Over,6.5,1.83
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,totals,Under,6.5,2.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,h2h,Chicago Cubs,,1.52
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,h2h,Miami Marlins,,2.59
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,spreads,Chicago Cubs,-1.5,2.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,spreads,Miami Marlins,1.5,1.69
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,totals,Over,6.5,1.83
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,totals,Under,6.5,2.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,h2h,Chicago Cubs,,1.53
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,h2h,Miami Marlins,,2.6
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,spreads,Chicago Cubs,-1.5,2.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,spreads,Miami Marlins,1.5,1.68
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,totals,Over,6.5,1.82
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,totals,Under,6.5,2.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,h2h,Chicago Cubs,,1.56
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,h2h,Miami Marlins,,2.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,spreads,Chicago Cubs,-1.5,2.29
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,spreads,Miami Marlins,1.5,1.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,totals,Over,6.5,1.84
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,totals,Under,6.5,2.06
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h,Chicago Cubs,,1.58
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h,Miami Marlins,,2.68
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h_lay,Chicago Cubs,,1.6
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h_lay,Miami Marlins,,2.72
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,h2h,Chicago Cubs,,1.53
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,h2h,Miami Marlins,,2.52
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,spreads,Chicago Cubs,-1.5,2.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,spreads,Miami Marlins,1.5,1.64
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,totals,Over,6.5,1.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,totals,Under,6.5,2.02
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h,Chicago Cubs,,1.57
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h,Miami Marlins,,2.72
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h_lay,Chicago Cubs,,1.58
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h_lay,Miami Marlins,,2.76
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,spreads,Chicago Cubs,-1.5,2.26
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,spreads,Miami Marlins,1.5,1.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,totals,Over,6.5,1.86
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,matchbook,totals,Under,6.5,2.06
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,h2h,Chicago White Sox,,1.86
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,h2h,Kansas City Royals,,1.98
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,spreads,Chicago White Sox,-1.5,2.46
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,spreads,Kansas City Royals,1.5,1.57
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,totals,Over,8.5,1.87
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,totals,Under,8.5,1.95
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betsson,h2h,Chicago White Sox,,1.83
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betsson,h2h,Kansas City Royals,,1.98
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betsson,spreads,Chicago White Sox,-1.5,2.32
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betsson,spreads,Kansas City Royals,1.5,1.58
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betsson,totals,Over,8.5,1.83
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betsson,totals,Under,8.5,1.93
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,h2h,Chicago White Sox,,1.83
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,h2h,Kansas City Royals,,2.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,spreads,Chicago White Sox,-1.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,spreads,Kansas City Royals,1.5,1.59
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,totals,Over,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,totals,Under,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,h2h,Chicago White Sox,,1.83
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,h2h,Kansas City Royals,,1.99
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,spreads,Chicago White Sox,-1.5,2.38
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,spreads,Kansas City Royals,1.5,1.6
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,totals,Over,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,totals,Under,8.5,1.92
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,h2h,Chicago White Sox,,1.88
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,h2h,Kansas City Royals,,1.94
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,spreads,Chicago White Sox,-1.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,spreads,Kansas City Royals,1.5,1.57
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,totals,Over,8.5,1.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,totals,Under,8.5,1.96
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h,Chicago White Sox,,1.92
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h,Kansas City Royals,,2.06
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h_lay,Chicago White Sox,,1.93
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h_lay,Kansas City Royals,,2.1
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,spreads,Chicago White Sox,-1.5,2.48
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,spreads,Kansas City Royals,1.5,1.62
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,totals,Over,8.5,1.95
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,matchbook,totals,Under,8.5,1.97
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,h2h,Chicago White Sox,,1.86
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,h2h,Kansas City Royals,,2.07
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,spreads,Chicago White Sox,-1.5,2.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,spreads,Kansas City Royals,1.5,1.63
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,totals,Over,8.5,1.93
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,totals,Under,8.5,1.96
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h,Chicago White Sox,,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h,Kansas City Royals,,2.06
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h_lay,Chicago White Sox,,1.94
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h_lay,Kansas City Royals,,2.1
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,h2h,Chicago White Sox,,1.82
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,h2h,Kansas City Royals,,2.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,spreads,Chicago White Sox,-1.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,spreads,Kansas City Royals,1.5,1.58
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,totals,Over,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,totals,Under,8.5,1.91
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-8.5,15.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-7.5,13.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-6.5,10.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-5.5,7.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-4.5,5.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-3.5,4.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-2.5,3.15
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,-1.5,2.28
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,1.5,1.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,2.5,1.16
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,3.5,1.09
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,4.5,1.04
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Chicago Cubs,5.5,1.02
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,7.5,1.02
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,6.5,1.04
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,5.5,1.07
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,4.5,1.12
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,3.5,1.21
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,2.5,1.34
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,1.5,1.61
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-1.5,3.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-2.5,5.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-3.5,7.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-4.5,10.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-5.5,13.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-6.5,16.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-7.5,18.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_spreads,Miami Marlins,-8.5,19.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,2.5,1.03
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,3.5,1.15
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,4.5,1.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,5.5,1.56
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,6.5,1.82
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,7.5,2.42
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,8.5,3.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,9.5,4.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,10.5,5.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,11.5,7.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,12.5,9.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,13.5,13.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Over,14.5,16.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,1.5,16.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,2.5,11.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,3.5,5.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,4.5,3.65
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,5.5,2.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,6.5,1.96
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,7.5,1.54
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,8.5,1.38
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,9.5,1.23
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,10.5,1.15
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,11.5,1.08
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,12.5,1.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,fanduel,alternate_totals,Under,13.5,1.02
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Chicago Cubs,-2.5,2.9
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Chicago Cubs,-1.5,2.18
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Chicago Cubs,1.5,1.29
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Chicago Cubs,-3.5,4.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Chicago Cubs,-4.5,5.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Chicago Cubs,-5.5,7.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Miami Marlins,2.5,1.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Miami Marlins,1.5,1.69
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Miami Marlins,-1.5,3.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Miami Marlins,3.5,1.22
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Miami Marlins,4.5,1.13
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_spreads,Miami Marlins,5.5,1.07
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,3.5,1.15
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,4.0,1.17
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,4.5,1.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,5.0,1.33
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,5.5,1.53
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,6.0,1.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,6.5,1.83
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,7.0,2.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,7.5,2.35
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,8.0,2.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,8.5,2.85
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,9.0,3.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,9.5,3.9
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,10.0,4.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,10.5,5.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,11.0,6.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,11.5,6.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,12.0,8.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,2.5,1.04
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,1.5,1.01
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Over,3.0,1.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,3.5,5.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,4.0,4.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,4.5,3.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,5.0,3.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,5.5,2.45
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,6.0,2.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,6.5,2.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,7.0,1.71
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,7.5,1.57
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,8.0,1.44
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,8.5,1.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,9.0,1.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,9.5,1.24
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,10.0,1.17
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,10.5,1.16
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,11.0,1.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,11.5,1.09
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,12.0,1.06
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,2.0,14.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,2.5,9.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,1.5,14.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betmgm,alternate_totals,Under,3.0,9.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,3.5,1.07
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,3.0,1.07
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,2.5,1.14
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,2.0,1.15
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,1.5,1.26
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,1.0,1.31
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-1.0,1.74
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-2.0,2.57
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-2.5,2.88
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-3.0,3.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-3.5,3.94
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-4.0,5.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-4.5,5.41
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-5.0,7.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-5.5,7.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Chicago Cubs,-6.0,10.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,-3.5,7.9
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,-3.0,7.6
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,-2.5,5.43
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,-2.0,5.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,-1.5,3.72
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,-1.0,3.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,1.0,2.04
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,2.0,1.48
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,2.5,1.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,3.0,1.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,3.5,1.23
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,4.0,1.15
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,4.5,1.14
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,5.0,1.08
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,5.5,1.07
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_spreads,Miami Marlins,6.0,1.04
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,3.5,1.16
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,4.0,1.18
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,4.5,1.28
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,5.0,1.35
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,5.5,1.55
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,6.0,1.65
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,7.0,2.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,7.5,2.31
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,8.0,2.6
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,8.5,2.78
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,9.0,3.47
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,9.5,3.78
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,10.0,4.53
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,10.5,4.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,11.0,6.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Over,11.5,6.55
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,3.5,4.87
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,4.0,4.55
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,4.5,3.54
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,5.0,3.11
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,5.5,2.38
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,6.0,2.18
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,7.0,1.74
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,7.5,1.58
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,8.0,1.47
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,8.5,1.42
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,9.0,1.29
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,9.5,1.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,10.0,1.19
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,10.5,1.17
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,11.0,1.11
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,draftkings,alternate_totals,Under,11.5,1.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Chicago Cubs,-2.0,2.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Chicago Cubs,-2.5,3.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Chicago Cubs,-1.5,2.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Chicago Cubs,-3.0,3.85
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Miami Marlins,2.0,1.48
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Miami Marlins,2.5,1.38
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Miami Marlins,1.5,1.68
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_spreads,Miami Marlins,3.0,1.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,9.5,3.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,4.5,1.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,10.0,4.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,5.0,1.34
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,10.5,4.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,8.5,2.85
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,6.5,1.82
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,9.0,3.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,11.0,5.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,8.0,2.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,6.0,1.61
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,7.0,1.97
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,7.5,2.33
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Over,5.5,1.56
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,9.5,1.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,4.5,3.6
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,10.0,1.18
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,5.0,2.95
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,10.5,1.19
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,8.5,1.43
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,6.5,2.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,9.0,1.28
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,11.0,1.1
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,8.0,1.45
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,6.0,2.14
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,7.0,1.72
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,7.5,1.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,betrivers,alternate_totals,Under,5.5,2.43
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,-1.5,2.29
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,1.5,1.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,1.0,1.36
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,-1.0,1.83
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,-2.0,2.75
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,-2.5,3.07
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Chicago Cubs,-3.0,3.85
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,1.5,1.7
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,-1.5,3.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,-1.0,3.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,1.0,2.08
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,2.0,1.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,2.5,1.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_spreads,Miami Marlins,3.0,1.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,6.5,1.84
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,5.0,1.35
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,5.5,1.56
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,6.0,1.66
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,7.0,2.09
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,7.5,2.38
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Over,8.0,2.67
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,6.5,2.06
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,5.0,3.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,5.5,2.53
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,6.0,2.31
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,7.0,1.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,7.5,1.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,pinnacle,alternate_totals,Under,8.0,1.5
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Chicago Cubs,-1.5,2.27
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Chicago Cubs,2.5,1.2
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Chicago Cubs,1.5,1.32
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Chicago Cubs,-2.5,3.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Chicago Cubs,-3.5,4.0
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Miami Marlins,1.5,1.64
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Miami Marlins,-2.5,4.6
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Miami Marlins,-1.5,3.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Miami Marlins,2.5,1.4
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_spreads,Miami Marlins,3.5,1.25
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,7.5,2.3
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,8.0,2.55
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,6.5,1.8
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,7.0,2.05
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,8.5,2.78
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,6.0,1.66
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Over,5.5,1.56
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,7.5,1.62
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,8.0,1.52
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,6.5,2.02
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,7.0,1.78
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,8.5,1.45
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,6.0,2.23
+2026-09-23T23:22:50Z,closing,abd20077e0d7c1491fcc361d264cbc3d,2026-09-23T23:41:00Z,Chicago Cubs,Miami Marlins,coolbet,alternate_totals,Under,5.5,2.45
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,5.5,1.04
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,4.5,1.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,3.5,1.13
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,2.5,1.23
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,1.5,1.38
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-1.5,2.42
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-2.5,3.2
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-3.5,4.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-4.5,5.7
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-5.5,7.8
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-6.5,10.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-7.5,13.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Chicago White Sox,-8.5,16.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-7.5,18.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-6.5,14.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-5.5,10.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-4.5,7.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-3.5,5.6
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-2.5,4.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,-1.5,3.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,1.5,1.54
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,2.5,1.34
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,3.5,1.21
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,4.5,1.13
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,5.5,1.07
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,6.5,1.04
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_spreads,Kansas City Royals,7.5,1.02
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,3.5,1.05
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,4.5,1.11
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,5.5,1.23
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,6.5,1.34
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,7.5,1.6
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,8.5,1.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,9.5,2.36
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,10.5,2.82
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,11.5,3.65
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,12.5,4.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,13.5,5.8
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,14.5,7.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,15.5,9.7
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,16.5,11.6
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,17.5,15.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Over,18.5,18.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,2.5,16.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,3.5,9.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,4.5,6.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,5.5,4.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,6.5,3.2
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,7.5,2.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,8.5,1.93
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,9.5,1.57
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,10.5,1.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,11.5,1.27
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,12.5,1.19
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,13.5,1.12
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,14.5,1.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,15.5,1.04
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,fanduel,alternate_totals,Under,16.5,1.03
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Chicago White Sox,2.5,1.22
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Chicago White Sox,1.5,1.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Chicago White Sox,-1.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Chicago White Sox,-2.5,3.1
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Chicago White Sox,-3.5,4.1
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Chicago White Sox,3.5,1.14
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Kansas City Royals,-2.5,4.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Kansas City Royals,-1.5,2.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Kansas City Royals,1.5,1.59
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Kansas City Royals,2.5,1.35
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Kansas City Royals,3.5,1.22
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_spreads,Kansas City Royals,-3.5,5.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,3.5,1.06
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,4.0,1.06
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,4.5,1.11
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,5.0,1.12
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,5.5,1.24
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,6.0,1.27
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,6.5,1.35
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,7.0,1.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,7.5,1.61
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,8.0,1.71
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,9.0,2.15
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,9.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,10.0,2.7
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,10.5,2.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,11.0,3.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,11.5,3.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,12.0,4.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,12.5,4.6
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,13.0,5.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,13.5,6.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,14.0,7.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,3.5,8.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,4.0,8.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,4.5,6.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,5.0,5.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,5.5,3.9
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,6.0,3.7
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,6.5,3.1
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,7.0,2.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,7.5,2.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,8.0,2.05
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,9.0,1.67
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,9.5,1.54
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,10.0,1.44
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,10.5,1.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,11.0,1.29
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,11.5,1.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,12.0,1.2
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,12.5,1.18
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,13.0,1.12
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,13.5,1.11
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,14.0,1.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betmgm,alternate_totals,Under,3.0,15.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-5.5,7.2
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-5.0,6.94
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-4.5,5.37
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-4.0,5.09
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-3.5,3.99
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-3.0,3.72
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-2.5,3.04
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-2.0,2.76
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,-1.0,2.06
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,1.0,1.51
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,1.5,1.37
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,2.0,1.26
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,2.5,1.23
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,3.0,1.15
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,3.5,1.14
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Chicago White Sox,4.0,1.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,5.5,1.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,5.0,1.09
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,4.5,1.14
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,4.0,1.15
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,3.5,1.23
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,3.0,1.26
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,2.5,1.36
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,2.0,1.42
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,1.0,1.73
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-1.0,2.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-1.5,2.98
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-2.0,3.69
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-2.5,3.98
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-3.0,5.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-3.5,5.37
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_spreads,Kansas City Royals,-4.0,7.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,5.0,1.13
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,5.5,1.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,6.0,1.28
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,6.5,1.37
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,7.0,1.45
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,7.5,1.63
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,8.0,1.74
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,9.0,2.11
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,9.5,2.34
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,10.0,2.59
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,10.5,2.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,11.0,3.29
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,11.5,3.55
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,12.0,4.09
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,12.5,4.26
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Over,13.0,5.35
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,5.0,5.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,5.5,3.8
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,6.0,3.56
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,6.5,2.97
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,7.0,2.66
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,7.5,2.21
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,8.0,2.05
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,9.0,1.69
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,9.5,1.57
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,10.0,1.47
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,10.5,1.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,11.0,1.32
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,11.5,1.28
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,12.0,1.22
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,12.5,1.21
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,draftkings,alternate_totals,Under,13.0,1.14
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Chicago White Sox,-2.5,3.15
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Chicago White Sox,-2.0,2.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Chicago White Sox,2.0,1.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Chicago White Sox,-1.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Chicago White Sox,-3.0,3.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Chicago White Sox,1.5,1.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Kansas City Royals,2.5,1.36
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Kansas City Royals,2.0,1.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Kansas City Royals,-2.0,3.55
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Kansas City Royals,1.5,1.57
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Kansas City Royals,3.0,1.27
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_spreads,Kansas City Royals,-1.5,2.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,5.5,1.26
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,13.0,4.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,9.0,1.96
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,10.5,2.65
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,8.5,1.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,7.5,1.62
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,9.5,2.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,8.0,1.66
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,12.0,3.55
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,12.5,4.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,6.5,1.38
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,11.0,2.9
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,10.0,2.38
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,11.5,3.35
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,7.0,1.41
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Over,6.0,1.26
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,5.5,3.9
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,13.0,1.16
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,9.0,1.73
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,10.5,1.49
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,8.5,1.96
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,7.5,2.32
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,9.5,1.65
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,8.0,2.07
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,12.0,1.24
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,12.5,1.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,6.5,3.1
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,11.0,1.34
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,10.0,1.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,11.5,1.33
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,7.0,2.63
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,betrivers,alternate_totals,Under,6.0,3.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,-1.5,2.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,-3.0,3.9
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,-2.5,3.17
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,-2.0,2.89
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,-1.0,2.12
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,1.0,1.54
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Chicago White Sox,1.5,1.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,1.5,1.63
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,3.0,1.26
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,2.5,1.38
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,2.0,1.46
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,1.0,1.79
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,-1.0,2.58
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_spreads,Kansas City Royals,-1.5,3.03
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,8.5,1.93
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,7.0,1.47
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,7.5,1.66
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,8.0,1.77
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,9.0,2.16
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,9.5,2.41
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Over,10.0,2.68
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,8.5,1.96
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,7.0,2.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,7.5,2.3
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,8.0,2.13
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,9.0,1.75
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,9.5,1.61
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,pinnacle,alternate_totals,Under,10.0,1.5
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Chicago White Sox,-1.5,2.4
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Chicago White Sox,-3.5,4.0
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Chicago White Sox,-2.5,3.07
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Chicago White Sox,1.5,1.43
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Chicago White Sox,2.5,1.27
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Kansas City Royals,1.5,1.58
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Kansas City Royals,3.5,1.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Kansas City Royals,2.5,1.38
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Kansas City Royals,-1.5,2.85
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_spreads,Kansas City Royals,-2.5,3.8
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,9.5,2.37
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,8.0,1.76
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,9.0,2.12
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,7.5,1.65
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,10.5,2.8
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Over,10.0,2.67
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,9.5,1.59
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,8.0,2.08
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,9.0,1.73
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,7.5,2.25
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,8.5,1.91
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,10.5,1.44
+2026-09-23T23:22:50Z,closing,67a95b403897bde4e3f38d5448f9c94c,2026-09-23T23:41:00Z,Kansas City Royals,Chicago White Sox,coolbet,alternate_totals,Under,10.0,1.48
