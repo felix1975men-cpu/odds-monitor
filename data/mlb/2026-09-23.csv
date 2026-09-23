@@ -4985,3 +4985,988 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-23T21:13:19Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,spreads,San Diego Padres,1.5,1.67
 2026-09-23T21:13:19Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,totals,Over,7.5,1.91
 2026-09-23T21:13:19Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,totals,Under,7.5,1.91
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,h2h,Baltimore Orioles,,1.83
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,h2h,Toronto Blue Jays,,2.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,spreads,Baltimore Orioles,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,spreads,Toronto Blue Jays,-1.5,2.72
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,totals,Over,7.5,1.87
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,totals,Under,7.5,1.95
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betfair_ex_eu,h2h,Baltimore Orioles,,1.9
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betfair_ex_eu,h2h,Toronto Blue Jays,,2.08
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betfair_ex_eu,h2h_lay,Baltimore Orioles,,1.93
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betfair_ex_eu,h2h_lay,Toronto Blue Jays,,2.12
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,h2h,Baltimore Orioles,,1.82
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,h2h,Toronto Blue Jays,,2.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,spreads,Baltimore Orioles,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,spreads,Toronto Blue Jays,-1.5,2.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,totals,Over,7.5,1.89
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,totals,Under,7.5,1.92
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betsson,h2h,Baltimore Orioles,,1.83
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betsson,h2h,Toronto Blue Jays,,1.98
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betsson,spreads,Baltimore Orioles,-1.5,2.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betsson,spreads,Toronto Blue Jays,1.5,1.46
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betsson,totals,Over,7.5,1.83
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betsson,totals,Under,7.5,1.93
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,h2h,Baltimore Orioles,,1.81
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,h2h,Toronto Blue Jays,,2.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,spreads,Baltimore Orioles,-1.5,2.69
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,spreads,Toronto Blue Jays,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,totals,Over,7.5,1.92
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,totals,Under,7.5,1.9
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,h2h,Baltimore Orioles,,1.83
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,h2h,Toronto Blue Jays,,2.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,spreads,Baltimore Orioles,-1.5,2.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,spreads,Toronto Blue Jays,1.5,1.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,totals,Over,7.5,1.91
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,totals,Under,7.5,1.91
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,h2h,Baltimore Orioles,,1.83
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,h2h,Toronto Blue Jays,,2.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,spreads,Baltimore Orioles,-1.5,2.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,spreads,Toronto Blue Jays,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,totals,Over,7.5,1.89
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,totals,Under,7.5,1.92
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,h2h,Baltimore Orioles,,1.89
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,h2h,Toronto Blue Jays,,2.08
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,h2h_lay,Baltimore Orioles,,1.93
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,h2h_lay,Toronto Blue Jays,,2.12
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,spreads,Baltimore Orioles,1.5,1.49
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,spreads,Toronto Blue Jays,-1.5,2.78
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,totals,Over,7.5,1.97
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,matchbook,totals,Under,7.5,1.93
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,h2h,Baltimore Orioles,,1.87
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,h2h,Toronto Blue Jays,,2.06
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,spreads,Baltimore Orioles,-1.5,2.8
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,spreads,Toronto Blue Jays,1.5,1.49
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,totals,Over,7.5,1.96
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,totals,Under,7.5,1.93
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,h2h,Milwaukee Brewers,,1.82
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,h2h,Philadelphia Phillies,,2.04
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,spreads,Milwaukee Brewers,-1.5,2.46
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,spreads,Philadelphia Phillies,1.5,1.57
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,totals,Over,7.5,2.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,totals,Under,7.5,1.71
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,h2h,Milwaukee Brewers,,1.78
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,h2h,Philadelphia Phillies,,2.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,spreads,Milwaukee Brewers,-1.5,2.32
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,spreads,Philadelphia Phillies,1.5,1.58
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,totals,Over,7.0,1.82
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,totals,Under,7.0,1.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,h2h,Milwaukee Brewers,,1.8
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,h2h,Philadelphia Phillies,,2.05
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,spreads,Milwaukee Brewers,-1.5,2.4
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,spreads,Philadelphia Phillies,1.5,1.59
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,totals,Over,7.0,1.87
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,totals,Under,7.0,1.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,h2h,Milwaukee Brewers,,1.82
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,h2h,Philadelphia Phillies,,2.02
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,spreads,Milwaukee Brewers,-1.5,2.41
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,spreads,Philadelphia Phillies,1.5,1.58
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,totals,Over,7.0,1.91
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,totals,Under,7.0,1.92
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,h2h,Milwaukee Brewers,,1.8
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,h2h,Philadelphia Phillies,,2.06
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,spreads,Milwaukee Brewers,-1.5,2.43
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,spreads,Philadelphia Phillies,1.5,1.57
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,totals,Over,7.0,1.85
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,totals,Under,7.0,1.83
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h,Milwaukee Brewers,,1.84
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h,Philadelphia Phillies,,2.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h_lay,Milwaukee Brewers,,1.9
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h_lay,Philadelphia Phillies,,2.18
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,spreads,Milwaukee Brewers,-1.5,2.46
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,spreads,Philadelphia Phillies,1.5,1.65
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,totals,Over,7.5,2.16
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,totals,Under,7.5,1.75
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,h2h,Milwaukee Brewers,,1.83
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,h2h,Philadelphia Phillies,,2.11
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,spreads,Milwaukee Brewers,-1.5,2.42
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,spreads,Philadelphia Phillies,1.5,1.63
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,totals,Over,7.0,1.93
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,totals,Under,7.0,1.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,h2h,Milwaukee Brewers,,1.78
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,h2h,Philadelphia Phillies,,2.05
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,spreads,Milwaukee Brewers,-1.5,2.37
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,spreads,Philadelphia Phillies,1.5,1.59
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,totals,Over,7.0,1.91
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,totals,Under,7.0,1.91
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h,Milwaukee Brewers,,1.85
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h,Philadelphia Phillies,,2.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h_lay,Milwaukee Brewers,,1.9
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h_lay,Philadelphia Phillies,,2.18
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,h2h,Pittsburgh Pirates,,1.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,h2h,St. Louis Cardinals,,2.16
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,spreads,Pittsburgh Pirates,-1.5,2.58
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,spreads,St. Louis Cardinals,1.5,1.52
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,totals,Over,7.5,2.04
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,totals,Under,7.5,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,h2h,Pittsburgh Pirates,,1.69
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,h2h,St. Louis Cardinals,,2.16
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,spreads,Pittsburgh Pirates,-1.5,2.42
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,spreads,St. Louis Cardinals,1.5,1.54
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,totals,Over,7.5,1.97
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,totals,Under,7.5,1.8
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,h2h,Pittsburgh Pirates,,1.74
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,h2h,St. Louis Cardinals,,2.14
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,spreads,Pittsburgh Pirates,-1.5,2.55
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,spreads,St. Louis Cardinals,1.5,1.51
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,totals,Over,7.5,2.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,totals,Under,7.5,1.82
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,h2h,Pittsburgh Pirates,,1.69
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,h2h,St. Louis Cardinals,,2.18
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,spreads,Pittsburgh Pirates,-1.5,2.55
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,spreads,St. Louis Cardinals,1.5,1.53
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,totals,Over,7.5,2.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,totals,Under,7.5,1.8
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,h2h,Pittsburgh Pirates,,1.7
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,h2h,St. Louis Cardinals,,2.18
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,spreads,Pittsburgh Pirates,-1.5,2.58
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,spreads,St. Louis Cardinals,1.5,1.52
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,totals,Over,7.0,1.8
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,totals,Under,7.0,2.04
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,h2h,Pittsburgh Pirates,,1.71
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,h2h,St. Louis Cardinals,,2.15
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,spreads,Pittsburgh Pirates,-1.5,2.52
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,spreads,St. Louis Cardinals,1.5,1.53
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,totals,Over,7.0,1.82
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,totals,Under,7.0,2.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h,Pittsburgh Pirates,,1.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h,St. Louis Cardinals,,2.28
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h_lay,Pittsburgh Pirates,,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h_lay,St. Louis Cardinals,,2.34
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h,Pittsburgh Pirates,,1.77
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h,St. Louis Cardinals,,2.28
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h_lay,Pittsburgh Pirates,,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h_lay,St. Louis Cardinals,,2.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,spreads,Pittsburgh Pirates,-1.5,2.7
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,spreads,St. Louis Cardinals,1.5,1.58
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,totals,Over,7.5,2.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,totals,Under,7.5,1.82
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,h2h,Pittsburgh Pirates,,1.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,h2h,St. Louis Cardinals,,2.24
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,spreads,Pittsburgh Pirates,-1.5,2.66
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,spreads,St. Louis Cardinals,1.5,1.54
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,totals,Over,7.0,1.85
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,totals,Under,7.0,2.05
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-8.5,19.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-7.5,15.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-6.5,12.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-5.5,9.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-4.5,7.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-3.5,5.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-2.5,3.8
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,-1.5,2.76
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,1.5,1.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,2.5,1.26
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,3.5,1.15
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,4.5,1.09
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,5.5,1.04
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Baltimore Orioles,6.5,1.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,6.5,1.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,5.5,1.05
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,4.5,1.09
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,3.5,1.15
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,2.5,1.26
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,1.5,1.44
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-1.5,2.68
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-2.5,3.8
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-3.5,5.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-4.5,7.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-5.5,10.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-6.5,13.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_spreads,Toronto Blue Jays,-7.5,16.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,3.5,1.08
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,4.5,1.16
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,5.5,1.34
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,6.5,1.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,7.5,1.82
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,8.5,2.16
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,9.5,2.8
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,10.5,3.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,11.5,4.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,12.5,5.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,13.5,7.8
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,14.5,10.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,15.5,13.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,16.5,15.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Over,17.5,18.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,2.5,15.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,3.5,7.3
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,4.5,5.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,5.5,3.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,6.5,2.54
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,7.5,1.96
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,8.5,1.68
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,9.5,1.43
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,10.5,1.3
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,11.5,1.19
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,12.5,1.13
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,13.5,1.07
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,14.5,1.04
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,fanduel,alternate_totals,Under,15.5,1.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Baltimore Orioles,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Baltimore Orioles,2.5,1.3
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Baltimore Orioles,3.5,1.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Baltimore Orioles,-2.5,3.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Baltimore Orioles,-1.5,2.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Toronto Blue Jays,-1.5,2.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Toronto Blue Jays,-2.5,3.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Toronto Blue Jays,-3.5,4.6
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Toronto Blue Jays,2.5,1.3
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_spreads,Toronto Blue Jays,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,7.5,1.89
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,6.5,1.55
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,8.0,2.05
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,9.0,2.55
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,9.5,2.85
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,8.5,2.23
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Over,7.0,1.68
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,7.5,1.92
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,6.5,2.47
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,8.0,1.78
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,9.0,1.52
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,9.5,1.43
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,8.5,1.66
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,coolbet,alternate_totals,Under,7.0,2.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,4.5,1.09
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,4.0,1.09
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,3.5,1.16
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,3.0,1.18
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,2.5,1.27
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,2.0,1.31
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,1.5,1.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,1.0,1.56
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-1.0,2.19
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-2.0,3.25
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-2.5,3.56
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-3.0,4.55
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-3.5,4.86
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-4.0,6.32
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-4.5,6.6
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Baltimore Orioles,-5.0,8.6
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-4.5,6.97
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-4.0,6.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-3.5,5.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-3.0,4.68
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-2.5,3.64
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-2.0,3.32
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-1.5,2.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,-1.0,2.35
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,1.0,1.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,2.0,1.32
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,2.5,1.28
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,3.0,1.18
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,3.5,1.16
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,4.0,1.1
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,4.5,1.1
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_spreads,Toronto Blue Jays,5.0,1.05
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,4.5,1.18
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,5.0,1.22
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,5.5,1.36
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,6.0,1.42
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,6.5,1.54
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,7.0,1.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,8.0,2.06
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,8.5,2.22
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,9.0,2.61
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,9.5,2.88
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,10.0,3.3
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,10.5,3.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,11.0,4.33
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,11.5,4.6
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,12.0,5.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Over,12.5,5.69
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,4.5,4.58
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,5.0,4.13
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,5.5,3.01
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,6.0,2.79
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,6.5,2.41
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,7.0,2.14
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,8.0,1.73
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,8.5,1.62
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,9.0,1.47
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,9.5,1.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,10.0,1.31
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,10.5,1.29
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,11.0,1.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,11.5,1.18
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,12.0,1.13
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,draftkings,alternate_totals,Under,12.5,1.12
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Baltimore Orioles,-2.5,3.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Baltimore Orioles,-1.5,2.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Baltimore Orioles,1.5,1.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Baltimore Orioles,2.5,1.27
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Baltimore Orioles,3.5,1.16
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Baltimore Orioles,-3.5,4.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Toronto Blue Jays,2.5,1.31
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Toronto Blue Jays,1.5,1.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Toronto Blue Jays,-1.5,2.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Toronto Blue Jays,-2.5,3.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Toronto Blue Jays,-3.5,5.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_spreads,Toronto Blue Jays,3.5,1.19
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,3.5,1.09
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,4.0,1.1
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,4.5,1.16
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,5.0,1.19
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,5.5,1.33
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,6.0,1.36
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,6.5,1.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,7.0,1.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,7.5,1.91
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,8.0,2.05
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,8.5,2.25
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,9.0,2.65
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,9.5,2.85
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,10.0,3.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,10.5,3.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,11.0,4.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,11.5,4.6
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,12.0,5.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,12.5,5.75
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,13.0,7.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,3.0,1.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,3.5,6.75
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,4.0,6.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,4.5,5.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,5.0,4.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,5.5,3.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,6.0,3.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,6.5,2.54
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,7.0,2.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,7.5,1.91
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,8.0,1.71
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,8.5,1.62
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,9.0,1.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,9.5,1.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,10.0,1.31
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,10.5,1.29
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,11.0,1.2
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,11.5,1.18
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,12.0,1.13
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,12.5,1.12
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,13.0,1.07
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,3.0,11.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,2.5,12.0
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betmgm,alternate_totals,Under,2.0,19.5
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Baltimore Orioles,-2.0,3.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Baltimore Orioles,-1.5,2.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Baltimore Orioles,2.0,1.33
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Baltimore Orioles,1.5,1.47
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Toronto Blue Jays,2.0,1.33
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Toronto Blue Jays,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Toronto Blue Jays,-2.0,3.35
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_spreads,Toronto Blue Jays,-1.5,2.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,6.5,1.55
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,5.5,1.38
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,7.0,1.63
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,12.0,4.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,9.5,2.85
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,7.5,1.89
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,9.0,2.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,10.0,3.05
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,8.0,1.97
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,6.0,1.38
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,8.5,2.23
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,11.0,3.85
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,10.5,3.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Over,11.5,4.4
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,6.5,2.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,5.5,3.1
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,7.0,2.1
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,12.0,1.14
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,9.5,1.43
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,7.5,1.92
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,9.0,1.47
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,10.0,1.32
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,8.0,1.72
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,6.0,2.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,8.5,1.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,11.0,1.21
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,10.5,1.32
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,betrivers,alternate_totals,Under,11.5,1.21
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,-1.5,2.8
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,1.5,1.48
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,1.0,1.61
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,-1.0,2.3
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,-2.0,3.45
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,-2.5,3.73
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Baltimore Orioles,-3.0,4.74
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,1.5,1.49
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,-1.5,2.73
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,-1.0,2.41
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,1.0,1.68
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,2.0,1.34
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,2.5,1.29
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_spreads,Toronto Blue Jays,3.0,1.19
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,7.5,1.96
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,6.0,1.41
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,6.5,1.55
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,7.0,1.7
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,8.0,2.13
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,8.5,2.29
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Over,9.0,2.63
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,7.5,1.93
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,6.0,2.97
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,6.5,2.56
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,7.0,2.24
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,8.0,1.78
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,8.5,1.67
+2026-09-23T22:11:28Z,closing,94d0c4d70e74a3ca8f70abe5a0859ea1,2026-09-23T22:36:00Z,Baltimore Orioles,Toronto Blue Jays,pinnacle,alternate_totals,Under,9.0,1.51
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,5.5,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,4.5,1.06
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,3.5,1.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,2.5,1.19
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,1.5,1.32
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-1.5,2.42
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-2.5,3.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-3.5,4.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-4.5,6.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-5.5,8.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-6.5,11.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-7.5,14.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-8.5,18.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-8.5,19.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-7.5,16.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-6.5,14.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-5.5,11.6
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-4.5,9.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-3.5,6.6
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-2.5,4.6
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-1.5,3.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,1.5,1.54
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,2.5,1.32
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,3.5,1.19
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,4.5,1.11
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,5.5,1.06
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,6.5,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,2.5,1.02
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,3.5,1.13
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,4.5,1.22
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,5.5,1.45
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,6.5,1.68
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,7.5,2.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,8.5,2.58
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,9.5,3.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,10.5,4.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,11.5,6.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,12.5,7.8
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,13.5,11.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,14.5,13.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,15.5,16.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,16.5,19.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,1.5,16.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,2.5,12.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,3.5,5.7
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,4.5,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,5.5,2.68
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,6.5,2.16
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,7.5,1.68
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,8.5,1.49
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,9.5,1.29
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,10.5,1.21
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,11.5,1.12
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,12.5,1.07
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,13.5,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,14.5,1.02
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,2.5,1.19
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,1.5,1.35
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,-1.5,2.4
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,-2.5,3.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,-3.5,4.25
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,3.5,1.11
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,-2.5,4.4
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,-1.5,3.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,1.5,1.59
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,2.5,1.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,3.5,1.21
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,-3.5,6.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,3.5,1.12
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,4.0,1.13
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,4.5,1.21
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,5.0,1.25
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,5.5,1.43
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,6.0,1.48
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,6.5,1.62
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,7.0,1.87
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,7.5,2.15
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,8.0,2.45
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,8.5,2.65
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,9.0,3.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,9.5,3.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,10.0,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,10.5,4.33
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,11.0,5.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,11.5,5.75
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,12.0,7.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,12.5,7.25
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,2.5,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,3.0,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,3.0,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,2.5,1.03
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,1.5,1.01
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,3.5,5.75
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,4.0,5.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,4.5,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,5.0,3.75
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,5.5,2.8
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,6.0,2.55
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,6.5,2.25
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,7.0,1.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,7.5,1.67
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,8.0,1.53
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,8.5,1.45
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,9.0,1.33
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,9.5,1.29
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,10.0,1.21
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,10.5,1.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,11.0,1.13
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,11.5,1.12
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,12.0,1.08
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,12.5,1.08
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,2.0,18.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,2.5,11.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,3.0,10.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,3.0,10.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,2.0,17.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,2.5,10.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,1.5,17.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-5.5,8.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-5.0,7.9
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-4.5,5.94
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-4.0,5.64
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-3.5,4.33
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-3.0,4.01
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-2.5,3.16
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-2.0,2.85
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-1.0,2.06
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,1.0,1.45
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,1.5,1.33
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,2.0,1.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,2.5,1.17
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,3.0,1.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,3.5,1.09
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,4.0,1.05
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,5.5,1.06
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,5.0,1.07
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,4.5,1.12
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,4.0,1.13
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,3.5,1.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,3.0,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,2.5,1.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,2.0,1.4
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,1.0,1.72
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-1.0,2.65
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-1.5,3.22
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-2.0,4.31
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-2.5,4.7
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-3.0,6.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-3.5,6.67
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-4.0,9.0
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,3.5,1.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,4.0,1.15
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,4.5,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,5.0,1.28
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,5.5,1.46
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,6.0,1.53
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,6.5,1.68
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,7.5,2.12
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,8.0,2.35
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,8.5,2.53
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,9.0,3.08
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,9.5,3.39
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,10.0,3.99
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,10.5,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,11.0,5.4
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,11.5,5.69
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,3.5,5.47
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,4.0,5.15
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,4.5,3.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,5.0,3.52
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,5.5,2.64
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,6.0,2.43
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,6.5,2.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,7.5,1.68
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,8.0,1.56
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,8.5,1.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,9.0,1.35
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,9.5,1.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,10.0,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,10.5,1.21
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,11.0,1.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,11.5,1.12
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,1.5,1.35
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,-2.5,3.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,-3.0,4.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,2.0,1.22
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,-1.5,2.43
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,-2.0,2.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,-1.5,3.25
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,2.5,1.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,3.0,1.24
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,-2.0,4.35
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,1.5,1.57
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,2.0,1.41
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,9.5,3.4
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,10.5,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,7.0,1.85
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,11.0,4.8
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,6.0,1.54
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,10.0,3.65
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,6.5,1.72
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,5.5,1.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,9.0,2.9
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,7.5,2.17
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,8.5,2.6
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,5.0,1.29
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,4.5,1.27
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,8.0,2.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,9.5,1.33
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,10.5,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,7.0,1.83
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,11.0,1.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,6.0,2.3
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,10.0,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,6.5,2.14
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,5.5,2.63
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,9.0,1.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,7.5,1.7
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,8.5,1.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,5.0,3.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,4.5,3.85
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,8.0,1.54
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-1.5,2.42
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-3.0,3.99
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-2.5,3.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-2.0,2.9
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-1.0,2.09
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,1.0,1.47
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,1.5,1.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,1.5,1.63
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,3.0,1.25
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,2.5,1.38
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,2.0,1.45
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,1.0,1.81
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-1.0,2.79
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-1.5,3.34
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,7.0,1.93
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,5.5,1.48
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,6.0,1.56
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,6.5,1.71
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,7.5,2.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,8.0,2.43
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,8.5,2.58
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,7.0,1.95
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,5.5,2.74
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,6.0,2.53
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,6.5,2.22
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,7.5,1.72
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,8.0,1.61
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,8.5,1.53
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,-2.5,3.1
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,1.5,1.38
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,-3.5,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,2.5,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,-1.5,2.37
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,2.5,1.37
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,-1.5,3.07
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,3.5,1.23
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,-2.5,4.2
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,1.5,1.59
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,8.5,2.55
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,7.0,1.91
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,6.5,1.71
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,8.0,2.37
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,7.5,2.15
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,6.0,1.57
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,5.5,1.5
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,8.5,1.52
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,7.0,1.91
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,6.5,2.15
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,8.0,1.59
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,7.5,1.71
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,6.0,2.42
+2026-09-23T22:11:28Z,closing,6de7fdec72dbabadc09e788561c89a32,2026-09-23T22:41:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,5.5,2.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-8.5,16.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-7.5,14.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-6.5,11.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-5.5,9.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-4.5,6.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-3.5,4.7
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-2.5,3.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,-1.5,2.54
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,1.5,1.43
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,2.5,1.26
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,3.5,1.16
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,4.5,1.09
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,5.5,1.06
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,Pittsburgh Pirates,6.5,1.03
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,6.5,1.03
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,5.5,1.06
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,4.5,1.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,3.5,1.18
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,2.5,1.29
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,1.5,1.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-1.5,2.76
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-2.5,3.8
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-3.5,5.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-4.5,7.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-5.5,9.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-6.5,11.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-7.5,14.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_spreads,St. Louis Cardinals,-8.5,16.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,2.5,1.02
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,3.5,1.11
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,4.5,1.19
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,5.5,1.38
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,6.5,1.58
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,7.5,2.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,8.5,2.4
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,9.5,3.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,10.5,3.9
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,11.5,5.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,12.5,6.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,13.5,9.7
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,14.5,11.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,15.5,15.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Over,16.5,18.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,1.5,18.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,2.5,12.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,3.5,6.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,4.5,4.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,5.5,2.96
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,6.5,2.34
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,7.5,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,8.5,1.56
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,9.5,1.34
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,10.5,1.24
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,11.5,1.15
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,12.5,1.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,13.5,1.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,alternate_totals,Under,14.5,1.03
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,Pittsburgh Pirates,1.5,1.41
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,Pittsburgh Pirates,-3.0,4.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,Pittsburgh Pirates,-2.5,3.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,Pittsburgh Pirates,-1.5,2.55
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,Pittsburgh Pirates,-2.0,3.15
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,Pittsburgh Pirates,2.0,1.28
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,St. Louis Cardinals,-1.5,2.95
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,St. Louis Cardinals,3.0,1.21
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,St. Louis Cardinals,2.5,1.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,St. Louis Cardinals,1.5,1.51
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,St. Louis Cardinals,2.0,1.36
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_spreads,St. Louis Cardinals,-2.0,3.7
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,6.0,1.43
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,11.0,4.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,4.5,1.22
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,7.5,2.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,8.5,2.38
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,8.0,2.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,10.5,3.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,6.5,1.61
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,7.0,1.72
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,12.0,5.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,9.0,2.65
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,9.5,3.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,5.0,1.23
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,5.5,1.42
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,11.5,5.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Over,10.0,3.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,6.0,2.55
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,11.0,1.17
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,4.5,4.4
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,7.5,1.82
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,8.5,1.57
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,8.0,1.63
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,10.5,1.28
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,6.5,2.33
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,7.0,1.97
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,12.0,1.11
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,9.0,1.41
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,9.5,1.38
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,5.0,3.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,5.5,2.9
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,11.5,1.18
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,alternate_totals,Under,10.0,1.27
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,Pittsburgh Pirates,-2.5,3.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,Pittsburgh Pirates,-1.5,2.55
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,Pittsburgh Pirates,1.5,1.4
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,Pittsburgh Pirates,2.5,1.22
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,Pittsburgh Pirates,-3.5,4.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,Pittsburgh Pirates,3.5,1.13
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,St. Louis Cardinals,2.5,1.29
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,St. Louis Cardinals,1.5,1.53
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,St. Louis Cardinals,-1.5,2.85
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,St. Louis Cardinals,-2.5,4.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,St. Louis Cardinals,3.5,1.17
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_spreads,St. Louis Cardinals,-3.5,5.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,3.5,1.11
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,4.0,1.12
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,4.5,1.19
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,5.0,1.22
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,5.5,1.36
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,6.0,1.43
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,6.5,1.56
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,7.0,1.71
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,7.5,2.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,8.0,2.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,8.5,2.45
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,9.0,2.9
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,9.5,3.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,10.0,3.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,10.5,4.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,11.0,5.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,11.5,5.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,12.0,6.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,12.5,6.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,13.0,8.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,3.0,1.02
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Over,3.0,1.03
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,3.5,6.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,4.0,5.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,4.5,4.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,5.0,4.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,5.5,3.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,6.0,2.75
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,6.5,2.35
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,7.0,2.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,7.5,1.8
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,8.0,1.62
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,8.5,1.53
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,9.0,1.4
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,9.5,1.33
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,10.0,1.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,10.5,1.22
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,11.0,1.16
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,11.5,1.14
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,12.0,1.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,12.5,1.1
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,13.0,1.06
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,2.0,21.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,2.5,12.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,3.0,11.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,2.5,11.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,2.0,18.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,alternate_totals,Under,3.0,11.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,4.5,1.07
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,4.0,1.08
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,3.5,1.13
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,3.0,1.15
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,2.5,1.23
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,2.0,1.27
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,1.5,1.39
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,1.0,1.48
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-1.0,2.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-2.0,3.08
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-2.5,3.4
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-3.0,4.31
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-3.5,4.61
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-4.0,5.94
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-4.5,6.22
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,Pittsburgh Pirates,-5.0,8.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-4.5,7.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-4.0,7.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-3.5,5.53
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-3.0,5.21
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-2.5,3.98
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-2.0,3.65
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-1.5,2.9
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,-1.0,2.58
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,1.0,1.74
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,2.0,1.35
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,2.5,1.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,3.0,1.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,3.5,1.18
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,4.0,1.12
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,4.5,1.11
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_spreads,St. Louis Cardinals,5.0,1.06
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,3.5,1.12
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,4.0,1.14
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,4.5,1.21
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,5.0,1.26
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,5.5,1.42
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,6.0,1.48
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,6.5,1.61
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,7.5,2.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,8.0,2.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,8.5,2.37
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,9.0,2.8
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,9.5,3.08
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,10.0,3.57
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,10.5,3.76
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,11.0,4.81
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Over,11.5,5.11
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,3.5,5.74
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,4.0,5.44
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,4.5,4.17
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,5.0,3.73
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,5.5,2.77
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,6.0,2.57
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,6.5,2.26
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,7.5,1.77
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,8.0,1.64
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,8.5,1.56
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,9.0,1.41
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,9.5,1.35
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,10.0,1.28
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,10.5,1.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,11.0,1.17
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,alternate_totals,Under,11.5,1.15
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,Pittsburgh Pirates,-2.5,3.35
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,Pittsburgh Pirates,1.5,1.43
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,Pittsburgh Pirates,3.5,1.16
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,Pittsburgh Pirates,-1.5,2.52
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,Pittsburgh Pirates,2.5,1.26
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,St. Louis Cardinals,2.5,1.33
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,St. Louis Cardinals,-1.5,2.85
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,St. Louis Cardinals,-3.5,5.3
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,St. Louis Cardinals,1.5,1.53
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_spreads,St. Louis Cardinals,-2.5,3.9
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,7.5,2.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,7.0,1.82
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,8.5,2.42
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,8.0,2.25
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,6.5,1.64
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,5.5,1.45
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Over,6.0,1.52
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,7.5,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,7.0,2.0
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,8.5,1.57
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,8.0,1.65
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,6.5,2.27
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,5.5,2.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,alternate_totals,Under,6.0,2.55
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,-1.5,2.66
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,1.5,1.41
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,1.0,1.52
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,-1.0,2.13
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,-2.0,3.28
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,-2.5,3.6
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,Pittsburgh Pirates,-3.0,4.63
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,1.5,1.54
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,-1.5,2.97
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,-1.0,2.66
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,1.0,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,2.0,1.37
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,2.5,1.31
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_spreads,St. Louis Cardinals,3.0,1.2
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,7.0,1.85
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,5.5,1.43
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,6.0,1.5
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,6.5,1.65
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,7.5,2.12
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,8.0,2.31
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Over,8.5,2.46
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,7.0,2.05
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,5.5,2.91
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,6.0,2.69
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,6.5,2.34
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,7.5,1.78
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,8.0,1.66
+2026-09-23T22:11:28Z,closing,7a8ac2f452e72170b3aef83e4cb8e28b,2026-09-23T22:41:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,alternate_totals,Under,8.5,1.58
