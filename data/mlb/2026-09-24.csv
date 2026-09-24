@@ -4696,3 +4696,329 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-24T21:13:36Z,scheduled,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Seattle Mariners,-1.5,2.78
 2026-09-24T21:13:36Z,scheduled,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Over,7.0,1.93
 2026-09-24T21:13:36Z,scheduled,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Under,7.0,1.89
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,h2h,Milwaukee Brewers,,2.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,h2h,Philadelphia Phillies,,1.74
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,spreads,Milwaukee Brewers,1.5,1.56
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,spreads,Philadelphia Phillies,-1.5,2.46
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,totals,Over,7.5,1.85
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,totals,Under,7.5,1.96
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,h2h,Milwaukee Brewers,,2.14
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,h2h,Philadelphia Phillies,,1.74
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,spreads,Milwaukee Brewers,1.5,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,spreads,Philadelphia Phillies,-1.5,2.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,totals,Over,8.0,1.88
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,totals,Under,8.0,1.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,h2h,Milwaukee Brewers,,2.13
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,h2h,Philadelphia Phillies,,1.73
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,spreads,Milwaukee Brewers,1.5,1.52
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,spreads,Philadelphia Phillies,-1.5,2.58
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,totals,Over,7.5,1.84
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,totals,Under,7.5,1.98
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,h2h,Milwaukee Brewers,,2.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,h2h,Philadelphia Phillies,,1.74
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,spreads,Milwaukee Brewers,1.5,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,spreads,Philadelphia Phillies,-1.5,2.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,totals,Over,8.0,2.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,totals,Under,8.0,1.83
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,h2h,Milwaukee Brewers,,2.12
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,h2h,Philadelphia Phillies,,1.72
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,spreads,Milwaukee Brewers,1.5,1.53
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,spreads,Philadelphia Phillies,-1.5,2.45
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,totals,Over,8.0,1.93
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,totals,Under,8.0,1.83
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,h2h,Milwaukee Brewers,,2.12
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,h2h,Philadelphia Phillies,,1.73
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,spreads,Milwaukee Brewers,1.5,1.52
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,spreads,Philadelphia Phillies,-1.5,2.55
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,totals,Over,8.0,1.95
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,totals,Under,8.0,1.87
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h,Milwaukee Brewers,,2.18
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h,Philadelphia Phillies,,1.81
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h_lay,Milwaukee Brewers,,2.22
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h_lay,Philadelphia Phillies,,1.84
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h,Milwaukee Brewers,,2.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h,Philadelphia Phillies,,1.81
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h_lay,Milwaukee Brewers,,2.22
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h_lay,Philadelphia Phillies,,1.84
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,spreads,Milwaukee Brewers,1.5,1.55
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,spreads,Philadelphia Phillies,-1.5,2.72
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,totals,Over,7.5,1.93
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,totals,Under,7.5,1.98
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,h2h,Milwaukee Brewers,,2.22
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,h2h,Philadelphia Phillies,,1.76
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,spreads,Milwaukee Brewers,1.5,1.56
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,spreads,Philadelphia Phillies,-1.5,2.59
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,totals,Over,7.5,1.9
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,totals,Under,7.5,1.99
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,7.5,1.03
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,6.5,1.05
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,5.5,1.08
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,4.5,1.13
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,3.5,1.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,2.5,1.31
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,1.5,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-1.5,2.76
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-2.5,3.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-3.5,5.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-4.5,6.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-5.5,9.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-6.5,11.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-7.5,14.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Milwaukee Brewers,-8.5,16.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-8.5,14.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-7.5,11.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-6.5,9.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-5.5,7.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-4.5,5.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-3.5,4.4
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-2.5,3.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,-1.5,2.44
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,1.5,1.43
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,2.5,1.26
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,3.5,1.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,4.5,1.1
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,5.5,1.06
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_spreads,Philadelphia Phillies,6.5,1.03
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,3.5,1.08
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,4.5,1.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,5.5,1.31
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,6.5,1.48
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,7.5,1.82
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,8.5,2.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,9.5,2.82
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,10.5,3.4
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,11.5,4.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,12.5,5.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,13.5,7.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,14.5,10.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,15.5,12.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,16.5,15.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Over,17.5,18.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,2.5,15.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,3.5,7.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,4.5,5.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,5.5,3.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,6.5,2.62
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,7.5,1.96
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,8.5,1.68
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,9.5,1.43
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,10.5,1.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,11.5,1.19
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,12.5,1.13
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,13.5,1.07
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,14.5,1.04
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,alternate_totals,Under,15.5,1.02
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,2.5,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,1.5,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,3.0,1.23
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,-2.0,3.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,2.0,1.38
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Milwaukee Brewers,-1.5,2.9
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,-2.5,3.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,-1.5,2.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,-3.0,4.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,2.0,1.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,-2.0,3.05
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_spreads,Philadelphia Phillies,1.5,1.42
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,10.0,2.85
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,12.0,4.4
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,11.0,3.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,7.0,1.56
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,6.0,1.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,6.5,1.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,5.5,1.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,8.0,1.88
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,10.5,3.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,9.0,2.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,11.5,4.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,9.5,2.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,7.5,1.81
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Over,8.5,2.1
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,10.0,1.36
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,12.0,1.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,11.0,1.23
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,7.0,2.23
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,6.0,2.85
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,6.5,2.63
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,5.5,3.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,8.0,1.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,10.5,1.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,9.0,1.53
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,11.5,1.23
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,9.5,1.48
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,7.5,2.02
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,alternate_totals,Under,8.5,1.74
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-4.5,6.97
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-4.0,6.67
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-3.5,5.03
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-3.0,4.74
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-2.5,3.72
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-2.0,3.42
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-1.5,2.77
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,-1.0,2.47
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,1.0,1.71
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,2.0,1.36
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,2.5,1.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,3.0,1.21
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,3.5,1.18
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,4.0,1.12
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,4.5,1.11
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Milwaukee Brewers,5.0,1.06
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,4.5,1.09
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,4.0,1.09
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,3.5,1.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,3.0,1.17
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,2.5,1.26
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,2.0,1.3
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,1.5,1.42
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,1.0,1.52
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-1.0,2.07
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-2.0,3.06
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-2.5,3.36
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-3.0,4.26
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-3.5,4.56
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-4.0,5.9
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-4.5,6.19
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_spreads,Philadelphia Phillies,-5.0,8.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,4.5,1.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,5.0,1.19
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,5.5,1.34
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,6.0,1.38
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,6.5,1.49
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,7.0,1.61
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,8.0,1.95
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,8.5,2.09
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,9.0,2.42
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,9.5,2.68
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,10.0,3.03
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,10.5,3.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,11.0,3.94
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,11.5,4.22
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,12.0,4.98
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Over,12.5,5.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,4.5,4.93
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,5.0,4.46
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,5.5,3.17
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,6.0,2.94
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,6.5,2.53
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,7.0,2.26
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,8.0,1.81
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,8.5,1.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,9.0,1.53
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,9.5,1.45
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,10.0,1.36
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,10.5,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,11.0,1.23
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,11.5,1.21
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,12.0,1.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,alternate_totals,Under,12.5,1.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,2.5,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,1.5,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,-1.5,2.75
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,-2.5,3.75
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,3.5,1.21
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Milwaukee Brewers,-3.5,5.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,-2.5,3.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,-1.5,2.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,1.5,1.43
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,2.5,1.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,-3.5,4.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_spreads,Philadelphia Phillies,3.5,1.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,3.5,1.07
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,4.0,1.08
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,4.5,1.14
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,5.0,1.16
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,5.5,1.29
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,6.0,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,6.5,1.44
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,7.0,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,7.5,1.77
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,8.0,2.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,8.5,2.15
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,9.0,2.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,9.5,2.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,10.0,3.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,10.5,3.4
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,11.0,4.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,11.5,4.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,12.0,5.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,12.5,5.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,13.0,7.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,13.5,7.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,2.5,1.01
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,3.5,7.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,4.0,7.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,4.5,5.25
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,5.0,5.0
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,5.5,3.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,6.0,3.2
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,6.5,2.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,7.0,2.4
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,7.5,1.98
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,8.0,1.83
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,8.5,1.67
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,9.0,1.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,9.5,1.43
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,10.0,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,10.5,1.31
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,11.0,1.21
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,11.5,1.19
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,12.0,1.14
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,12.5,1.13
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,13.0,1.08
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,13.5,1.08
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,2.5,13.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,alternate_totals,Under,3.0,12.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,-3.5,4.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,1.5,1.52
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,2.5,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,-2.5,3.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Milwaukee Brewers,-1.5,2.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,3.5,1.19
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,-1.5,2.55
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,-2.5,3.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,2.5,1.29
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_spreads,Philadelphia Phillies,1.5,1.47
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,9.0,2.42
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,8.5,2.1
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,8.0,1.95
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,7.0,1.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,9.5,2.67
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,7.5,1.8
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Over,6.5,1.5
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,9.0,1.57
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,8.5,1.75
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,8.0,1.87
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,7.0,2.35
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,9.5,1.48
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,7.5,2.02
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,alternate_totals,Under,6.5,2.6
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,1.5,1.56
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-1.5,2.87
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,-1.0,2.59
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,1.0,1.79
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,2.0,1.39
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,2.5,1.33
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Milwaukee Brewers,3.0,1.22
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-1.5,2.59
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,1.5,1.44
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,1.0,1.54
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-1.0,2.12
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-2.0,3.17
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-2.5,3.48
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_spreads,Philadelphia Phillies,-3.0,4.4
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,7.5,1.9
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,6.0,1.39
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,6.5,1.52
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,7.0,1.65
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,8.0,2.06
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,8.5,2.24
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Over,9.0,2.55
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,7.5,1.99
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,6.0,3.09
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,6.5,2.65
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,7.0,2.32
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,8.0,1.82
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,8.5,1.7
+2026-09-24T21:39:20Z,closing,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,pinnacle,alternate_totals,Under,9.0,1.54
