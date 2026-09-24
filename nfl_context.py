@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 NFL slate context.
-Источники без ключей: nflverse games.csv (расписание, линии, отдых, крыша),
+Источники без ключей: nflverse games.csv (расписание, отдых, крыша),
 nflverse stats_team (EPA атаки), ESPN injuries, Open-Meteo.
+Линия берётся из снапшотов data/nfl/*.csv — тех же, что котирует digest.
 Кредиты Odds API не тратятся.
 """
 
@@ -10,6 +11,7 @@ import csv
 import io
 import os
 import sys
+import glob
 import datetime as dt
 from collections import defaultdict
 
@@ -20,6 +22,13 @@ TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "96"))
 MIN_CURRENT = int(os.environ.get("MIN_CURRENT", "4"))
 TIMEOUT = 60
+
+# Снапшоты Odds API. Линия обязана совпадать с той, что котирует сводка:
+# иначе прогноз строится на номере, которого в сводке нет, и ставка
+# выпадает из учёта. games.csv тянет чужой консенсус и для этого не годится.
+SNAP_DIR = os.environ.get("SNAP_DIR", "data/nfl")
+MIN_BOOKS = int(os.environ.get("MIN_BOOKS", "2"))
+SNAP_FILES = int(os.environ.get("SNAP_FILES", "3"))
 
 GAMES_CSV = ("https://github.com/nflverse/nflverse-data/releases/download/"
              "schedules/games.csv")
@@ -49,6 +58,7 @@ ESPN2ABBR = {
     "Tennessee Titans": "TEN", "Washington Commanders": "WAS",
 }
 NAMES = {v: k.split()[-1] for k, v in ESPN2ABBR.items()}
+ABBR2FULL = {v: k for k, v in ESPN2ABBR.items()}
 
 COORDS = {
     "Lumen Field": (47.595, -122.332),
@@ -134,6 +144,96 @@ def fetch_games():
         print("games.csv HTTP", r.status_code)
         return []
     return list(csv.DictReader(io.StringIO(r.text)))
+
+
+def _pick_point(books):
+    """Номер линии, на котором стоит больше всего книг. Минимум MIN_BOOKS,
+    при равенстве побеждает тот, где есть Pinnacle — она же якорь для CLV."""
+    good = {p: bs for p, bs in books.items() if len(bs) >= MIN_BOOKS}
+    pool = good or books
+    if not pool:
+        return None, 0
+    p = max(pool, key=lambda k: (len(pool[k]), "pinnacle" in pool[k], -abs(k)))
+    return p, len(pool[p])
+
+
+def snapshot_lines():
+    """{(хозяева, гости) полными именами: линия из последнего снимка}.
+
+    Читает те же файлы, что пишет odds_monitor.py, и выбирает номер по тому
+    же правилу, что и digest. Пока контекст брал линию из games.csv, мои
+    номера в половине матчей отсутствовали в сводке.
+    """
+    rows = []
+    for path in sorted(glob.glob(os.path.join(SNAP_DIR, "*.csv")))[-SNAP_FILES:]:
+        try:
+            with open(path, encoding="utf-8") as f:
+                rows.extend(list(csv.DictReader(f)))
+        except Exception as e:
+            print("snapshot read failed", path, e)
+    if not rows:
+        print("снапшотов нет — линия из games.csv")
+        return {}
+
+    latest = {}
+    for r in rows:
+        eid, ts = r.get("event_id"), r.get("snapshot_utc") or ""
+        if eid and ts > latest.get(eid, ""):
+            latest[eid] = ts
+
+    per = defaultdict(list)
+    for r in rows:
+        if r.get("snapshot_utc") != latest.get(r.get("event_id")):
+            continue
+        per[(r.get("home", ""), r.get("away", ""))].append(r)
+
+    out = {}
+    for (home, away), rs in per.items():
+        info = {"books": 0}
+
+        tb = defaultdict(set)
+        for r in rs:
+            if r.get("market") != "totals":
+                continue
+            p = num(r.get("point"))
+            if p is not None:
+                tb[p].add(r.get("book"))
+        tp, tn = _pick_point(tb)
+        if tp is not None:
+            info["total"] = tp
+            info["books"] = max(info["books"], tn)
+
+        sb = defaultdict(set)
+        for r in rs:
+            if r.get("market") != "spreads" or r.get("outcome") != home:
+                continue
+            p = num(r.get("point"))
+            if p is not None:
+                sb[p].add(r.get("book"))
+        sp, sn = _pick_point(sb)
+        if sp is not None:
+            info["spread"] = -sp          # плюс = фаворит хозяева
+            info["books"] = max(info["books"], sn)
+
+        for side, team in (("ml_home", home), ("ml_away", away)):
+            best, pin = None, None
+            for r in rs:
+                if r.get("market") != "h2h" or r.get("outcome") != team:
+                    continue
+                pr = num(r.get("price"))
+                if pr is None:
+                    continue
+                if r.get("book") == "pinnacle":
+                    pin = pr
+                if best is None or pr > best:
+                    best = pr
+            v = pin if pin is not None else best
+            if v is not None:
+                info[side] = v
+
+        if len(info) > 1:
+            out[(home, away)] = info
+    return out
 
 
 def fetch_epa(season):
@@ -356,6 +456,7 @@ def build():
     form = team_form(games, season)
     epa, epa_season = fetch_epa(season)
     inj = fetch_injuries()
+    snap = snapshot_lines()
 
     src = f" · EPA {epa_season}" if epa_season else ""
     head = (f"📋 <b>NFL — контекст слейта</b>  "
@@ -368,17 +469,31 @@ def build():
 
         L = [f"<b>{hn} - {an}</b>  <i>нед.{g.get('week','?')} · {ko:%d.%m %H:%M} UTC</i>"]
 
-        sl, tl = num(g.get("spread_line")), num(g.get("total_line"))
+        sg = snap.get((ABBR2FULL.get(ha, ""), ABBR2FULL.get(aa, "")))
+        sl = tl = ml_h = ml_a = None
+        note = ""
+        if sg:
+            sl, tl = sg.get("spread"), sg.get("total")
+            ml_h, ml_a = sg.get("ml_home"), sg.get("ml_away")
+            note = f" · {sg.get('books', 0)}кн на линии"
+        if sl is None:
+            sl = num(g.get("spread_line"))
+            note = " · линия из games.csv"
+        if tl is None:
+            tl = num(g.get("total_line"))
+
         mk = []
         if sl is not None:
             fav, pts = (hn, sl) if sl > 0 else (an, -sl)
             mk.append(f"{fav} −{abs(pts):g}" if pts else "ровно")
         if tl is not None:
             mk.append(f"тотал {tl:g}")
-        if g.get("home_moneyline"):
+        if ml_h is not None and ml_a is not None:
+            mk.append(f"ML {ml_h:.2f}/{ml_a:.2f}")
+        elif g.get("home_moneyline"):
             mk.append(f"ML {g.get('home_moneyline')}/{g.get('away_moneyline')}")
         if mk:
-            L.append("   линия: " + " · ".join(mk))
+            L.append("   линия: " + " · ".join(mk) + note)
 
         hf, af = form.get(ha), form.get(aa)
         for tag, ab, f in ((hn, ha, hf), (an, aa, af)):
