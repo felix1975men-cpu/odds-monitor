@@ -1322,3 +1322,571 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-24T01:41:52Z,closing,1cc251b3308daacf4f549c56ad233607,2026-09-24T02:11:00Z,Los Angeles Dodgers,San Diego Padres,coolbet,alternate_totals,Under,9.5,1.52
 2026-09-24T01:41:52Z,closing,1cc251b3308daacf4f549c56ad233607,2026-09-24T02:11:00Z,Los Angeles Dodgers,San Diego Padres,coolbet,alternate_totals,Under,9.0,1.62
 2026-09-24T01:41:52Z,closing,1cc251b3308daacf4f549c56ad233607,2026-09-24T02:11:00Z,Los Angeles Dodgers,San Diego Padres,coolbet,alternate_totals,Under,8.5,1.8
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,h2h,Pittsburgh Pirates,,1.62
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,h2h,St. Louis Cardinals,,2.36
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,spreads,Pittsburgh Pirates,-1.5,2.5
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,spreads,St. Louis Cardinals,1.5,1.55
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,totals,Over,6.5,1.76
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,fanduel,totals,Under,6.5,2.08
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,h2h,Pittsburgh Pirates,,1.61
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,h2h,St. Louis Cardinals,,2.33
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,spreads,Pittsburgh Pirates,-1.5,2.32
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,spreads,St. Louis Cardinals,1.5,1.58
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,totals,Over,7.0,1.88
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betsson,totals,Under,7.0,1.88
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,h2h,Pittsburgh Pirates,,1.61
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,h2h,St. Louis Cardinals,,2.33
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,spreads,Pittsburgh Pirates,-1.5,2.4
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,spreads,St. Louis Cardinals,1.5,1.58
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,totals,Over,7.0,1.96
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,coolbet,totals,Under,7.0,1.85
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,h2h,Pittsburgh Pirates,,1.62
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,h2h,St. Louis Cardinals,,2.34
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,spreads,Pittsburgh Pirates,-1.5,2.44
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,spreads,St. Louis Cardinals,1.5,1.57
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,totals,Over,7.0,1.95
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,draftkings,totals,Under,7.0,1.87
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,h2h,Pittsburgh Pirates,,1.62
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,h2h,St. Louis Cardinals,,2.35
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,spreads,Pittsburgh Pirates,-1.5,2.4
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,spreads,St. Louis Cardinals,1.5,1.59
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,totals,Over,7.0,1.98
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betmgm,totals,Under,7.0,1.85
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,h2h,Pittsburgh Pirates,,1.61
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,h2h,St. Louis Cardinals,,2.38
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,spreads,Pittsburgh Pirates,-1.5,2.38
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,spreads,St. Louis Cardinals,1.5,1.6
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,totals,Over,7.0,1.91
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betrivers,totals,Under,7.0,1.77
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h,Pittsburgh Pirates,,1.66
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h,St. Louis Cardinals,,2.46
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h_lay,Pittsburgh Pirates,,1.68
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,h2h_lay,St. Louis Cardinals,,2.52
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,spreads,Pittsburgh Pirates,-1.5,2.48
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,spreads,St. Louis Cardinals,1.5,1.64
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,totals,Over,6.5,1.78
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,matchbook,totals,Under,6.5,2.12
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,h2h,Pittsburgh Pirates,,1.64
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,h2h,St. Louis Cardinals,,2.41
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,spreads,Pittsburgh Pirates,-1.5,2.45
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,spreads,St. Louis Cardinals,1.5,1.61
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,totals,Over,7.0,2.0
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,pinnacle,totals,Under,7.0,1.87
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h,Pittsburgh Pirates,,1.66
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h,St. Louis Cardinals,,2.46
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h_lay,Pittsburgh Pirates,,1.68
+2026-09-24T07:14:08Z,scheduled,ca2c6af9c65d99ec92728e8b8c76fae9,2026-09-24T16:36:00Z,Pittsburgh Pirates,St. Louis Cardinals,betfair_ex_eu,h2h_lay,St. Louis Cardinals,,2.5
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,fanduel,h2h,Chicago White Sox,,1.77
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,fanduel,h2h,Kansas City Royals,,2.1
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,fanduel,spreads,Chicago White Sox,-1.5,2.28
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,fanduel,spreads,Kansas City Royals,1.5,1.65
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,fanduel,totals,Over,8.5,1.75
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,fanduel,totals,Under,8.5,2.1
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,coolbet,h2h,Chicago White Sox,,1.78
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,coolbet,h2h,Kansas City Royals,,2.05
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,coolbet,spreads,Chicago White Sox,-1.5,2.25
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,coolbet,spreads,Kansas City Royals,1.5,1.65
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,coolbet,totals,Over,9.0,1.91
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,coolbet,totals,Under,9.0,1.91
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,draftkings,h2h,Chicago White Sox,,1.8
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,draftkings,h2h,Kansas City Royals,,2.04
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,draftkings,spreads,Chicago White Sox,-1.5,2.34
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,draftkings,spreads,Kansas City Royals,1.5,1.61
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,draftkings,totals,Over,8.5,1.82
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,draftkings,totals,Under,8.5,2.02
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betsson,h2h,Chicago White Sox,,1.76
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betsson,h2h,Kansas City Royals,,2.07
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betsson,spreads,Chicago White Sox,-1.5,2.22
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betsson,spreads,Kansas City Royals,1.5,1.63
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betsson,totals,Over,9.0,1.9
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betsson,totals,Under,9.0,1.86
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betmgm,h2h,Chicago White Sox,,1.77
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betmgm,h2h,Kansas City Royals,,2.05
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betmgm,spreads,Chicago White Sox,-1.5,2.35
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betmgm,spreads,Kansas City Royals,1.5,1.62
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betmgm,totals,Over,9.0,2.0
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betmgm,totals,Under,9.0,1.83
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betrivers,h2h,Chicago White Sox,,1.75
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betrivers,h2h,Kansas City Royals,,2.12
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betrivers,spreads,Chicago White Sox,-1.5,2.2
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betrivers,spreads,Kansas City Royals,1.5,1.68
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betrivers,totals,Over,8.5,1.83
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betrivers,totals,Under,8.5,2.0
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h,Chicago White Sox,,1.81
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h,Kansas City Royals,,2.12
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h_lay,Chicago White Sox,,1.89
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,h2h_lay,Kansas City Royals,,2.24
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,spreads,Chicago White Sox,-1.5,2.24
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,spreads,Kansas City Royals,1.5,1.67
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,totals,Over,8.5,1.78
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,matchbook,totals,Under,8.5,2.06
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h,Chicago White Sox,,1.81
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h,Kansas City Royals,,2.12
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h_lay,Chicago White Sox,,1.89
+2026-09-24T07:14:08Z,scheduled,f8c72a46effedf3f04b037fb99849fe6,2026-09-24T18:11:00Z,Kansas City Royals,Chicago White Sox,betfair_ex_eu,h2h_lay,Kansas City Royals,,2.26
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,fanduel,h2h,Chicago Cubs,,1.51
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,fanduel,h2h,Miami Marlins,,2.66
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,fanduel,spreads,Chicago Cubs,-1.5,2.14
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,fanduel,spreads,Miami Marlins,1.5,1.73
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,fanduel,totals,Over,7.5,1.89
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,fanduel,totals,Under,7.5,1.93
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,draftkings,h2h,Chicago Cubs,,1.49
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,draftkings,h2h,Miami Marlins,,2.68
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,draftkings,spreads,Chicago Cubs,-1.5,2.13
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,draftkings,spreads,Miami Marlins,1.5,1.74
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,draftkings,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,draftkings,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betsson,h2h,Chicago Cubs,,1.51
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betsson,h2h,Miami Marlins,,2.57
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betsson,spreads,Chicago Cubs,-1.5,2.02
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betsson,spreads,Miami Marlins,1.5,1.76
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betsson,totals,Over,7.5,1.83
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betsson,totals,Under,7.5,1.93
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betrivers,h2h,Chicago Cubs,,1.5
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betrivers,h2h,Miami Marlins,,2.63
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betrivers,spreads,Chicago Cubs,-1.5,2.12
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betrivers,spreads,Miami Marlins,1.5,1.73
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betrivers,totals,Over,7.5,1.92
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betrivers,totals,Under,7.5,1.89
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,coolbet,h2h,Chicago Cubs,,1.48
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,coolbet,h2h,Miami Marlins,,2.67
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,coolbet,spreads,Chicago Cubs,-1.5,2.17
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,coolbet,spreads,Miami Marlins,1.5,1.7
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,coolbet,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,coolbet,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,pinnacle,h2h,Chicago Cubs,,1.5
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,pinnacle,h2h,Miami Marlins,,2.79
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betmgm,h2h,Chicago Cubs,,1.48
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betmgm,h2h,Miami Marlins,,2.7
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betmgm,spreads,Chicago Cubs,-1.5,2.15
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betmgm,spreads,Miami Marlins,1.5,1.71
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betmgm,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betmgm,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h,Chicago Cubs,,1.5
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h,Miami Marlins,,2.84
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h_lay,Chicago Cubs,,1.54
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,h2h_lay,Miami Marlins,,3.0
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,spreads,Chicago Cubs,-1.5,2.1
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,spreads,Miami Marlins,1.5,1.75
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,totals,Over,7.5,1.94
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,matchbook,totals,Under,7.5,1.88
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h,Chicago Cubs,,1.52
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h,Miami Marlins,,2.84
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h_lay,Chicago Cubs,,1.54
+2026-09-24T07:14:08Z,scheduled,1b1dbd4e7d948a1910402a33850d77c8,2026-09-24T18:21:00Z,Chicago Cubs,Miami Marlins,betfair_ex_eu,h2h_lay,Miami Marlins,,2.94
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,fanduel,h2h,New York Mets,,2.08
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,fanduel,h2h,Texas Rangers,,1.79
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,fanduel,spreads,New York Mets,1.5,1.5
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,fanduel,spreads,Texas Rangers,-1.5,2.64
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,fanduel,totals,Over,8.5,1.95
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,fanduel,totals,Under,8.5,1.87
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,coolbet,h2h,New York Mets,,2.08
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,coolbet,h2h,Texas Rangers,,1.76
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,coolbet,spreads,New York Mets,-1.5,2.55
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,coolbet,spreads,Texas Rangers,1.5,1.52
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,coolbet,totals,Over,8.5,1.95
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,coolbet,totals,Under,8.5,1.87
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,draftkings,h2h,New York Mets,,2.09
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,draftkings,h2h,Texas Rangers,,1.76
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,draftkings,spreads,New York Mets,1.5,1.51
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,draftkings,spreads,Texas Rangers,-1.5,2.63
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,draftkings,totals,Over,8.0,1.85
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,draftkings,totals,Under,8.0,1.98
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betsson,h2h,New York Mets,,2.04
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betsson,h2h,Texas Rangers,,1.77
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betsson,spreads,New York Mets,1.5,1.53
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betsson,spreads,Texas Rangers,-1.5,2.45
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betsson,totals,Over,8.5,1.9
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betsson,totals,Under,8.5,1.86
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betmgm,h2h,New York Mets,,2.05
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betmgm,h2h,Texas Rangers,,1.77
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betmgm,spreads,New York Mets,1.5,1.5
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betmgm,spreads,Texas Rangers,-1.5,2.65
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betmgm,totals,Over,8.5,2.0
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betmgm,totals,Under,8.5,1.83
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betrivers,h2h,New York Mets,,2.07
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betrivers,h2h,Texas Rangers,,1.79
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betrivers,spreads,New York Mets,0.5,2.06
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betrivers,spreads,Texas Rangers,-0.5,1.78
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betrivers,totals,Over,8.5,1.94
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betrivers,totals,Under,8.5,1.87
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,h2h,New York Mets,,2.14
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,h2h,Texas Rangers,,1.83
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,h2h_lay,New York Mets,,2.2
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,h2h_lay,Texas Rangers,,1.88
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,spreads,New York Mets,1.5,1.52
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,spreads,Texas Rangers,-1.5,2.56
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,totals,Over,8.5,1.99
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,matchbook,totals,Under,8.5,1.84
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betfair_ex_eu,h2h,New York Mets,,2.12
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betfair_ex_eu,h2h,Texas Rangers,,1.86
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betfair_ex_eu,h2h_lay,New York Mets,,2.16
+2026-09-24T07:14:08Z,scheduled,132107ced3ea1aec8e5cc920a6c36c02,2026-09-24T18:36:00Z,Texas Rangers,New York Mets,betfair_ex_eu,h2h_lay,Texas Rangers,,1.89
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,h2h,Arizona Diamondbacks,,1.54
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,h2h,Colorado Rockies,,2.56
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,spreads,Arizona Diamondbacks,-1.5,1.85
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,spreads,Colorado Rockies,1.5,1.98
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,totals,Over,10.5,2.0
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,totals,Under,10.5,1.82
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,draftkings,h2h,Arizona Diamondbacks,,1.52
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,draftkings,h2h,Colorado Rockies,,2.58
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,draftkings,spreads,Arizona Diamondbacks,-1.5,1.84
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,draftkings,spreads,Colorado Rockies,1.5,1.99
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,draftkings,totals,Over,10.0,1.87
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,draftkings,totals,Under,10.0,1.95
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betsson,h2h,Arizona Diamondbacks,,1.54
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betsson,h2h,Colorado Rockies,,2.48
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betsson,spreads,Arizona Diamondbacks,-1.5,1.83
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betsson,spreads,Colorado Rockies,1.5,1.93
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betsson,totals,Over,10.0,1.83
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betsson,totals,Under,10.0,1.93
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betmgm,h2h,Arizona Diamondbacks,,1.53
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betmgm,h2h,Colorado Rockies,,2.54
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betmgm,spreads,Arizona Diamondbacks,-1.5,1.83
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betmgm,spreads,Colorado Rockies,1.5,2.0
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betmgm,totals,Over,10.0,1.87
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betmgm,totals,Under,10.0,1.95
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,h2h,Arizona Diamondbacks,,1.56
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,h2h,Colorado Rockies,,2.72
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,h2h_lay,Arizona Diamondbacks,,1.58
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,h2h_lay,Colorado Rockies,,2.8
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,spreads,Arizona Diamondbacks,-1.5,1.87
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,spreads,Colorado Rockies,1.5,2.06
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,totals,Over,10.5,2.04
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,matchbook,totals,Under,10.5,1.86
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betrivers,h2h,Arizona Diamondbacks,,1.56
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betrivers,h2h,Colorado Rockies,,2.45
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betrivers,spreads,Arizona Diamondbacks,-1.5,1.89
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betrivers,spreads,Colorado Rockies,1.5,1.92
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betrivers,totals,Over,10.0,1.8
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betrivers,totals,Under,10.0,1.88
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,pinnacle,h2h,Arizona Diamondbacks,,1.55
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,pinnacle,h2h,Colorado Rockies,,2.62
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,pinnacle,spreads,Arizona Diamondbacks,-1.5,1.86
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,pinnacle,spreads,Colorado Rockies,1.5,2.03
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,pinnacle,totals,Over,10.0,1.88
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,pinnacle,totals,Under,10.0,1.99
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,coolbet,h2h,Arizona Diamondbacks,,1.53
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,coolbet,h2h,Colorado Rockies,,2.52
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,coolbet,spreads,Arizona Diamondbacks,-1.5,1.85
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,coolbet,spreads,Colorado Rockies,1.5,1.96
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,coolbet,totals,Over,10.0,1.87
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,coolbet,totals,Under,10.0,1.95
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betfair_ex_eu,h2h,Arizona Diamondbacks,,1.56
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betfair_ex_eu,h2h,Colorado Rockies,,2.72
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betfair_ex_eu,h2h_lay,Arizona Diamondbacks,,1.58
+2026-09-24T07:14:08Z,scheduled,c862b8f01d10ebafd1c1ee08cf8ba9ce,2026-09-24T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,betfair_ex_eu,h2h_lay,Colorado Rockies,,2.78
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,h2h,Milwaukee Brewers,,2.0
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,h2h,Philadelphia Phillies,,1.85
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,spreads,Milwaukee Brewers,-1.5,2.68
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,spreads,Philadelphia Phillies,1.5,1.49
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,totals,Over,7.5,1.7
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,fanduel,totals,Under,7.5,2.16
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,h2h,Milwaukee Brewers,,2.0
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,h2h,Philadelphia Phillies,,1.83
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,spreads,Milwaukee Brewers,1.5,1.48
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,spreads,Philadelphia Phillies,-1.5,2.7
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,totals,Over,8.5,2.02
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betrivers,totals,Under,8.5,1.81
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,h2h,Milwaukee Brewers,,1.98
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,h2h,Philadelphia Phillies,,1.84
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,spreads,Milwaukee Brewers,-1.5,2.61
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,spreads,Philadelphia Phillies,1.5,1.51
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,totals,Over,8.5,1.87
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,draftkings,totals,Under,8.5,1.95
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,h2h,Milwaukee Brewers,,1.98
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,h2h,Philadelphia Phillies,,1.85
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,spreads,Milwaukee Brewers,-1.5,2.65
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,spreads,Philadelphia Phillies,1.5,1.5
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,totals,Over,8.5,1.91
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betmgm,totals,Under,8.5,1.91
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,h2h,Milwaukee Brewers,,1.95
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,h2h,Philadelphia Phillies,,1.85
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,spreads,Milwaukee Brewers,1.5,1.46
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,spreads,Philadelphia Phillies,-1.5,2.65
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,totals,Over,8.5,1.86
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betsson,totals,Under,8.5,1.9
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,h2h,Milwaukee Brewers,,1.96
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,h2h,Philadelphia Phillies,,1.85
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,spreads,Milwaukee Brewers,1.5,1.5
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,spreads,Philadelphia Phillies,-1.5,2.6
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,totals,Over,8.5,1.95
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,coolbet,totals,Under,8.5,1.87
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h,Milwaukee Brewers,,2.12
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h,Philadelphia Phillies,,1.87
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h_lay,Milwaukee Brewers,,2.16
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,betfair_ex_eu,h2h_lay,Philadelphia Phillies,,1.89
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h,Milwaukee Brewers,,2.02
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h,Philadelphia Phillies,,1.87
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h_lay,Milwaukee Brewers,,2.16
+2026-09-24T07:14:08Z,scheduled,73db56fa7f40cff18d189c5d7dc7d903,2026-09-24T22:06:00Z,Philadelphia Phillies,Milwaukee Brewers,matchbook,h2h_lay,Philadelphia Phillies,,1.99
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,fanduel,h2h,Boston Red Sox,,1.75
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,fanduel,h2h,Cleveland Guardians,,2.16
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,fanduel,spreads,Boston Red Sox,-1.5,2.72
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,fanduel,spreads,Cleveland Guardians,1.5,1.48
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,fanduel,totals,Over,7.5,1.96
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,fanduel,totals,Under,7.5,1.85
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,draftkings,h2h,Boston Red Sox,,1.7
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,draftkings,h2h,Cleveland Guardians,,2.19
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,draftkings,spreads,Boston Red Sox,-1.5,2.58
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,draftkings,spreads,Cleveland Guardians,1.5,1.52
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,draftkings,totals,Over,7.5,1.99
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,draftkings,totals,Under,7.5,1.84
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betrivers,h2h,Boston Red Sox,,1.72
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betrivers,h2h,Cleveland Guardians,,2.16
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betrivers,spreads,Boston Red Sox,-1.5,2.55
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betrivers,spreads,Cleveland Guardians,1.5,1.53
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betrivers,totals,Over,7.5,1.95
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betrivers,totals,Under,7.5,1.85
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betsson,h2h,Boston Red Sox,,1.72
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betsson,h2h,Cleveland Guardians,,2.12
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betsson,spreads,Boston Red Sox,-1.5,2.45
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betsson,spreads,Cleveland Guardians,1.5,1.53
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betsson,totals,Over,7.5,1.88
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betsson,totals,Under,7.5,1.88
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betmgm,h2h,Boston Red Sox,,1.71
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betmgm,h2h,Cleveland Guardians,,2.15
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betmgm,spreads,Boston Red Sox,-1.5,2.65
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betmgm,spreads,Cleveland Guardians,1.5,1.5
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betmgm,totals,Over,7.5,1.98
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betmgm,totals,Under,7.5,1.85
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,coolbet,h2h,Boston Red Sox,,1.73
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,coolbet,h2h,Cleveland Guardians,,2.12
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,coolbet,spreads,Boston Red Sox,-1.5,2.67
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,coolbet,spreads,Cleveland Guardians,1.5,1.48
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,coolbet,totals,Over,7.5,1.95
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,coolbet,totals,Under,7.5,1.87
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betfair_ex_eu,h2h,Boston Red Sox,,1.79
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betfair_ex_eu,h2h,Cleveland Guardians,,2.2
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betfair_ex_eu,h2h_lay,Boston Red Sox,,1.84
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,betfair_ex_eu,h2h_lay,Cleveland Guardians,,2.26
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,matchbook,h2h,Boston Red Sox,,1.78
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,matchbook,h2h,Cleveland Guardians,,2.2
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,matchbook,h2h_lay,Boston Red Sox,,1.84
+2026-09-24T07:14:08Z,scheduled,d0e9c7cf726e88320154be5ef2ccf0a1,2026-09-24T22:46:00Z,Boston Red Sox,Cleveland Guardians,matchbook,h2h_lay,Cleveland Guardians,,2.28
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,fanduel,h2h,New York Yankees,,1.68
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,fanduel,h2h,Tampa Bay Rays,,2.26
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,fanduel,spreads,New York Yankees,-1.5,2.58
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,fanduel,spreads,Tampa Bay Rays,1.5,1.52
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,fanduel,totals,Over,6.5,1.82
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,fanduel,totals,Under,6.5,2.0
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,draftkings,h2h,New York Yankees,,1.65
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,draftkings,h2h,Tampa Bay Rays,,2.29
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,draftkings,spreads,New York Yankees,-1.5,2.53
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,draftkings,spreads,Tampa Bay Rays,1.5,1.54
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,draftkings,totals,Over,6.5,1.83
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,draftkings,totals,Under,6.5,2.0
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betsson,h2h,New York Yankees,,1.66
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betsson,h2h,Tampa Bay Rays,,2.22
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betsson,spreads,New York Yankees,-1.5,2.42
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betsson,spreads,Tampa Bay Rays,1.5,1.54
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betsson,totals,Over,7.0,1.97
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betsson,totals,Under,7.0,1.8
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betmgm,h2h,New York Yankees,,1.67
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betmgm,h2h,Tampa Bay Rays,,2.25
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betmgm,spreads,New York Yankees,-1.5,2.5
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betmgm,spreads,Tampa Bay Rays,1.5,1.54
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betmgm,totals,Over,6.5,1.83
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betmgm,totals,Under,6.5,2.0
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,h2h,New York Yankees,,1.7
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,h2h,Tampa Bay Rays,,2.36
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,h2h_lay,New York Yankees,,1.74
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,h2h_lay,Tampa Bay Rays,,2.44
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,spreads,New York Yankees,-1.5,2.54
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,spreads,Tampa Bay Rays,1.5,1.58
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,totals,Over,6.5,1.87
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,matchbook,totals,Under,6.5,2.02
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,pinnacle,h2h,New York Yankees,,1.68
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,pinnacle,h2h,Tampa Bay Rays,,2.31
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,pinnacle,spreads,New York Yankees,-1.5,2.57
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,pinnacle,spreads,Tampa Bay Rays,1.5,1.56
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,pinnacle,totals,Over,6.5,1.85
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,pinnacle,totals,Under,6.5,2.02
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betrivers,h2h,New York Yankees,,1.68
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betrivers,h2h,Tampa Bay Rays,,2.2
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betrivers,spreads,New York Yankees,-1.5,2.55
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betrivers,spreads,Tampa Bay Rays,1.5,1.53
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betrivers,totals,Over,6.5,1.82
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betrivers,totals,Under,6.5,2.0
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,coolbet,h2h,New York Yankees,,1.66
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,coolbet,h2h,Tampa Bay Rays,,2.23
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,coolbet,spreads,New York Yankees,-1.5,2.55
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,coolbet,spreads,Tampa Bay Rays,1.5,1.52
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,coolbet,totals,Over,6.5,1.85
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,coolbet,totals,Under,6.5,1.96
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betfair_ex_eu,h2h,New York Yankees,,1.7
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betfair_ex_eu,h2h,Tampa Bay Rays,,2.36
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betfair_ex_eu,h2h_lay,New York Yankees,,1.74
+2026-09-24T07:14:08Z,scheduled,db3b790ee721c10b3644dbeef61f370c,2026-09-24T23:06:00Z,New York Yankees,Tampa Bay Rays,betfair_ex_eu,h2h_lay,Tampa Bay Rays,,2.44
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,fanduel,h2h,Atlanta Braves,,1.47
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,fanduel,h2h,Cincinnati Reds,,2.8
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,fanduel,spreads,Atlanta Braves,-1.5,2.06
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,fanduel,spreads,Cincinnati Reds,1.5,1.78
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,fanduel,totals,Over,7.5,1.89
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,fanduel,totals,Under,7.5,1.93
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betsson,h2h,Atlanta Braves,,1.47
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betsson,h2h,Cincinnati Reds,,2.68
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betsson,spreads,Atlanta Braves,-1.5,1.97
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betsson,spreads,Cincinnati Reds,1.5,1.8
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betsson,totals,Over,7.5,1.83
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betsson,totals,Under,7.5,1.93
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,draftkings,h2h,Atlanta Braves,,1.45
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,draftkings,h2h,Cincinnati Reds,,2.82
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,draftkings,spreads,Atlanta Braves,-1.5,2.01
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,draftkings,spreads,Cincinnati Reds,1.5,1.82
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,draftkings,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,draftkings,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betmgm,h2h,Atlanta Braves,,1.45
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betmgm,h2h,Cincinnati Reds,,2.8
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betmgm,spreads,Atlanta Braves,-1.5,2.05
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betmgm,spreads,Cincinnati Reds,1.5,1.8
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betmgm,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betmgm,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,h2h,Atlanta Braves,,1.48
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,h2h,Cincinnati Reds,,2.94
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,h2h_lay,Atlanta Braves,,1.52
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,h2h_lay,Cincinnati Reds,,3.1
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,spreads,Atlanta Braves,-1.5,2.04
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,spreads,Cincinnati Reds,1.5,1.84
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,totals,Over,7.5,1.92
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,matchbook,totals,Under,7.5,1.96
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,pinnacle,h2h,Atlanta Braves,,1.47
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,pinnacle,h2h,Cincinnati Reds,,2.88
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,pinnacle,spreads,Atlanta Braves,-1.5,2.06
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,pinnacle,spreads,Cincinnati Reds,1.5,1.83
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,pinnacle,totals,Over,7.5,1.92
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,pinnacle,totals,Under,7.5,1.95
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betrivers,h2h,Atlanta Braves,,1.45
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betrivers,h2h,Cincinnati Reds,,2.8
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betrivers,spreads,Atlanta Braves,-1.5,2.0
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betrivers,spreads,Cincinnati Reds,1.5,1.81
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betrivers,totals,Over,7.5,1.93
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betrivers,totals,Under,7.5,1.88
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,h2h,Atlanta Braves,,1.45
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,h2h,Cincinnati Reds,,2.78
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,spreads,Atlanta Braves,-1.5,2.05
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,spreads,Cincinnati Reds,1.5,1.78
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,coolbet,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betfair_ex_eu,h2h,Atlanta Braves,,1.48
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betfair_ex_eu,h2h,Cincinnati Reds,,2.94
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betfair_ex_eu,h2h_lay,Atlanta Braves,,1.52
+2026-09-24T07:14:08Z,scheduled,78fdc82ac76963c18badf5271be59870,2026-09-24T23:16:00Z,Atlanta Braves,Cincinnati Reds,betfair_ex_eu,h2h_lay,Cincinnati Reds,,3.1
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,fanduel,h2h,Athletics,,2.36
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,fanduel,h2h,Houston Astros,,1.62
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,fanduel,spreads,Athletics,1.5,1.88
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,fanduel,spreads,Houston Astros,-1.5,1.95
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,fanduel,totals,Over,10.5,1.71
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,fanduel,totals,Under,10.5,2.14
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h,Athletics,,2.46
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h,Houston Astros,,1.65
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h_lay,Athletics,,2.68
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h_lay,Houston Astros,,1.68
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betrivers,h2h,Athletics,,2.35
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betrivers,h2h,Houston Astros,,1.62
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betrivers,spreads,Athletics,1.5,1.88
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betrivers,spreads,Houston Astros,-1.5,1.93
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betrivers,totals,Over,11.5,2.02
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betrivers,totals,Under,11.5,1.8
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betsson,h2h,Athletics,,2.33
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betsson,h2h,Houston Astros,,1.61
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betsson,spreads,Athletics,1.5,1.83
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betsson,spreads,Houston Astros,-1.5,1.93
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betsson,totals,Over,11.0,1.88
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,betsson,totals,Under,11.0,1.88
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,draftkings,h2h,Athletics,,2.35
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,draftkings,h2h,Houston Astros,,1.61
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,draftkings,spreads,Athletics,1.5,1.87
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,draftkings,spreads,Houston Astros,-1.5,1.95
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,draftkings,totals,Over,11.0,1.86
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,draftkings,totals,Under,11.0,1.96
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,matchbook,h2h,Athletics,,2.42
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,matchbook,h2h,Houston Astros,,1.61
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,matchbook,h2h_lay,Athletics,,2.64
+2026-09-24T07:14:08Z,scheduled,d1094cf64d0cccf98c76920fd2548c38,2026-09-25T01:41:00Z,Athletics,Houston Astros,matchbook,h2h_lay,Houston Astros,,1.7
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,h2h,Los Angeles Angels,,2.66
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,h2h,Seattle Mariners,,1.51
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,spreads,Los Angeles Angels,1.5,1.7
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,spreads,Seattle Mariners,-1.5,2.16
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,totals,Over,7.5,2.06
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,totals,Under,7.5,1.77
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,h2h,Los Angeles Angels,,2.63
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,h2h,Seattle Mariners,,1.5
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Los Angeles Angels,1.5,1.74
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Seattle Mariners,-1.5,2.13
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Over,7.0,1.83
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Under,7.0,2.0
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,h2h,Los Angeles Angels,,2.57
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,h2h,Seattle Mariners,,1.51
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,spreads,Los Angeles Angels,1.5,1.72
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,spreads,Seattle Mariners,-1.5,2.07
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,totals,Over,7.5,1.97
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,totals,Under,7.5,1.8
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,h2h,Los Angeles Angels,,2.63
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,h2h,Seattle Mariners,,1.5
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,spreads,Los Angeles Angels,1.5,1.73
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,spreads,Seattle Mariners,-1.5,2.12
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,totals,Over,7.5,2.06
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,totals,Under,7.5,1.78
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,h2h,Los Angeles Angels,,2.65
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,h2h,Seattle Mariners,,1.5
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,spreads,Los Angeles Angels,1.5,1.71
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,spreads,Seattle Mariners,-1.5,2.15
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,totals,Over,7.0,1.8
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,totals,Under,7.0,2.05
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h,Los Angeles Angels,,2.74
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h,Seattle Mariners,,1.52
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h_lay,Los Angeles Angels,,2.98
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h_lay,Seattle Mariners,,1.58
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h,Los Angeles Angels,,2.74
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h,Seattle Mariners,,1.51
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h_lay,Los Angeles Angels,,2.96
+2026-09-24T07:14:08Z,scheduled,4984d3511b9db396e1a2c120b9623bbb,2026-09-25T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h_lay,Seattle Mariners,,1.58
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,fanduel,h2h,Los Angeles Dodgers,,1.56
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,fanduel,h2h,San Diego Padres,,2.52
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,fanduel,spreads,Los Angeles Dodgers,-1.5,2.25
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,fanduel,spreads,San Diego Padres,1.5,1.67
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,fanduel,totals,Over,7.5,1.94
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,fanduel,totals,Under,7.5,1.88
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betsson,h2h,Los Angeles Dodgers,,1.58
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betsson,h2h,San Diego Padres,,2.37
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betsson,spreads,Los Angeles Dodgers,-1.5,2.22
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betsson,spreads,San Diego Padres,1.5,1.63
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betsson,totals,Over,7.5,1.86
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betsson,totals,Under,7.5,1.9
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,h2h,Los Angeles Dodgers,,1.58
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,h2h,San Diego Padres,,2.42
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,spreads,Los Angeles Dodgers,-1.5,2.24
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,spreads,San Diego Padres,1.5,1.67
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,totals,Over,7.5,1.92
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,draftkings,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betmgm,h2h,Los Angeles Dodgers,,1.57
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betmgm,h2h,San Diego Padres,,2.45
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betmgm,spreads,Los Angeles Dodgers,-1.5,2.25
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betmgm,spreads,San Diego Padres,1.5,1.67
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betmgm,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betmgm,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,pinnacle,h2h,Los Angeles Dodgers,,1.6
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,pinnacle,h2h,San Diego Padres,,2.51
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,pinnacle,spreads,Los Angeles Dodgers,-1.5,2.31
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,pinnacle,spreads,San Diego Padres,1.5,1.68
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,pinnacle,totals,Over,7.5,1.96
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,pinnacle,totals,Under,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betrivers,h2h,Los Angeles Dodgers,,1.54
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betrivers,h2h,San Diego Padres,,2.55
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betrivers,spreads,Los Angeles Dodgers,-1.5,2.15
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betrivers,spreads,San Diego Padres,1.5,1.72
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betrivers,totals,Over,7.5,1.91
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betrivers,totals,Under,7.5,1.89
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,h2h,Los Angeles Dodgers,,1.6
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,h2h,San Diego Padres,,2.62
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,h2h_lay,Los Angeles Dodgers,,1.62
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,h2h_lay,San Diego Padres,,2.68
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,spreads,Los Angeles Dodgers,-1.5,2.28
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,spreads,San Diego Padres,1.5,1.69
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,totals,Over,7.5,1.97
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,matchbook,totals,Under,7.5,1.9
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betfair_ex_eu,h2h,Los Angeles Dodgers,,1.6
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betfair_ex_eu,h2h,San Diego Padres,,2.62
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betfair_ex_eu,h2h_lay,Los Angeles Dodgers,,1.62
+2026-09-24T07:14:08Z,scheduled,a44be11545d471429fd459d4c5740006,2026-09-25T02:11:00Z,Los Angeles Dodgers,San Diego Padres,betfair_ex_eu,h2h_lay,San Diego Padres,,2.68
