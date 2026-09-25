@@ -6069,3 +6069,646 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-25T22:41:18Z,closing,2d3d378044cc538b0a3d77acaacd15a1,2026-09-25T23:11:00Z,Miami Marlins,Atlanta Braves,pinnacle,alternate_totals,Under,8.5,1.84
 2026-09-25T22:41:18Z,closing,2d3d378044cc538b0a3d77acaacd15a1,2026-09-25T23:11:00Z,Miami Marlins,Atlanta Braves,pinnacle,alternate_totals,Under,9.0,1.64
 2026-09-25T22:41:18Z,closing,2d3d378044cc538b0a3d77acaacd15a1,2026-09-25T23:11:00Z,Miami Marlins,Atlanta Braves,pinnacle,alternate_totals,Under,9.5,1.52
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,h2h,Baltimore Orioles,,1.93
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,h2h,New York Yankees,,1.93
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,spreads,Baltimore Orioles,-1.5,2.6
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,spreads,New York Yankees,1.5,1.52
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,totals,Over,6.5,1.91
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,totals,Under,6.5,1.91
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betfair_ex_eu,h2h,Baltimore Orioles,,1.01
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betfair_ex_eu,h2h,New York Yankees,,1.01
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betfair_ex_eu,h2h_lay,Baltimore Orioles,,110.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betfair_ex_eu,h2h_lay,New York Yankees,,110.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,h2h,Baltimore Orioles,,1.92
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,h2h,New York Yankees,,1.89
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,spreads,Baltimore Orioles,-1.5,2.67
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,spreads,New York Yankees,1.5,1.48
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,totals,Over,6.5,1.89
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,totals,Under,6.5,1.92
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,h2h,Baltimore Orioles,,1.95
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,h2h,New York Yankees,,1.97
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,h2h_lay,Baltimore Orioles,,2.04
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,h2h_lay,New York Yankees,,2.06
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,spreads,Baltimore Orioles,-1.5,2.7
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,spreads,New York Yankees,1.5,1.48
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,totals,Over,6.5,1.85
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,matchbook,totals,Under,6.5,2.04
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,h2h,Baltimore Orioles,,1.94
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,h2h,New York Yankees,,1.88
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,spreads,Baltimore Orioles,-1.5,2.65
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,spreads,New York Yankees,1.5,1.49
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,totals,Over,6.5,1.95
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,totals,Under,6.5,1.85
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,h2h,Baltimore Orioles,,1.88
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,h2h,New York Yankees,,1.93
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,spreads,Baltimore Orioles,-1.5,2.51
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,spreads,New York Yankees,1.5,1.55
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,totals,Over,6.5,1.84
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,totals,Under,6.5,1.98
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betsson,h2h,Baltimore Orioles,,1.88
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betsson,h2h,New York Yankees,,1.92
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betsson,spreads,Baltimore Orioles,-1.5,2.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betsson,spreads,New York Yankees,1.5,1.49
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betsson,totals,Over,7.0,1.98
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betsson,totals,Under,7.0,1.79
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,h2h,Baltimore Orioles,,1.91
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,h2h,New York Yankees,,1.91
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,spreads,Baltimore Orioles,-1.5,2.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,spreads,New York Yankees,1.5,1.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,totals,Over,6.5,1.87
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,totals,Under,6.5,1.95
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,h2h,Baltimore Orioles,,1.94
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,h2h,New York Yankees,,1.98
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,spreads,Baltimore Orioles,1.5,1.41
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,spreads,New York Yankees,-1.5,3.11
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,totals,Over,6.5,1.9
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,totals,Under,6.5,1.99
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,h2h,Chicago White Sox,,1.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,h2h,Colorado Rockies,,2.99
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,spreads,Chicago White Sox,-1.5,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,spreads,Colorado Rockies,1.5,1.94
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,totals,Over,8.5,1.98
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,totals,Under,8.5,1.84
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betsson,h2h,Chicago White Sox,,1.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betsson,h2h,Colorado Rockies,,2.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betsson,spreads,Chicago White Sox,-1.5,1.86
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betsson,spreads,Colorado Rockies,1.5,1.9
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betsson,totals,Over,8.5,1.93
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betsson,totals,Under,8.5,1.83
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,h2h,Chicago White Sox,,1.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,h2h,Colorado Rockies,,3.05
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,spreads,Chicago White Sox,-1.5,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,spreads,Colorado Rockies,1.5,1.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,totals,Over,8.5,1.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,totals,Under,8.5,1.87
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,h2h,Chicago White Sox,,1.41
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,h2h,Colorado Rockies,,2.93
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,spreads,Chicago White Sox,-1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,spreads,Colorado Rockies,1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,totals,Over,8.5,1.96
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,totals,Under,8.5,1.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,h2h,Chicago White Sox,,1.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,h2h,Colorado Rockies,,3.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,spreads,Chicago White Sox,-1.5,1.87
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,spreads,Colorado Rockies,1.5,1.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,totals,Over,8.5,2.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,totals,Under,8.5,1.83
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,h2h,Chicago White Sox,,1.45
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,h2h,Colorado Rockies,,3.15
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,h2h_lay,Chicago White Sox,,1.46
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,h2h_lay,Colorado Rockies,,3.2
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,spreads,Chicago White Sox,-1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,spreads,Colorado Rockies,1.5,2.02
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,totals,Over,8.5,2.06
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,matchbook,totals,Under,8.5,1.82
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,h2h,Chicago White Sox,,1.42
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,h2h,Colorado Rockies,,3.13
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,spreads,Chicago White Sox,-1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,spreads,Colorado Rockies,1.5,2.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,totals,Over,8.0,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,totals,Under,8.0,2.01
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,h2h,Chicago White Sox,,1.42
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,h2h,Colorado Rockies,,2.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,spreads,Chicago White Sox,-1.5,1.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,spreads,Colorado Rockies,1.5,2.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,totals,Over,8.0,1.8
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,totals,Under,8.0,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betfair_ex_eu,h2h,Chicago White Sox,,1.45
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betfair_ex_eu,h2h,Colorado Rockies,,3.15
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betfair_ex_eu,h2h_lay,Chicago White Sox,,1.46
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betfair_ex_eu,h2h_lay,Colorado Rockies,,3.25
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,5.5,1.02
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,4.5,1.06
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,3.5,1.11
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,2.5,1.22
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,1.5,1.38
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-1.5,2.58
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-2.5,3.65
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-3.5,5.3
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-4.5,7.3
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-5.5,10.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-6.5,13.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-7.5,16.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,Baltimore Orioles,-8.5,18.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-8.5,19.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-7.5,18.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-6.5,15.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-5.5,12.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-4.5,9.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-3.5,6.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-2.5,4.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,-1.5,2.96
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,1.5,1.49
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,2.5,1.27
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,3.5,1.15
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,4.5,1.08
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,5.5,1.04
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_spreads,New York Yankees,6.5,1.02
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,2.5,1.04
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,3.5,1.16
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,4.5,1.29
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,5.5,1.58
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,6.5,1.88
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,7.5,2.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,8.5,3.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,9.5,4.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,10.5,5.8
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,11.5,8.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,12.5,11.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,13.5,15.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Over,14.5,18.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,1.5,16.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,2.5,10.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,3.5,5.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,4.5,3.55
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,5.5,2.34
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,6.5,1.88
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,7.5,1.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,8.5,1.34
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,9.5,1.19
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,10.5,1.12
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,11.5,1.06
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,fanduel,alternate_totals,Under,12.5,1.03
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,Baltimore Orioles,2.5,1.26
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,Baltimore Orioles,1.5,1.43
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,Baltimore Orioles,-1.5,2.67
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,Baltimore Orioles,-3.5,4.9
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,Baltimore Orioles,-2.5,3.6
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,New York Yankees,-2.5,3.9
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,New York Yankees,-1.5,2.85
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,New York Yankees,1.5,1.48
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,New York Yankees,3.5,1.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_spreads,New York Yankees,2.5,1.29
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Over,5.5,1.62
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Over,6.5,1.89
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Over,7.0,2.15
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Over,7.5,2.42
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Over,8.0,2.7
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Over,6.0,1.73
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Under,5.5,2.3
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Under,6.5,1.92
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Under,7.0,1.71
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Under,7.5,1.57
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Under,8.0,1.47
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,coolbet,alternate_totals,Under,6.0,2.12
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,-1.5,2.65
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,2.0,1.29
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,1.5,1.44
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,Baltimore Orioles,-2.0,3.35
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,New York Yankees,1.5,1.49
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,New York Yankees,-2.0,3.65
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,New York Yankees,-1.5,2.8
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_spreads,New York Yankees,2.0,1.33
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,8.0,2.7
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,6.5,1.95
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,8.5,3.1
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,7.5,2.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,7.0,2.15
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,9.5,4.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,9.0,3.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,4.5,1.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,5.5,1.67
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,10.0,4.4
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,6.0,1.74
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Over,5.0,1.42
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,8.0,1.38
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,6.5,1.85
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,8.5,1.38
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,7.5,1.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,7.0,1.61
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,9.5,1.25
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,9.0,1.25
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,4.5,3.15
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,5.5,2.23
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,10.0,1.16
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,6.0,1.94
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betrivers,alternate_totals,Under,5.0,2.6
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-5.0,9.1
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-4.5,6.65
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-4.0,6.34
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-3.5,4.76
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-3.0,4.42
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-2.5,3.39
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-2.0,3.04
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,-1.0,2.15
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,1.0,1.51
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,1.5,1.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,2.0,1.23
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,2.5,1.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,3.0,1.11
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,3.5,1.1
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,4.0,1.05
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,Baltimore Orioles,4.5,1.05
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,5.0,1.05
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,4.5,1.09
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,4.0,1.1
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,3.5,1.17
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,3.0,1.19
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,2.5,1.3
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,2.0,1.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,1.0,1.67
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-1.0,2.49
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-1.5,3.04
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-2.0,4.01
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-2.5,4.39
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-3.0,5.96
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-3.5,6.31
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-4.0,8.7
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_spreads,New York Yankees,-4.5,9.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,3.5,1.16
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,4.0,1.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,4.5,1.28
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,5.0,1.34
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,5.5,1.55
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,6.0,1.65
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,7.0,2.08
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,7.5,2.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,8.0,2.68
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,8.5,2.88
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,9.0,3.62
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,9.5,3.94
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,10.0,4.77
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,10.5,4.99
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,11.0,6.7
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Over,11.5,7.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,3.5,4.89
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,4.0,4.58
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,4.5,3.56
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,5.0,3.12
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,5.5,2.39
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,6.0,2.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,7.0,1.71
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,7.5,1.56
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,8.0,1.45
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,8.5,1.39
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,9.0,1.27
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,9.5,1.23
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,10.0,1.17
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,10.5,1.16
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,11.0,1.09
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,draftkings,alternate_totals,Under,11.5,1.08
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,2.5,1.21
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,1.5,1.4
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,-1.5,2.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,-2.5,3.3
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,-3.5,4.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,Baltimore Orioles,3.5,1.12
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,New York Yankees,-2.5,4.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,New York Yankees,-1.5,3.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,New York Yankees,1.5,1.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,New York Yankees,2.5,1.34
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,New York Yankees,3.5,1.22
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_spreads,New York Yankees,-3.5,6.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,3.5,1.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,4.0,1.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,4.5,1.31
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,5.0,1.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,5.5,1.59
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,6.0,1.69
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,6.5,1.87
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,7.0,2.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,7.5,2.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,8.0,2.85
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,8.5,3.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,9.0,3.9
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,9.5,4.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,10.0,5.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,10.5,5.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,11.0,7.25
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,11.5,7.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,12.0,9.25
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,2.0,1.02
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,2.5,1.06
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,1.5,1.02
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Over,3.0,1.07
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,3.5,5.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,4.0,4.75
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,4.5,3.6
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,5.0,3.2
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,5.5,2.4
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,6.0,2.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,6.5,1.95
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,7.0,1.69
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,7.5,1.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,8.0,1.44
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,8.5,1.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,9.0,1.27
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,9.5,1.24
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,10.0,1.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,10.5,1.16
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,11.0,1.1
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,11.5,1.1
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,12.0,1.07
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,2.0,15.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,2.5,10.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,1.5,15.5
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,betmgm,alternate_totals,Under,3.0,9.25
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,1.5,1.41
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,-1.5,2.7
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,-1.0,2.32
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,1.0,1.57
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,2.0,1.28
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,2.5,1.24
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,Baltimore Orioles,3.0,1.15
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,-1.5,3.11
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,1.5,1.49
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,1.0,1.66
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,-1.0,2.54
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,-2.0,3.96
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,-2.5,4.26
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_spreads,New York Yankees,-3.0,5.58
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,6.5,1.9
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,5.0,1.41
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,5.5,1.63
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,6.0,1.74
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,7.0,2.17
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,7.5,2.46
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Over,8.0,2.77
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,6.5,1.99
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,5.0,3.0
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,5.5,2.36
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,6.0,2.18
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,7.0,1.75
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,7.5,1.59
+2026-09-25T23:10:08Z,closing,3fe14d478bc1ffac17198c460085ca70,2026-09-25T23:30:00Z,New York Yankees,Baltimore Orioles,pinnacle,alternate_totals,Under,8.0,1.47
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,3.0,1.07
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,2.5,1.13
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,2.0,1.14
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,1.5,1.22
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,1.0,1.26
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-1.0,1.53
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-2.0,2.08
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-2.5,2.32
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-3.0,2.71
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-3.5,2.96
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-4.0,3.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-4.5,3.81
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-5.0,4.74
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-5.5,5.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-6.0,6.26
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Chicago White Sox,-6.5,6.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,-3.0,7.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,-2.5,5.63
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,-2.0,5.32
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,-1.5,4.08
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,-1.0,3.73
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,1.0,2.43
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,2.0,1.71
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,2.5,1.58
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,3.0,1.44
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,3.5,1.38
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,4.0,1.28
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,4.5,1.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,5.0,1.17
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,5.5,1.16
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,6.0,1.11
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_spreads,Colorado Rockies,6.5,1.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,4.5,1.14
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,5.0,1.16
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,5.5,1.29
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,6.0,1.32
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,6.5,1.43
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,7.0,1.52
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,7.5,1.7
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,8.0,1.81
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,9.0,2.19
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,9.5,2.42
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,10.0,2.71
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,10.5,2.89
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,11.0,3.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,11.5,3.76
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,12.0,4.41
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Over,12.5,4.6
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,4.5,5.3
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,5.0,4.86
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,5.5,3.46
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,6.0,3.23
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,6.5,2.76
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,7.0,2.47
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,7.5,2.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,8.0,1.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,9.0,1.64
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,9.5,1.54
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,10.0,1.44
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,10.5,1.39
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,11.0,1.28
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,11.5,1.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,12.0,1.19
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,draftkings,alternate_totals,Under,12.5,1.18
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-8.5,11.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-7.5,8.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-6.5,6.6
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-5.5,5.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-4.5,3.9
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-3.5,3.15
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-2.5,2.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,-1.5,1.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,1.5,1.22
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,2.5,1.12
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,3.5,1.06
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,4.5,1.04
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Chicago White Sox,5.5,1.02
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,8.5,1.03
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,7.5,1.06
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,6.5,1.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,5.5,1.16
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,4.5,1.24
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,3.5,1.34
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,2.5,1.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,1.5,1.93
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-1.5,4.2
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-2.5,5.8
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-3.5,8.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-4.5,10.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-5.5,13.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-6.5,16.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_spreads,Colorado Rockies,-7.5,18.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,3.5,1.06
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,4.5,1.12
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,5.5,1.27
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,6.5,1.38
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,7.5,1.67
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,8.5,1.94
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,9.5,2.44
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,10.5,3.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,11.5,3.9
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,12.5,4.7
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,13.5,6.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,14.5,8.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,15.5,10.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,16.5,12.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,17.5,15.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Over,18.5,18.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,2.5,16.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,3.5,8.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,4.5,5.8
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,5.5,3.65
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,6.5,2.96
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,7.5,2.18
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,8.5,1.83
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,9.5,1.54
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,10.5,1.38
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,11.5,1.24
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,12.5,1.18
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,13.5,1.11
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,14.5,1.07
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,15.5,1.04
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,fanduel,alternate_totals,Under,16.5,1.02
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Chicago White Sox,1.5,1.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Chicago White Sox,-3.5,3.03
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Chicago White Sox,-2.5,2.37
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Chicago White Sox,-1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Chicago White Sox,-4.5,4.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Colorado Rockies,-1.5,4.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Colorado Rockies,3.5,1.39
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Colorado Rockies,2.5,1.59
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Colorado Rockies,1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_spreads,Colorado Rockies,4.5,1.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,9.5,2.47
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,9.0,2.23
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,8.0,1.82
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,8.5,1.96
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,7.0,1.53
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,7.5,1.71
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Over,10.0,2.78
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,9.5,1.55
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,9.0,1.66
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,8.0,2.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,8.5,1.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,7.0,2.52
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,7.5,2.15
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,coolbet,alternate_totals,Under,10.0,1.45
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Chicago White Sox,-2.5,2.35
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Chicago White Sox,-1.5,1.87
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Chicago White Sox,1.5,1.22
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Chicago White Sox,-3.5,3.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Chicago White Sox,-4.5,4.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Chicago White Sox,-5.5,5.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Colorado Rockies,2.5,1.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Colorado Rockies,1.5,1.95
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Colorado Rockies,-1.5,4.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Colorado Rockies,3.5,1.34
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Colorado Rockies,4.5,1.22
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_spreads,Colorado Rockies,5.5,1.14
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,3.5,1.06
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,4.0,1.07
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,4.5,1.12
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,5.0,1.14
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,5.5,1.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,6.0,1.29
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,6.5,1.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,7.0,1.48
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,7.5,1.67
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,8.0,1.77
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,8.5,2.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,9.0,2.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,9.5,2.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,10.0,2.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,10.5,3.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,11.0,3.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,11.5,4.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,12.0,4.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,12.5,5.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,13.0,6.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,13.5,6.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,14.0,7.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,3.5,8.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,4.0,7.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,4.5,5.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,5.0,5.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,5.5,3.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,6.0,3.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,6.5,2.9
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,7.0,2.6
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,7.5,2.15
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,8.0,1.98
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,8.5,1.83
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,9.0,1.62
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,9.5,1.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,10.0,1.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,10.5,1.35
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,11.0,1.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,11.5,1.22
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,12.0,1.17
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,12.5,1.16
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,13.0,1.11
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,13.5,1.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,14.0,1.07
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betmgm,alternate_totals,Under,3.0,14.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,-1.5,1.91
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,1.5,1.24
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,1.0,1.28
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,-1.0,1.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,-2.0,2.16
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,-2.5,2.43
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Chicago White Sox,-3.0,2.87
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,1.5,2.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,-1.5,4.14
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,-1.0,3.86
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,1.0,2.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,2.0,1.76
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,2.5,1.61
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_spreads,Colorado Rockies,3.0,1.44
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,8.0,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,6.5,1.44
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,7.0,1.55
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,7.5,1.74
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,8.5,2.03
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,9.0,2.32
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Over,9.5,2.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,8.0,2.01
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,6.5,2.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,7.0,2.57
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,7.5,2.18
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,8.5,1.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,9.0,1.65
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,pinnacle,alternate_totals,Under,9.5,1.53
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-4.5,3.3
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-2.0,1.93
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-3.5,2.65
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-4.0,3.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-1.5,1.75
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-2.5,2.18
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-5.0,3.9
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Chicago White Sox,-3.0,2.45
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,4.5,1.34
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,2.0,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,3.5,1.49
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,4.0,1.38
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,1.5,2.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,2.5,1.7
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,5.0,1.26
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_spreads,Colorado Rockies,3.0,1.56
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,10.5,2.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,8.5,2.0
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,5.5,1.35
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,8.0,1.8
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,6.0,1.36
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,6.5,1.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,11.5,3.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,7.5,1.74
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,9.0,2.12
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,12.0,3.7
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,7.0,1.55
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,10.0,2.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,9.5,2.4
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,11.0,3.05
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,13.0,4.5
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Over,12.5,4.2
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,10.5,1.43
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,8.5,1.82
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,5.5,3.25
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,8.0,1.88
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,6.0,2.85
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,6.5,2.6
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,11.5,1.3
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,7.5,2.1
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,9.0,1.63
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,12.0,1.22
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,7.0,2.28
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,10.0,1.44
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,9.5,1.57
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,11.0,1.3
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,13.0,1.16
+2026-09-25T23:10:08Z,closing,b6829a3017da7786aceea335c5c36bb3,2026-09-25T23:40:00Z,Chicago White Sox,Colorado Rockies,betrivers,alternate_totals,Under,12.5,1.23
