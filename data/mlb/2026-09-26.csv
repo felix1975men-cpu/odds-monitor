@@ -591,3 +591,643 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-26T01:25:27Z,closing,de8bbf8d379bf416df612c557ddd338a,2026-09-26T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,10.0,1.7
 2026-09-26T01:25:27Z,closing,de8bbf8d379bf416df612c557ddd338a,2026-09-26T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,10.5,1.6
 2026-09-26T01:25:27Z,closing,de8bbf8d379bf416df612c557ddd338a,2026-09-26T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,11.0,1.44
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,h2h,Los Angeles Angels,,2.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,h2h,Seattle Mariners,,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,spreads,Los Angeles Angels,-1.5,2.72
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,spreads,Seattle Mariners,1.5,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,totals,Over,6.5,1.87
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,totals,Under,6.5,1.95
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,h2h,Los Angeles Angels,,1.96
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,h2h,Seattle Mariners,,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,spreads,Los Angeles Angels,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,spreads,Seattle Mariners,-1.5,2.78
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,totals,Over,6.5,1.82
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,totals,Under,6.5,2.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betsson,h2h,Los Angeles Angels,,1.95
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betsson,h2h,Seattle Mariners,,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betsson,spreads,Los Angeles Angels,1.5,1.43
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betsson,spreads,Seattle Mariners,-1.5,2.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betsson,totals,Over,6.5,1.8
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betsson,totals,Under,6.5,1.97
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,h2h,Los Angeles Angels,,1.96
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,h2h,Seattle Mariners,,1.86
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Los Angeles Angels,-1.5,2.8
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Seattle Mariners,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Over,6.5,1.88
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Under,6.5,1.94
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,h2h,Los Angeles Angels,,1.98
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,h2h,Seattle Mariners,,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,spreads,Los Angeles Angels,-1.5,2.65
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,spreads,Seattle Mariners,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,totals,Over,6.5,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,totals,Under,6.5,1.98
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,h2h,Los Angeles Angels,,2.01
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,h2h,Seattle Mariners,,1.92
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,spreads,Los Angeles Angels,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,spreads,Seattle Mariners,-1.5,2.94
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,totals,Over,6.5,1.89
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,totals,Under,6.5,2.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h,Los Angeles Angels,,2.04
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h,Seattle Mariners,,1.94
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h_lay,Los Angeles Angels,,2.06
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h_lay,Seattle Mariners,,1.95
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,spreads,Los Angeles Angels,-1.5,2.8
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,spreads,Seattle Mariners,1.5,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,totals,Over,6.5,1.87
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,matchbook,totals,Under,6.5,2.04
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,h2h,Los Angeles Angels,,1.97
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,h2h,Seattle Mariners,,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,spreads,Los Angeles Angels,-1.5,2.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,spreads,Seattle Mariners,1.5,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,totals,Over,6.5,1.88
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,totals,Under,6.5,1.93
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h,Los Angeles Angels,,2.04
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h,Seattle Mariners,,1.93
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h_lay,Los Angeles Angels,,2.08
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h_lay,Seattle Mariners,,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,h2h,Los Angeles Dodgers,,1.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,h2h,San Francisco Giants,,3.65
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,spreads,Los Angeles Dodgers,-1.5,1.52
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,spreads,San Francisco Giants,1.5,2.6
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,totals,Over,7.5,1.82
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,totals,Under,7.5,2.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,h2h,Los Angeles Dodgers,,1.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,h2h,San Francisco Giants,,3.55
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,spreads,Los Angeles Dodgers,-2.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,spreads,San Francisco Giants,2.5,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,totals,Over,7.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,totals,Under,7.5,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betsson,h2h,Los Angeles Dodgers,,1.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betsson,h2h,San Francisco Giants,,3.52
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betsson,spreads,Los Angeles Dodgers,-1.5,1.56
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betsson,spreads,San Francisco Giants,1.5,2.36
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betsson,totals,Over,8.0,1.93
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betsson,totals,Under,8.0,1.83
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,h2h,Los Angeles Dodgers,,1.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,h2h,San Francisco Giants,,3.64
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,spreads,Los Angeles Dodgers,-1.5,1.57
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,spreads,San Francisco Giants,1.5,2.45
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,totals,Over,7.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,totals,Under,7.5,1.98
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,h2h,Los Angeles Dodgers,,1.31
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,h2h,San Francisco Giants,,3.6
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,spreads,Los Angeles Dodgers,-2.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,spreads,San Francisco Giants,2.5,1.98
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,totals,Over,7.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,totals,Under,7.5,1.98
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betfair_ex_eu,h2h,Los Angeles Dodgers,,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betfair_ex_eu,h2h,San Francisco Giants,,3.9
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betfair_ex_eu,h2h_lay,Los Angeles Dodgers,,1.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betfair_ex_eu,h2h_lay,San Francisco Giants,,4.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,h2h,Los Angeles Dodgers,,1.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,h2h,San Francisco Giants,,3.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,spreads,Los Angeles Dodgers,-1.5,1.57
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,spreads,San Francisco Giants,1.5,2.38
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,totals,Over,7.5,1.88
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,totals,Under,7.5,1.93
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,h2h,Los Angeles Dodgers,,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,h2h,San Francisco Giants,,3.9
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,h2h_lay,Los Angeles Dodgers,,1.34
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,h2h_lay,San Francisco Giants,,4.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,spreads,Los Angeles Dodgers,-1.5,1.59
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,spreads,San Francisco Giants,1.5,2.54
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,totals,Over,7.5,1.86
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,matchbook,totals,Under,7.5,2.04
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,h2h,Los Angeles Dodgers,,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,h2h,San Francisco Giants,,3.72
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,spreads,Los Angeles Dodgers,-1.5,1.58
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,spreads,San Francisco Giants,1.5,2.53
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,totals,Over,7.5,1.87
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,totals,Under,7.5,2.02
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,5.5,1.03
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,4.5,1.06
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,3.5,1.12
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,2.5,1.22
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,1.5,1.38
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-1.5,2.68
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-2.5,3.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-3.5,5.3
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-4.5,7.3
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-5.5,10.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-6.5,13.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-7.5,16.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-8.5,19.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-7.5,16.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-6.5,14.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-5.5,11.6
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-4.5,8.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-3.5,6.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-2.5,4.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-1.5,2.96
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,2.5,1.25
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,3.5,1.15
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,4.5,1.08
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,5.5,1.04
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,6.5,1.02
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,2.5,1.04
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,3.5,1.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,4.5,1.29
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,5.5,1.58
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,6.5,1.83
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,7.5,2.44
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,8.5,3.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,9.5,4.1
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,10.5,5.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,11.5,7.3
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,12.5,9.3
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,13.5,13.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,14.5,16.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,15.5,19.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,1.5,15.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,2.5,10.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,3.5,4.9
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,4.5,3.55
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,5.5,2.34
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,6.5,1.94
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,7.5,1.54
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,8.5,1.38
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,9.5,1.23
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,10.5,1.15
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,11.5,1.08
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,12.5,1.05
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,13.5,1.02
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,-3.5,5.1
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,2.5,1.28
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,-2.5,3.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,-1.5,2.78
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,3.5,1.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,-2.5,3.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,2.5,1.28
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,-1.5,2.78
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,6.5,1.82
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,8.5,2.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,7.5,2.33
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,5.5,1.59
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,6.0,1.68
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,8.0,2.67
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,7.0,2.02
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,6.5,2.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,8.5,1.43
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,7.5,1.61
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,5.5,2.37
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,6.0,2.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,8.0,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,7.0,1.8
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-4.5,8.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-4.0,7.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-3.5,5.62
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-3.0,5.25
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-2.5,3.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-2.0,3.49
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-1.0,2.34
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,1.0,1.58
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,1.5,1.42
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,2.0,1.28
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,2.5,1.24
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,3.0,1.15
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,3.5,1.13
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,4.0,1.08
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,4.5,1.07
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,5.0,1.03
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,4.5,1.06
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,4.0,1.07
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,3.5,1.13
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,3.0,1.14
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,2.5,1.24
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,2.0,1.29
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,1.0,1.57
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-1.0,2.3
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-1.5,2.79
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-2.0,3.55
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-2.5,3.91
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-3.0,5.19
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-3.5,5.53
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-4.0,7.4
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-4.5,7.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-5.0,10.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,3.5,1.18
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,4.0,1.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,4.5,1.3
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,5.0,1.37
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,5.5,1.58
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,6.0,1.69
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,7.0,2.13
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,7.5,2.42
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,8.0,2.76
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,8.5,2.96
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,9.0,3.67
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,9.5,3.97
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,10.0,4.74
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,10.5,4.95
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,11.0,6.57
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,11.5,6.87
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,3.5,4.63
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,4.0,4.33
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,4.5,3.4
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,5.0,2.98
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,5.5,2.31
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,6.0,2.11
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,7.0,1.68
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,7.5,1.53
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,8.0,1.42
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,8.5,1.38
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,9.0,1.26
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,9.5,1.23
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,10.0,1.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,10.5,1.16
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,11.0,1.1
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,11.5,1.09
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,2.5,1.29
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,1.5,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,-1.5,2.65
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,-2.5,3.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,3.5,1.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,-3.5,5.25
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-2.5,3.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-1.5,2.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,2.5,1.25
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-3.5,4.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,3.5,1.14
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,3.5,1.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,4.0,1.19
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,4.5,1.29
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,5.0,1.34
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,5.5,1.54
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,6.0,1.65
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,6.5,1.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,7.0,2.1
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,7.5,2.4
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,8.0,2.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,8.5,3.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,9.0,3.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,9.5,4.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,10.0,4.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,10.5,5.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,11.0,6.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,11.5,6.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,12.0,8.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,3.0,1.06
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,2.5,1.05
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,1.5,1.01
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,3.5,4.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,4.0,4.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,4.5,3.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,5.0,3.1
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,5.5,2.4
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,6.0,2.18
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,6.5,1.98
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,7.0,1.69
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,7.5,1.54
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,8.0,1.43
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,8.5,1.36
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,9.0,1.27
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,9.5,1.22
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,10.0,1.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,10.5,1.16
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,11.0,1.1
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,11.5,1.09
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,12.0,1.06
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,3.0,8.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,2.0,13.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,2.5,9.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,1.5,13.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,1.5,1.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,-1.5,2.78
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,-1.0,2.41
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,1.0,1.63
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,2.0,1.31
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,2.5,1.26
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,3.0,1.16
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-1.5,2.94
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,1.5,1.46
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,1.0,1.61
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-1.0,2.41
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-2.0,3.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-2.5,4.01
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-3.0,5.21
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,6.5,1.89
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,5.0,1.37
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,5.5,1.6
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,6.0,1.71
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,7.0,2.17
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,7.5,2.45
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,8.0,2.76
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,6.5,2.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,5.0,3.18
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,5.5,2.44
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,6.0,2.22
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,7.0,1.75
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,7.5,1.59
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,8.0,1.47
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,-1.5,2.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,1.5,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,-2.0,3.35
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,2.0,1.32
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,1.5,1.48
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,-1.5,2.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,2.0,1.33
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,-2.0,3.4
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,8.0,2.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,7.0,2.02
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,8.5,2.85
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,9.5,3.65
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,6.5,1.88
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,7.5,2.35
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,5.0,1.38
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,10.5,4.5
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,4.5,1.36
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,5.5,1.62
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,11.0,5.0
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,6.0,1.67
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,10.0,3.95
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,9.0,3.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,8.0,1.44
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,7.0,1.68
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,8.5,1.43
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,9.5,1.29
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,6.5,1.93
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,7.5,1.6
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,5.0,2.7
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,10.5,1.21
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,4.5,3.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,5.5,2.33
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,11.0,1.12
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,6.0,2.05
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,10.0,1.2
+2026-09-26T01:52:59Z,closing,60b3d02ac77cf6a81e234358cfe187bb,2026-09-26T02:11:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,9.0,1.29
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,3.5,1.02
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,2.5,1.05
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,1.5,1.11
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-1.5,1.49
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-2.5,1.83
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-3.5,2.38
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-4.5,3.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-5.5,3.9
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-6.5,5.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-7.5,6.6
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,Los Angeles Dodgers,-8.5,9.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,-5.5,18.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,-4.5,15.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,-3.5,12.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,-2.5,9.7
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,-1.5,6.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,1.5,2.58
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,2.5,1.94
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,3.5,1.56
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,4.5,1.36
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,5.5,1.24
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,6.5,1.15
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,7.5,1.1
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_spreads,San Francisco Giants,8.5,1.06
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,3.5,1.09
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,4.5,1.15
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,5.5,1.31
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,6.5,1.48
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,7.5,1.78
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,8.5,2.12
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,9.5,2.68
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,10.5,3.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,11.5,4.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,12.5,5.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,13.5,7.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,14.5,9.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,15.5,11.6
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,16.5,14.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Over,17.5,16.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,2.5,14.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,3.5,7.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,4.5,5.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,5.5,3.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,6.5,2.62
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,7.5,2.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,8.5,1.7
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,9.5,1.45
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,10.5,1.32
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,11.5,1.22
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,12.5,1.15
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,13.5,1.09
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,14.5,1.06
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,fanduel,alternate_totals,Under,15.5,1.03
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,Los Angeles Dodgers,-2.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,Los Angeles Dodgers,-4.5,2.93
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,Los Angeles Dodgers,-3.5,2.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,Los Angeles Dodgers,-5.5,3.7
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,Los Angeles Dodgers,-1.5,1.54
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,San Francisco Giants,2.5,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,San Francisco Giants,4.5,1.41
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,San Francisco Giants,3.5,1.62
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,San Francisco Giants,5.5,1.28
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_spreads,San Francisco Giants,1.5,2.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,7.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,6.5,1.52
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,5.5,1.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,6.0,1.41
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,8.5,2.17
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,7.0,1.64
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Over,8.0,2.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,7.5,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,6.5,2.55
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,5.5,3.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,6.0,2.93
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,8.5,1.7
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,7.0,2.27
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,coolbet,alternate_totals,Under,8.0,1.82
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-7.5,7.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-7.0,7.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-6.5,5.59
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-6.0,5.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-5.5,4.11
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-5.0,3.81
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-4.5,3.06
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-4.0,2.8
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-3.5,2.37
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-3.0,2.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-2.5,1.88
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-2.0,1.68
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,-1.0,1.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,1.0,1.12
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,1.5,1.1
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,Los Angeles Dodgers,2.0,1.05
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,7.5,1.07
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,7.0,1.08
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,6.5,1.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,6.0,1.14
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,5.5,1.22
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,5.0,1.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,4.5,1.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,4.0,1.41
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,3.5,1.56
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,3.0,1.68
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,2.5,1.87
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,2.0,2.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,1.0,3.09
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,-1.0,5.79
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,-1.5,6.47
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_spreads,San Francisco Giants,-2.0,9.1
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,4.5,1.16
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,5.0,1.18
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,5.5,1.32
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,6.0,1.37
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,6.5,1.48
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,7.0,1.6
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,8.0,1.97
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,8.5,2.14
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,9.0,2.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,9.5,2.77
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,10.0,3.21
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,10.5,3.42
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,11.0,4.26
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,11.5,4.54
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,12.0,5.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Over,12.5,5.71
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,4.5,5.02
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,5.0,4.56
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,5.5,3.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,6.0,3.01
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,6.5,2.57
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,7.0,2.27
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,8.0,1.79
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,8.5,1.68
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,9.0,1.51
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,9.5,1.42
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,10.0,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,10.5,1.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,11.0,1.21
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,11.5,1.19
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,12.0,1.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,draftkings,alternate_totals,Under,12.5,1.12
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,Los Angeles Dodgers,-1.5,1.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,Los Angeles Dodgers,-2.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,Los Angeles Dodgers,-3.5,2.4
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,Los Angeles Dodgers,-4.5,3.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,Los Angeles Dodgers,-5.5,4.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,Los Angeles Dodgers,-6.5,5.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,San Francisco Giants,1.5,2.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,San Francisco Giants,2.5,1.98
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,San Francisco Giants,3.5,1.54
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,San Francisco Giants,4.5,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,San Francisco Giants,5.5,1.21
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_spreads,San Francisco Giants,6.5,1.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,3.5,1.09
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,4.0,1.09
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,4.5,1.16
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,5.0,1.19
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,5.5,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,6.0,1.36
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,6.5,1.48
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,7.0,1.61
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,7.5,1.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,8.0,2.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,8.5,2.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,9.0,2.55
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,9.5,2.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,10.0,3.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,10.5,3.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,11.0,4.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,11.5,4.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,12.0,5.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,12.5,5.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,13.0,7.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Over,3.0,1.02
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,3.5,7.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,4.0,6.75
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,4.5,5.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,5.0,4.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,5.5,3.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,6.0,3.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,6.5,2.55
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,7.0,2.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,7.5,1.98
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,8.0,1.77
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,8.5,1.65
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,9.0,1.48
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,9.5,1.4
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,10.0,1.33
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,10.5,1.29
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,11.0,1.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,11.5,1.19
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,12.0,1.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,12.5,1.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,13.0,1.08
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,2.5,12.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,2.0,21.0
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betmgm,alternate_totals,Under,3.0,11.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-2.0,1.72
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-5.0,3.3
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-1.5,1.57
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-4.5,2.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-3.0,2.12
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-4.0,2.63
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-3.5,2.32
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,Los Angeles Dodgers,-2.5,1.92
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,2.0,2.14
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,5.0,1.34
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,1.5,2.38
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,4.5,1.43
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,3.0,1.74
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,4.0,1.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,3.5,1.62
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_spreads,San Francisco Giants,2.5,1.89
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,12.0,4.1
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,6.0,1.43
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,10.5,3.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,11.0,3.45
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,8.5,2.2
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,11.5,3.95
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,7.0,1.66
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,8.0,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,6.5,1.6
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,9.0,2.35
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,7.5,1.88
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,10.0,2.85
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,5.5,1.42
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Over,9.5,2.7
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,12.0,1.18
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,6.0,2.55
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,10.5,1.36
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,11.0,1.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,8.5,1.68
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,11.5,1.26
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,7.0,2.06
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,8.0,1.73
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,6.5,2.38
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,9.0,1.5
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,7.5,1.93
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,10.0,1.36
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,5.5,2.9
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,betrivers,alternate_totals,Under,9.5,1.48
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,-1.5,1.58
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,-3.0,2.18
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,-2.5,1.91
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,-2.0,1.71
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,-1.0,1.38
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,1.0,1.16
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,Los Angeles Dodgers,1.5,1.13
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,1.5,2.53
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,3.0,1.72
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,2.5,1.96
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,2.0,2.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,1.0,3.21
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,-1.0,5.59
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_spreads,San Francisco Giants,-1.5,6.06
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,7.5,1.87
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,6.0,1.41
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,6.5,1.54
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,7.0,1.66
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,8.0,2.05
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,8.5,2.25
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Over,9.0,2.63
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,7.5,2.02
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,6.0,2.97
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,6.5,2.58
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,7.0,2.31
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,8.0,1.83
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,8.5,1.69
+2026-09-26T01:52:59Z,closing,e47efe97f629cae0287ca6f3ea6d6794,2026-09-26T02:16:00Z,San Francisco Giants,Los Angeles Dodgers,pinnacle,alternate_totals,Under,9.0,1.51
