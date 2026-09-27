@@ -327,3 +327,682 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-27T00:15:55Z,closing,a0fc8eb52d64679d94e7eaa311299d74,2026-09-27T00:41:00Z,San Diego Padres,Arizona Diamondbacks,pinnacle,alternate_totals,Under,8.0,1.85
 2026-09-27T00:15:55Z,closing,a0fc8eb52d64679d94e7eaa311299d74,2026-09-27T00:41:00Z,San Diego Padres,Arizona Diamondbacks,pinnacle,alternate_totals,Under,8.5,1.72
 2026-09-27T00:15:55Z,closing,a0fc8eb52d64679d94e7eaa311299d74,2026-09-27T00:41:00Z,San Diego Padres,Arizona Diamondbacks,pinnacle,alternate_totals,Under,9.0,1.53
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,h2h,Athletics,,2.36
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,h2h,Houston Astros,,1.62
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,spreads,Athletics,1.5,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,spreads,Houston Astros,-1.5,1.95
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,totals,Over,9.5,1.83
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,totals,Under,9.5,1.98
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betsson,h2h,Athletics,,2.33
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betsson,h2h,Houston Astros,,1.61
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betsson,spreads,Athletics,1.5,1.83
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betsson,spreads,Houston Astros,-1.5,1.93
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betsson,totals,Over,10.0,1.93
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betsson,totals,Under,10.0,1.83
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h,Athletics,,2.48
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h,Houston Astros,,1.65
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h_lay,Athletics,,2.52
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betfair_ex_eu,h2h_lay,Houston Astros,,1.68
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,h2h,Athletics,,2.37
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,h2h,Houston Astros,,1.59
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,spreads,Athletics,1.5,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,spreads,Houston Astros,-1.5,1.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,totals,Over,9.5,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,totals,Under,9.5,1.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,h2h,Athletics,,2.4
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,h2h,Houston Astros,,1.57
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,spreads,Athletics,1.5,1.92
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,spreads,Houston Astros,-1.5,1.89
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,totals,Over,10.0,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,totals,Under,10.0,1.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,h2h,Athletics,,2.39
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,h2h,Houston Astros,,1.59
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,spreads,Athletics,1.5,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,spreads,Houston Astros,-1.5,1.95
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,totals,Over,10.0,1.95
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,totals,Under,10.0,1.87
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,h2h,Athletics,,2.35
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,h2h,Houston Astros,,1.61
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,spreads,Athletics,1.5,1.87
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,spreads,Houston Astros,-1.5,1.95
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,totals,Over,10.0,1.98
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,totals,Under,10.0,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,h2h,Athletics,,2.48
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,h2h,Houston Astros,,1.65
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,h2h_lay,Athletics,,2.52
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,h2h_lay,Houston Astros,,1.67
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,spreads,Athletics,1.5,1.92
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,spreads,Houston Astros,-1.5,2.02
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,totals,Over,9.5,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,matchbook,totals,Under,9.5,2.04
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,h2h,Athletics,,2.45
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,h2h,Houston Astros,,1.64
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,spreads,Athletics,1.5,1.89
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,spreads,Houston Astros,-1.5,2.01
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,totals,Over,9.5,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,totals,Under,9.5,2.02
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,h2h,Los Angeles Angels,,2.34
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,h2h,Seattle Mariners,,1.63
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,spreads,Los Angeles Angels,1.5,1.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,spreads,Seattle Mariners,-1.5,2.38
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,totals,Over,7.5,2.02
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,totals,Under,7.5,1.81
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,h2h,Los Angeles Angels,,2.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,h2h,Seattle Mariners,,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Los Angeles Angels,1.5,1.61
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,spreads,Seattle Mariners,-1.5,2.35
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Over,7.0,1.83
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,totals,Under,7.0,2.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,h2h,Los Angeles Angels,,2.35
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,h2h,Seattle Mariners,,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,spreads,Los Angeles Angels,1.5,1.61
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,spreads,Seattle Mariners,-1.5,2.35
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,totals,Over,7.0,1.77
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,totals,Under,7.0,2.05
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,h2h,Los Angeles Angels,,2.39
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,h2h,Seattle Mariners,,1.66
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,spreads,Los Angeles Angels,1.5,1.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,spreads,Seattle Mariners,-1.5,2.38
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,totals,Over,7.0,1.83
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,totals,Under,7.0,2.06
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,h2h,Los Angeles Angels,,2.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,h2h,Seattle Mariners,,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,spreads,Los Angeles Angels,1.5,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,spreads,Seattle Mariners,-1.5,2.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,totals,Over,7.0,1.82
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,totals,Under,7.0,2.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,h2h,Los Angeles Angels,,2.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,h2h,Seattle Mariners,,1.64
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,spreads,Los Angeles Angels,1.5,1.72
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,spreads,Seattle Mariners,-1.5,2.15
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,totals,Over,7.5,1.97
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,totals,Under,7.5,1.83
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h,Los Angeles Angels,,2.44
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h,Seattle Mariners,,1.69
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h_lay,Los Angeles Angels,,2.46
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,h2h_lay,Seattle Mariners,,1.7
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,spreads,Los Angeles Angels,1.5,1.63
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,spreads,Seattle Mariners,-1.5,2.42
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,totals,Over,7.5,2.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,matchbook,totals,Under,7.5,1.79
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,h2h,Los Angeles Angels,,2.27
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,h2h,Seattle Mariners,,1.63
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,spreads,Los Angeles Angels,1.5,1.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,spreads,Seattle Mariners,-1.5,2.27
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,totals,Over,7.5,1.97
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betsson,totals,Under,7.5,1.8
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h,Los Angeles Angels,,2.42
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h,Seattle Mariners,,1.68
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h_lay,Los Angeles Angels,,2.46
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betfair_ex_eu,h2h_lay,Seattle Mariners,,1.7
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-8.5,18.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-7.5,16.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-6.5,14.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-5.5,11.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-4.5,8.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-3.5,6.4
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-2.5,4.7
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,-1.5,3.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,1.5,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,2.5,1.54
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,3.5,1.36
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,4.5,1.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,5.5,1.17
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,6.5,1.11
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,7.5,1.07
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Athletics,8.5,1.04
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,5.5,1.03
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,4.5,1.06
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,3.5,1.11
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,2.5,1.18
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,1.5,1.29
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-1.5,1.93
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-2.5,2.42
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-3.5,3.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-4.5,3.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-5.5,4.9
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-6.5,6.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-7.5,7.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_spreads,Houston Astros,-8.5,10.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,3.5,1.02
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,4.5,1.05
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,5.5,1.13
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,6.5,1.22
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,7.5,1.38
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,8.5,1.53
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,9.5,1.78
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,10.5,2.08
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,11.5,2.58
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,12.5,3.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,13.5,3.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,14.5,4.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,15.5,6.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,16.5,7.3
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,17.5,9.7
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,18.5,11.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,19.5,15.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Over,20.5,16.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,3.5,13.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,4.5,9.7
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,5.5,5.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,6.5,4.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,7.5,3.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,8.5,2.46
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,9.5,2.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,10.5,1.72
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,11.5,1.49
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,12.5,1.36
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,13.5,1.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,14.5,1.19
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,15.5,1.12
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,16.5,1.08
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,17.5,1.05
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,fanduel,alternate_totals,Under,18.5,1.03
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Athletics,3.5,1.39
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Athletics,2.5,1.57
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Athletics,1.5,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Athletics,-1.5,3.4
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Athletics,4.5,1.27
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Houston Astros,-3.5,3.03
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Houston Astros,-2.5,2.42
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Houston Astros,-1.5,1.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Houston Astros,1.5,1.32
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_spreads,Houston Astros,-4.5,3.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,8.5,1.55
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,9.5,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,9.0,1.66
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,10.0,1.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,10.5,2.12
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,11.0,2.4
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Over,11.5,2.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,8.5,2.47
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,9.5,1.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,9.0,2.23
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,10.0,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,10.5,1.73
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,11.0,1.58
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,coolbet,alternate_totals,Under,11.5,1.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Athletics,4.0,1.34
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Athletics,3.5,1.43
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Athletics,2.0,1.74
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Athletics,2.5,1.63
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Athletics,1.5,1.92
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Athletics,3.0,1.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Houston Astros,-4.0,3.3
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Houston Astros,-3.5,2.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Houston Astros,-2.0,2.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Houston Astros,-2.5,2.3
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Houston Astros,-1.5,1.89
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_spreads,Houston Astros,-3.0,2.63
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,8.0,1.43
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,12.0,2.65
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,15.0,4.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,14.5,4.3
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,6.5,1.26
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,7.5,1.42
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,11.5,2.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,9.5,1.83
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,10.5,2.08
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,8.5,1.56
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,10.0,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,7.0,1.27
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,12.5,2.95
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,13.5,3.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,9.0,1.62
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,11.0,2.23
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,13.0,3.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Over,14.0,3.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,8.0,2.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,12.0,1.41
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,15.0,1.15
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,14.5,1.23
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,6.5,3.9
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,7.5,2.9
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,11.5,1.54
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,9.5,1.97
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,10.5,1.76
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,8.5,2.43
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,10.0,1.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,7.0,3.35
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,12.5,1.41
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,13.5,1.3
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,9.0,2.12
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,11.0,1.56
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,13.0,1.29
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betrivers,alternate_totals,Under,14.0,1.21
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,6.5,1.11
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,6.0,1.11
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,5.5,1.17
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,5.0,1.18
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,4.5,1.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,4.0,1.28
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,3.5,1.38
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,3.0,1.43
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,2.5,1.56
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,2.0,1.67
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,1.0,2.09
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,-1.0,3.08
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,-1.5,3.54
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,-2.0,4.45
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,-2.5,4.73
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Athletics,-3.0,6.06
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-6.5,6.24
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-6.0,6.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-5.5,4.81
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-5.0,4.57
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-4.5,3.75
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-4.0,3.51
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-3.5,2.94
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-3.0,2.72
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-2.5,2.36
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-2.0,2.14
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,-1.0,1.7
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,1.0,1.35
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,1.5,1.28
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,2.0,1.19
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,2.5,1.17
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_spreads,Houston Astros,3.0,1.11
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,6.5,1.21
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,7.0,1.24
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,7.5,1.37
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,8.0,1.41
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,8.5,1.52
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,9.0,1.62
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,9.5,1.81
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,10.5,2.04
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,11.0,2.29
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,11.5,2.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,12.0,2.79
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,12.5,2.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,13.0,3.52
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,13.5,3.75
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,14.0,4.37
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Over,14.5,4.55
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,6.5,4.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,7.0,3.89
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,7.5,3.01
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,8.0,2.81
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,8.5,2.47
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,9.0,2.23
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,9.5,1.96
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,10.5,1.74
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,11.0,1.59
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,11.5,1.51
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,12.0,1.41
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,12.5,1.38
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,13.0,1.28
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,13.5,1.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,14.0,1.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,draftkings,alternate_totals,Under,14.5,1.18
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,-2.5,4.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,-1.5,3.4
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,1.5,1.87
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,2.5,1.53
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,4.5,1.22
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,3.5,1.29
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,5.5,1.12
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Athletics,3.5,1.33
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,2.5,1.19
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,1.5,1.31
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,-1.5,1.95
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,-2.5,2.45
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,-4.5,4.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,-3.5,3.75
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,-5.5,6.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_spreads,Houston Astros,-3.5,3.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,4.5,1.05
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,5.0,1.06
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,5.5,1.13
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,6.0,1.14
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,6.5,1.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,7.0,1.22
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,7.5,1.34
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,8.0,1.4
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,8.5,1.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,9.0,1.61
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,9.5,1.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,10.0,1.98
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,10.5,2.15
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,11.0,2.45
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,11.5,2.7
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,12.0,3.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,12.5,3.2
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,13.0,3.8
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,13.5,4.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,14.0,4.75
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,14.5,5.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,3.0,1.01
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,15.0,6.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Over,15.5,6.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,4.5,8.75
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,5.0,8.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,5.5,5.5
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,6.0,5.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,6.5,4.33
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,7.0,4.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,7.5,3.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,8.0,2.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,8.5,2.54
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,9.0,2.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,9.5,1.98
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,10.0,1.85
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,10.5,1.67
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,11.0,1.53
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,11.5,1.44
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,12.0,1.36
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,12.5,1.33
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,13.0,1.25
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,13.5,1.22
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,14.0,1.17
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,14.5,1.16
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,3.0,20.0
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,15.0,1.11
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,betmgm,alternate_totals,Under,15.5,1.1
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,1.5,1.89
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,3.0,1.42
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,2.5,1.56
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,2.0,1.69
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,1.0,2.15
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,-1.0,3.16
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Athletics,-1.5,3.6
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,-1.5,2.01
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,-3.0,2.94
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,-2.5,2.52
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,-2.0,2.28
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,-1.0,1.78
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,1.0,1.38
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_spreads,Houston Astros,1.5,1.3
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,9.5,1.88
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,8.0,1.46
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,8.5,1.57
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,9.0,1.68
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,10.0,2.03
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,10.5,2.21
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Over,11.0,2.55
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,9.5,2.02
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,8.0,2.78
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,8.5,2.51
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,9.0,2.27
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,10.0,1.84
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,10.5,1.71
+2026-09-27T01:26:44Z,closing,9b8ec8bc261ab6b47fd213703849325e,2026-09-27T01:41:00Z,Athletics,Houston Astros,pinnacle,alternate_totals,Under,11.0,1.54
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,7.5,1.02
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,6.5,1.04
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,5.5,1.07
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,4.5,1.12
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,3.5,1.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,2.5,1.32
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,1.5,1.57
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-1.5,3.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-2.5,4.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-3.5,6.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-4.5,9.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-5.5,11.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-6.5,14.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Los Angeles Angels,-7.5,16.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-8.5,16.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-7.5,13.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-6.5,10.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-5.5,8.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-4.5,6.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-3.5,4.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-2.5,3.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,-1.5,2.36
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,1.5,1.34
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,2.5,1.19
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,3.5,1.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,4.5,1.06
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_spreads,Seattle Mariners,5.5,1.03
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,2.5,1.02
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,3.5,1.11
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,4.5,1.19
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,5.5,1.38
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,6.5,1.58
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,7.5,2.02
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,8.5,2.42
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,9.5,3.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,10.5,3.9
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,11.5,5.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,12.5,6.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,13.5,9.7
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,14.5,11.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,15.5,15.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Over,16.5,18.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,1.5,18.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,2.5,12.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,3.5,6.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,4.5,4.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,5.5,2.96
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,6.5,2.34
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,7.5,1.77
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,8.5,1.54
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,9.5,1.34
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,10.5,1.24
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,11.5,1.15
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,12.5,1.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,13.5,1.05
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,fanduel,alternate_totals,Under,14.5,1.03
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-4.0,8.6
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-3.5,6.39
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-3.0,6.07
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-2.5,4.54
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-2.0,4.18
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-1.5,3.21
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,-1.0,2.84
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,1.0,1.87
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,2.0,1.43
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,2.5,1.36
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,3.0,1.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,3.5,1.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,4.0,1.14
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,4.5,1.13
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,5.0,1.08
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Los Angeles Angels,5.5,1.07
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,4.0,1.05
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,3.5,1.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,3.0,1.11
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,2.5,1.19
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,2.0,1.21
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,1.5,1.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,1.0,1.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-1.0,1.88
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-2.0,2.75
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-2.5,3.04
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-3.0,3.79
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-3.5,4.09
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-4.0,5.21
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-4.5,5.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-5.0,7.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_spreads,Seattle Mariners,-5.5,7.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,3.5,1.13
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,4.0,1.14
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,4.5,1.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,5.0,1.27
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,5.5,1.44
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,6.0,1.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,6.5,1.63
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,7.5,2.04
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,8.0,2.24
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,8.5,2.42
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,9.0,2.88
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,9.5,3.16
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,10.0,3.66
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,10.5,3.85
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,11.0,4.93
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Over,11.5,5.23
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,3.5,5.63
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,4.0,5.32
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,4.5,4.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,5.0,3.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,5.5,2.71
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,6.0,2.51
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,6.5,2.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,7.5,1.74
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,8.0,1.61
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,8.5,1.54
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,9.0,1.39
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,9.5,1.34
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,10.0,1.26
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,10.5,1.24
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,11.0,1.16
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,draftkings,alternate_totals,Under,11.5,1.14
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,2.5,1.36
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,1.5,1.61
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,-1.5,3.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,-2.5,4.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,4.5,1.18
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,3.5,1.29
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,3.5,1.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Los Angeles Angels,-3.5,6.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-2.5,3.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-1.5,2.35
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,1.5,1.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,2.5,1.19
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-4.5,5.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-3.5,3.8
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,-3.5,4.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_spreads,Seattle Mariners,3.5,1.11
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,3.5,1.11
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,4.0,1.12
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,4.5,1.19
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,5.0,1.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,5.5,1.36
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,6.0,1.44
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,6.5,1.57
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,7.0,1.77
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,7.5,2.05
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,8.0,2.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,8.5,2.45
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,9.0,3.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,9.5,3.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,10.0,3.8
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,10.5,4.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,11.0,5.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,11.5,5.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,12.0,6.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,12.5,6.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,2.5,1.02
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,3.0,1.03
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,2.0,1.01
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,2.5,1.03
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,3.0,1.03
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Over,1.5,1.01
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,3.5,6.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,4.0,5.75
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,4.5,4.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,5.0,4.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,5.5,3.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,6.0,2.7
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,6.5,2.35
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,7.0,2.05
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,7.5,1.71
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,8.0,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,8.5,1.53
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,9.0,1.36
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,9.5,1.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,10.0,1.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,10.5,1.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,11.0,1.15
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,11.5,1.14
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,12.0,1.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,12.5,1.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,2.0,23.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,2.5,14.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,3.0,14.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,2.0,17.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,2.5,11.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,3.0,10.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betmgm,alternate_totals,Under,1.5,17.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,1.5,1.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,-1.5,3.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,-1.0,2.96
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,1.0,1.94
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,2.0,1.48
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,2.5,1.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Los Angeles Angels,3.0,1.27
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-1.5,2.38
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,1.5,1.34
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,1.0,1.43
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-1.0,1.94
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-2.0,2.81
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-2.5,3.08
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_spreads,Seattle Mariners,-3.0,3.81
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,7.0,1.83
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,5.5,1.41
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,6.0,1.48
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,6.5,1.63
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,7.5,2.12
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,8.0,2.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Over,8.5,2.49
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,7.0,2.06
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,5.5,2.97
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,6.0,2.75
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,6.5,2.38
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,7.5,1.78
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,8.0,1.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,pinnacle,alternate_totals,Under,8.5,1.57
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,1.5,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,2.5,1.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,-1.5,3.2
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,3.5,1.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Los Angeles Angels,-2.5,4.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,-1.5,2.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,-2.5,3.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,1.5,1.35
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,-3.5,4.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_spreads,Seattle Mariners,2.5,1.22
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,8.5,2.45
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,7.5,2.05
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,8.0,2.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,7.0,1.82
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,6.5,1.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,6.0,1.52
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Over,5.5,1.45
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,8.5,1.56
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,7.5,1.78
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,8.0,1.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,7.0,2.0
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,6.5,2.25
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,6.0,2.55
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,coolbet,alternate_totals,Under,5.5,2.78
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,2.0,1.53
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,1.5,1.72
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,3.0,1.32
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Los Angeles Angels,2.5,1.43
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,-2.0,2.55
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,-1.5,2.15
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,-3.0,3.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_spreads,Seattle Mariners,-2.5,2.85
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,6.5,1.65
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,7.5,1.97
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,5.5,1.44
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,6.0,1.47
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,7.0,1.73
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,9.0,2.55
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,8.5,2.33
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,11.0,3.85
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,10.5,3.5
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,11.5,4.4
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,12.0,4.7
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,5.0,1.27
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,4.5,1.26
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,9.5,2.9
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,10.0,3.1
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Over,8.0,2.07
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,6.5,2.28
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,7.5,1.83
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,5.5,2.8
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,6.0,2.45
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,7.0,1.96
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,9.0,1.44
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,8.5,1.62
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,11.0,1.21
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,10.5,1.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,11.5,1.21
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,12.0,1.14
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,5.0,3.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,4.5,3.95
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,9.5,1.42
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,10.0,1.3
+2026-09-27T01:26:44Z,closing,eba81e8f90abe50ccdfcee55fe0080b8,2026-09-27T01:41:00Z,Seattle Mariners,Los Angeles Angels,betrivers,alternate_totals,Under,8.0,1.65
