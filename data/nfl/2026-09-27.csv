@@ -1723,3 +1723,808 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-09-27T23:41:44Z,scheduled,47dc7baa254659f3beb2ed2b38c207b6,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,matchbook,spreads,Philadelphia Eagles,-4.0,2.02
 2026-09-27T23:41:44Z,scheduled,47dc7baa254659f3beb2ed2b38c207b6,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,matchbook,totals,Over,41.5,1.99
 2026-09-27T23:41:44Z,scheduled,47dc7baa254659f3beb2ed2b38c207b6,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,matchbook,totals,Under,41.5,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,h2h,Denver Broncos,,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,h2h,Los Angeles Rams,,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,spreads,Denver Broncos,1.5,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,spreads,Los Angeles Rams,-1.5,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,totals,Over,43.5,1.87
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,totals,Under,43.5,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betsson,h2h,Denver Broncos,,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betsson,h2h,Los Angeles Rams,,1.86
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betsson,spreads,Denver Broncos,1.5,1.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betsson,spreads,Los Angeles Rams,-1.5,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betsson,totals,Over,44.5,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betsson,totals,Under,44.5,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,h2h,Denver Broncos,,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,h2h,Los Angeles Rams,,1.86
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,spreads,Denver Broncos,1.5,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,spreads,Los Angeles Rams,-1.5,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,totals,Over,44.5,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,totals,Under,44.5,1.87
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,h2h,Denver Broncos,,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,h2h,Los Angeles Rams,,1.88
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,spreads,Denver Broncos,1.0,1.88
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,spreads,Los Angeles Rams,-1.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,totals,Over,44.0,1.89
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,totals,Under,44.0,1.92
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,h2h,Denver Broncos,,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,h2h,Los Angeles Rams,,1.87
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,spreads,Denver Broncos,1.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,spreads,Los Angeles Rams,-1.0,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,totals,Over,44.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,totals,Under,44.0,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betfair_ex_eu,h2h,Denver Broncos,,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betfair_ex_eu,h2h,Los Angeles Rams,,1.99
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betfair_ex_eu,h2h_lay,Denver Broncos,,2.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betfair_ex_eu,h2h_lay,Los Angeles Rams,,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,h2h,Denver Broncos,,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,h2h,Los Angeles Rams,,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,h2h_lay,Denver Broncos,,2.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,h2h_lay,Los Angeles Rams,,1.99
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,spreads,Denver Broncos,-1.0,2.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,spreads,Los Angeles Rams,1.0,1.92
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,totals,Over,44.0,1.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,matchbook,totals,Under,44.0,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,h2h,Denver Broncos,,2.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,h2h,Los Angeles Rams,,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,spreads,Denver Broncos,1.0,1.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,spreads,Los Angeles Rams,-1.0,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,totals,Over,44.0,1.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,totals,Under,44.0,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,h2h,Denver Broncos,,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,h2h,Los Angeles Rams,,1.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,spreads,Denver Broncos,1.0,1.87
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,spreads,Los Angeles Rams,-1.0,2.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,totals,Over,44.0,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,totals,Under,44.0,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,24.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,23.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,22.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,21.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,20.5,1.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,19.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,18.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,17.5,1.07
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,16.5,1.09
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,15.5,1.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,14.5,1.11
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,13.5,1.14
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,12.5,1.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,11.5,1.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,10.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,9.5,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,8.5,1.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,7.5,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,6.5,1.37
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,5.5,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,4.5,1.47
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,3.5,1.52
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,2.5,1.71
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-1.5,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-2.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-3.5,2.44
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-4.5,2.63
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-5.5,2.78
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-6.5,3.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-7.5,3.47
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-8.5,3.76
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-9.5,3.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-10.5,4.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-11.5,4.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-12.5,5.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-13.5,5.39
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-14.5,6.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-15.5,6.56
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-16.5,7.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-17.5,7.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-18.5,8.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-19.5,9.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-20.5,10.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-21.5,11.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-22.5,12.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-23.5,12.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Denver Broncos,-24.5,14.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-24.5,13.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-23.5,12.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-22.5,11.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-21.5,10.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-20.5,9.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-19.5,8.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-18.5,8.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-17.5,7.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-16.5,6.67
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-15.5,6.26
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-14.5,5.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-13.5,5.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-12.5,4.81
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-11.5,4.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-10.5,4.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-9.5,3.78
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-8.5,3.72
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-7.5,3.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-6.5,2.92
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-5.5,2.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-4.5,2.56
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-3.5,2.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,-2.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,1.5,1.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,2.5,1.71
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,3.5,1.51
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,4.5,1.45
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,5.5,1.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,6.5,1.35
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,7.5,1.28
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,8.5,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,9.5,1.23
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,10.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,11.5,1.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,12.5,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,13.5,1.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,14.5,1.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,15.5,1.09
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,16.5,1.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,17.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,18.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,19.5,1.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,20.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,21.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,22.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,23.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_spreads,Los Angeles Rams,24.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,23.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,24.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,25.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,26.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,27.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,28.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,29.5,1.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,30.5,1.11
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,31.5,1.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,32.5,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,33.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,34.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,35.5,1.26
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,36.5,1.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,37.5,1.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,38.5,1.42
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,39.5,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,40.5,1.56
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,41.5,1.64
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,42.5,1.71
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,44.5,1.97
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,45.5,2.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,46.5,2.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,47.5,2.39
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,48.5,2.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,49.5,2.73
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,50.5,2.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,51.5,3.28
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,52.5,3.53
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,53.5,3.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,54.5,4.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,55.5,4.57
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,56.5,4.97
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,57.5,5.61
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,58.5,6.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,59.5,6.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,60.5,7.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,61.5,8.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,62.5,8.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,63.5,9.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,64.5,10.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,65.5,11.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,66.5,12.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Over,67.5,13.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,23.5,13.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,24.5,12.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,25.5,11.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,26.5,9.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,27.5,8.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,28.5,7.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,29.5,6.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,30.5,5.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,31.5,5.44
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,32.5,5.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,33.5,4.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,34.5,4.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,35.5,3.66
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,36.5,3.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,37.5,2.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,38.5,2.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,39.5,2.53
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,40.5,2.33
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,41.5,2.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,42.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,44.5,1.78
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,45.5,1.69
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,46.5,1.63
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,47.5,1.53
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,48.5,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,49.5,1.42
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,50.5,1.37
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,51.5,1.31
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,52.5,1.27
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,53.5,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,54.5,1.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,55.5,1.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,56.5,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,57.5,1.12
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,58.5,1.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,59.5,1.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,60.5,1.07
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,61.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,62.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,63.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,64.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,65.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,66.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,draftkings,alternate_totals,Under,67.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-23.5,18.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-22.5,16.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-21.5,16.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-20.5,14.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-19.5,12.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-18.5,11.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-17.5,10.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-16.5,9.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-15.5,8.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-14.5,7.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-13.5,7.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-12.5,6.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-11.5,5.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-10.5,5.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-9.5,4.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-8.5,4.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-7.5,4.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-6.5,3.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-5.5,3.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-4.5,2.86
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-3.5,2.62
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-2.5,2.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,-1.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,1.5,1.82
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,2.5,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,3.5,1.54
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,4.5,1.47
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,5.5,1.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,6.5,1.34
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,7.5,1.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,8.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,9.5,1.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,10.5,1.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,11.5,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,12.5,1.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,13.5,1.11
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,14.5,1.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,15.5,1.07
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,16.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,17.5,1.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,18.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,19.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,20.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,21.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,22.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,23.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,24.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,25.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,26.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,27.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Denver Broncos,28.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,23.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,22.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,21.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,20.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,19.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,18.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,17.5,1.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,16.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,15.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,14.5,1.07
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,13.5,1.09
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,12.5,1.11
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,11.5,1.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,10.5,1.14
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,9.5,1.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,8.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,7.5,1.23
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,6.5,1.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,5.5,1.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,4.5,1.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,3.5,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,2.5,1.67
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,1.5,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-1.5,1.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-2.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-3.5,2.44
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-4.5,2.64
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-5.5,2.86
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-6.5,3.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-7.5,3.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-8.5,4.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-9.5,4.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-10.5,5.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-11.5,5.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-12.5,5.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-13.5,6.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-14.5,7.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-15.5,7.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-16.5,8.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-17.5,10.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-18.5,11.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-19.5,11.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-20.5,13.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-21.5,15.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-22.5,16.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-23.5,16.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-24.5,19.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-25.5,21.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-26.5,26.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-27.5,31.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_spreads,Los Angeles Rams,-28.5,36.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,18.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,19.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,20.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,21.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,22.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,23.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,24.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,25.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,26.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,27.5,1.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,28.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,29.5,1.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,30.5,1.11
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,31.5,1.12
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,32.5,1.14
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,33.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,34.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,35.5,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,36.5,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,37.5,1.34
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,38.5,1.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,39.5,1.44
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,40.5,1.52
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,41.5,1.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,42.5,1.67
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,43.5,1.78
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,44.5,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,45.5,2.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,46.5,2.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,47.5,2.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,48.5,2.54
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,49.5,2.72
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,50.5,2.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,51.5,3.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,52.5,3.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,53.5,3.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,54.5,4.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,55.5,4.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,56.5,4.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,57.5,5.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,58.5,6.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,59.5,6.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,60.5,7.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,61.5,8.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,62.5,9.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,63.5,10.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,64.5,11.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,65.5,12.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,66.5,13.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,67.5,14.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,68.5,15.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,69.5,16.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,70.5,18.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,71.5,19.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,72.5,21.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,73.5,26.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,74.5,31.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Over,75.5,36.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,19.5,31.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,20.5,21.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,21.5,19.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,22.5,18.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,23.5,15.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,24.5,13.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,25.5,12.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,26.5,11.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,27.5,9.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,28.5,9.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,29.5,7.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,30.5,6.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,31.5,5.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,32.5,5.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,33.5,4.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,34.5,4.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,35.5,3.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,36.5,3.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,37.5,3.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,38.5,2.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,39.5,2.72
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,40.5,2.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,41.5,2.28
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,42.5,2.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,43.5,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,44.5,1.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,45.5,1.76
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,46.5,1.68
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,47.5,1.57
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,48.5,1.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,49.5,1.44
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,50.5,1.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,51.5,1.32
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,52.5,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,53.5,1.26
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,54.5,1.23
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,55.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,56.5,1.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,57.5,1.14
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,58.5,1.12
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,59.5,1.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,60.5,1.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,61.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,62.5,1.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,63.5,1.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,64.5,1.03
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,65.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,66.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,67.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,68.5,1.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,69.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,70.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,71.5,1.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,72.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,73.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,74.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,fanduel,alternate_totals,Under,75.5,1.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,0.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-6.5,3.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-5.5,2.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-4.5,2.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-9.0,4.35
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,10.0,1.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,1.5,1.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,8.5,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-1.5,2.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-0.5,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-11.5,5.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-10.0,4.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-10.5,5.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,4.0,1.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-6.0,3.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,9.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,12.0,1.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,5.0,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,6.5,1.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,6.0,1.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-4.0,2.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,7.0,1.32
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,5.5,1.47
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-2.5,2.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,11.0,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-3.0,2.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-8.5,4.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-1.0,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,4.5,1.51
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,0.5,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,10.5,1.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,8.0,1.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-7.0,3.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-2.0,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,3.5,1.56
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,9.0,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,12.5,1.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-8.0,4.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,11.5,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,1.0,1.88
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,2.0,1.81
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-7.5,3.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,3.0,1.62
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,7.5,1.28
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-9.5,4.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-5.0,2.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-3.5,2.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,2.5,1.78
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Denver Broncos,-11.0,5.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,0.0,1.88
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,6.5,1.35
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,5.5,1.42
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,4.5,1.47
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,9.0,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-10.0,4.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-1.5,1.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-8.5,3.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,1.5,1.78
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,0.5,1.88
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,11.5,1.12
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,10.0,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,10.5,1.14
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-4.0,2.45
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,6.0,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-9.5,4.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-12.0,5.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-5.0,2.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-6.5,2.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-6.0,2.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,4.0,1.49
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-7.0,3.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-5.5,2.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,2.5,1.66
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-11.0,4.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,3.0,1.57
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,8.5,1.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,1.0,1.82
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-4.5,2.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-0.5,1.88
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-10.5,4.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-8.0,3.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,7.0,1.27
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,2.0,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-3.5,2.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-9.0,3.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-12.5,5.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,8.0,1.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-11.5,4.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-1.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-2.0,2.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,7.5,1.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-3.0,2.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-7.5,3.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,9.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,5.0,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,3.5,1.51
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,-2.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betrivers,alternate_spreads,Los Angeles Rams,11.0,1.12
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-6.0,3.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,11.5,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-7.0,3.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-7.5,4.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-8.0,4.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-8.5,4.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,2.5,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,2.0,1.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,3.0,1.61
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,1.5,1.89
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,3.5,1.53
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,1.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,4.0,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,4.5,1.45
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-1.0,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,5.0,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,5.5,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,6.0,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,6.5,1.35
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-1.5,2.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-2.0,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,7.0,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-2.5,2.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,7.5,1.27
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-3.0,2.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,8.0,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-3.5,2.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,8.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-4.0,2.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,9.0,1.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-4.5,2.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-5.0,2.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,9.5,1.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,10.0,1.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-5.5,3.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,10.5,1.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,11.0,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-6.5,3.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-9.0,4.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-9.5,4.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Denver Broncos,-10.0,5.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,6.0,1.33
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-11.5,5.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,7.0,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,7.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,8.0,1.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,8.5,1.19
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-2.5,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-2.0,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-3.0,2.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-1.5,2.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-3.5,2.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-1.0,1.98
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-4.0,2.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-4.5,2.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,1.0,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-5.0,2.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-5.5,2.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-6.0,2.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-6.5,3.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,1.5,1.71
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,2.0,1.69
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-7.0,3.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,2.5,1.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-7.5,3.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,3.0,1.53
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-8.0,4.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,3.5,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-8.5,4.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,4.0,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-9.0,4.33
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,4.5,1.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,5.0,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-9.5,4.33
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-10.0,4.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,5.5,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-10.5,5.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,-11.0,5.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,6.5,1.31
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,9.0,1.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,9.5,1.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_spreads,Los Angeles Rams,10.0,1.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,46.5,2.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,44.5,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,47.0,2.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,44.0,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,47.5,2.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,43.0,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,43.5,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,48.0,2.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,48.5,2.55
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,42.5,1.69
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,49.0,2.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,42.0,1.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,49.5,2.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,41.5,1.62
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,50.0,2.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,41.0,1.57
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,50.5,2.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,51.0,3.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,40.5,1.54
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,40.0,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,39.5,1.45
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,51.5,3.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,39.0,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,52.0,3.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,52.5,3.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,38.5,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,53.0,3.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,38.0,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,45.5,2.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,53.5,3.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,37.5,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,54.0,4.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,45.0,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,37.0,1.33
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,46.0,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,36.5,1.31
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,36.0,1.27
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,35.5,1.27
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,35.0,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,34.5,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Over,34.0,1.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,46.5,1.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,44.5,1.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,47.0,1.57
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,44.0,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,47.5,1.54
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,43.0,2.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,43.5,1.93
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,48.0,1.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,48.5,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,42.5,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,49.0,1.44
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,42.0,2.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,49.5,1.43
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,41.5,2.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,50.0,1.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,41.0,2.3
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,50.5,1.36
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,51.0,1.33
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,40.5,2.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,40.0,2.5
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,39.5,2.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,51.5,1.31
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,39.0,2.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,52.0,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,52.5,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,38.5,2.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,53.0,1.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,38.0,2.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,45.5,1.71
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,53.5,1.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,37.5,3.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,54.0,1.22
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,45.0,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,37.0,3.25
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,46.0,1.69
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,36.5,3.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,36.0,3.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,35.5,3.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,35.0,4.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,34.5,4.0
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,betmgm,alternate_totals,Under,34.0,4.4
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,1.0,1.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,-1.0,2.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,-1.5,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,2.5,1.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,2.0,1.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,-2.0,2.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,-2.5,2.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,1.5,1.84
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Denver Broncos,3.0,1.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,-1.0,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,1.0,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,1.5,1.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,-2.5,2.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,-2.0,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,2.0,1.74
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,2.5,1.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,-1.5,2.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_spreads,Los Angeles Rams,-3.0,2.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,44.0,1.9
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,43.0,1.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,45.0,2.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,44.5,1.96
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,46.5,2.13
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,46.0,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,45.5,2.06
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,43.5,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,42.5,1.72
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Over,42.0,1.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,44.0,1.95
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,43.0,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,45.0,1.84
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,44.5,1.89
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,46.5,1.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,46.0,1.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,45.5,1.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,43.5,2.02
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,42.5,2.18
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,coolbet,alternate_totals,Under,42.0,2.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,1.0,1.87
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,7.5,1.29
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,3.5,1.52
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,3.0,1.6
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,2.5,1.72
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,2.0,1.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,1.5,1.83
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,-1.0,1.99
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,-1.5,2.04
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,-2.0,2.1
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,-2.5,2.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,-3.0,2.41
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Denver Broncos,-3.5,2.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-1.0,2.05
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-7.5,3.77
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-3.5,2.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-3.0,2.45
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-2.5,2.21
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-2.0,2.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,-1.5,2.09
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,1.0,1.91
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,1.5,1.85
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,2.0,1.81
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,2.5,1.76
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,3.0,1.62
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_spreads,Los Angeles Rams,3.5,1.48
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,44.0,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,37.5,1.38
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,41.5,1.65
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,42.0,1.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,42.5,1.75
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,43.0,1.8
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,43.5,1.86
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,44.5,2.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,45.0,2.08
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,45.5,2.15
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,46.0,2.23
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,46.5,2.32
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Over,50.5,3.17
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,44.0,1.94
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,37.5,3.2
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,41.5,2.32
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,42.0,2.24
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,42.5,2.16
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,43.0,2.09
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,43.5,2.01
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,44.5,1.87
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,45.0,1.81
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,45.5,1.76
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,46.0,1.7
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,46.5,1.66
+2026-09-27T23:58:57Z,closing,3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,pinnacle,alternate_totals,Under,50.5,1.38
