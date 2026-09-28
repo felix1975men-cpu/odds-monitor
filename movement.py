@@ -11,8 +11,8 @@ For every market BOTH sides are reported, anchored to a single line:
            across books if Pinnacle has none
   open   = best price across all books in the EARLIEST snapshot of the day,
            at the open anchor
-  close  = pinnacle price in the LAST snapshot with mode=closing,
-           at the close anchor
+  close  = pinnacle price in the LATEST snapshot that still HAS pinnacle
+           rows, at the close anchor
   move   = open / close - 1
 
 Prices are always printed, because both sides at one line are what the
@@ -72,6 +72,24 @@ def num(v):
 
 def point_of(r):
     return num(r.get("point"))
+
+
+def pick_close_rows(closing):
+    """Последний закрывающий снимок, в котором ЕЩЁ ЕСТЬ строки Pinnacle.
+
+    Раньше брался просто последний снимок. Если прогон закрытия отработал
+    уже после стартового свистка, Pinnacle к тому моменту рынки снимает,
+    в снимке остаются только другие книги — и событие молча вылетало.
+    Теперь идём по снимкам от свежего к старому и останавливаемся на первом
+    пригодном. Возвращаем (строки, метка снимка, сколько снимков пропущено).
+    """
+    stamps = sorted({r["snapshot_utc"] for r in closing}, reverse=True)
+    for i, st in enumerate(stamps):
+        rws = [r for r in closing if r["snapshot_utc"] == st
+               and r["book"] == "pinnacle" and r["market"] in MK]
+        if rws:
+            return rws, st, i
+    return [], None, len(stamps)
 
 
 def anchor(rows, market):
@@ -145,24 +163,34 @@ def main():
     for r in rows:
         by_event[r["event_id"]].append(r)
 
+    # причины отсева — чтобы пустой отчёт больше не был молчаливым
+    drop = Counter()
+    stale = 0
+
     blocks = []
     for eid, ev in by_event.items():
         closing = [r for r in ev if r.get("mode") == "closing"]
         if not closing:
+            drop["нет закрывающего снимка"] += 1
             continue
-        last = max(r["snapshot_utc"] for r in closing)
-        close_rows = [r for r in closing if r["snapshot_utc"] == last
-                      and r["book"] == "pinnacle" and r["market"] in MK]
+
+        close_rows, close_stamp, skipped = pick_close_rows(closing)
         if not close_rows:
+            drop["в закрытии нет строк pinnacle"] += 1
             continue
+        if skipped:
+            # закрытие взято не из самого последнего снимка
+            stale += 1
 
         opens = [r for r in ev if r.get("mode") == "scheduled"]
         if not opens:
+            drop["нет утреннего снимка"] += 1
             continue
         first = min(r["snapshot_utc"] for r in opens)
         open_rows = [r for r in opens if r["snapshot_utc"] == first
                      and r["market"] in MK]
         if not open_rows:
+            drop["в сводке нет нужных рынков"] += 1
             continue
 
         # best available price per market/outcome/point at digest time
@@ -225,18 +253,32 @@ def main():
 
         if lines:
             blocks.append("%s - %s\n%s" % (home, away, "\n".join(lines)))
+        else:
+            drop["нет сопоставимых рынков"] += 1
+
+    # отчёт об отсеве уходит в телеграм, а не только в лог
+    note = ""
+    if drop:
+        note = "\n\n\u043e\u0442\u0441\u0435\u044f\u043d\u043e: " + ", ".join(
+            "%s \u2014 %d" % (k, v) for k, v in drop.most_common())
+    if stale:
+        note += "\n\u0437\u0430\u043a\u0440\u044b\u0442\u0438\u0435 \u0432\u0437\u044f\u0442\u043e \u043d\u0435 \u0438\u0437 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0433\u043e \u0441\u043d\u0438\u043c\u043a\u0430: %d" % stale
 
     if not blocks:
-        print("nothing comparable")
+        msg = ("%s \u2014 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043b\u0438\u043d\u0438\u0439\n"
+               "\u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0441 \u0434\u0430\u043d\u043d\u044b\u043c\u0438: 0 \u0438\u0437 %d%s"
+               % (TITLES[sport], len(by_event), note))
+        print(msg)
+        tg_send(msg)
         return
 
     now = datetime.now(timezone.utc)
     head = ("%s \u2014 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043b\u0438\u043d\u0438\u0439\n"
-            "%s UTC  |  \u0441\u043e\u0431\u044b\u0442\u0438\u0439: %d\n"
+            "%s UTC  |  \u0441\u043e\u0431\u044b\u0442\u0438\u0439: %d \u0438\u0437 %d\n"
             "\u0441\u0432\u043e\u0434\u043a\u0430 -> \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u0435 pinnacle  |  "
             "\u043e\u0431\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u044b, \u043b\u0438\u043d\u0438\u044f pinnacle  |  "
             "x = \u043b\u0438\u043d\u0438\u044f \u0441\u0434\u0432\u0438\u043d\u0443\u043b\u0430\u0441\u044c\n\n"
-            % (TITLES[sport], now.strftime("%Y-%m-%d %H:%M"), len(blocks)))
+            % (TITLES[sport], now.strftime("%Y-%m-%d %H:%M"), len(blocks), len(by_event)))
 
     chunk, sent = head, 0
     for b in blocks:
@@ -245,10 +287,17 @@ def main():
             sent += 1
             chunk = ""
         chunk += ("\n\n" if chunk and chunk != head else "") + b
+    if note:
+        if len(chunk) + len(note) > 3800:
+            tg_send(chunk)
+            sent += 1
+            chunk = ""
+        chunk += note
     if chunk.strip():
         tg_send(chunk)
         sent += 1
-    print("movement report sent for %d events in %d message(s)" % (len(blocks), sent))
+    print("movement report sent for %d of %d events in %d message(s)%s"
+          % (len(blocks), len(by_event), sent, note))
 
 
 if __name__ == "__main__":
