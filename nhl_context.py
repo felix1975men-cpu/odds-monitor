@@ -2,10 +2,14 @@
 """
 nhl_context.py — 08:35 UTC.
 Пары ближайшего окна + контекст: форма, GF/GA, дни отдыха, бэк-ту-бэк,
-длина выезда, очные на площадке хозяев, вероятные вратари.
+длина выезда, очные на площадке хозяев, вратари.
 Раздельная статистика дома/в гостях (глубина 30, добор из прошлого сезона)
 и базовая проекция тотала.
 Цен НЕ печатает — прогноз даётся до цены.
+
+Предсезонка не идёт НИКУДА, где считается статистика: ни в форму, ни в
+очные, ни в формулу. Единственное исключение — отдых и длина выезда: там
+считается физический факт последней игры, какой бы она ни была.
 
 api-web.nhle.com, без ключа, ТРЕБУЕТ браузерный User-Agent.
 Env: TG_TOKEN, TG_CHAT_ID
@@ -84,11 +88,15 @@ def parse_iso(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
-def abbrev(d):
-    v = d.get("abbrev")
+def txt(v):
+    """Поля этого API приходят то строкой, то {"default": "CAR"}."""
     if isinstance(v, dict):
-        return v.get("default", "?")
-    return v or "?"
+        return v.get("default") or "?"
+    return v if v else "?"
+
+
+def abbrev(d):
+    return txt(d.get("abbrev")) if isinstance(d, dict) else "?"
 
 
 # ---------- сбор ----------
@@ -118,11 +126,14 @@ def upcoming(now):
 
 
 def standings_map():
+    """teamAbbrev приходит как {"default": "CAR"}. Разбирали его неверно, и все
+    команды ложились под один ключ — строка результатов пропадала у всех."""
     js = api("/standings/now")
     out = {}
     for t in (js or {}).get("standings", []):
-        out[abbrev(t.get("teamAbbrev", {}) if isinstance(t.get("teamAbbrev"), dict)
-                   else {"abbrev": t.get("teamAbbrev")})] = t
+        key = txt(t.get("teamAbbrev"))
+        if key and key != "?":
+            out[key] = t
     return out
 
 
@@ -163,15 +174,22 @@ def finished(games):
     return [g for g in games if g.get("gameState") in ("FINAL", "OFF")]
 
 
+def reg(games):
+    """Только регулярка. Предсезонка не идёт ни в одну статистику."""
+    return [g for g in games if g.get("gameType") == REG_TYPE]
+
+
 def form(team, games, n=FORM_N):
-    """W-L-OTL, забито и пропущено за последние n сыгранных."""
+    """W-L-OTL, забито и пропущено за последние n сыгранных матчей регулярки."""
     w = l = otl = gf = ga = 0
-    for g in finished(games)[-n:]:
+    played = 0
+    for g in reg(finished(games))[-n:]:
         h, a = g.get("homeTeam", {}), g.get("awayTeam", {})
         us, them = (h, a) if abbrev(h) == team else (a, h)
         sf, sa = us.get("score"), them.get("score")
         if sf is None or sa is None:
             continue
+        played += 1
         gf += sf
         ga += sa
         last = (g.get("gameOutcome") or {}).get("lastPeriodType", "REG")
@@ -181,7 +199,7 @@ def form(team, games, n=FORM_N):
             otl += 1
         else:
             l += 1
-    return w, l, otl, gf, ga
+    return w, l, otl, gf, ga, played
 
 
 # ---------- раздельная статистика дома / в гостях ----------
@@ -189,9 +207,7 @@ def form(team, games, n=FORM_N):
 def venue_rows(team, games, at_home):
     """(забито, пропущено) по сыгранным матчам регулярки на нужной площадке."""
     rows = []
-    for g in finished(games):
-        if g.get("gameType") != REG_TYPE:
-            continue
+    for g in reg(finished(games)):
         h, a = g.get("homeTeam", {}), g.get("awayTeam", {})
         is_home = abbrev(h) == team
         if is_home != at_home:
@@ -234,7 +250,11 @@ def split_line(label, gf, ga, used, from_prev):
 
 
 def rest_info(team, games, kickoff):
-    """Дни отдыха, бэк-ту-бэк, длина текущего выезда."""
+    """Дни отдыха, бэк-ту-бэк, длина текущего выезда.
+
+    Здесь предсезонка УЧИТЫВАЕТСЯ намеренно: это физический факт — когда
+    команда последний раз играла и сколько перелётов подряд. Иначе в конце
+    сентября у всех выходило бы «отдых: 130 дн»."""
     done = finished(games)
     if not done:
         return None, False, 0
@@ -255,9 +275,9 @@ def rest_info(team, games, kickoff):
 
 
 def h2h(home, away):
-    """Очные ТОЛЬКО на площадке сегодняшних хозяев, текущий сезон."""
+    """Очные ТОЛЬКО на площадке сегодняшних хозяев, регулярка текущего сезона."""
     out = []
-    for g in finished(season_games(home)):
+    for g in reg(finished(season_games(home))):
         h, a = g.get("homeTeam", {}), g.get("awayTeam", {})
         if abbrev(h) == home and abbrev(a) == away:
             end = {"OT": " ОТ", "SO": " Б"}.get(
@@ -266,20 +286,78 @@ def h2h(home, away):
     return out[-5:]
 
 
+# ---------- вратари ----------
+
+def player_name(d):
+    """Имя игрока: в одних ответах name, в других firstName + lastName."""
+    for k in ("name", "fullName"):
+        if d.get(k):
+            return txt(d[k])
+    fn, ln = txt(d.get("firstName")), txt(d.get("lastName"))
+    nm = ("" if fn == "?" else fn + " ") + ("" if ln == "?" else ln)
+    return nm.strip() or "?"
+
+
+def goalie_bits(g):
+    """Имя + запись + процент отражённых, сколько из этого пришло."""
+    bits = []
+    rec_s = g.get("record")
+    if rec_s:
+        bits.append(txt(rec_s))
+    sv = g.get("savePctg")
+    if sv is not None:
+        try:
+            bits.append("sv %.3f" % float(sv))
+        except (TypeError, ValueError):
+            pass
+    gaa = g.get("gaa")
+    if gaa is not None:
+        try:
+            bits.append("gaa %.2f" % float(gaa))
+        except (TypeError, ValueError):
+            pass
+    gp = g.get("gamesPlayed")
+    if gp:
+        bits.append("%s игр" % gp)
+    nm = player_name(g)
+    return "%s (%s)" % (nm, ", ".join(bits)) if bits else nm
+
+
 def goalies(gid):
-    """Вероятные вратари. До объявления состава может не быть — тогда пусто."""
+    """Заявленные стартеры, если состав объявлен, иначе вратари сезона.
+    Возвращает (признак заявленных, {сторона: [строки]}) или None.
+
+    Раньше сюда печатался сырой JSON командных итогов, обрезанный на 220
+    символах — читать было нечего."""
     land = api("/gamecenter/%s/landing" % gid)
     if not land:
         return None
     m = land.get("matchup") or {}
-    for key in ("goalieComparison", "startingGoalies", "goalies"):
-        blob = m.get(key)
-        if blob:
-            return json.dumps(blob, ensure_ascii=False)[:220]
-    return None
+
+    st = m.get("startingGoalies")
+    if isinstance(st, dict):
+        named = {}
+        for side in ("homeTeam", "awayTeam"):
+            blob = st.get(side)
+            if isinstance(blob, dict) and blob:
+                named[side] = [goalie_bits(blob)]
+            elif isinstance(blob, list) and blob:
+                named[side] = [goalie_bits(x) for x in blob[:1]]
+        if named:
+            return True, named
+
+    gc = m.get("goalieComparison") or {}
+    out = {}
+    for side in ("homeTeam", "awayTeam"):
+        blob = gc.get(side) or {}
+        leaders = blob.get("leaders") or []
+        rows = [goalie_bits(g) for g in leaders[:2]]
+        if rows:
+            out[side] = rows
+    return (False, out) if out else None
 
 
-def rec(t, pre=""):
+def rec(t):
     """Строка результатов из standings."""
     if not t:
         return "нет данных"
@@ -290,6 +368,14 @@ def rec(t, pre=""):
         t.get("l10Wins"), t.get("l10Losses"), t.get("l10OtLosses"),
         t.get("streakCode", ""), t.get("streakCount", ""),
         t.get("goalFor"), t.get("goalAgainst"))
+
+
+def form_line(team, games):
+    w, l, otl, gf, ga, played = form(team, games)
+    if not played:
+        return "    посл.%d: матчей регулярки ещё нет" % FORM_N
+    return "    посл.%d (сыграно %d): %d-%d-%d, забито %d, пропущено %d" % (
+        FORM_N, played, w, l, otl, gf, ga)
 
 
 # ---------- вывод ----------
@@ -323,14 +409,12 @@ def main():
 
         b = ["%s - %s  (%s UTC)" % (home, away, kick.strftime("%d.%m %H:%M"))]
         b.append("  хозяева: " + rec(st.get(home)))
-        w, l, otl, gf, ga = form(home, hs)
-        b.append("    посл.%d: %d-%d-%d, забито %d, пропущено %d" % (FORM_N, w, l, otl, gf, ga))
+        b.append(form_line(home, hs))
         d, b2b, trip = rest_info(home, hs, kick)
         b.append("    отдых: %s дн%s" % (d if d is not None else "?", ", БЭК-ТУ-БЭК" if b2b else ""))
 
         b.append("  гости: " + rec(st.get(away)))
-        w, l, otl, gf, ga = form(away, as_)
-        b.append("    посл.%d: %d-%d-%d, забито %d, пропущено %d" % (FORM_N, w, l, otl, gf, ga))
+        b.append(form_line(away, as_))
         d, b2b, trip = rest_info(away, as_, kick)
         b.append("    отдых: %s дн%s%s" % (
             d if d is not None else "?", ", БЭК-ТУ-БЭК" if b2b else "",
@@ -353,7 +437,15 @@ def main():
         b.append("  Очные (у хозяев): " + (" | ".join(hh) if hh else "в этом сезоне не было"))
 
         gk = goalies(g.get("id"))
-        b.append("  Вратари: " + (gk if gk else "состав не объявлен"))
+        if not gk:
+            b.append("  Вратари: данных нет")
+        else:
+            started, sides = gk
+            tag = "ЗАЯВЛЕН" if started else "лидеры сезона"
+            for side, label in (("homeTeam", home), ("awayTeam", away)):
+                rows = sides.get(side)
+                if rows:
+                    b.append("  Вратари %s (%s): %s" % (label, tag, "; ".join(rows)))
         blocks.append("\n".join(b))
 
     ctx = "\U0001F3D2 NHL — контекст тура\n%s UTC  |  матчей: %d\nбез коэффициентов  |  фактор площадки внутри раздельной статистики, погоды нет\n\n" % (
