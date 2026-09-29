@@ -2,7 +2,7 @@ name: NHL totals
 
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "7 10 * * *"
   workflow_dispatch:
 
 jobs:
