@@ -5,12 +5,20 @@ nhl_digest.py — 09:00 UTC.
 Якорь линии — минимум ДВЕ книги, иначе рынок пропускается.
 Трёхисходный h2h (market=h2h_3way) не участвует.
 
+ML якоря не имеет и через проверку книг не проходит: у него нет номера
+линии, счётчик книг всегда выходил нулём и рынок отбрасывался целиком.
+
+У форы сторона привязана к ЗНАКУ. Раньше +1.5 и -1.5 складывались в одну
+корзину по модулю, и лучшая цена на -1.5 подставлялась к fair от +1.5 —
+29 сентября это дало Торонто с перевесом +129.7%, которого не было.
+
 Читает data/nhl/YYYY-MM-DD.csv от odds_monitor.py. Кредитов не тратит.
 Env: TG_TOKEN, TG_CHAT_ID
 """
 
 import os
 import csv
+from collections import Counter
 from datetime import datetime, timezone, timedelta
 
 WINDOW_H = 30
@@ -89,7 +97,8 @@ def latest_rows(now):
 
 def anchor_line(rows, market):
     """Линия-якорь: самая распространённая, при минимум MIN_BOOKS книгах.
-    Возвращает (линия, число книг) или (None, сколько было у лучшей)."""
+    Возвращает (линия, число книг) или (None, сколько было у лучшей).
+    Для форы линии группируются по модулю: +1.5 и -1.5 — одна линия."""
     books = {}
     for r in rows:
         if r["market"] != market:
@@ -107,8 +116,25 @@ def anchor_line(rows, market):
     return line, len(bs)
 
 
+def signed_points(cand, home, away, line):
+    """Кому какой знак форы. Pinnacle называет фаворита сам; без него —
+    большинство книг по стороне хозяев, и зеркало для гостей."""
+    pin = {}
+    for r in cand:
+        if r["book"] == "pinnacle":
+            p = fnum(r.get("point"))
+            if p is not None:
+                pin[r.get("outcome", "")] = p
+    if len(pin) >= 2:
+        return pin
+    home_pts = [fnum(r.get("point")) for r in cand
+                if r.get("outcome") == home and fnum(r.get("point")) is not None]
+    hp = Counter(home_pts).most_common(1)[0][0] if home_pts else line
+    return {home: hp, away: -hp}
+
+
 def devig(pin):
-    """Две стороны Pinnacle -> честные цены."""
+    """Две стороны Pinnacle -> честные вероятности."""
     if len(pin) != 2:
         return {}
     inv = sum(1.0 / p for p in pin.values())
@@ -116,16 +142,34 @@ def devig(pin):
 
 
 def market_block(rows, market, title, home, away):
-    line, nb = anchor_line(rows, market)
-    if line is None:
-        if market == "totals":
-            return ["  T — пропуск: линия только у %d кн, нужно %d" % (nb, MIN_BOOKS)]
-        return ["  %s — пропуск: линия только у %d кн, нужно %d" % (title, nb, MIN_BOOKS)]
+    want = {}
+    line = None
 
-    sel = [r for r in rows if r["market"] == market and
-           (abs(fnum(r.get("point")) or 0) if market == "spreads" else fnum(r.get("point"))) == line]
     if market == "h2h":
+        # Победитель: линии нет, якорить нечего.
         sel = [r for r in rows if r["market"] == "h2h"]
+        if not sel:
+            return ["  %s — котировок нет" % title]
+    else:
+        line, nb = anchor_line(rows, market)
+        if line is None:
+            return ["  %s — пропуск: линия только у %d кн, нужно %d" % (title, nb, MIN_BOOKS)]
+        cand = []
+        for r in rows:
+            if r["market"] != market:
+                continue
+            p = fnum(r.get("point"))
+            if p is None:
+                continue
+            if (abs(p) if market == "spreads" else p) == line:
+                cand.append(r)
+        if market == "spreads":
+            want = signed_points(cand, home, away, line)
+            sel = [r for r in cand if fnum(r.get("point")) == want.get(r.get("outcome", ""))]
+            if not sel:
+                return ["  %s %g — нет цен на этой стороне линии" % (title, line)]
+        else:
+            sel = cand
 
     best, pin, nbooks = {}, {}, set()
     for r in sel:
@@ -142,7 +186,12 @@ def market_block(rows, market, title, home, away):
     out = []
     for oc in sorted(best, key=lambda x: (x != home, x)):
         pr, bk = best[oc]
-        label = oc if market == "h2h" else "%s %s %g" % (title, oc, line)
+        if market == "h2h":
+            label = oc
+        elif market == "spreads":
+            label = "%s %s %+g" % (title, oc, want.get(oc, line))
+        else:
+            label = "%s %s %g" % (title, oc, line)
         if oc in fair:
             f = 1.0 / fair[oc]
             diff = (pr / f - 1) * 100
