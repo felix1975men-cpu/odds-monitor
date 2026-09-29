@@ -6,11 +6,16 @@ nhl_totals.py — 10:00 UTC.
 Линия — консенсус книг из снапшота, только .5, якорь от 2 книг.
 
 Снимок даёт ПОЛНЫЕ имена команд ("Carolina Hurricanes"), а api-web
-понимает только коды ("CAR"). Раньше имя уходило в путь запроса как есть,
-ответа не было, и все строки выходили пустыми при любой глубине.
-Соответствие берётся из /standings/now, без учёта акцентов.
+понимает только коды ("CAR"). Соответствие берётся из /standings/now,
+без учёта акцентов, иначе "Montréal Canadiens" не сходится.
 
-Предсезонка не учитывается. Тотал — по финальному счёту, с ОТ и буллитами.
+Считаются регулярка И плей-офф; не считается только предсезонка.
+Очные тянутся вглубь, пока API отдаёт сезоны: на своей площадке пара
+встречается 1-2 раза за сезон, и на трёх сезонах строка упиралась в 5-6
+знаков. Строки дома/гости набирают свои 60 за пару сезонов, поэтому
+для гостей вглубь не лезем — только для хозяев, чьи игры нужны и очным.
+
+Тотал — по финальному счёту, с ОТ и буллитами.
 Env: TG_TOKEN, TG_CHAT_ID
 """
 
@@ -28,11 +33,12 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 WINDOW_H = 30
-DEPTH = 60          # глубина строк дома / в гостях
-H2H_DEPTH = 60      # потолок очных
+DEPTH = 60            # глубина строк дома / в гостях
+H2H_DEPTH = 60        # потолок очных
 MIN_BOOKS = 2
-SEASONS_BACK = 3    # сколько сезонов добирать
-REG_TYPE = 2        # gameType регулярного чемпионата
+MAX_SEASONS = 25      # предохранитель на обход вглубь
+EMPTY_STOP = 2        # столько подряд пустых сезонов — и хватит
+COUNT_TYPES = (2, 3)  # регулярка и плей-офф; 1 — предсезонка, не берём
 TG_CHUNK = 3800
 
 
@@ -141,7 +147,6 @@ def code_of(name):
     n = norm(name)
     if n in m:
         return m[n]
-    # "Montreal Canadiens" против "Canadiens de Montreal" и прочие расхождения
     for k, v in m.items():
         if k and (k in n or n in k):
             return v
@@ -151,10 +156,112 @@ def code_of(name):
     return None
 
 
-# ---------- линии из снапшота ----------
+# ---------- игры команд ----------
 
-def lines_from_snapshot(now):
-    """{event_id: (home, away, start, линия .5)} — якорь от MIN_BOOKS книг."""
+_season_cache = {}
+_walked = {}
+
+
+def season_games(code, season):
+    """Сыгранные матчи команды за один сезон, без предсезонки."""
+    key = (code, season)
+    if key not in _season_cache:
+        js = api("/club-schedule-season/%s/%s" % (code, season))
+        games = [g for g in (js or {}).get("games", [])
+                 if g.get("gameState") in ("FINAL", "OFF")
+                 and g.get("gameType") in COUNT_TYPES]
+        games.sort(key=lambda g: g.get("gameDate", ""))
+        _season_cache[key] = (games, js or {})
+    return _season_cache[key][0]
+
+
+def current_season(code):
+    js = api("/club-schedule-season/%s/now" % code)
+    if js:
+        _season_cache[(code, "now")] = (
+            [g for g in js.get("games", [])
+             if g.get("gameState") in ("FINAL", "OFF")
+             and g.get("gameType") in COUNT_TYPES],
+            js)
+        c = js.get("currentSeason")
+        if c:
+            return int(c)
+    now = datetime.now(timezone.utc)
+    start = now.year if now.month >= 8 else now.year - 1
+    return int("%d%d" % (start, start + 1))
+
+
+def walk(code, need=None, want=None):
+    """Матчи команды от свежих к старым, по сезонам вглубь.
+
+    need — сколько подходящих матчей достаточно (None = пока API отдаёт).
+    want(g) — фильтр, по которому считается достаточность.
+    Возвращает список по возрастанию даты."""
+    cached = _walked.get(code)
+    if cached is not None and (need is None or cached[1] is None):
+        return cached[0]
+
+    s = current_season(code)
+    out, empties = [], 0
+    for i in range(MAX_SEASONS + 1):
+        sid = s - 10001 * i
+        games = season_games(code, "now") if i == 0 else season_games(code, str(sid))
+        if not games:
+            empties += 1
+            if empties >= EMPTY_STOP and i > 0:
+                break
+            continue
+        empties = 0
+        out = games + out
+        if need is not None and want is not None:
+            if sum(1 for g in out if want(g)) >= need:
+                break
+    _walked[code] = (out, need)
+    return out
+
+
+def total_of(g):
+    h = (g.get("homeTeam") or {}).get("score")
+    a = (g.get("awayTeam") or {}).get("score")
+    if h is None or a is None:
+        return None
+    return h + a
+
+
+def marks(games, line):
+    """+ тотал выше линии, - ниже. Строка группами по пять."""
+    syms = []
+    for g in games:
+        t = total_of(g)
+        if t is None:
+            continue
+        syms.append("+" if t > line else "-")
+    grouped = " ".join(["".join(syms[i:i + 5]) for i in range(0, len(syms), 5)])
+    return grouped, syms
+
+
+def row_home(code, line):
+    at_home = lambda g: abbrev(g.get("homeTeam", {})) == code
+    g = [x for x in walk(code) if at_home(x)]
+    return marks(g[-DEPTH:], line)
+
+
+def row_away(code, line):
+    at_away = lambda g: abbrev(g.get("awayTeam", {})) == code
+    g = [x for x in walk(code, need=DEPTH, want=at_away) if at_away(x)]
+    return marks(g[-DEPTH:], line)
+
+
+def row_h2h(home_code, away_code, line):
+    g = [x for x in walk(home_code)
+         if abbrev(x.get("homeTeam", {})) == home_code
+         and abbrev(x.get("awayTeam", {})) == away_code]
+    return marks(g[-H2H_DEPTH:], line)
+
+
+def main():
+    now = datetime.now(timezone.utc)
+    lines = {}
     best = {}
     for back in (1, 0):
         path = os.path.join("data", "nhl", "%s.csv" % (now - timedelta(days=back)).strftime("%Y-%m-%d"))
@@ -177,84 +284,12 @@ def lines_from_snapshot(now):
         e = ev.setdefault(r["event_id"], {"home": r.get("home", ""), "away": r.get("away", ""),
                                           "start": r.get("commence_utc", ""), "books": {}})
         e["books"].setdefault(p, set()).add(r["book"])
-
-    out = {}
     for eid, e in ev.items():
         if not e["books"]:
             continue
         line, bs = max(e["books"].items(), key=lambda kv: (len(kv[1]), -kv[0]))
-        if len(bs) < MIN_BOOKS:
-            continue
-        out[eid] = (e["home"], e["away"], e["start"], line)
-    return out
-
-
-# ---------- игры команд ----------
-
-_cache = {}
-
-
-def team_games(code):
-    """Матчи регулярки за текущий и прошлые сезоны, по возрастанию даты."""
-    if code in _cache:
-        return _cache[code]
-    games = []
-    js = api("/club-schedule-season/%s/now" % code)
-    season = (js or {}).get("currentSeason")
-    games += (js or {}).get("games", [])
-    if season:
-        s = int(season)
-        for i in range(1, SEASONS_BACK + 1):
-            prev = "%d%d" % (s // 10000 - i, s % 10000 - i)
-            js2 = api("/club-schedule-season/%s/%s" % (code, prev))
-            games += (js2 or {}).get("games", [])
-    fin = [g for g in games
-           if g.get("gameState") in ("FINAL", "OFF") and g.get("gameType") == REG_TYPE]
-    fin.sort(key=lambda g: g.get("gameDate", ""))
-    _cache[code] = fin
-    return fin
-
-
-def total_of(g):
-    h = (g.get("homeTeam") or {}).get("score")
-    a = (g.get("awayTeam") or {}).get("score")
-    if h is None or a is None:
-        return None
-    return h + a
-
-
-def marks(games, line):
-    """+ тотал выше линии, - ниже. Возвращает строку по пять символов."""
-    syms = []
-    for g in games:
-        t = total_of(g)
-        if t is None:
-            continue
-        syms.append("+" if t > line else "-")
-    grouped = " ".join(["".join(syms[i:i + 5]) for i in range(0, len(syms), 5)])
-    return grouped, syms
-
-
-def row_home(code, line):
-    g = [x for x in team_games(code) if abbrev(x.get("homeTeam", {})) == code]
-    return marks(g[-DEPTH:], line)
-
-
-def row_away(code, line):
-    g = [x for x in team_games(code) if abbrev(x.get("awayTeam", {})) == code]
-    return marks(g[-H2H_DEPTH:], line) if False else marks(g[-DEPTH:], line)
-
-
-def row_h2h(home_code, away_code, line):
-    g = [x for x in team_games(home_code)
-         if abbrev(x.get("homeTeam", {})) == home_code
-         and abbrev(x.get("awayTeam", {})) == away_code]
-    return marks(g[-H2H_DEPTH:], line)
-
-
-def main():
-    now = datetime.now(timezone.utc)
-    lines = lines_from_snapshot(now)
+        if len(bs) >= MIN_BOOKS:
+            lines[eid] = (e["home"], e["away"], e["start"], line)
 
     items = []
     hi = now + timedelta(hours=WINDOW_H)
@@ -267,8 +302,8 @@ def main():
             items.append((t, home, away, line))
     items.sort()
 
-    head = "\U0001F3D2 NHL — метод по тоталам\n%s UTC  |  матчей: %d\nлиния = консенсус книг, только .5, якорь от %d кн\nдома/гости — %d с добором  |  очные — на площадке хозяев, до %d\nстарые слева, свежие справа\n" % (
-        now.strftime("%Y-%m-%d %H:%M"), len(items), MIN_BOOKS, DEPTH, H2H_DEPTH)
+    head = "\U0001F3D2 NHL — метод по тоталам\n%s UTC  |  матчей: %d\nлиния = консенсус книг, только .5, якорь от %d кн\nдома/гости — %d с добором  |  очные — на площадке хозяев, вся доступная история\nрегулярка и плей-офф, без предсезонки  |  старые слева, свежие справа\n" % (
+        now.strftime("%Y-%m-%d %H:%M"), len(items), MIN_BOOKS, DEPTH)
     if not items:
         tg_send(head + "\nматчей с линией .5 в окне нет")
         return
