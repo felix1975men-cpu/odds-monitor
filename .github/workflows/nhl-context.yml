@@ -2,7 +2,7 @@ name: NHL context
 
 on:
   schedule:
-    - cron: "35 8 * * *"
+    - cron: "37 8 * * *"
   workflow_dispatch:
 
 jobs:
