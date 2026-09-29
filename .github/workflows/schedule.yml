@@ -12,7 +12,10 @@ jobs:
       max-parallel: 1
       fail-fast: false
       matrix:
-        sport: [nfl, nba, nhl, mlb]
+        # nhl ушёл: расписание тура по хоккею шлёт nhl_context.py
+        # первым сообщением, отдельный слейт давал дубль
+        # (и полными именами команд вместо кодов).
+        sport: [nfl, nba, mlb]
     steps:
       - uses: actions/checkout@v4
 
