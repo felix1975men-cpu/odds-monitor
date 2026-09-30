@@ -2,7 +2,7 @@ name: Round digest
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "3 9 * * *"
   workflow_dispatch:
 
 jobs:
