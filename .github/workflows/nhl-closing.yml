@@ -1,12 +1,18 @@
-name: NHL closing loop
+name: Closing loop (all sports)
+
+# Файл называется nhl-closing.yml по истории, но цикл обслуживает ВСЕ лиги:
+# nfl, nba, nhl, mlb. Название внутри — то, что видно в Actions.
+#
+# Вместо крона каждые 5 минут одна долгая задача раз в минуту спрашивает
+# бесплатный /events по каждой лиге и снимает закрытие, когда до старта
+# остаётся 8-20 минут. Расписания GitHub опаздывают на часы; такой цикл
+# от опоздания старта не зависит.
 
 on:
   schedule:
     # Страховка на случай, если цепочка оборвётся. Сама цепочка держится
-    # на самозапуске в конце каждого прогона (см. последний шаг).
-    - cron: "17 14 * * *"
-    - cron: "17 19 * * *"
-    - cron: "17 0 * * *"
+    # на самозапуске в конце каждого прогона (последний шаг).
+    - cron: "17 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -35,9 +41,11 @@ jobs:
         id: loop
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-          TG_TOKEN: ${{ secrets.TG_TOKEN_NHL }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          SPORT: nhl
+          TG_TOKEN_NFL: ${{ secrets.TG_TOKEN_NFL }}
+          TG_TOKEN_NBA: ${{ secrets.TG_TOKEN_NBA }}
+          TG_TOKEN_NHL: ${{ secrets.TG_TOKEN_NHL }}
+          TG_TOKEN_MLB: ${{ secrets.TG_TOKEN_MLB }}
           MODE: closing
           CLOSE_MIN: "8"
           CLOSE_MAX: "20"
@@ -49,10 +57,18 @@ jobs:
           echo "loop until $(date -u -d @${END} +%H:%MZ)"
           while [ "$(date +%s)" -lt "$END" ]; do
             git pull -q --rebase --autostash origin "$BRANCH" || { git rebase --abort 2>/dev/null || true; echo "pull failed"; }
-            python odds_monitor.py || echo "monitor exit $?"
+            for S in nfl nba nhl mlb; do
+              case "$S" in
+                nfl) T="$TG_TOKEN_NFL" ;;
+                nba) T="$TG_TOKEN_NBA" ;;
+                nhl) T="$TG_TOKEN_NHL" ;;
+                mlb) T="$TG_TOKEN_MLB" ;;
+              esac
+              SPORT="$S" TG_TOKEN="$T" python odds_monitor.py 2>&1 | sed "s/^/[$S] /"
+            done
             if [ -n "$(git status --porcelain data/)" ]; then
               git add data/
-              git commit -q -m "nhl closing $(date -u +%Y-%m-%dT%H:%MZ)" || true
+              git commit -q -m "closing $(date -u +%Y-%m-%dT%H:%MZ)" || true
             fi
             AHEAD=$(git rev-list --count "origin/${BRANCH}..HEAD" 2>/dev/null || echo 0)
             if [ "$AHEAD" -gt 0 ]; then
