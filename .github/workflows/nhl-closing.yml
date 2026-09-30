@@ -1,23 +1,29 @@
-name: NHL closing snapshots
+name: NHL closing loop
 
 on:
   schedule:
-    # UTC. Хоккейный пояс: дневные матчи от 16:00, вечерние до ~02:30,
-    # западное побережье заканчивает окно к 04:00.
-    - cron: "*/5 16-23 * * *"
-    - cron: "*/5 0-4 * * *"
+    # Страховка на случай, если цепочка оборвётся. Сама цепочка держится
+    # на самозапуске в конце каждого прогона (см. последний шаг).
+    - cron: "17 14 * * *"
+    - cron: "17 19 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
+# Своя группа, НЕ odds-commit: долгий прогон держит группу часами и
+# заблокировал бы плановые снимки. Записи в csv сводятся через
+# .gitattributes (merge=union), поэтому параллельные пуши не конфликтуют.
 concurrency:
-  group: odds-commit
+  group: nhl-closing-loop
   cancel-in-progress: false
 
 jobs:
   closing:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -25,32 +31,46 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Closing snapshot
-        id: run
+      - name: Closing loop
+        id: loop
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           TG_TOKEN: ${{ secrets.TG_TOKEN_NHL }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           SPORT: nhl
           MODE: closing
-          CLOSE_MIN: "10"
-          CLOSE_MAX: "45"
-        run: python odds_monitor.py
-
-      - name: Commit data
-        if: steps.run.outputs.changed == 'true'
+          CLOSE_MIN: "8"
+          CLOSE_MAX: "20"
         run: |
           git config user.name "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "nothing to commit"
-            exit 0
-          fi
-          git commit -m "nhl closing $(date -u +%Y-%m-%dT%H:%MZ)"
-          for i in 1 2 3; do
-            git pull --rebase --autostash && git push && exit 0
-            sleep 5
+          BRANCH="${GITHUB_REF_NAME}"
+          END=$(( $(date +%s) + 20400 ))
+          echo "loop until $(date -u -d @${END} +%H:%MZ)"
+          while [ "$(date +%s)" -lt "$END" ]; do
+            git pull -q --rebase --autostash origin "$BRANCH" || { git rebase --abort 2>/dev/null || true; echo "pull failed"; }
+            python odds_monitor.py || echo "monitor exit $?"
+            if [ -n "$(git status --porcelain data/)" ]; then
+              git add data/
+              git commit -q -m "nhl closing $(date -u +%Y-%m-%dT%H:%MZ)" || true
+            fi
+            AHEAD=$(git rev-list --count "origin/${BRANCH}..HEAD" 2>/dev/null || echo 0)
+            if [ "$AHEAD" -gt 0 ]; then
+              for i in 1 2 3 4 5; do
+                if git pull -q --rebase --autostash origin "$BRANCH" && git push -q origin "HEAD:${BRANCH}"; then
+                  echo "pushed on attempt $i"
+                  break
+                fi
+                git rebase --abort 2>/dev/null || true
+                sleep $((i * 5))
+              done
+            fi
+            sleep 60
           done
-          echo "push failed after retries" >&2
-          exit 1
+          echo "finished=true" >> "$GITHUB_OUTPUT"
+
+      - name: Start next loop
+        if: steps.loop.outputs.finished == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run nhl-closing.yml --ref "${GITHUB_REF_NAME}"
