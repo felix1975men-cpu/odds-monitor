@@ -3,13 +3,17 @@
 Метод по тоталам — картина плюсов и минусов, три строки на матч.
 
 По каждому матчу тура печатаются три строки:
-  1. домашние игры хозяев в текущем регулярном сезоне
-  2. выездные игры гостей в текущем регулярном сезоне
+  1. домашние игры хозяев в текущем году
+  2. выездные игры гостей в текущем году
   3. очные встречи НА СТАДИОНЕ ХОЗЯЕВ, вглубь по сезонам, до 30 игр
 
 Каждая прошлая игра помечается + (сыграло больше сегодняшней линии)
 или − (меньше). Линия — консенсус книг, только .5, никогда целое.
 Старые слева, свежие справа.
+
+Из выборки исключается ТОЛЬКО предсезонка (gameType == "S").
+Регулярный сезон и плей-офф считаются наравне — иначе после 27 сентября
+строки замирали и метод реагировал лишь на движение линии.
 
 Вердикты не считаются. Картину читает человек.
 
@@ -32,6 +36,8 @@ WINDOW_HOURS = 30
 H2H_CAP = 60           # у соседей по дивизиону 30 резало по живому
 H2H_OLDEST = 2000          # глубже не копаем
 MSG_LIMIT = 3500
+
+SKIP_TYPES = {"S"}     # предсезонка; всё остальное идёт в строки
 
 
 def jget(url, timeout=30):
@@ -65,6 +71,13 @@ def parse_iso(s):
 
 def is_half(x):
     return x is not None and abs((x * 2) % 2 - 1) < 1e-9
+
+
+def counts(g):
+    """Игра идёт в строки, если она завершена и это не предсезонка."""
+    if (g.get("status") or {}).get("abstractGameState") != "Final":
+        return False
+    return (g.get("gameType") or "R") not in SKIP_TYPES
 
 
 # ------------------------------------------------------------------- линия
@@ -119,17 +132,15 @@ def consensus_lines(rows):
 # ----------------------------------------------------------------- история
 
 def season_finals(team_id, season):
-    """[(дата, id хозяев, id гостей, всего очков)] — завершённые игры сезона."""
+    """[(дата, id хозяев, id гостей, всего очков)] — завершённые игры года."""
     data = jget("%s/schedule?sportId=1&teamId=%d&season=%d"
                 "&startDate=%d-03-01&endDate=%d-11-30&hydrate=linescore"
                 % (STATS, team_id, season, season, season))
     out = []
     for day in (data or {}).get("dates", []):
         for g in day.get("games", []):
-            if (g.get("status") or {}).get("abstractGameState") != "Final":
+            if not counts(g):
                 continue
-            if (g.get("gameType") or "R") != "R":
-                continue                      # только регулярный сезон
             t = g.get("teams") or {}
             h, a = t.get("home") or {}, t.get("away") or {}
             if h.get("score") is None or a.get("score") is None:
@@ -163,9 +174,7 @@ def h2h_at_home(home_id, away_id, season):
         rows = []
         for day in (data or {}).get("dates", []):
             for g in day.get("games", []):
-                if (g.get("status") or {}).get("abstractGameState") != "Final":
-                    continue
-                if (g.get("gameType") or "R") != "R":
+                if not counts(g):
                     continue
                 t = g.get("teams") or {}
                 h, a = t.get("home") or {}, t.get("away") or {}
@@ -242,7 +251,7 @@ def main():
     head = ("\u26BE MLB \u2014 \u043c\u0435\u0442\u043e\u0434 \u043f\u043e \u0442\u043e\u0442\u0430\u043b\u0430\u043c\n"
             "%s UTC  |  \u043c\u0430\u0442\u0447\u0435\u0439: %d\n"
             "\u043b\u0438\u043d\u0438\u044f = \u043a\u043e\u043d\u0441\u0435\u043d\u0441\u0443\u0441 \u043a\u043d\u0438\u0433, \u0442\u043e\u043b\u044c\u043a\u043e .5\n"
-            "\u0434\u043e\u043c\u0430/\u0433\u043e\u0441\u0442\u0438 \u2014 \u0441\u0435\u0437\u043e\u043d %d  |  "
+            "\u0434\u043e\u043c\u0430/\u0433\u043e\u0441\u0442\u0438 \u2014 %d \u0431\u0435\u0437 \u043f\u0440\u0435\u0434\u0441\u0435\u0437\u043e\u043d\u043a\u0438  |  "
             "\u043e\u0447\u043d\u044b\u0435 \u2014 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0445\u043e\u0437\u044f\u0435\u0432, \u0434\u043e %d\n"
             "\u0441\u0442\u0430\u0440\u044b\u0435 \u0441\u043b\u0435\u0432\u0430, \u0441\u0432\u0435\u0436\u0438\u0435 \u0441\u043f\u0440\u0430\u0432\u0430\n\n"
             % (now.strftime("%Y-%m-%d %H:%M"), n, season, H2H_CAP))
