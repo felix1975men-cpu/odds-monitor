@@ -1,8 +1,9 @@
 name: Closing line trigger
-
+# 29.09.2026 отключён: закрытия по всем четырём лигам снимает
+# Closing loop (all sports). Оставлен как ручная страховка.
 on:
-  schedule:
-    - cron: "*/15 * * * *"
+  #schedule:
+  #  - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
