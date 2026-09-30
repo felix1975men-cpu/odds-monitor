@@ -2,7 +2,7 @@ name: Odds snapshots
 
 on:
   schedule:
-    - cron: "0 7,15,21 * * *"
+    - cron: "8 7,15,21 * * *"
   workflow_dispatch:
 
 permissions:
