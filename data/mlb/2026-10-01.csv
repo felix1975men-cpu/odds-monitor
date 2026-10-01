@@ -424,3 +424,55 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-01T01:40:31Z,closing,66c0c13a06424600557af241371043fc,2026-10-01T02:00:00Z,San Diego Padres,Chicago Cubs,pinnacle,alternate_totals,Under,7.5,1.75
 2026-10-01T01:40:31Z,closing,66c0c13a06424600557af241371043fc,2026-10-01T02:00:00Z,San Diego Padres,Chicago Cubs,pinnacle,alternate_totals,Under,8.0,1.62
 2026-10-01T01:40:31Z,closing,66c0c13a06424600557af241371043fc,2026-10-01T02:00:00Z,San Diego Padres,Chicago Cubs,pinnacle,alternate_totals,Under,8.5,1.53
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,fanduel,h2h,Atlanta Braves,,1.94
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,fanduel,h2h,Philadelphia Phillies,,1.91
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,fanduel,spreads,Atlanta Braves,1.5,1.53
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,fanduel,spreads,Philadelphia Phillies,-1.5,2.55
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,fanduel,totals,Over,7.5,1.96
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,fanduel,totals,Under,7.5,1.85
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betmgm,h2h,Atlanta Braves,,1.95
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betmgm,h2h,Philadelphia Phillies,,1.87
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betmgm,totals,Over,7.5,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betmgm,totals,Under,7.5,1.83
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betfair_ex_eu,h2h,Atlanta Braves,,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betfair_ex_eu,h2h,Philadelphia Phillies,,1.98
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betfair_ex_eu,h2h_lay,Atlanta Braves,,2.02
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betfair_ex_eu,h2h_lay,Philadelphia Phillies,,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,coolbet,h2h,Atlanta Braves,,1.92
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,coolbet,h2h,Philadelphia Phillies,,1.89
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,coolbet,spreads,Atlanta Braves,1.5,1.53
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,coolbet,spreads,Philadelphia Phillies,-1.5,2.52
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,coolbet,totals,Over,7.5,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,coolbet,totals,Under,7.5,1.82
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,draftkings,h2h,Atlanta Braves,,1.93
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,draftkings,h2h,Philadelphia Phillies,,1.89
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,draftkings,spreads,Atlanta Braves,1.5,1.53
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,draftkings,spreads,Philadelphia Phillies,-1.5,2.54
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,draftkings,totals,Over,7.5,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,draftkings,totals,Under,7.5,1.83
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betrivers,h2h,Atlanta Braves,,1.95
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betrivers,h2h,Philadelphia Phillies,,1.88
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betrivers,spreads,Atlanta Braves,1.5,1.56
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betrivers,spreads,Philadelphia Phillies,-1.5,2.45
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betrivers,totals,Over,7.5,1.93
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betrivers,totals,Under,7.5,1.88
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,h2h,Atlanta Braves,,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,h2h,Philadelphia Phillies,,1.98
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,h2h_lay,Atlanta Braves,,2.02
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,h2h_lay,Philadelphia Phillies,,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,spreads,Atlanta Braves,1.5,1.56
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,spreads,Philadelphia Phillies,-1.5,2.64
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,totals,Over,7.5,2.02
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,matchbook,totals,Under,7.5,1.88
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,pinnacle,h2h,Atlanta Braves,,1.98
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,pinnacle,h2h,Philadelphia Phillies,,1.94
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,pinnacle,spreads,Atlanta Braves,1.5,1.56
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,pinnacle,spreads,Philadelphia Phillies,-1.5,2.61
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,pinnacle,totals,Over,7.5,2.0
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,pinnacle,totals,Under,7.5,1.88
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betsson,h2h,Atlanta Braves,,1.92
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betsson,h2h,Philadelphia Phillies,,1.88
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betsson,spreads,Atlanta Braves,1.5,1.53
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betsson,spreads,Philadelphia Phillies,-1.5,2.45
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betsson,totals,Over,7.5,1.93
+2026-10-01T14:26:01Z,scheduled,5524c44b05e28aa899909c9e001184ec,2026-10-02T00:11:00Z,Atlanta Braves,Philadelphia Phillies,betsson,totals,Under,7.5,1.83
