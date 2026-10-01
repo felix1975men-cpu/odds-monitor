@@ -2427,3 +2427,799 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-01T20:19:54Z,scheduled,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betfair_ex_eu,h2h,Detroit Lions,,1.55
 2026-10-01T20:19:54Z,scheduled,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betfair_ex_eu,h2h_lay,Carolina Panthers,,2.82
 2026-10-01T20:19:54Z,scheduled,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,betfair_ex_eu,h2h_lay,Detroit Lions,,1.56
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,h2h,Cleveland Browns,,2.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,h2h,Pittsburgh Steelers,,1.68
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,spreads,Cleveland Browns,2.5,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,spreads,Pittsburgh Steelers,-2.5,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,totals,Over,38.5,1.95
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,totals,Under,38.5,1.87
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,h2h,Cleveland Browns,,2.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,h2h,Pittsburgh Steelers,,1.68
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,spreads,Cleveland Browns,2.5,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,spreads,Pittsburgh Steelers,-2.5,1.82
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,totals,Over,37.5,1.89
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,totals,Under,37.5,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betsson,h2h,Cleveland Browns,,2.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betsson,h2h,Pittsburgh Steelers,,1.64
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betsson,spreads,Cleveland Browns,2.5,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betsson,spreads,Pittsburgh Steelers,-2.5,1.81
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betsson,totals,Over,37.5,1.86
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betsson,totals,Under,37.5,1.94
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,h2h,Cleveland Browns,,2.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,h2h,Pittsburgh Steelers,,1.66
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,spreads,Cleveland Browns,2.5,1.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,spreads,Pittsburgh Steelers,-2.5,1.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,totals,Over,38.0,1.92
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,totals,Under,38.0,1.89
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,h2h,Cleveland Browns,,2.42
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,h2h,Pittsburgh Steelers,,1.69
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,h2h_lay,Cleveland Browns,,2.44
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,h2h_lay,Pittsburgh Steelers,,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,spreads,Cleveland Browns,3.0,1.95
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,spreads,Pittsburgh Steelers,-3.0,2.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,totals,Over,38.0,1.98
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,matchbook,totals,Under,38.0,1.99
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,h2h,Cleveland Browns,,2.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,h2h,Pittsburgh Steelers,,1.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,spreads,Cleveland Browns,3.0,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,spreads,Pittsburgh Steelers,-3.0,1.98
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,totals,Over,38.0,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,totals,Under,38.0,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,h2h,Cleveland Browns,,2.39
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,h2h,Pittsburgh Steelers,,1.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,spreads,Cleveland Browns,3.0,1.92
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,spreads,Pittsburgh Steelers,-3.0,1.99
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,totals,Over,38.0,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,totals,Under,38.0,1.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,h2h,Cleveland Browns,,2.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,h2h,Pittsburgh Steelers,,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,spreads,Cleveland Browns,3.0,1.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,spreads,Pittsburgh Steelers,-3.0,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,totals,Over,38.0,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,totals,Under,38.0,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betfair_ex_eu,h2h,Cleveland Browns,,2.42
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betfair_ex_eu,h2h,Pittsburgh Steelers,,1.69
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betfair_ex_eu,h2h_lay,Cleveland Browns,,2.44
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betfair_ex_eu,h2h_lay,Pittsburgh Steelers,,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,25.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,24.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,23.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,22.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,21.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,20.5,1.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,19.5,1.07
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,18.5,1.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,17.5,1.09
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,16.5,1.11
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,15.5,1.13
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,14.5,1.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,13.5,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,12.5,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,11.5,1.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,10.5,1.27
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,9.5,1.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,8.5,1.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,7.5,1.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,6.5,1.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,5.5,1.56
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,4.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,3.5,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,1.5,2.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-1.5,2.27
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-2.5,2.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-3.5,2.79
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-4.5,3.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-5.5,3.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-6.5,3.46
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-7.5,4.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-8.5,4.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-9.5,4.57
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-10.5,5.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-11.5,5.51
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-12.5,5.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-13.5,6.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-14.5,7.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-15.5,7.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-16.5,8.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-17.5,9.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-18.5,10.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-19.5,10.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-20.5,11.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-21.5,13.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Cleveland Browns,-22.5,13.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-25.5,13.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-24.5,12.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-23.5,11.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-22.5,10.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-21.5,9.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-20.5,8.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-19.5,7.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-18.5,6.99
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-17.5,6.43
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-16.5,5.79
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-15.5,5.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-14.5,5.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-13.5,4.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-12.5,4.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-11.5,3.82
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-10.5,3.58
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-9.5,3.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-8.5,3.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-7.5,2.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-6.5,2.49
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-5.5,2.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-4.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-3.5,2.07
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,-1.5,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,1.5,1.58
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,2.5,1.54
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,3.5,1.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,4.5,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,5.5,1.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,6.5,1.28
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,7.5,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,8.5,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,9.5,1.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,10.5,1.14
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,11.5,1.12
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,12.5,1.11
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,13.5,1.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,14.5,1.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,15.5,1.07
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,16.5,1.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,17.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,18.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,19.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,20.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,21.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_spreads,Pittsburgh Steelers,22.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,19.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,20.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,21.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,22.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,23.5,1.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,24.5,1.07
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,25.5,1.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,26.5,1.13
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,27.5,1.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,28.5,1.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,29.5,1.23
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,30.5,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,31.5,1.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,32.5,1.37
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,33.5,1.45
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,34.5,1.51
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,35.5,1.58
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,36.5,1.68
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,37.5,1.81
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,39.5,2.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,40.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,41.5,2.39
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,42.5,2.53
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,43.5,2.81
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,44.5,3.09
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,45.5,3.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,46.5,3.61
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,47.5,4.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,48.5,4.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,49.5,4.79
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,50.5,5.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,51.5,6.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,52.5,6.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,53.5,7.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,54.5,7.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,55.5,8.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,56.5,9.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,57.5,10.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,58.5,11.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,59.5,12.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Over,60.5,13.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,19.5,12.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,20.5,11.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,21.5,10.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,22.5,9.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,23.5,7.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,24.5,7.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,25.5,6.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,26.5,5.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,27.5,4.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,28.5,4.45
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,29.5,3.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,30.5,3.42
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,31.5,3.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,32.5,2.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,33.5,2.63
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,34.5,2.46
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,35.5,2.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,36.5,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,37.5,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,39.5,1.72
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,40.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,41.5,1.53
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,42.5,1.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,43.5,1.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,44.5,1.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,45.5,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,46.5,1.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,47.5,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,48.5,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,49.5,1.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,50.5,1.13
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,51.5,1.11
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,52.5,1.09
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,53.5,1.07
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,54.5,1.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,55.5,1.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,56.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,57.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,58.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,59.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,draftkings,alternate_totals,Under,60.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-23.5,26.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-22.5,21.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-21.5,19.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-20.5,16.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-19.5,15.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-18.5,14.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-17.5,13.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-16.5,11.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-15.5,10.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-14.5,9.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-13.5,8.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-12.5,7.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-11.5,7.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-10.5,6.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-9.5,5.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-8.5,5.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-7.5,4.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-6.5,4.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-5.5,3.55
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-4.5,3.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-3.5,3.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-2.5,2.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,-1.5,2.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,1.5,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,2.5,1.98
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,3.5,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,4.5,1.64
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,5.5,1.59
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,6.5,1.49
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,7.5,1.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,8.5,1.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,9.5,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,10.5,1.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,11.5,1.23
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,12.5,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,13.5,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,14.5,1.14
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,15.5,1.12
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,16.5,1.11
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,17.5,1.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,18.5,1.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,19.5,1.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,20.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,21.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,22.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,23.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,24.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,25.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,26.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,27.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Cleveland Browns,28.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,23.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,22.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,21.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,20.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,19.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,18.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,17.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,16.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,15.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,14.5,1.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,13.5,1.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,12.5,1.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,11.5,1.09
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,10.5,1.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,9.5,1.13
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,8.5,1.14
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,7.5,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,6.5,1.23
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,5.5,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,4.5,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,3.5,1.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,2.5,1.52
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,1.5,1.56
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-1.5,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-2.5,1.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-3.5,2.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-4.5,2.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-5.5,2.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-6.5,2.58
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-7.5,3.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-8.5,3.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-9.5,3.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-10.5,3.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-11.5,4.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-12.5,4.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-13.5,4.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-14.5,5.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-15.5,5.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-16.5,6.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-17.5,7.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-18.5,8.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-19.5,9.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-20.5,10.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-21.5,11.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-22.5,12.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-23.5,14.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-24.5,16.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-25.5,16.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-26.5,18.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-27.5,21.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_spreads,Pittsburgh Steelers,-28.5,26.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,13.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,14.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,15.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,16.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,17.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,18.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,19.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,20.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,21.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,22.5,1.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,23.5,1.07
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,24.5,1.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,25.5,1.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,26.5,1.14
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,27.5,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,28.5,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,29.5,1.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,30.5,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,31.5,1.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,32.5,1.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,33.5,1.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,34.5,1.56
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,35.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,36.5,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,37.5,1.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,38.5,1.94
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,39.5,2.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,40.5,2.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,41.5,2.44
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,42.5,2.58
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,43.5,2.86
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,44.5,3.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,45.5,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,46.5,3.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,47.5,4.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,48.5,4.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,49.5,4.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,50.5,5.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,51.5,6.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,52.5,6.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,53.5,7.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,54.5,8.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,55.5,9.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,56.5,10.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,57.5,11.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,58.5,12.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,59.5,13.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,60.5,15.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,61.5,16.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,62.5,18.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,63.5,18.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,64.5,21.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,65.5,26.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,66.5,31.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,67.5,31.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Over,68.5,36.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,13.5,36.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,14.5,36.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,15.5,31.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,16.5,18.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,17.5,18.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,18.5,16.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,19.5,13.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,20.5,11.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,21.5,11.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,22.5,9.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,23.5,7.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,24.5,7.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,25.5,6.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,26.5,5.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,27.5,4.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,28.5,4.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,29.5,3.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,30.5,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,31.5,3.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,32.5,2.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,33.5,2.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,34.5,2.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,35.5,2.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,36.5,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,37.5,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,38.5,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,39.5,1.72
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,40.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,41.5,1.54
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,42.5,1.49
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,43.5,1.41
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,44.5,1.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,45.5,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,46.5,1.28
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,47.5,1.23
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,48.5,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,49.5,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,50.5,1.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,51.5,1.12
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,52.5,1.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,53.5,1.08
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,54.5,1.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,55.5,1.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,56.5,1.04
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,57.5,1.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,58.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,59.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,60.5,1.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,61.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,62.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,63.5,1.01
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,64.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,65.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,66.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,67.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,fanduel,alternate_totals,Under,68.5,1.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,2.5,1.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-10.0,5.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,4.5,1.64
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,5.5,1.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,0.0,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-9.5,4.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,12.0,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,8.5,1.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,10.5,1.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-8.5,4.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,1.0,2.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-5.0,3.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,9.5,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-0.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,5.0,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,1.5,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-7.5,4.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,11.5,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,2.0,2.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-1.0,2.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,12.5,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,3.5,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-5.5,3.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-4.0,3.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,6.0,1.54
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-3.0,2.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-3.5,2.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,9.0,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-9.0,4.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-4.5,3.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,11.0,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-6.5,3.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-7.0,4.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,6.5,1.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-2.5,2.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-2.0,2.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,4.0,1.67
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,3.0,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,14.0,1.12
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,8.0,1.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,7.0,1.42
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,7.5,1.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-6.0,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,13.5,1.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,0.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-8.0,4.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,13.0,1.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,-1.5,2.28
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Cleveland Browns,10.0,1.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-2.5,1.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,10.0,1.12
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-4.5,2.28
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-5.5,2.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,0.0,1.66
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,9.5,1.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-12.0,4.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-8.5,3.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-10.5,3.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,8.5,1.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-1.0,1.68
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,5.0,1.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-9.5,3.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,0.5,1.66
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-5.0,2.28
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-1.5,1.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,7.5,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-11.5,4.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-2.0,1.81
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,1.0,1.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-12.5,4.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-3.5,2.16
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,5.5,1.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,4.0,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-6.0,2.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,3.0,1.43
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,3.5,1.41
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-9.0,3.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,9.0,1.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,4.5,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-11.0,4.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,6.5,1.28
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,7.0,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-6.5,2.55
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,2.5,1.56
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,2.0,1.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-4.0,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-3.0,1.97
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-14.0,5.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-8.0,3.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-7.0,2.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-7.5,2.95
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,6.0,1.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-13.5,4.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-0.5,1.67
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,8.0,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-13.0,4.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,1.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betrivers,alternate_spreads,Pittsburgh Steelers,-10.0,3.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,2.0,2.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,3.0,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,1.5,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,3.5,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,4.0,1.67
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,1.0,2.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,5.0,1.57
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,4.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,5.5,1.57
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-1.0,2.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,6.0,1.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-1.5,2.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,6.5,1.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,7.0,1.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-2.0,2.45
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-2.5,2.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,7.5,1.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-3.0,2.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,8.0,1.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-3.5,2.95
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,8.5,1.31
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-4.0,3.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,9.0,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-4.5,3.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,9.5,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-5.0,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,10.0,1.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-5.5,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-6.0,3.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,10.5,1.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,11.0,1.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-6.5,3.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,11.5,1.21
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-7.0,4.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,12.0,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-7.5,4.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,12.5,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,-8.0,5.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,13.0,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,2.5,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Cleveland Browns,13.5,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-2.0,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-3.0,1.98
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-1.5,1.69
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-3.5,2.05
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-4.0,2.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-1.0,1.67
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-5.0,2.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-4.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-5.5,2.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,1.0,1.57
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-6.0,2.45
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,1.5,1.54
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-6.5,2.55
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-7.0,2.88
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,2.0,1.53
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,2.5,1.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-7.5,3.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,3.0,1.43
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-8.0,3.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,3.5,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-8.5,3.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,4.0,1.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-9.0,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,4.5,1.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-9.5,3.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,5.0,1.31
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-10.0,3.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,5.5,1.31
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,6.0,1.27
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-10.5,3.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-11.0,4.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,6.5,1.27
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-11.5,4.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,7.0,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-12.0,4.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,7.5,1.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-12.5,4.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,8.0,1.17
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-13.0,4.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-2.5,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_spreads,Pittsburgh Steelers,-13.5,5.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,37.0,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,36.5,1.69
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,39.0,1.98
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,36.0,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,39.5,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,35.5,1.61
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,40.0,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,35.0,1.57
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,40.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,34.5,1.53
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,41.0,2.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,34.0,1.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,41.5,2.38
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,33.5,1.48
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,42.0,2.45
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,42.5,2.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,33.0,1.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,32.5,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,32.0,1.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,43.0,2.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,43.5,2.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,31.5,1.34
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,44.0,2.95
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,31.0,1.31
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,44.5,3.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,30.5,1.31
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,45.0,3.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,30.0,1.27
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,45.5,3.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,29.5,1.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,46.0,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,29.0,1.21
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,46.5,3.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,28.5,1.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,47.0,3.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,28.0,1.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,47.5,3.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,48.0,4.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,38.0,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,38.5,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Over,37.5,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,37.0,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,36.5,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,39.0,1.77
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,36.0,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,39.5,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,35.5,2.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,40.0,1.69
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,35.0,2.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,40.5,1.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,34.5,2.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,41.0,1.57
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,34.0,2.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,41.5,1.54
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,33.5,2.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,42.0,1.53
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,42.5,1.5
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,33.0,2.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,32.5,2.95
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,32.0,3.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,43.0,1.44
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,43.5,1.43
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,31.5,3.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,44.0,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,31.0,3.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,44.5,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,30.5,3.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,45.0,1.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,30.0,3.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,45.5,1.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,29.5,3.9
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,46.0,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,29.0,4.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,46.5,1.29
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,28.5,4.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,47.0,1.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,28.0,4.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,47.5,1.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,48.0,1.21
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,38.0,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,38.5,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,betmgm,alternate_totals,Under,37.5,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,3.0,1.92
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,7.5,1.37
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,5.5,1.62
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,5.0,1.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,4.5,1.66
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,4.0,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,3.5,1.76
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,2.5,2.14
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,2.0,2.19
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,1.5,2.24
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,1.0,2.31
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,-1.0,2.46
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Cleveland Browns,-3.5,3.47
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-3.0,1.99
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-7.5,3.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-5.5,2.41
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-5.0,2.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-4.5,2.32
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-4.0,2.25
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-3.5,2.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-2.5,1.79
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-2.0,1.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-1.5,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,-1.0,1.67
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,1.0,1.6
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_spreads,Pittsburgh Steelers,3.5,1.33
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,38.0,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,31.5,1.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,35.5,1.64
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,36.0,1.69
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,36.5,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,37.0,1.79
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,37.5,1.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,38.5,1.99
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,39.0,2.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,39.5,2.14
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,40.0,2.22
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,40.5,2.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Over,44.5,3.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,38.0,1.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,31.5,3.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,35.5,2.35
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,36.0,2.26
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,36.5,2.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,37.0,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,37.5,2.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,38.5,1.88
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,39.0,1.82
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,39.5,1.77
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,40.0,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,40.5,1.67
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,pinnacle,alternate_totals,Under,44.5,1.36
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,5.0,1.58
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,2.5,2.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,3.5,1.72
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,1.0,2.21
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,2.0,2.1
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,-1.0,2.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,1.5,2.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,4.0,1.65
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,3.0,1.85
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Cleveland Browns,4.5,1.61
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-5.0,2.45
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-2.5,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-3.5,2.18
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-1.0,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-2.0,1.77
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,1.0,1.61
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-1.5,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-4.0,2.3
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-3.0,2.0
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_spreads,Pittsburgh Steelers,-4.5,2.4
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,40.5,2.2
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,38.0,1.93
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,37.0,1.82
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,39.5,2.06
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,37.5,1.89
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,39.0,2.02
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,40.0,2.15
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,36.5,1.75
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,38.5,1.97
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Over,36.0,1.7
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,40.5,1.71
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,38.0,1.91
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,37.0,2.03
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,39.5,1.8
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,37.5,1.96
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,39.0,1.83
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,40.0,1.74
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,36.5,2.13
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,38.5,1.88
+2026-10-01T23:55:24Z,closing,d55cb69fed50a09170560b5b75d8de86,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,coolbet,alternate_totals,Under,36.0,2.21
