@@ -7,6 +7,11 @@ name: Closing loop (all sports)
 # бесплатный /events по каждой лиге и снимает закрытие, когда до старта
 # остаётся 8-20 минут. Расписания GitHub опаздывают на часы; такой цикл
 # от опоздания старта не зависит.
+#
+# С 2 октября этот же цикл служит планировщиком утренних воркфлоу:
+# GitHub сам выпускает их события на 6 часов позже. Каждую минуту цикл
+# сверяется с таблицей слотов SLOTS и запускает нужный воркфлоу через
+# gh workflow run, если после времени слота такого прогона ещё не было.
 
 on:
   schedule:
@@ -46,6 +51,7 @@ jobs:
           TG_TOKEN_NBA: ${{ secrets.TG_TOKEN_NBA }}
           TG_TOKEN_NHL: ${{ secrets.TG_TOKEN_NHL }}
           TG_TOKEN_MLB: ${{ secrets.TG_TOKEN_MLB }}
+          GH_TOKEN: ${{ github.token }}
           MODE: closing
           CLOSE_MIN: "8"
           CLOSE_MAX: "20"
@@ -55,8 +61,62 @@ jobs:
           BRANCH="${GITHUB_REF_NAME}"
           END=$(( $(date +%s) + 20400 ))
           echo "loop until $(date -u -d @${END} +%H:%MZ)"
+
+          # Таблица слотов, всё в UTC: файл, час, минута, дни недели (0=вс).
+          SLOTS="snapshots.yml 07 08 *
+          snapshots.yml 15 08 *
+          snapshots.yml 21 08 *
+          results.yml 08 06 *
+          schedule.yml 08 26 *
+          context.yml 08 33 *
+          nhl-context.yml 08 37 *
+          nfl-context.yml 08 41 *
+          digest.yml 09 03 *
+          nhl-digest.yml 09 07 *
+          nfl-digest.yml 09 12 3,4,6,0,1
+          totals.yml 10 03 *
+          nhl-totals.yml 10 07 *
+          nfl-totals.yml 10 12 *"
+
+          run_slots() {
+            NOWM=$(( 10#$(date -u +%H) * 60 + 10#$(date -u +%M) ))
+            TODAY=$(date -u +%Y-%m-%d)
+            DOW=$(date -u +%w)
+            while read -r F HH MM DAYS; do
+              [ -z "$F" ] && continue
+              case "$DAYS" in
+                '*') ;;
+                *) case ",$DAYS," in *",$DOW,"*) ;; *) continue ;; esac ;;
+              esac
+              SLOTM=$(( 10#$HH * 60 + 10#$MM ))
+              [ "$NOWM" -ge "$SLOTM" ] || continue
+              [ "$NOWM" -lt $(( SLOTM + 180 )) ] || continue
+              KEY="$TODAY:$F:$HH$MM"
+              grep -qx "$KEY" /tmp/sched_done 2>/dev/null && continue
+              SINCE="${TODAY}T${HH}:${MM}:00Z"
+              N=$(gh api -X GET "repos/${GITHUB_REPOSITORY}/actions/workflows/${F}/runs" \
+                    -f created=">=${SINCE}" -f per_page=1 --jq '.total_count' 2>/dev/null || echo "")
+              if [ -z "$N" ]; then
+                echo "[sched] api failed for $F"
+                continue
+              fi
+              if [ "$N" -eq 0 ]; then
+                if gh workflow run "$F" --ref "$BRANCH"; then
+                  echo "[sched] launched $F (slot ${HH}:${MM}Z)"
+                else
+                  echo "[sched] launch failed for $F"
+                  continue
+                fi
+              else
+                echo "[sched] $F already ran since ${SINCE}"
+              fi
+              echo "$KEY" >> /tmp/sched_done
+            done <<< "$SLOTS"
+          }
+
           while [ "$(date +%s)" -lt "$END" ]; do
             git pull -q --rebase --autostash origin "$BRANCH" || { git rebase --abort 2>/dev/null || true; echo "pull failed"; }
+            run_slots || true
             for S in nfl nba nhl mlb; do
               case "$S" in
                 nfl) T="$TG_TOKEN_NFL" ;;
