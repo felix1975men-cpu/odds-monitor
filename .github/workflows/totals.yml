@@ -1,8 +1,8 @@
 name: Totals method
 
 on:
-  schedule:
-    - cron: "3 10 * * *"
+  #schedule:
+  #  - cron: "3 10 * * *"
   workflow_dispatch:
 
 jobs:
