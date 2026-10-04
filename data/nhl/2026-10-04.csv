@@ -1080,3 +1080,305 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-04T16:50:39Z,closing,d10f933c7fb656c7cfd1c98df4a650f8,2026-10-04T17:10:00Z,Detroit Red Wings,Winnipeg Jets,coolbet,alternate_totals,Under,5.5,2.02
 2026-10-04T16:50:39Z,closing,d10f933c7fb656c7cfd1c98df4a650f8,2026-10-04T17:10:00Z,Detroit Red Wings,Winnipeg Jets,coolbet,alternate_totals,Under,7.5,1.26
 2026-10-04T16:50:39Z,closing,d10f933c7fb656c7cfd1c98df4a650f8,2026-10-04T17:10:00Z,Detroit Red Wings,Winnipeg Jets,coolbet,alternate_totals,Under,8.5,1.11
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,draftkings,h2h,New York Rangers,,1.83
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,draftkings,h2h,Utah Mammoth,,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,draftkings,spreads,New York Rangers,-1.5,3.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,draftkings,spreads,Utah Mammoth,1.5,1.41
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,draftkings,totals,Over,5.5,1.83
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,draftkings,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,fanduel,h2h,New York Rangers,,1.83
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,fanduel,h2h,Utah Mammoth,,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,fanduel,spreads,New York Rangers,-1.5,3.05
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,fanduel,spreads,Utah Mammoth,1.5,1.38
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,fanduel,totals,Over,5.5,1.82
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,fanduel,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betsson,h2h,New York Rangers,,1.82
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betsson,h2h,Utah Mammoth,,1.99
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betsson,spreads,New York Rangers,-1.5,2.8
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betsson,spreads,Utah Mammoth,1.5,1.44
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betrivers,h2h,New York Rangers,,1.8
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betrivers,h2h,Utah Mammoth,,2.06
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betrivers,spreads,New York Rangers,-1.5,3.05
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betrivers,spreads,Utah Mammoth,1.5,1.38
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betrivers,totals,Over,5.5,1.8
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betrivers,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betmgm,h2h,New York Rangers,,1.83
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betmgm,h2h,Utah Mammoth,,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betmgm,spreads,New York Rangers,-1.5,3.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betmgm,spreads,Utah Mammoth,1.5,1.4
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betmgm,totals,Over,5.5,1.83
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,betmgm,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,h2h,New York Rangers,,1.91
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,h2h,Utah Mammoth,,2.06
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,h2h_lay,New York Rangers,,1.93
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,h2h_lay,Utah Mammoth,,2.1
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,spreads,New York Rangers,-1.5,3.05
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,spreads,Utah Mammoth,1.5,1.44
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,totals,Over,5.5,1.88
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,matchbook,totals,Under,5.5,2.1
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,pinnacle,h2h,New York Rangers,,1.86
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,pinnacle,h2h,Utah Mammoth,,2.06
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,pinnacle,spreads,New York Rangers,-1.5,3.11
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,pinnacle,spreads,Utah Mammoth,1.5,1.41
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,pinnacle,totals,Over,6.0,2.06
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,pinnacle,totals,Under,6.0,1.84
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,h2h_3way,New York Rangers,,2.35
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,h2h_3way,Utah Mammoth,,2.63
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,h2h_3way,Draw,,4.05
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,spreads,New York Rangers,-1.5,3.03
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,spreads,Utah Mammoth,1.5,1.39
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,totals,Over,5.5,1.82
+2026-10-04T21:09:54Z,scheduled,5393b504ffa70a2603259b2df414007f,2026-10-04T22:10:00Z,New York Rangers,Utah Mammoth,coolbet,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,draftkings,h2h,Anaheim Ducks,,2.14
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,draftkings,h2h,Florida Panthers,,1.74
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,draftkings,spreads,Anaheim Ducks,1.5,1.44
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,draftkings,spreads,Florida Panthers,-1.5,2.85
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,draftkings,totals,Over,6.5,1.85
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,draftkings,totals,Under,6.5,1.98
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betmgm,h2h,Anaheim Ducks,,2.15
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betmgm,h2h,Florida Panthers,,1.74
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betmgm,spreads,Anaheim Ducks,1.5,1.48
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betmgm,spreads,Florida Panthers,-1.5,2.7
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betmgm,totals,Over,6.5,1.85
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betmgm,totals,Under,6.5,1.98
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,fanduel,h2h,Anaheim Ducks,,2.12
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,fanduel,h2h,Florida Panthers,,1.75
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,fanduel,spreads,Anaheim Ducks,1.5,1.42
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,fanduel,spreads,Florida Panthers,-1.5,2.9
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,fanduel,totals,Over,6.5,1.88
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,fanduel,totals,Under,6.5,1.94
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betsson,h2h,Anaheim Ducks,,2.09
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betsson,h2h,Florida Panthers,,1.74
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betsson,spreads,Anaheim Ducks,1.5,1.48
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betsson,spreads,Florida Panthers,-1.5,2.65
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betrivers,h2h,Anaheim Ducks,,2.1
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betrivers,h2h,Florida Panthers,,1.77
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betrivers,spreads,Anaheim Ducks,1.5,1.43
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betrivers,spreads,Florida Panthers,-1.5,2.85
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betrivers,totals,Over,6.5,1.85
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,betrivers,totals,Under,6.5,1.94
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,pinnacle,h2h,Anaheim Ducks,,2.17
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,pinnacle,h2h,Florida Panthers,,1.78
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,pinnacle,spreads,Anaheim Ducks,1.5,1.44
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,pinnacle,spreads,Florida Panthers,-1.5,2.94
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,pinnacle,totals,Over,6.5,1.92
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,pinnacle,totals,Under,6.5,1.97
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,h2h,Anaheim Ducks,,2.2
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,h2h,Florida Panthers,,1.81
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,h2h_lay,Anaheim Ducks,,2.24
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,h2h_lay,Florida Panthers,,1.83
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,spreads,Anaheim Ducks,1.5,1.46
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,spreads,Florida Panthers,-1.5,2.98
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,totals,Over,6.5,1.94
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,matchbook,totals,Under,6.5,2.02
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,h2h_3way,Anaheim Ducks,,2.8
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,h2h_3way,Florida Panthers,,2.2
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,h2h_3way,Draw,,4.2
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,spreads,Anaheim Ducks,1.5,1.44
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,spreads,Florida Panthers,-1.5,2.8
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,totals,Over,6.5,2.15
+2026-10-04T21:09:54Z,scheduled,6cac1fc86136075a23655625562fd8dc,2026-10-05T00:10:00Z,Anaheim Ducks,Florida Panthers,coolbet,totals,Under,6.5,1.71
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,draftkings,h2h,Calgary Flames,,2.3
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,draftkings,h2h,Seattle Kraken,,1.65
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,draftkings,spreads,Calgary Flames,1.5,1.51
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,draftkings,spreads,Seattle Kraken,-1.5,2.64
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,draftkings,totals,Over,5.5,1.8
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,draftkings,totals,Under,5.5,2.05
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,h2h_3way,Calgary Flames,,3.05
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,h2h_3way,Seattle Kraken,,2.08
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,h2h_3way,Draw,,4.2
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,spreads,Calgary Flames,1.5,1.48
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,spreads,Seattle Kraken,-1.5,2.67
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,totals,Over,5.5,1.82
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,coolbet,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betmgm,h2h,Calgary Flames,,2.35
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betmgm,h2h,Seattle Kraken,,1.62
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betmgm,spreads,Calgary Flames,1.5,1.54
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betmgm,spreads,Seattle Kraken,-1.5,2.5
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betmgm,totals,Over,5.5,1.83
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betmgm,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,fanduel,h2h,Calgary Flames,,2.3
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,fanduel,h2h,Seattle Kraken,,1.64
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,fanduel,spreads,Calgary Flames,1.5,1.47
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,fanduel,spreads,Seattle Kraken,-1.5,2.72
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,fanduel,totals,Over,5.5,1.85
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,fanduel,totals,Under,5.5,1.96
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betsson,h2h,Calgary Flames,,2.25
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betsson,h2h,Seattle Kraken,,1.65
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betsson,spreads,Calgary Flames,1.5,1.54
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betsson,spreads,Seattle Kraken,-1.5,2.48
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betrivers,h2h,Calgary Flames,,2.28
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betrivers,h2h,Seattle Kraken,,1.66
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betrivers,spreads,Calgary Flames,1.5,1.47
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betrivers,spreads,Seattle Kraken,-1.5,2.7
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betrivers,totals,Over,5.5,1.82
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,betrivers,totals,Under,5.5,1.97
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,h2h,Calgary Flames,,2.44
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,h2h,Seattle Kraken,,1.68
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,h2h_lay,Calgary Flames,,2.48
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,h2h_lay,Seattle Kraken,,1.7
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,spreads,Calgary Flames,1.5,1.55
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,spreads,Seattle Kraken,-1.5,2.72
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,totals,Over,5.5,1.87
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,matchbook,totals,Under,5.5,2.06
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,pinnacle,h2h,Calgary Flames,,2.38
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,pinnacle,h2h,Seattle Kraken,,1.65
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,pinnacle,spreads,Calgary Flames,1.5,1.51
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,pinnacle,spreads,Seattle Kraken,-1.5,2.71
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,pinnacle,totals,Over,5.5,1.85
+2026-10-04T21:09:54Z,scheduled,d90c875a1c75ed65db6e3dc2f4a1afcc,2026-10-05T00:10:00Z,Seattle Kraken,Calgary Flames,pinnacle,totals,Under,5.5,2.04
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,draftkings,h2h,Vancouver Canucks,,3.35
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,draftkings,h2h,Vegas Golden Knights,,1.34
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,draftkings,spreads,Vancouver Canucks,1.5,1.91
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,draftkings,spreads,Vegas Golden Knights,-1.5,1.91
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,draftkings,totals,Over,6.5,2.05
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,draftkings,totals,Under,6.5,1.8
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,fanduel,h2h,Vancouver Canucks,,3.3
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,fanduel,h2h,Vegas Golden Knights,,1.35
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,fanduel,spreads,Vancouver Canucks,1.5,1.95
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,fanduel,spreads,Vegas Golden Knights,-1.5,1.87
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,fanduel,totals,Over,6.5,1.98
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,fanduel,totals,Under,6.5,1.83
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betrivers,h2h,Vancouver Canucks,,3.55
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betrivers,h2h,Vegas Golden Knights,,1.32
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betrivers,spreads,Vancouver Canucks,1.5,1.97
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betrivers,spreads,Vegas Golden Knights,-1.5,1.83
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betrivers,totals,Over,6.5,1.97
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betrivers,totals,Under,6.5,1.82
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betsson,h2h,Vancouver Canucks,,3.25
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betsson,h2h,Vegas Golden Knights,,1.34
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betsson,spreads,Vancouver Canucks,1.5,1.95
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betsson,spreads,Vegas Golden Knights,-1.5,1.88
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,h2h,Vancouver Canucks,,3.3
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,h2h,Vegas Golden Knights,,1.34
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,spreads,Vancouver Canucks,1.5,1.98
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,spreads,Vegas Golden Knights,-1.5,1.85
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,totals,Over,6.0,1.83
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,totals,Under,6.0,2.0
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,h2h,Vancouver Canucks,,3.55
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,h2h,Vegas Golden Knights,,1.38
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,h2h_lay,Vancouver Canucks,,3.6
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,h2h_lay,Vegas Golden Knights,,1.39
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,spreads,Vancouver Canucks,1.5,1.99
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,spreads,Vegas Golden Knights,-1.5,1.97
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,totals,Over,6.5,2.08
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,matchbook,totals,Under,6.5,1.87
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,h2h_3way,Vancouver Canucks,,4.8
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,h2h_3way,Vegas Golden Knights,,1.57
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,h2h_3way,Draw,,4.8
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,spreads,Vancouver Canucks,1.5,1.95
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,spreads,Vegas Golden Knights,-1.5,1.87
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,totals,Over,6.5,2.23
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,coolbet,totals,Under,6.5,1.66
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,pinnacle,h2h,Vancouver Canucks,,3.44
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,pinnacle,h2h,Vegas Golden Knights,,1.36
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,pinnacle,spreads,Vancouver Canucks,1.5,1.93
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,pinnacle,spreads,Vegas Golden Knights,-1.5,1.95
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,pinnacle,totals,Over,6.5,2.04
+2026-10-04T21:09:54Z,scheduled,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,Vancouver Canucks,Vegas Golden Knights,pinnacle,totals,Under,6.5,1.86
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,draftkings,h2h,Philadelphia Flyers,,2.6
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,draftkings,h2h,Tampa Bay Lightning,,1.52
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,draftkings,spreads,Philadelphia Flyers,1.5,1.65
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,draftkings,spreads,Tampa Bay Lightning,-1.5,2.3
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,draftkings,totals,Over,5.5,1.82
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,draftkings,totals,Under,5.5,2.02
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betsson,h2h,Philadelphia Flyers,,2.57
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betsson,h2h,Tampa Bay Lightning,,1.51
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betsson,spreads,Philadelphia Flyers,1.5,1.68
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betsson,spreads,Tampa Bay Lightning,-1.5,2.18
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,fanduel,h2h,Philadelphia Flyers,,2.62
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,fanduel,h2h,Tampa Bay Lightning,,1.51
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,fanduel,spreads,Philadelphia Flyers,1.5,1.62
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,fanduel,spreads,Tampa Bay Lightning,-1.5,2.3
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,fanduel,totals,Over,5.5,1.78
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,fanduel,totals,Under,5.5,2.04
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betrivers,h2h,Philadelphia Flyers,,2.6
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betrivers,h2h,Tampa Bay Lightning,,1.53
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betrivers,spreads,Philadelphia Flyers,1.5,1.57
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betrivers,spreads,Tampa Bay Lightning,-1.5,2.38
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betrivers,totals,Over,5.5,1.77
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betrivers,totals,Under,5.5,2.05
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,pinnacle,h2h,Philadelphia Flyers,,2.75
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,pinnacle,h2h,Tampa Bay Lightning,,1.5
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,pinnacle,spreads,Philadelphia Flyers,1.5,1.67
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,pinnacle,spreads,Tampa Bay Lightning,-1.5,2.3
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,pinnacle,totals,Over,6.0,2.01
+2026-10-04T21:09:54Z,scheduled,d400aaff4870fbb91e584f1c8a8f05bf,2026-10-05T23:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,pinnacle,totals,Under,6.0,1.86
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,draftkings,h2h,Boston Bruins,,1.91
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,draftkings,h2h,Ottawa Senators,,1.91
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,draftkings,spreads,Boston Bruins,1.5,1.38
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,draftkings,spreads,Ottawa Senators,-1.5,3.15
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,draftkings,totals,Over,5.5,1.8
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,draftkings,totals,Under,5.5,2.05
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betsson,h2h,Boston Bruins,,1.94
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betsson,h2h,Ottawa Senators,,1.87
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betsson,spreads,Boston Bruins,1.5,1.42
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betsson,spreads,Ottawa Senators,-1.5,2.85
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,fanduel,h2h,Boston Bruins,,1.94
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,fanduel,h2h,Ottawa Senators,,1.88
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,fanduel,spreads,Boston Bruins,1.5,1.38
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,fanduel,spreads,Ottawa Senators,-1.5,3.1
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,fanduel,totals,Over,5.5,1.82
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,fanduel,totals,Under,5.5,2.0
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betrivers,h2h,Boston Bruins,,1.93
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betrivers,h2h,Ottawa Senators,,1.89
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betrivers,spreads,Boston Bruins,1.5,1.32
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betrivers,spreads,Ottawa Senators,-1.5,3.35
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betrivers,totals,Over,5.5,1.79
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,betrivers,totals,Under,5.5,2.02
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,pinnacle,h2h,Boston Bruins,,1.98
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,pinnacle,h2h,Ottawa Senators,,1.91
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,pinnacle,spreads,Boston Bruins,1.5,1.36
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,pinnacle,spreads,Ottawa Senators,-1.5,3.29
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,pinnacle,totals,Over,6.0,2.01
+2026-10-04T21:09:54Z,scheduled,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,Boston Bruins,Ottawa Senators,pinnacle,totals,Under,6.0,1.87
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,draftkings,h2h,Pittsburgh Penguins,,1.59
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,draftkings,h2h,Winnipeg Jets,,2.42
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,draftkings,spreads,Pittsburgh Penguins,-1.5,2.54
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,draftkings,spreads,Winnipeg Jets,1.5,1.54
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,draftkings,totals,Over,6.5,2.02
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,draftkings,totals,Under,6.5,1.82
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betsson,h2h,Pittsburgh Penguins,,1.59
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betsson,h2h,Winnipeg Jets,,2.36
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betsson,spreads,Pittsburgh Penguins,-1.5,2.35
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betsson,spreads,Winnipeg Jets,1.5,1.58
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,fanduel,h2h,Pittsburgh Penguins,,1.56
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,fanduel,h2h,Winnipeg Jets,,2.46
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,fanduel,spreads,Pittsburgh Penguins,-1.5,2.4
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,fanduel,spreads,Winnipeg Jets,1.5,1.58
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,fanduel,totals,Over,6.5,1.98
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,fanduel,totals,Under,6.5,1.83
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betrivers,h2h,Pittsburgh Penguins,,1.56
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betrivers,h2h,Winnipeg Jets,,2.5
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betrivers,spreads,Pittsburgh Penguins,-1.5,2.4
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betrivers,spreads,Winnipeg Jets,1.5,1.56
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betrivers,totals,Over,6.5,1.92
+2026-10-04T21:09:54Z,scheduled,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,Pittsburgh Penguins,Winnipeg Jets,betrivers,totals,Under,6.5,1.88
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,draftkings,h2h,Dallas Stars,,1.6
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,draftkings,h2h,San Jose Sharks,,2.4
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,draftkings,spreads,Dallas Stars,-1.5,2.5
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,draftkings,spreads,San Jose Sharks,1.5,1.56
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,draftkings,totals,Over,6.5,2.0
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,draftkings,totals,Under,6.5,1.83
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betsson,h2h,Dallas Stars,,1.59
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betsson,h2h,San Jose Sharks,,2.36
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betsson,spreads,Dallas Stars,-1.5,2.35
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betsson,spreads,San Jose Sharks,1.5,1.6
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,fanduel,h2h,Dallas Stars,,1.6
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,fanduel,h2h,San Jose Sharks,,2.38
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,fanduel,spreads,Dallas Stars,-1.5,2.34
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,fanduel,spreads,San Jose Sharks,1.5,1.61
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,fanduel,totals,Over,6.5,2.0
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,fanduel,totals,Under,6.5,1.82
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betrivers,h2h,Dallas Stars,,1.61
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betrivers,h2h,San Jose Sharks,,2.38
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betrivers,spreads,Dallas Stars,-1.5,2.55
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betrivers,spreads,San Jose Sharks,1.5,1.5
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betrivers,totals,Over,6.5,2.02
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,betrivers,totals,Under,6.5,1.78
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,pinnacle,h2h,Dallas Stars,,1.61
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,pinnacle,h2h,San Jose Sharks,,2.45
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,pinnacle,spreads,Dallas Stars,-1.5,2.53
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,pinnacle,spreads,San Jose Sharks,1.5,1.56
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,pinnacle,totals,Over,6.5,2.01
+2026-10-04T21:09:54Z,scheduled,db6ecbc6d2657c39084510cf3e94f510,2026-10-06T00:10:00Z,Dallas Stars,San Jose Sharks,pinnacle,totals,Under,6.5,1.86
