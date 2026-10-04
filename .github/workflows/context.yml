@@ -1,8 +1,8 @@
 name: Context
 
 on:
-  schedule:
-    - cron: "33 8 * * *"
+  #schedule:
+  #  - cron: "33 8 * * *"
   workflow_dispatch:
 
 jobs:
