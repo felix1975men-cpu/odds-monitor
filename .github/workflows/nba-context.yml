@@ -1,0 +1,30 @@
+name: NBA context
+
+# Запуск из цикла-планировщика (слот 08:33 UTC) и вручную.
+# Крона нет намеренно: GitHub опаздывает на часы, расписанием управляет цикл.
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_hours:
+        description: "Окно тура в часах (30 по умолчанию, для проверки до старта сезона поставь 96)"
+        required: false
+        default: "30"
+
+jobs:
+  context:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Schedule and context
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN_NBA }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          WINDOW_H: ${{ github.event.inputs.window_hours || '30' }}
+        run: python nba_context.py
