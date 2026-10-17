@@ -77,7 +77,8 @@ jobs:
           nfl-digest.yml 09 12 3,4,6,0,1
           totals.yml 10 03 *
           nhl-totals.yml 10 07 *
-          nfl-totals.yml 10 12 *"
+          nfl-totals.yml 10 12 *
+          nba-totals.yml 10 17 *"
 
           run_slots() {
             NOWM=$(( 10#$(date -u +%H) * 60 + 10#$(date -u +%M) ))
