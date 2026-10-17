@@ -1,108 +1,122 @@
 #!/usr/bin/env python3
 """
-probe.py — NHL API, шаг 2: структура ответа на дате, где игры были.
-api-web.nhle.com ТРЕБУЕТ браузерный User-Agent (проверено: без него 403).
+probe.py — NBA, шаг 1: какие источники отвечают из GitHub Actions.
+Каждый адрес пробуется два раза: без User-Agent и с браузерным
+(ESPN отдаёт 403 браузерному, NHL API наоборот требует его).
+Печатает по одной строке на адрес, затем структуру лучших ответов.
 """
 
 import json
 import urllib.request
 import urllib.error
 
-BASE = "https://api-web.nhle.com/v1"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+ESPN = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba"
 
-# Даты прошлого сезона — ищем первую, где массив games не пустой.
-CANDIDATES = ["2026-04-10", "2026-03-15", "2026-02-10",
-              "2026-01-15", "2025-12-10", "2025-11-12"]
+URLS = [
+    ("espn scoreboard", ESPN + "/scoreboard?dates=20260420"),
+    ("espn teams", ESPN + "/teams"),
+    ("espn team schedule", ESPN + "/teams/2/schedule?season=2026&seasontype=2"),
+    ("espn team stats", ESPN + "/teams/2/statistics"),
+    ("espn injuries", ESPN + "/injuries"),
+    ("espn core stats", "https://sports.core.api.espn.com/v2/sports/basketball/"
+     "leagues/nba/seasons/2026/types/2/teams/2/statistics"),
+    ("espn standings", "https://site.web.api.espn.com/apis/v2/sports/"
+     "basketball/nba/standings?season=2026"),
+    ("nba cdn schedule", "https://cdn.nba.com/static/json/staticData/"
+     "scheduleLeagueV2.json"),
+    ("nba cdn today", "https://cdn.nba.com/static/json/liveData/scoreboard/"
+     "todaysScoreboard_00.json"),
+    ("nba stats gamelogs", "https://stats.nba.com/stats/teamgamelogs?"
+     "LeagueID=00&Season=2025-26&SeasonType=Regular%20Season"),
+]
 
 
-def get(path):
-    req = urllib.request.Request(BASE + path)
-    req.add_header("User-Agent", UA)
+def get(url, ua):
+    req = urllib.request.Request(url)
+    if ua:
+        req.add_header("User-Agent", UA)
+        req.add_header("Referer", "https://www.nba.com/")
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
-            return json.loads(r.read().decode("utf-8", "replace"))
+            raw = r.read()
+            try:
+                return r.status, len(raw), json.loads(raw.decode("utf-8", "replace"))
+            except Exception:
+                return r.status, len(raw), None
     except urllib.error.HTTPError as e:
-        print("  HTTP %s на %s" % (e.code, path))
+        return e.code, 0, None
     except Exception as e:
-        print("  FAILED %s: %s" % (path, e))
-    return None
+        return str(e)[:60], 0, None
 
 
-def dump(label, obj, limit=2500):
-    print("\n" + "=" * 50)
-    print(label)
-    print("=" * 50)
+def keys(js):
+    if isinstance(js, dict):
+        return ",".join(list(js.keys())[:8])
+    if isinstance(js, list):
+        return "list[%d]" % len(js)
+    return "-"
+
+
+def dump(label, obj, limit=1800):
+    print("\n=== " + label + " ===")
     print(json.dumps(obj, ensure_ascii=False, indent=1)[:limit])
 
 
 def main():
-    print("NHL probe шаг 2 — структура\n")
+    print("NBA probe шаг 1\n")
+    ok = {}
+    for name, url in URLS:
+        row = []
+        for ua in (False, True):
+            st, n, js = get(url, ua)
+            row.append("%s %s %dб" % ("UA" if ua else "noUA", st, n))
+            if st == 200 and js is not None and name not in ok:
+                ok[name] = js
+        print("%-20s %s | %s" % (name, " | ".join(row),
+                                 keys(ok.get(name))))
 
-    # 1. ищем день с играми
-    day, data = None, None
-    for d in CANDIDATES:
-        js = get("/score/%s" % d)
-        n = len(js.get("games", [])) if js else 0
-        print("score %s -> игр: %d" % (d, n))
-        if n:
-            day, data = d, js
-            break
-    if not data:
-        print("\nни одна дата не дала игр — расширить CANDIDATES")
-        return
+    sb = ok.get("espn scoreboard")
+    if sb and sb.get("events"):
+        ev = sb["events"][0]
+        comp = ev["competitions"][0]
+        print("\nESPN матч: %s, статус %s" % (ev.get("shortName"),
+              comp.get("status", {}).get("type", {}).get("name")))
+        for c in comp.get("competitors", []):
+            print("  %s %s id=%s score=%s" % (c.get("homeAway"),
+                  c["team"].get("displayName"), c["team"].get("id"),
+                  c.get("score")))
+        print("  ключи competition: " + ",".join(comp.keys()))
+        print("  odds: " + json.dumps(comp.get("odds", "нет"))[:300])
 
-    games = data["games"]
-    g = games[0]
-    print("\nвзят день %s, игр %d" % (day, len(games)))
-    print("ключи матча: " + ", ".join(sorted(g.keys())))
-    dump("ПЕРВЫЙ МАТЧ ИЗ /score — целиком", g)
+    sc = ok.get("espn team schedule")
+    if sc and sc.get("events"):
+        e = sc["events"][0]
+        print("\nESPN расписание команды: событий %d" % len(sc["events"]))
+        dump("первое событие", e, 1500)
 
-    # 2. как помечаются ОТ и буллиты: смотрим все игры дня
-    print("\n" + "=" * 50)
-    print("ПОМЕТКИ ОКОНЧАНИЯ по всем играм дня")
-    print("=" * 50)
-    for x in games:
-        out = x.get("gameOutcome") or {}
-        pd = x.get("periodDescriptor") or {}
-        home = (x.get("homeTeam") or {})
-        away = (x.get("awayTeam") or {})
-        print("  id %s | %s %s : %s %s | gameOutcome=%s | periodDescriptor=%s | state=%s" % (
-            x.get("id"),
-            (home.get("abbrev") or "?"), home.get("score"),
-            away.get("score"), (away.get("abbrev") or "?"),
-            json.dumps(out, ensure_ascii=False),
-            json.dumps(pd, ensure_ascii=False),
-            x.get("gameState")))
+    st = ok.get("espn team stats")
+    if st:
+        cats = st.get("results", {}).get("stats", {}).get("categories", [])
+        print("\nESPN статистика команды: категорий %d" % len(cats))
+        for c in cats[:6]:
+            print("  %s: %d показателей" % (c.get("name"), len(c.get("stats", []))))
 
-    gid = g.get("id")
+    cdn = ok.get("nba cdn schedule")
+    if cdn:
+        ls = cdn.get("leagueSchedule", {})
+        gd = ls.get("gameDates", [])
+        print("\nNBA cdn: сезон %s, дат %d" % (ls.get("seasonYear"), len(gd)))
+        if gd and gd[0].get("games"):
+            dump("первый матч cdn", gd[0]["games"][0], 1500)
 
-    # 3. boxscore того же матча
-    box = get("/gamecenter/%s/boxscore" % gid)
-    if box:
-        print("\nключи boxscore: " + ", ".join(sorted(box.keys())))
-        dump("BOXSCORE — начало", box, 1800)
-
-    # 4. landing — там предматчевая информация и вратари
-    land = get("/gamecenter/%s/landing" % gid)
-    if land:
-        print("\nключи landing: " + ", ".join(sorted(land.keys())))
-        for k in ("matchup", "summary", "gameOutcome", "periodDescriptor"):
-            if k in land:
-                dump("LANDING -> %s" % k, land[k], 1400)
-
-    # 5. расписание: какие поля у матча до игры
-    sch = get("/schedule/%s" % day)
-    if sch:
-        wk = sch.get("gameWeek") or []
-        for d in wk:
-            if d.get("games"):
-                sg = d["games"][0]
-                print("\nключи матча в /schedule: " + ", ".join(sorted(sg.keys())))
-                dump("SCHEDULE — первый матч", sg, 2000)
-                break
+    inj = ok.get("espn injuries")
+    if inj:
+        g = inj.get("injuries", [])
+        print("\nESPN травмы: групп %d" % len(g))
+        if g:
+            dump("первая группа", g[0], 900)
 
 
-if __name__ == "__main__":
-    main()
+main()
