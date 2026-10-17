@@ -120,10 +120,11 @@ def season_year(now):
 
 def upcoming(now):
     """Матчи в окне. День на табло у ESPN считается по Восточному времени,
-    поэтому берём вчера, сегодня и завтра по UTC и режем по времени старта."""
+    поэтому берём дни от вчерашнего до последнего дня окна плюс один запасной
+    и режем по времени старта."""
     seen, games = set(), []
     hi = now + timedelta(hours=WINDOW_H)
-    for back in (-1, 0, 1):
+    for back in range(-1, WINDOW_H // 24 + 2):
         d = (now + timedelta(days=back)).strftime("%Y%m%d")
         js = api("%s/scoreboard?dates=%s" % (ESPN, d))
         for ev in (js or {}).get("events", []):
