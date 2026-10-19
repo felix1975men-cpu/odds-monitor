@@ -1118,3 +1118,805 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-19T21:08:48Z,scheduled,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:15:00Z,Chicago Bears,New England Patriots,betfair_ex_eu,h2h,New England Patriots,,2.46
 2026-10-19T21:08:48Z,scheduled,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:15:00Z,Chicago Bears,New England Patriots,betfair_ex_eu,h2h_lay,Chicago Bears,,1.69
 2026-10-19T21:08:48Z,scheduled,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:15:00Z,Chicago Bears,New England Patriots,betfair_ex_eu,h2h_lay,New England Patriots,,2.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,h2h,San Francisco 49ers,,1.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,h2h,Washington Commanders,,4.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,spreads,San Francisco 49ers,-7.5,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,spreads,Washington Commanders,7.5,1.85
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,totals,Over,51.5,1.87
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,totals,Under,51.5,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,h2h,San Francisco 49ers,,1.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,h2h,Washington Commanders,,4.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,spreads,San Francisco 49ers,-7.5,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,spreads,Washington Commanders,7.5,1.83
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,totals,Over,51.5,1.89
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,totals,Under,51.5,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,h2h,San Francisco 49ers,,1.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,h2h,Washington Commanders,,4.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,spreads,San Francisco 49ers,-7.5,1.96
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,spreads,Washington Commanders,7.5,1.85
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,totals,Over,52.0,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,totals,Under,52.0,1.88
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,h2h,San Francisco 49ers,,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,h2h,Washington Commanders,,4.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,spreads,San Francisco 49ers,-7.0,1.87
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,spreads,Washington Commanders,7.0,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,totals,Over,51.5,1.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,totals,Under,51.5,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betsson,h2h,San Francisco 49ers,,1.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betsson,h2h,Washington Commanders,,3.96
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betsson,spreads,San Francisco 49ers,-7.5,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betsson,spreads,Washington Commanders,7.5,1.83
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betsson,totals,Over,51.5,1.88
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betsson,totals,Under,51.5,1.92
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,h2h,San Francisco 49ers,,1.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,h2h,Washington Commanders,,3.88
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,spreads,San Francisco 49ers,-7.5,2.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,spreads,Washington Commanders,7.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,totals,Over,52.0,2.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,totals,Under,52.0,1.86
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,h2h,San Francisco 49ers,,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,h2h,Washington Commanders,,4.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,spreads,San Francisco 49ers,-7.0,1.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,spreads,Washington Commanders,7.0,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,totals,Over,51.5,1.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,totals,Under,51.5,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betfair_ex_eu,h2h,San Francisco 49ers,,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betfair_ex_eu,h2h,Washington Commanders,,4.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betfair_ex_eu,h2h_lay,San Francisco 49ers,,1.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betfair_ex_eu,h2h_lay,Washington Commanders,,4.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,h2h,San Francisco 49ers,,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,h2h,Washington Commanders,,4.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,h2h_lay,San Francisco 49ers,,1.32
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,h2h_lay,Washington Commanders,,4.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,spreads,San Francisco 49ers,-7.0,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,spreads,Washington Commanders,7.0,2.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,totals,Over,51.5,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,matchbook,totals,Under,51.5,1.99
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,12.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,11.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,10.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,9.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,8.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,7.5,1.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,6.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,5.5,1.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,4.5,1.09
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,3.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,2.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,1.5,1.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-1.5,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-2.5,1.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-3.5,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-4.5,1.53
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-5.5,1.59
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-6.5,1.66
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-8.5,2.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-9.5,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-10.5,2.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-11.5,2.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-12.5,2.58
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-13.5,2.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-14.5,3.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-15.5,3.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-16.5,3.52
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-17.5,3.94
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-18.5,4.32
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-19.5,4.59
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-20.5,5.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-21.5,5.82
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-22.5,6.21
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-23.5,6.66
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-24.5,7.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-25.5,8.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-26.5,8.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-27.5,9.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-28.5,11.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-29.5,11.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-30.5,12.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,San Francisco 49ers,-31.5,14.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-12.5,13.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-11.5,13.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-10.5,12.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-9.5,10.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-8.5,10.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-7.5,9.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-6.5,7.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-5.5,7.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-4.5,6.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-3.5,5.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-2.5,4.61
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,-1.5,4.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,1.5,3.53
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,2.5,3.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,3.5,2.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,4.5,2.39
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,5.5,2.26
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,6.5,2.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,8.5,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,9.5,1.68
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,10.5,1.57
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,11.5,1.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,12.5,1.47
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,13.5,1.42
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,14.5,1.34
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,15.5,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,16.5,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,17.5,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,18.5,1.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,19.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,20.5,1.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,21.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,22.5,1.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,23.5,1.09
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,24.5,1.07
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,25.5,1.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,26.5,1.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,27.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,28.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,29.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,30.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_spreads,Washington Commanders,31.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,30.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,31.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,32.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,33.5,1.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,34.5,1.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,35.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,36.5,1.07
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,37.5,1.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,38.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,39.5,1.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,40.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,41.5,1.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,42.5,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,43.5,1.28
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,44.5,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,45.5,1.37
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,46.5,1.41
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,47.5,1.49
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,48.5,1.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,49.5,1.62
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,50.5,1.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,52.5,1.92
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,53.5,2.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,54.5,2.16
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,55.5,2.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,56.5,2.46
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,57.5,2.66
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,58.5,2.89
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,59.5,3.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,60.5,3.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,61.5,3.63
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,62.5,3.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,63.5,4.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,64.5,4.64
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,65.5,5.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,66.5,5.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,67.5,6.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,68.5,6.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,69.5,7.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,70.5,7.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,71.5,8.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,72.5,9.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,73.5,10.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,74.5,11.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,75.5,12.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Over,76.5,13.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,30.5,12.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,31.5,11.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,32.5,11.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,33.5,9.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,34.5,8.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,35.5,8.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,36.5,7.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,37.5,6.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,38.5,5.77
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,39.5,5.26
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,40.5,4.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,41.5,4.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,42.5,3.92
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,43.5,3.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,44.5,3.16
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,45.5,2.94
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,46.5,2.76
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,47.5,2.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,48.5,2.34
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,49.5,2.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,50.5,2.07
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,52.5,1.83
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,53.5,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,54.5,1.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,55.5,1.56
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,56.5,1.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,57.5,1.44
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,58.5,1.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,59.5,1.34
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,60.5,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,61.5,1.26
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,62.5,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,63.5,1.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,64.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,65.5,1.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,66.5,1.12
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,67.5,1.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,68.5,1.09
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,69.5,1.07
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,70.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,71.5,1.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,72.5,1.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,73.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,74.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,75.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,alternate_totals,Under,76.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-33.5,19.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-32.5,18.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-31.5,18.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-30.5,15.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-29.5,14.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-28.5,13.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-27.5,11.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-26.5,10.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-25.5,9.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-24.5,8.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-23.5,7.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-22.5,7.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-21.5,6.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-20.5,5.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-19.5,4.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-18.5,4.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-17.5,4.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-16.5,3.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-15.5,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-14.5,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-13.5,2.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-12.5,2.64
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-11.5,2.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-10.5,2.44
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-9.5,2.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-8.5,2.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-7.5,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-6.5,1.72
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-5.5,1.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-4.5,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-3.5,1.47
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-2.5,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,-1.5,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,1.5,1.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,2.5,1.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,3.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,4.5,1.09
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,5.5,1.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,6.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,7.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,8.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,9.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,10.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,11.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,12.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,13.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,14.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,15.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,16.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,17.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,San Francisco 49ers,18.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,33.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,32.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,31.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,30.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,29.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,28.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,27.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,26.5,1.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,25.5,1.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,24.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,23.5,1.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,22.5,1.09
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,21.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,20.5,1.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,19.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,18.5,1.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,17.5,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,16.5,1.28
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,15.5,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,14.5,1.34
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,13.5,1.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,12.5,1.47
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,11.5,1.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,10.5,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,9.5,1.64
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,8.5,1.68
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,7.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,6.5,2.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,5.5,2.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,4.5,2.44
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,3.5,2.64
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,2.5,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,1.5,3.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-1.5,4.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-2.5,4.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-3.5,6.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-4.5,7.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-5.5,7.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-6.5,8.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-7.5,11.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-8.5,12.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-9.5,13.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-10.5,15.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-11.5,16.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-12.5,16.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-13.5,18.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-14.5,21.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-15.5,26.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-16.5,26.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-17.5,31.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_spreads,Washington Commanders,-18.5,36.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,24.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,25.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,26.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,27.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,28.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,29.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,30.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,31.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,32.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,33.5,1.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,34.5,1.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,35.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,36.5,1.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,37.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,38.5,1.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,39.5,1.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,40.5,1.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,41.5,1.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,42.5,1.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,43.5,1.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,44.5,1.34
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,45.5,1.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,46.5,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,47.5,1.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,48.5,1.57
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,49.5,1.64
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,50.5,1.72
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,51.5,1.87
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,52.5,1.96
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,53.5,2.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,54.5,2.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,55.5,2.42
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,56.5,2.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,57.5,2.76
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,58.5,3.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,59.5,3.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,60.5,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,61.5,3.85
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,62.5,4.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,63.5,4.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,64.5,4.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,65.5,5.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,66.5,5.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,67.5,6.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,68.5,7.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,69.5,8.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,70.5,9.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,71.5,9.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,72.5,11.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,73.5,11.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,74.5,12.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,75.5,14.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,76.5,15.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,77.5,16.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,78.5,18.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,79.5,19.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Over,80.5,21.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,24.5,36.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,25.5,31.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,26.5,23.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,27.5,18.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,28.5,18.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,29.5,16.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,30.5,14.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,31.5,13.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,32.5,12.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,33.5,10.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,34.5,9.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,35.5,8.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,36.5,7.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,37.5,6.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,38.5,5.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,39.5,5.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,40.5,4.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,41.5,4.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,42.5,3.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,43.5,3.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,44.5,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,45.5,3.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,46.5,2.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,47.5,2.52
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,48.5,2.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,49.5,2.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,50.5,2.08
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,51.5,1.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,52.5,1.82
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,53.5,1.72
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,54.5,1.63
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,55.5,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,56.5,1.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,57.5,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,58.5,1.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,59.5,1.32
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,60.5,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,61.5,1.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,62.5,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,63.5,1.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,64.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,65.5,1.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,66.5,1.12
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,67.5,1.11
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,68.5,1.09
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,69.5,1.07
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,70.5,1.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,71.5,1.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,72.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,73.5,1.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,74.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,75.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,76.5,1.02
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,77.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,78.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,79.5,1.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,alternate_totals,Under,80.5,1.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-17.5,4.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,3.5,1.12
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-1.0,1.26
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-5.5,1.62
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,0.5,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-12.5,2.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-10.0,2.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,1.5,1.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-20.5,5.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,1.0,1.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-6.0,1.66
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-19.0,4.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-3.0,1.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-8.5,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-8.0,2.04
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-20.0,5.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-4.5,1.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,3.0,1.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-2.0,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-18.0,4.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-11.0,2.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-9.5,2.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-0.5,1.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-15.0,3.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-17.0,3.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,2.0,1.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-14.5,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-4.0,1.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-13.5,2.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-3.5,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-5.0,1.57
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-1.5,1.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-16.5,3.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,0.0,1.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-7.0,1.83
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-10.5,2.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-7.5,1.96
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-6.5,1.73
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-13.0,2.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-14.0,3.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-9.0,2.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,2.5,1.17
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-12.0,2.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-18.5,4.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-15.5,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-11.5,2.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-2.5,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-16.0,3.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,San Francisco 49ers,-19.5,4.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,17.5,1.21
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-3.5,5.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,1.0,3.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,5.5,2.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-0.5,3.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,12.5,1.47
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,10.0,1.62
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-1.5,4.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,20.5,1.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-1.0,4.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,6.0,2.23
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,19.0,1.16
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,3.0,3.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,8.5,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,8.0,1.79
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,20.0,1.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,4.5,2.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-3.0,4.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,2.0,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,18.0,1.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,11.0,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,9.5,1.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,0.5,3.85
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,15.0,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,17.0,1.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-2.0,4.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,14.5,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,4.0,2.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,13.5,1.42
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,3.5,2.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,5.0,2.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,1.5,3.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,16.5,1.26
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,0.0,3.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,7.0,1.97
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,10.5,1.56
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,7.5,1.85
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,6.5,2.12
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,13.0,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,14.0,1.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,9.0,1.72
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,-2.5,4.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,12.0,1.49
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,18.5,1.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,15.5,1.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,11.5,1.51
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,2.5,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,16.0,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,alternate_spreads,Washington Commanders,19.5,1.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-8.0,2.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-8.5,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-7.0,1.87
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-6.5,1.71
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-9.0,2.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-6.0,1.67
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-5.5,1.61
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-9.5,2.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-10.0,2.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-10.5,2.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-5.0,1.57
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-4.5,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-4.0,1.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-11.0,2.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-11.5,2.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-3.5,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-12.0,2.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-3.0,1.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-2.5,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-12.5,2.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-13.0,2.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-13.5,2.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-2.0,1.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-1.5,1.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-14.0,3.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-1.0,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-14.5,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-15.0,3.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-15.5,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-16.0,3.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,1.0,1.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-16.5,3.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,1.5,1.21
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-17.0,3.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,2.0,1.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-17.5,4.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,2.5,1.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-18.0,4.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,3.0,1.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,-7.5,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,San Francisco 49ers,3.5,1.12
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,8.0,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,8.5,1.69
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,7.0,1.98
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,6.5,2.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,9.0,1.67
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,6.0,2.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,5.5,2.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,9.5,1.67
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,10.0,1.61
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,10.5,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,5.0,2.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,4.5,2.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,4.0,2.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,11.0,1.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,11.5,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,3.5,2.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,12.0,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,3.0,2.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,2.5,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,12.5,1.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,13.0,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,13.5,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,2.0,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,1.5,3.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,14.0,1.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,1.0,3.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,14.5,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,15.0,1.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,15.5,1.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,16.0,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,-1.0,4.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,16.5,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,-1.5,4.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,17.0,1.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,-2.0,4.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,17.5,1.22
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,-2.5,4.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,18.0,1.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,-3.0,5.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,7.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_spreads,Washington Commanders,-3.5,6.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,50.0,1.69
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,51.5,1.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,49.5,1.67
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,52.0,1.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,49.0,1.62
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,52.5,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,48.5,1.61
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,53.0,2.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,48.0,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,53.5,2.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,47.5,1.53
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,54.0,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,47.0,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,54.5,2.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,55.0,2.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,46.5,1.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,46.0,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,55.5,2.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,45.5,1.43
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,56.0,2.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,45.0,1.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,56.5,2.45
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,44.5,1.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,57.0,2.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,44.0,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,57.5,2.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,43.5,1.31
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,43.0,1.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,58.0,2.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,42.5,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,58.5,2.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,59.0,3.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,42.0,1.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,59.5,3.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,41.5,1.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,60.0,3.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,60.5,3.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,61.5,3.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,50.5,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,61.0,3.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Over,51.0,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,50.0,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,51.5,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,49.5,2.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,52.0,1.83
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,49.0,2.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,52.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,48.5,2.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,53.0,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,48.0,2.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,53.5,1.71
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,47.5,2.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,54.0,1.69
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,47.0,2.55
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,54.5,1.62
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,55.0,1.57
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,46.5,2.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,46.0,2.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,55.5,1.54
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,45.5,2.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,56.0,1.53
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,45.0,2.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,56.5,1.5
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,44.5,2.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,57.0,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,44.0,3.2
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,57.5,1.44
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,43.5,3.3
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,43.0,3.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,58.0,1.4
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,42.5,3.7
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,58.5,1.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,59.0,1.36
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,42.0,3.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,59.5,1.34
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,41.5,3.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,60.0,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,60.5,1.33
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,61.5,1.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,50.5,2.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,61.0,1.29
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,alternate_totals,Under,51.0,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-7.5,2.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,3.5,1.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-3.5,1.48
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-5.0,1.65
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-5.5,1.69
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-6.0,1.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-6.5,1.79
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-7.0,1.94
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-8.0,2.19
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-8.5,2.24
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-9.0,2.28
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-9.5,2.32
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-10.0,2.44
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,San Francisco 49ers,-14.5,3.56
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,7.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,-3.5,6.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,3.5,2.78
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,5.0,2.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,5.5,2.27
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,6.0,2.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,6.5,2.12
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,7.0,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,8.0,1.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,8.5,1.71
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,9.0,1.68
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,9.5,1.66
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,10.0,1.61
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_spreads,Washington Commanders,14.5,1.32
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,52.0,2.03
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,45.5,1.47
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,49.5,1.72
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,50.0,1.76
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,50.5,1.82
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,51.0,1.88
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,51.5,1.94
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,52.5,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,53.0,2.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,53.5,2.26
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,54.0,2.35
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,54.5,2.44
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Over,58.5,3.16
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,52.0,1.86
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,45.5,2.81
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,49.5,2.21
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,50.0,2.14
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,50.5,2.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,51.0,1.99
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,51.5,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,52.5,1.79
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,53.0,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,53.5,1.69
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,54.0,1.64
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,54.5,1.6
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,alternate_totals,Under,58.5,1.38
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-6.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-9.0,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-8.5,2.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-9.5,2.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-5.5,1.72
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-8.0,2.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-7.5,2.0
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-6.0,1.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-7.0,1.9
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,San Francisco 49ers,-5.0,1.68
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,6.5,2.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,9.0,1.77
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,8.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,9.5,1.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,5.5,2.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,8.0,1.81
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,7.5,1.85
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,6.0,2.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,7.0,1.95
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_spreads,Washington Commanders,5.0,2.25
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,50.5,1.77
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,50.0,1.74
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,53.5,2.06
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,51.5,1.91
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,52.5,2.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,53.0,2.05
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,51.0,1.84
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,52.0,1.96
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,54.0,2.13
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Over,54.5,2.18
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,50.5,2.1
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,50.0,2.15
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,53.5,1.8
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,51.5,1.93
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,52.5,1.84
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,53.0,1.81
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,51.0,2.01
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,52.0,1.89
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,54.0,1.75
+2026-10-19T23:55:30Z,closing,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,coolbet,alternate_totals,Under,54.5,1.72
