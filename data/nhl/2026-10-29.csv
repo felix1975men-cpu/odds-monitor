@@ -2728,3 +2728,587 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-29T23:20:18Z,closing,35f166bc5dbb833315fe376ae27e63a3,2026-10-29T23:40:00Z,Detroit Red Wings,Chicago Blackhawks,coolbet,alternate_totals,Under,6.5,1.48
 2026-10-29T23:20:18Z,closing,35f166bc5dbb833315fe376ae27e63a3,2026-10-29T23:40:00Z,Detroit Red Wings,Chicago Blackhawks,coolbet,alternate_totals,Under,4.5,2.85
 2026-10-29T23:20:18Z,closing,35f166bc5dbb833315fe376ae27e63a3,2026-10-29T23:40:00Z,Detroit Red Wings,Chicago Blackhawks,coolbet,alternate_totals,Under,7.5,1.25
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,h2h,Boston Bruins,,1.95
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,h2h,St Louis Blues,,1.87
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,spreads,Boston Bruins,1.5,1.37
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,spreads,St Louis Blues,-1.5,3.2
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,totals,Over,5.5,1.8
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,totals,Under,5.5,2.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betsson,h2h,Boston Bruins,,1.94
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betsson,h2h,St Louis Blues,,1.86
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betsson,spreads,Boston Bruins,1.5,1.35
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betsson,spreads,St Louis Blues,-1.5,3.2
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,h2h,Boston Bruins,,1.98
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,h2h,St Louis Blues,,1.85
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,spreads,Boston Bruins,1.5,1.4
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,spreads,St Louis Blues,-1.5,2.98
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,totals,Over,5.5,1.78
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,totals,Under,5.5,2.04
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betmgm,h2h,Boston Bruins,,1.95
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betmgm,h2h,St Louis Blues,,1.87
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betmgm,spreads,Boston Bruins,1.5,1.4
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betmgm,spreads,St Louis Blues,-1.5,3.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betmgm,totals,Over,6.0,1.98
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betmgm,totals,Under,6.0,1.85
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betrivers,h2h,Boston Bruins,,1.95
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betrivers,h2h,St Louis Blues,,1.88
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betrivers,spreads,Boston Bruins,1.5,1.34
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betrivers,spreads,St Louis Blues,-1.5,3.25
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betrivers,totals,Over,5.5,1.76
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,betrivers,totals,Under,5.5,2.06
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,h2h,Boston Bruins,,1.99
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,h2h,St Louis Blues,,1.92
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,spreads,Boston Bruins,1.5,1.38
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,spreads,St Louis Blues,-1.5,3.25
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,totals,Over,6.0,2.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,totals,Under,6.0,1.85
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,h2h,Boston Bruins,,2.06
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,h2h,St Louis Blues,,1.91
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,h2h_lay,Boston Bruins,,2.1
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,h2h_lay,St Louis Blues,,1.94
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,spreads,Boston Bruins,1.5,1.42
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,spreads,St Louis Blues,-1.5,3.25
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,totals,Over,5.5,1.82
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,matchbook,totals,Under,5.5,2.16
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,h2h_3way,Boston Bruins,,2.5
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,h2h_3way,St Louis Blues,,2.42
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,h2h_3way,Draw,,4.2
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,spreads,Boston Bruins,1.5,1.36
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,spreads,St Louis Blues,-1.5,3.18
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,totals,Over,5.5,1.78
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,totals,Under,5.5,2.05
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,h2h,Dallas Stars,,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,h2h,Montréal Canadiens,,2.45
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,spreads,Dallas Stars,-1.5,2.45
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,spreads,Montréal Canadiens,1.5,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,totals,Over,5.5,1.74
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,totals,Under,5.5,2.14
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betsson,h2h,Dallas Stars,,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betsson,h2h,Montréal Canadiens,,2.42
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betsson,spreads,Dallas Stars,-1.5,2.48
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betsson,spreads,Montréal Canadiens,1.5,1.54
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,h2h,Dallas Stars,,1.53
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,h2h,Montréal Canadiens,,2.55
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,spreads,Dallas Stars,-1.5,2.34
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,spreads,Montréal Canadiens,1.5,1.59
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,totals,Over,5.5,1.75
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,totals,Under,5.5,2.1
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betmgm,h2h,Dallas Stars,,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betmgm,h2h,Montréal Canadiens,,2.45
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betmgm,spreads,Dallas Stars,-1.5,2.45
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betmgm,spreads,Montréal Canadiens,1.5,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betmgm,totals,Over,6.0,1.95
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betmgm,totals,Under,6.0,1.87
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betrivers,h2h,Dallas Stars,,1.56
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betrivers,h2h,Montréal Canadiens,,2.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betrivers,spreads,Dallas Stars,-1.5,2.43
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betrivers,spreads,Montréal Canadiens,1.5,1.56
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betrivers,totals,Over,5.5,1.78
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,betrivers,totals,Under,5.5,2.04
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,h2h,Dallas Stars,,1.6
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,h2h,Montréal Canadiens,,2.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,spreads,Dallas Stars,-1.5,2.53
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,spreads,Montréal Canadiens,1.5,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,totals,Over,6.0,1.97
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,totals,Under,6.0,1.92
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,h2h,Dallas Stars,,1.61
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,h2h,Montréal Canadiens,,2.58
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,h2h_lay,Dallas Stars,,1.64
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,h2h_lay,Montréal Canadiens,,2.62
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,spreads,Dallas Stars,-1.5,2.52
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,spreads,Montréal Canadiens,1.5,1.62
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,totals,Over,5.5,1.83
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,matchbook,totals,Under,5.5,2.14
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,h2h_3way,Dallas Stars,,1.94
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,h2h_3way,Montréal Canadiens,,3.3
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,h2h_3way,Draw,,4.3
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,spreads,Dallas Stars,-1.5,2.42
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,spreads,Montréal Canadiens,1.5,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,totals,Over,5.5,1.76
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,totals,Under,5.5,2.08
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,h2h,Minnesota Wild,,1.52
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,h2h,New York Islanders,,2.6
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,spreads,Minnesota Wild,-1.5,2.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,spreads,New York Islanders,1.5,1.65
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,totals,Over,5.5,1.8
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,totals,Under,5.5,2.05
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betsson,h2h,Minnesota Wild,,1.52
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betsson,h2h,New York Islanders,,2.53
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betsson,spreads,Minnesota Wild,-1.5,2.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betsson,spreads,New York Islanders,1.5,1.62
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,h2h,Minnesota Wild,,1.52
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,h2h,New York Islanders,,2.58
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,spreads,Minnesota Wild,-1.5,2.28
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,spreads,New York Islanders,1.5,1.63
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,totals,Over,5.5,1.83
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,totals,Under,5.5,1.98
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betmgm,h2h,Minnesota Wild,,1.53
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betmgm,h2h,New York Islanders,,2.55
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betmgm,spreads,Minnesota Wild,-1.5,2.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betmgm,spreads,New York Islanders,1.5,1.65
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betmgm,totals,Over,5.5,1.83
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betmgm,totals,Under,5.5,2.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betrivers,h2h,Minnesota Wild,,1.51
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betrivers,h2h,New York Islanders,,2.63
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betrivers,spreads,Minnesota Wild,-1.5,2.35
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betrivers,spreads,New York Islanders,1.5,1.6
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betrivers,totals,Over,5.5,1.89
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,betrivers,totals,Under,5.5,1.89
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,h2h,Minnesota Wild,,1.53
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,h2h,New York Islanders,,2.69
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,spreads,Minnesota Wild,-1.5,2.4
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,spreads,New York Islanders,1.5,1.63
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,totals,Over,6.0,2.06
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,totals,Under,6.0,1.84
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,h2h,Minnesota Wild,,1.54
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,h2h,New York Islanders,,2.78
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,h2h_lay,Minnesota Wild,,1.56
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,h2h_lay,New York Islanders,,2.86
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,spreads,Minnesota Wild,-1.5,2.4
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,spreads,New York Islanders,1.5,1.68
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,totals,Over,5.5,1.85
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,matchbook,totals,Under,5.5,2.1
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,h2h_3way,Minnesota Wild,,1.85
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,h2h_3way,New York Islanders,,3.58
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,h2h_3way,Draw,,4.4
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,spreads,Minnesota Wild,-1.5,2.33
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,spreads,New York Islanders,1.5,1.61
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,totals,Over,5.5,1.85
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,totals,Under,5.5,1.96
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,h2h,Nashville Predators,,1.95
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,h2h,Washington Capitals,,1.87
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,spreads,Nashville Predators,1.5,1.37
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,spreads,Washington Capitals,-1.5,3.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,totals,Over,6.5,1.95
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,totals,Under,6.5,1.87
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,h2h,Nashville Predators,,1.88
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,h2h,Washington Capitals,,1.94
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,spreads,Nashville Predators,-1.5,3.05
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,spreads,Washington Capitals,1.5,1.38
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,totals,Over,6.5,1.96
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,totals,Under,6.5,1.85
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betmgm,h2h,Nashville Predators,,1.95
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betmgm,h2h,Washington Capitals,,1.87
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betmgm,spreads,Nashville Predators,1.5,1.4
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betmgm,spreads,Washington Capitals,-1.5,3.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betmgm,totals,Over,6.5,1.95
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betmgm,totals,Under,6.5,1.87
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betrivers,h2h,Nashville Predators,,1.93
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betrivers,h2h,Washington Capitals,,1.89
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betrivers,spreads,Nashville Predators,1.5,1.35
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betrivers,spreads,Washington Capitals,-1.5,3.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betrivers,totals,Over,6.5,1.93
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betrivers,totals,Under,6.5,1.87
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betsson,h2h,Nashville Predators,,1.92
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betsson,h2h,Washington Capitals,,1.88
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betsson,spreads,Nashville Predators,1.5,1.35
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,betsson,spreads,Washington Capitals,-1.5,3.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,h2h,Nashville Predators,,2.04
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,h2h,Washington Capitals,,1.94
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,h2h_lay,Nashville Predators,,2.08
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,h2h_lay,Washington Capitals,,1.97
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,spreads,Nashville Predators,1.5,1.43
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,spreads,Washington Capitals,-1.5,3.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,totals,Over,6.5,2.04
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,matchbook,totals,Under,6.5,1.94
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,h2h_3way,Nashville Predators,,2.5
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,h2h_3way,Washington Capitals,,2.42
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,h2h_3way,Draw,,4.3
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,spreads,Nashville Predators,1.5,1.37
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,spreads,Washington Capitals,-1.5,3.1
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,totals,Over,6.5,2.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,totals,Under,6.5,1.68
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,h2h,Nashville Predators,,1.94
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,h2h,Washington Capitals,,1.96
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,spreads,Nashville Predators,1.5,1.39
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,spreads,Washington Capitals,-1.5,3.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,totals,Over,6.5,1.98
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,totals,Under,6.5,1.91
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,Boston Bruins,-3.5,9.5
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,Boston Bruins,-2.5,4.7
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,Boston Bruins,-1.5,3.15
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,Boston Bruins,2.5,1.19
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,Boston Bruins,3.5,1.06
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,St Louis Blues,3.5,1.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,St Louis Blues,2.5,1.17
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,St Louis Blues,1.5,1.33
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,St Louis Blues,-2.5,4.4
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_spreads,St Louis Blues,-3.5,9.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Over,3.5,1.14
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Over,4.5,1.26
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Over,6.5,2.15
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Over,7.5,3.65
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Over,8.5,5.1
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Over,9.5,10.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Under,3.5,5.3
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Under,4.5,3.65
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Under,6.5,1.65
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Under,7.5,1.26
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Under,8.5,1.15
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,draftkings,alternate_totals,Under,9.5,1.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,1.5,1.38
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,2.5,1.2
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,3.5,1.06
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,-1.5,3.3
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,-2.5,5.4
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,-3.5,13.8
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,Boston Bruins,-4.5,39.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,1.5,1.31
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,2.5,1.14
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,3.5,1.03
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,-1.5,2.96
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,-2.5,4.3
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,-3.5,10.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,-4.5,24.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_spreads,St Louis Blues,-5.5,66.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,2.5,1.02
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,3.5,1.12
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,4.5,1.24
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,5.5,1.77
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,6.5,2.24
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,7.5,4.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,8.5,5.7
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,9.5,12.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,10.5,18.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Over,11.5,47.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,2.5,20.5
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,3.5,6.0
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,4.5,3.9
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,5.5,2.02
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,6.5,1.63
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,7.5,1.22
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,8.5,1.13
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,9.5,1.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,10.5,1.02
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,fanduel,alternate_totals,Under,11.5,1.01
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,Boston Bruins,1.5,1.38
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,Boston Bruins,-2.5,4.99
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,Boston Bruins,-1.5,3.39
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,Boston Bruins,2.5,1.2
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,St Louis Blues,-1.5,3.25
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,St Louis Blues,2.5,1.18
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,St Louis Blues,1.5,1.34
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_spreads,St Louis Blues,-2.5,4.72
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Over,6.0,2.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Over,5.0,1.4
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Over,5.5,1.82
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Over,6.5,2.26
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Over,7.0,3.3
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Over,8.5,5.6
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Under,6.0,1.85
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Under,5.0,3.08
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Under,5.5,2.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Under,6.5,1.68
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Under,7.0,1.36
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,pinnacle,alternate_totals,Under,8.5,1.16
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,Boston Bruins,-2.5,5.3
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,Boston Bruins,1.5,1.36
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,Boston Bruins,2.5,1.18
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,Boston Bruins,-1.5,3.35
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,St Louis Blues,2.5,1.16
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,St Louis Blues,-1.5,3.18
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,St Louis Blues,-2.5,4.9
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_spreads,St Louis Blues,1.5,1.33
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Over,7.5,3.8
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Over,4.5,1.41
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Over,8.5,6.4
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Over,3.5,1.15
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Over,5.5,1.78
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Over,6.5,2.6
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Under,7.5,1.27
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Under,4.5,2.93
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Under,8.5,1.12
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Under,3.5,5.5
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Under,5.5,2.05
+2026-10-29T23:50:50Z,closing,0320215ff7055c9c04ecefa36a8c36cb,2026-10-30T00:10:00Z,St Louis Blues,Boston Bruins,coolbet,alternate_totals,Under,6.5,1.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Dallas Stars,3.5,1.02
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Dallas Stars,2.5,1.11
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Dallas Stars,1.5,1.22
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Dallas Stars,-2.5,3.35
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Dallas Stars,-3.5,6.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Montréal Canadiens,-3.5,13.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Montréal Canadiens,-2.5,6.1
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Montréal Canadiens,-1.5,4.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Montréal Canadiens,2.5,1.3
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_spreads,Montréal Canadiens,3.5,1.1
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Over,3.5,1.13
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Over,4.5,1.24
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Over,6.5,2.1
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Over,7.5,3.6
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Over,8.5,5.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Over,9.5,10.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Under,3.5,5.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Under,4.5,3.8
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Under,6.5,1.67
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Under,7.5,1.27
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Under,8.5,1.15
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,draftkings,alternate_totals,Under,9.5,1.05
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,1.5,1.18
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,2.5,1.08
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,-1.5,2.34
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,-2.5,3.1
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,-3.5,5.9
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,-4.5,12.4
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,-5.5,24.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Dallas Stars,-6.5,51.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,1.5,1.58
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,2.5,1.36
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,3.5,1.12
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,4.5,1.04
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,-1.5,4.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,-2.5,8.2
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_spreads,Montréal Canadiens,-3.5,24.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,2.5,1.02
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,3.5,1.12
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,4.5,1.24
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,5.5,1.74
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,6.5,2.2
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,7.5,3.8
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,8.5,5.6
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,9.5,12.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,10.5,18.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,11.5,41.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Over,12.5,66.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,2.5,20.5
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,3.5,6.0
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,4.5,3.9
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,5.5,2.06
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,6.5,1.66
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,7.5,1.25
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,8.5,1.13
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,9.5,1.04
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,10.5,1.02
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,fanduel,alternate_totals,Under,11.5,1.01
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Dallas Stars,-1.5,2.53
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Dallas Stars,2.5,1.12
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Dallas Stars,1.5,1.22
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Dallas Stars,-2.5,3.55
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Montréal Canadiens,1.5,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Montréal Canadiens,-2.5,6.7
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Montréal Canadiens,-1.5,4.48
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_spreads,Montréal Canadiens,2.5,1.31
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Over,6.0,1.97
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Over,5.0,1.37
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Over,5.5,1.76
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Over,6.5,2.18
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Over,7.0,3.11
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Over,8.5,5.33
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Under,6.0,1.92
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Under,5.0,3.24
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Under,5.5,2.13
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Under,6.5,1.72
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Under,7.0,1.4
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,pinnacle,alternate_totals,Under,8.5,1.18
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Dallas Stars,2.5,1.11
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Dallas Stars,-1.5,2.42
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Dallas Stars,1.5,1.2
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Dallas Stars,-2.5,3.55
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Montréal Canadiens,-2.5,6.7
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Montréal Canadiens,1.5,1.57
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Montréal Canadiens,-1.5,4.6
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_spreads,Montréal Canadiens,2.5,1.3
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Over,4.5,1.39
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Over,6.5,2.52
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Over,5.5,1.76
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Over,7.5,3.7
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Over,3.5,1.14
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Over,8.5,6.1
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Under,4.5,3.03
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Under,6.5,1.53
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Under,5.5,2.08
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Under,7.5,1.28
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Under,3.5,5.8
+2026-10-29T23:50:50Z,closing,2f65119127127c0185cf3bdc236a00f2,2026-10-30T00:10:00Z,Dallas Stars,Montréal Canadiens,coolbet,alternate_totals,Under,8.5,1.13
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,Minnesota Wild,3.5,1.02
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,Minnesota Wild,2.5,1.09
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,Minnesota Wild,1.5,1.19
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,Minnesota Wild,-2.5,3.15
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,Minnesota Wild,-3.5,5.9
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,New York Islanders,-3.5,14.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,New York Islanders,-2.5,7.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,New York Islanders,-1.5,4.4
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,New York Islanders,2.5,1.33
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_spreads,New York Islanders,3.5,1.11
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Over,3.5,1.14
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Over,4.5,1.27
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Over,6.5,2.25
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Over,7.5,3.8
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Over,8.5,5.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Over,9.5,11.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Under,3.5,5.2
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Under,4.5,3.55
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Under,6.5,1.61
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Under,7.5,1.24
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Under,8.5,1.14
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,draftkings,alternate_totals,Under,9.5,1.04
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,1.5,1.17
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,2.5,1.07
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,-1.5,2.24
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,-2.5,3.1
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,-3.5,6.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,-4.5,12.8
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,-5.5,24.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,Minnesota Wild,-6.5,56.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,1.5,1.63
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,2.5,1.36
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,3.5,1.12
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,4.5,1.04
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,-1.5,4.7
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,-2.5,8.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_spreads,New York Islanders,-3.5,26.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,2.5,1.02
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,3.5,1.14
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,4.5,1.27
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,5.5,1.82
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,6.5,2.34
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,7.5,4.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,8.5,6.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,9.5,14.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,10.5,20.5
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Over,11.5,66.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,2.5,19.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,3.5,5.5
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,4.5,3.6
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,5.5,1.96
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,6.5,1.58
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,7.5,1.21
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,8.5,1.11
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,9.5,1.03
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,fanduel,alternate_totals,Under,10.5,1.02
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_spreads,Minnesota Wild,-1.5,2.4
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_spreads,Minnesota Wild,1.5,1.18
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_spreads,Minnesota Wild,-2.5,3.34
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_spreads,New York Islanders,1.5,1.63
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_spreads,New York Islanders,-1.5,5.0
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_spreads,New York Islanders,2.5,1.34
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Over,6.0,2.06
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Over,5.0,1.41
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Over,5.5,1.82
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Over,6.5,2.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Over,7.0,3.39
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Over,8.5,5.84
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Under,6.0,1.84
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Under,5.0,3.04
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Under,5.5,2.05
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Under,6.5,1.66
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Under,7.0,1.34
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,pinnacle,alternate_totals,Under,8.5,1.15
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,Minnesota Wild,2.5,1.09
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,Minnesota Wild,-2.5,3.42
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,Minnesota Wild,1.5,1.17
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,Minnesota Wild,-1.5,2.33
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,New York Islanders,-2.5,7.5
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,New York Islanders,2.5,1.32
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,New York Islanders,-1.5,5.1
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_spreads,New York Islanders,1.5,1.61
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Over,3.5,1.16
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Over,7.5,4.1
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Over,4.5,1.43
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Over,8.5,7.1
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Over,6.5,2.7
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Over,5.5,1.85
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Under,3.5,5.3
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Under,7.5,1.24
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Under,4.5,2.85
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Under,8.5,1.1
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Under,6.5,1.47
+2026-10-29T23:50:50Z,closing,5020318cfd7098bd38fae6c907029f0f,2026-10-30T00:10:00Z,Minnesota Wild,New York Islanders,coolbet,alternate_totals,Under,5.5,1.96
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Nashville Predators,3.5,1.08
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Nashville Predators,2.5,1.24
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Nashville Predators,1.5,1.42
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Nashville Predators,-2.5,4.7
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Nashville Predators,-3.5,9.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Washington Capitals,-3.5,7.5
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Washington Capitals,-2.5,3.85
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Washington Capitals,-1.5,2.75
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Washington Capitals,2.5,1.17
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_spreads,Washington Capitals,3.5,1.06
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Over,3.5,1.09
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Over,4.5,1.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Over,5.5,1.57
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Over,7.5,3.1
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Over,8.5,4.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Over,9.5,8.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Under,3.5,7.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Under,4.5,4.5
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Under,5.5,2.35
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Under,7.5,1.34
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Under,8.5,1.21
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,draftkings,alternate_totals,Under,9.5,1.07
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,1.5,1.36
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,2.5,1.17
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,3.5,1.06
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,-1.5,3.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,-2.5,4.5
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,-3.5,9.9
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,-4.5,22.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Nashville Predators,-5.5,56.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,1.5,1.37
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,2.5,1.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,3.5,1.06
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,-1.5,3.1
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,-2.5,4.7
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,-3.5,10.4
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,-4.5,25.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_spreads,Washington Capitals,-5.5,66.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,2.5,1.02
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,3.5,1.08
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,4.5,1.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,5.5,1.58
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,6.5,1.94
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,7.5,3.25
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,8.5,4.5
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,9.5,9.1
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,10.5,13.6
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,11.5,28.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Over,12.5,51.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,2.5,25.0
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,3.5,7.3
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,4.5,4.6
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,5.5,2.34
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,6.5,1.82
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,7.5,1.32
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,8.5,1.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,9.5,1.06
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,10.5,1.03
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,fanduel,alternate_totals,Under,11.5,1.01
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Nashville Predators,-1.5,3.25
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Nashville Predators,1.5,1.37
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Nashville Predators,-2.5,4.9
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Nashville Predators,2.5,1.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Washington Capitals,1.5,1.35
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Washington Capitals,-1.5,3.1
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Washington Capitals,2.5,1.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_spreads,Washington Capitals,-2.5,4.6
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Over,6.5,2.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Over,5.5,1.59
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Over,8.5,4.9
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Over,7.5,3.1
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Over,4.5,1.3
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Over,3.5,1.11
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Under,6.5,1.68
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Under,5.5,2.37
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Under,8.5,1.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Under,7.5,1.37
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Under,4.5,3.55
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,coolbet,alternate_totals,Under,3.5,6.7
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Nashville Predators,1.5,1.39
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Nashville Predators,2.5,1.21
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Nashville Predators,-1.5,3.15
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Nashville Predators,-2.5,4.68
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Washington Capitals,-1.5,3.18
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Washington Capitals,-2.5,4.59
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Washington Capitals,1.5,1.38
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_spreads,Washington Capitals,2.5,1.2
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Over,6.5,1.98
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Over,5.5,1.59
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Over,6.0,1.74
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Over,7.0,2.55
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Over,7.5,3.11
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Over,9.5,7.85
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Under,6.5,1.91
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Under,5.5,2.45
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Under,6.0,2.16
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Under,7.0,1.55
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Under,7.5,1.4
+2026-10-29T23:50:50Z,closing,923b47df7869b8b2c5d758b7f21d4b4a,2026-10-30T00:10:00Z,Nashville Predators,Washington Capitals,pinnacle,alternate_totals,Under,9.5,1.1
