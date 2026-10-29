@@ -2148,3 +2148,438 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-29T21:08:48Z,scheduled,026d37181dd4ace0df7565d9b208ce7e,2026-10-31T00:10:00Z,Calgary Flames,Seattle Kraken,pinnacle,spreads,Seattle Kraken,-1.5,3.17
 2026-10-29T21:08:48Z,scheduled,026d37181dd4ace0df7565d9b208ce7e,2026-10-31T00:10:00Z,Calgary Flames,Seattle Kraken,pinnacle,totals,Over,6.5,2.02
 2026-10-29T21:08:48Z,scheduled,026d37181dd4ace0df7565d9b208ce7e,2026-10-31T00:10:00Z,Calgary Flames,Seattle Kraken,pinnacle,totals,Under,6.5,1.85
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,h2h,Carolina Hurricanes,,1.39
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,h2h,Columbus Blue Jackets,,3.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,spreads,Carolina Hurricanes,-1.5,2.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,spreads,Columbus Blue Jackets,1.5,1.82
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,totals,Over,6.5,2.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,totals,Under,6.5,1.7
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betsson,h2h,Carolina Hurricanes,,1.39
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betsson,h2h,Columbus Blue Jackets,,3.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betsson,spreads,Carolina Hurricanes,-1.5,2.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betsson,spreads,Columbus Blue Jackets,1.5,1.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,h2h,Carolina Hurricanes,,1.39
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,h2h,Columbus Blue Jackets,,3.05
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,spreads,Carolina Hurricanes,-1.5,1.98
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,spreads,Columbus Blue Jackets,1.5,1.83
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,totals,Over,6.5,2.12
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,totals,Under,6.5,1.72
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,h2h,Carolina Hurricanes,,1.36
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,h2h,Columbus Blue Jackets,,3.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,spreads,Carolina Hurricanes,-1.5,1.95
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,spreads,Columbus Blue Jackets,1.5,1.87
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,totals,Over,6.0,1.91
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,totals,Under,6.0,1.91
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betrivers,h2h,Carolina Hurricanes,,1.38
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betrivers,h2h,Columbus Blue Jackets,,3.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betrivers,spreads,Carolina Hurricanes,-1.5,2.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betrivers,spreads,Columbus Blue Jackets,1.5,1.79
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betrivers,totals,Over,5.5,1.72
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,betrivers,totals,Under,5.5,2.12
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,h2h,Carolina Hurricanes,,1.4
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,h2h,Columbus Blue Jackets,,3.17
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,spreads,Carolina Hurricanes,-1.5,2.03
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,spreads,Columbus Blue Jackets,1.5,1.86
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,totals,Over,6.0,1.97
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,totals,Under,6.0,1.92
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,h2h,Carolina Hurricanes,,1.43
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,h2h,Columbus Blue Jackets,,3.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,h2h_lay,Carolina Hurricanes,,1.45
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,h2h_lay,Columbus Blue Jackets,,3.35
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,spreads,Carolina Hurricanes,-1.5,2.06
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,spreads,Columbus Blue Jackets,1.5,1.9
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,totals,Over,5.5,1.78
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,matchbook,totals,Under,5.5,2.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,h2h_3way,Carolina Hurricanes,,1.65
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,h2h_3way,Columbus Blue Jackets,,4.3
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,h2h_3way,Draw,,4.7
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,spreads,Carolina Hurricanes,-1.5,2.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,spreads,Columbus Blue Jackets,1.5,1.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,totals,Over,5.5,1.73
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,totals,Under,5.5,2.12
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,h2h,Pittsburgh Penguins,,2.14
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,h2h,Utah Mammoth,,1.74
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,spreads,Pittsburgh Penguins,1.5,1.49
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,spreads,Utah Mammoth,-1.5,2.7
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,totals,Over,6.5,1.7
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,totals,Under,6.5,2.2
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,h2h,Pittsburgh Penguins,,2.08
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,h2h,Utah Mammoth,,1.77
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,spreads,Pittsburgh Penguins,1.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,spreads,Utah Mammoth,-1.5,2.76
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,totals,Over,6.5,1.71
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,totals,Under,6.5,2.14
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betmgm,h2h,Pittsburgh Penguins,,2.1
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betmgm,h2h,Utah Mammoth,,1.77
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betmgm,spreads,Pittsburgh Penguins,1.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betmgm,spreads,Utah Mammoth,-1.5,2.8
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betmgm,totals,Over,6.5,1.69
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betmgm,totals,Under,6.5,2.2
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betrivers,h2h,Pittsburgh Penguins,,2.14
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betrivers,h2h,Utah Mammoth,,1.74
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betrivers,spreads,Pittsburgh Penguins,1.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betrivers,spreads,Utah Mammoth,-1.5,2.7
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betrivers,totals,Over,6.5,1.68
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betrivers,totals,Under,6.5,2.2
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betsson,h2h,Pittsburgh Penguins,,2.11
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betsson,h2h,Utah Mammoth,,1.73
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betsson,spreads,Pittsburgh Penguins,1.5,1.42
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,betsson,spreads,Utah Mammoth,-1.5,2.85
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,h2h,Pittsburgh Penguins,,2.15
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,h2h,Utah Mammoth,,1.79
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,spreads,Pittsburgh Penguins,1.5,1.48
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,spreads,Utah Mammoth,-1.5,2.83
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,totals,Over,6.5,1.76
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,totals,Under,6.5,2.18
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,h2h,Pittsburgh Penguins,,2.18
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,h2h,Utah Mammoth,,1.82
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,h2h_lay,Pittsburgh Penguins,,2.22
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,h2h_lay,Utah Mammoth,,1.85
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,spreads,Pittsburgh Penguins,1.5,1.49
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,spreads,Utah Mammoth,-1.5,2.88
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,totals,Over,6.5,1.75
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,matchbook,totals,Under,6.5,2.24
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,h2h_3way,Pittsburgh Penguins,,2.75
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,h2h_3way,Utah Mammoth,,2.2
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,h2h_3way,Draw,,4.4
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,spreads,Pittsburgh Penguins,1.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,spreads,Utah Mammoth,-1.5,2.78
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,totals,Over,6.5,1.92
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,totals,Under,6.5,1.89
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,h2h,Tampa Bay Lightning,,1.46
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,h2h,Winnipeg Jets,,2.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,spreads,Tampa Bay Lightning,-1.5,2.2
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,spreads,Winnipeg Jets,1.5,1.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,totals,Over,5.5,1.74
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,totals,Under,5.5,2.14
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betsson,h2h,Tampa Bay Lightning,,1.46
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betsson,h2h,Winnipeg Jets,,2.72
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betsson,spreads,Tampa Bay Lightning,-1.5,2.15
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betsson,spreads,Winnipeg Jets,1.5,1.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,h2h,Tampa Bay Lightning,,1.44
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,h2h,Winnipeg Jets,,2.84
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,spreads,Tampa Bay Lightning,-1.5,2.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,spreads,Winnipeg Jets,1.5,1.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,totals,Over,5.5,1.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,totals,Under,5.5,2.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betmgm,h2h,Tampa Bay Lightning,,1.45
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betmgm,h2h,Winnipeg Jets,,2.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betmgm,spreads,Tampa Bay Lightning,-1.5,2.18
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betmgm,spreads,Winnipeg Jets,1.5,1.71
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betmgm,totals,Over,6.0,1.91
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betmgm,totals,Under,6.0,1.91
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betrivers,h2h,Tampa Bay Lightning,,1.43
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betrivers,h2h,Winnipeg Jets,,2.88
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betrivers,spreads,Tampa Bay Lightning,-1.5,2.14
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betrivers,spreads,Winnipeg Jets,1.5,1.71
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betrivers,totals,Over,5.5,1.72
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,betrivers,totals,Under,5.5,2.12
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,h2h,Tampa Bay Lightning,,1.48
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,h2h,Winnipeg Jets,,2.85
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,spreads,Tampa Bay Lightning,-1.5,2.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,spreads,Winnipeg Jets,1.5,1.76
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,totals,Over,6.0,2.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,totals,Under,6.0,1.88
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,h2h,Tampa Bay Lightning,,1.49
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,h2h,Winnipeg Jets,,3.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,h2h_lay,Tampa Bay Lightning,,1.5
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,h2h_lay,Winnipeg Jets,,3.05
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,spreads,Tampa Bay Lightning,-1.5,2.22
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,spreads,Winnipeg Jets,1.5,1.79
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,totals,Over,5.5,1.79
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,matchbook,totals,Under,5.5,2.2
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,h2h_3way,Tampa Bay Lightning,,1.77
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,h2h_3way,Winnipeg Jets,,3.85
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,h2h_3way,Draw,,4.5
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,spreads,Tampa Bay Lightning,-1.5,2.15
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,spreads,Winnipeg Jets,1.5,1.71
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,totals,Over,5.5,1.75
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,totals,Under,5.5,2.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Carolina Hurricanes,3.5,1.01
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Carolina Hurricanes,2.5,1.06
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Carolina Hurricanes,1.5,1.14
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Carolina Hurricanes,-2.5,2.6
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Carolina Hurricanes,-3.5,4.6
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,-3.5,18.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,-2.5,8.5
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,-1.5,5.3
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,2.5,1.47
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,3.5,1.17
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Over,3.5,1.12
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Over,4.5,1.24
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Over,5.5,1.67
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Over,7.5,3.5
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Over,8.5,4.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Over,9.5,9.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Under,3.5,5.7
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Under,4.5,3.85
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Under,5.5,2.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Under,7.5,1.28
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Under,8.5,1.16
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,draftkings,alternate_totals,Under,9.5,1.06
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,1.5,1.12
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,2.5,1.05
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,-1.5,1.96
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,-2.5,2.5
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,-3.5,4.3
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,-4.5,7.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,-5.5,14.6
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Carolina Hurricanes,-6.5,28.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,1.5,1.82
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,2.5,1.52
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,3.5,1.21
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,4.5,1.08
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,5.5,1.03
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-1.5,6.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-2.5,12.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-3.5,41.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,2.5,1.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,3.5,1.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,4.5,1.22
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,5.5,1.66
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,6.5,2.08
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,7.5,3.5
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,8.5,5.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,9.5,10.4
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,10.5,15.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Over,11.5,41.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,2.5,22.0
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,3.5,6.6
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,4.5,4.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,5.5,2.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,6.5,1.72
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,7.5,1.28
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,8.5,1.15
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,9.5,1.06
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,10.5,1.03
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,fanduel,alternate_totals,Under,11.5,1.01
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_spreads,Carolina Hurricanes,-1.5,2.03
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_spreads,Carolina Hurricanes,1.5,1.14
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_spreads,Carolina Hurricanes,-2.5,2.78
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,1.5,1.86
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,-1.5,5.89
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,2.5,1.47
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Over,6.0,1.97
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Over,5.0,1.37
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Over,5.5,1.76
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Over,6.5,2.2
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Over,7.0,3.11
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Over,8.5,5.31
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Under,6.0,1.92
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Under,5.0,3.25
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Under,5.5,2.13
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Under,6.5,1.71
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Under,7.0,1.4
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,pinnacle,alternate_totals,Under,8.5,1.18
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_spreads,Carolina Hurricanes,-2.5,2.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_spreads,Carolina Hurricanes,-1.5,2.02
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_spreads,Carolina Hurricanes,1.5,1.12
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,2.5,1.44
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,1.5,1.8
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,-1.5,6.4
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Over,5.5,1.73
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Over,4.5,1.37
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Over,8.5,6.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Over,7.5,3.65
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Over,6.5,2.47
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Over,3.5,1.13
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Under,5.5,2.12
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Under,4.5,3.1
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Under,8.5,1.13
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Under,7.5,1.29
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Under,6.5,1.55
+2026-10-29T22:50:47Z,closing,05a8ed51399342594c33ae0faa0f9027,2026-10-29T23:10:00Z,Carolina Hurricanes,Columbus Blue Jackets,coolbet,alternate_totals,Under,3.5,6.1
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Pittsburgh Penguins,3.5,1.09
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Pittsburgh Penguins,2.5,1.27
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Pittsburgh Penguins,-1.5,3.3
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Pittsburgh Penguins,-2.5,4.8
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Pittsburgh Penguins,-3.5,9.5
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Utah Mammoth,-3.5,7.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Utah Mammoth,-2.5,3.55
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Utah Mammoth,1.5,1.31
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Utah Mammoth,2.5,1.16
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_spreads,Utah Mammoth,3.5,1.05
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Over,3.5,1.06
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Over,4.5,1.13
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Over,5.5,1.42
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Over,7.5,2.6
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Over,8.5,3.4
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Over,9.5,6.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Under,3.5,8.5
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Under,4.5,5.4
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Under,5.5,2.75
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Under,7.5,1.47
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Under,8.5,1.29
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,draftkings,alternate_totals,Under,9.5,1.11
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,1.5,1.47
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,2.5,1.26
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,3.5,1.08
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,4.5,1.03
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,-1.5,3.3
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,-2.5,5.1
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,-3.5,11.8
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Pittsburgh Penguins,-4.5,32.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,1.5,1.31
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,2.5,1.15
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,3.5,1.05
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,-1.5,2.64
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,-2.5,3.7
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,-3.5,7.6
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,-4.5,16.5
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_spreads,Utah Mammoth,-5.5,37.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,2.5,1.01
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,3.5,1.06
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,4.5,1.12
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,5.5,1.43
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,6.5,1.71
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,7.5,2.7
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,8.5,3.6
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,9.5,6.9
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,10.5,10.4
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,11.5,21.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Over,12.5,39.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,2.5,35.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,3.5,9.2
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,4.5,5.8
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,5.5,2.78
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,6.5,2.1
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,7.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,8.5,1.27
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,9.5,1.09
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,10.5,1.06
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,11.5,1.02
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,fanduel,alternate_totals,Under,12.5,1.01
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Pittsburgh Penguins,1.5,1.48
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Pittsburgh Penguins,2.5,1.26
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Pittsburgh Penguins,-1.5,3.6
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Pittsburgh Penguins,-2.5,5.32
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Utah Mammoth,-1.5,2.83
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Utah Mammoth,-2.5,4.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Utah Mammoth,1.5,1.31
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_spreads,Utah Mammoth,2.5,1.17
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Over,6.5,1.76
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Over,5.5,1.47
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Over,6.0,1.56
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Over,7.0,2.19
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Over,7.5,2.75
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Over,9.5,6.97
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Under,6.5,2.18
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Under,5.5,2.81
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Under,6.0,2.52
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Under,7.0,1.71
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Under,7.5,1.48
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,pinnacle,alternate_totals,Under,9.5,1.12
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Pittsburgh Penguins,-2.5,5.5
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Pittsburgh Penguins,1.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Pittsburgh Penguins,-1.5,3.55
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Pittsburgh Penguins,2.5,1.25
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Utah Mammoth,2.5,1.15
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Utah Mammoth,-1.5,2.78
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Utah Mammoth,1.5,1.3
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_spreads,Utah Mammoth,-2.5,4.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Over,7.5,2.67
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Over,5.5,1.45
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Over,4.5,1.22
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Over,6.5,1.92
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Over,8.5,4.0
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Over,3.5,1.08
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Under,7.5,1.48
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Under,5.5,2.78
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Under,4.5,4.3
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Under,6.5,1.89
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Under,8.5,1.25
+2026-10-29T22:50:47Z,closing,b8f3c483149e46a5f7c24ea941be8649,2026-10-29T23:10:00Z,Pittsburgh Penguins,Utah Mammoth,coolbet,alternate_totals,Under,3.5,8.1
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Tampa Bay Lightning,3.5,1.01
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Tampa Bay Lightning,2.5,1.07
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Tampa Bay Lightning,1.5,1.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Tampa Bay Lightning,-2.5,2.9
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Tampa Bay Lightning,-3.5,5.3
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Winnipeg Jets,-3.5,16.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Winnipeg Jets,-2.5,7.75
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Winnipeg Jets,-1.5,4.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Winnipeg Jets,2.5,1.38
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_spreads,Winnipeg Jets,3.5,1.14
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Over,3.5,1.12
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Over,4.5,1.24
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Over,6.5,2.1
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Over,7.5,3.55
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Over,8.5,4.9
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Over,9.5,9.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Under,3.5,5.6
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Under,4.5,3.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Under,6.5,1.67
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Under,7.5,1.27
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Under,8.5,1.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,draftkings,alternate_totals,Under,9.5,1.06
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,1.5,1.13
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,2.5,1.06
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,-1.5,2.12
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,-2.5,2.72
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,-3.5,4.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,-4.5,9.3
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,-5.5,16.5
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Tampa Bay Lightning,-6.5,37.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,1.5,1.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,2.5,1.43
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,3.5,1.17
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,4.5,1.06
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,5.5,1.03
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,-1.5,5.6
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,-2.5,9.6
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_spreads,Winnipeg Jets,-3.5,29.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,2.5,1.02
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,3.5,1.12
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,4.5,1.23
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,5.5,1.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,6.5,2.14
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,7.5,3.6
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,8.5,5.2
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,9.5,10.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,10.5,16.5
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Over,11.5,47.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,2.5,21.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,3.5,6.1
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,4.5,4.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,5.5,2.12
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,6.5,1.68
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,7.5,1.27
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,8.5,1.15
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,9.5,1.05
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,10.5,1.03
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,fanduel,alternate_totals,Under,11.5,1.01
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_spreads,Tampa Bay Lightning,-1.5,2.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_spreads,Tampa Bay Lightning,1.5,1.16
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_spreads,Tampa Bay Lightning,-2.5,2.99
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_spreads,Winnipeg Jets,1.5,1.76
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_spreads,Winnipeg Jets,-1.5,5.44
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_spreads,Winnipeg Jets,2.5,1.41
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Over,6.0,2.0
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Over,5.0,1.38
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Over,5.5,1.76
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Over,6.5,2.25
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Over,7.0,3.18
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Over,8.5,5.47
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Under,6.0,1.88
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Under,5.0,3.18
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Under,5.5,2.12
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Under,6.5,1.68
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Under,7.0,1.38
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,pinnacle,alternate_totals,Under,8.5,1.17
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_spreads,Tampa Bay Lightning,-2.5,3.07
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_spreads,Tampa Bay Lightning,-1.5,2.15
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_spreads,Tampa Bay Lightning,1.5,1.15
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_spreads,Winnipeg Jets,2.5,1.38
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_spreads,Winnipeg Jets,1.5,1.71
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_spreads,Winnipeg Jets,-1.5,5.5
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Over,5.5,1.75
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Over,8.5,6.1
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Over,4.5,1.37
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Over,7.5,3.7
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Over,3.5,1.14
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Over,6.5,2.47
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Under,5.5,2.1
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Under,8.5,1.13
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Under,4.5,3.1
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Under,7.5,1.28
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Under,3.5,5.8
+2026-10-29T22:50:47Z,closing,f27b209b3ed34a6dfb27f1670ffa514f,2026-10-29T23:10:00Z,Tampa Bay Lightning,Winnipeg Jets,coolbet,alternate_totals,Under,6.5,1.55
