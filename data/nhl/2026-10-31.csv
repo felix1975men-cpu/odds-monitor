@@ -483,3 +483,529 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-10-31T07:09:20Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,spreads,Colorado Avalanche,-1.5,1.62
 2026-10-31T07:09:20Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,totals,Over,6.5,1.89
 2026-10-31T07:09:20Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,totals,Under,6.5,1.95
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,draftkings,h2h,Boston Bruins,,1.42
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,draftkings,h2h,Chicago Blackhawks,,2.95
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,draftkings,spreads,Boston Bruins,-1.5,2.1
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,draftkings,spreads,Chicago Blackhawks,1.5,1.77
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,draftkings,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,draftkings,totals,Under,6.5,1.77
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betsson,h2h,Boston Bruins,,1.42
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betsson,h2h,Chicago Blackhawks,,2.88
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betsson,spreads,Boston Bruins,-1.5,2.04
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betsson,spreads,Chicago Blackhawks,1.5,1.78
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,h2h_3way,Boston Bruins,,1.73
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,h2h_3way,Chicago Blackhawks,,4.05
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,h2h_3way,Draw,,4.5
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,spreads,Boston Bruins,-1.5,2.1
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,spreads,Chicago Blackhawks,1.5,1.75
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,totals,Over,5.5,1.68
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,coolbet,totals,Under,5.5,2.2
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,fanduel,h2h,Boston Bruins,,1.43
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,fanduel,h2h,Chicago Blackhawks,,2.88
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,fanduel,spreads,Boston Bruins,-1.5,2.04
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,fanduel,spreads,Chicago Blackhawks,1.5,1.78
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,fanduel,totals,Over,6.5,2.06
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,fanduel,totals,Under,6.5,1.77
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betrivers,h2h,Boston Bruins,,1.41
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betrivers,h2h,Chicago Blackhawks,,3.0
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betrivers,spreads,Boston Bruins,-1.5,2.1
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betrivers,spreads,Chicago Blackhawks,1.5,1.74
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betrivers,totals,Over,6.5,2.06
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betrivers,totals,Under,6.5,1.76
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,pinnacle,h2h,Boston Bruins,,1.44
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,pinnacle,h2h,Chicago Blackhawks,,3.01
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,pinnacle,spreads,Boston Bruins,-1.5,2.12
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,pinnacle,spreads,Chicago Blackhawks,1.5,1.79
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,pinnacle,totals,Over,6.0,1.89
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,pinnacle,totals,Under,6.0,2.0
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,h2h,Boston Bruins,,1.47
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,h2h,Chicago Blackhawks,,3.05
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,h2h_lay,Boston Bruins,,1.48
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,h2h_lay,Chicago Blackhawks,,3.15
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,spreads,Boston Bruins,-1.5,2.08
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,spreads,Chicago Blackhawks,1.5,1.86
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,totals,Over,6.5,2.16
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,matchbook,totals,Under,6.5,1.81
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betmgm,h2h,Boston Bruins,,1.43
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betmgm,h2h,Chicago Blackhawks,,2.95
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betmgm,spreads,Boston Bruins,-1.5,2.0
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betmgm,spreads,Chicago Blackhawks,1.5,1.83
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betmgm,totals,Over,6.0,1.83
+2026-10-31T15:08:58Z,scheduled,f912d0a74ab85bac2021199aa03abb3f,2026-10-31T17:10:00Z,Boston Bruins,Chicago Blackhawks,betmgm,totals,Under,6.0,2.0
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,draftkings,h2h,Detroit Red Wings,,1.98
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,draftkings,h2h,St Louis Blues,,1.85
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,draftkings,spreads,Detroit Red Wings,1.5,1.37
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,draftkings,spreads,St Louis Blues,-1.5,3.2
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,draftkings,totals,Over,5.5,1.8
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,draftkings,totals,Under,5.5,2.05
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betsson,h2h,Detroit Red Wings,,1.94
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betsson,h2h,St Louis Blues,,1.86
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betsson,spreads,Detroit Red Wings,1.5,1.36
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betsson,spreads,St Louis Blues,-1.5,3.15
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,h2h_3way,Detroit Red Wings,,2.57
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,h2h_3way,St Louis Blues,,2.42
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,h2h_3way,Draw,,4.05
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,spreads,Detroit Red Wings,1.5,1.36
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,spreads,St Louis Blues,-1.5,3.18
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,totals,Over,5.5,1.8
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,coolbet,totals,Under,5.5,2.02
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,fanduel,h2h,Detroit Red Wings,,1.98
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,fanduel,h2h,St Louis Blues,,1.85
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,fanduel,spreads,Detroit Red Wings,1.5,1.38
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,fanduel,spreads,St Louis Blues,-1.5,3.1
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,fanduel,totals,Over,5.5,1.82
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,fanduel,totals,Under,5.5,2.0
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betrivers,h2h,Detroit Red Wings,,1.93
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betrivers,h2h,St Louis Blues,,1.91
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betrivers,spreads,Detroit Red Wings,1.5,1.34
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betrivers,spreads,St Louis Blues,-1.5,3.3
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betrivers,totals,Over,5.5,1.78
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betrivers,totals,Under,5.5,2.04
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,h2h,Detroit Red Wings,,2.02
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,h2h,St Louis Blues,,1.97
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,h2h_lay,Detroit Red Wings,,2.04
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,h2h_lay,St Louis Blues,,1.99
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,spreads,Detroit Red Wings,1.5,1.38
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,spreads,St Louis Blues,-1.5,3.3
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,totals,Over,5.5,1.87
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,matchbook,totals,Under,5.5,2.08
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,pinnacle,h2h,Detroit Red Wings,,2.0
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,pinnacle,h2h,St Louis Blues,,1.91
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,pinnacle,spreads,Detroit Red Wings,1.5,1.38
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,pinnacle,spreads,St Louis Blues,-1.5,3.23
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,pinnacle,totals,Over,6.0,2.04
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,pinnacle,totals,Under,6.0,1.85
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betmgm,h2h,Detroit Red Wings,,1.98
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betmgm,h2h,St Louis Blues,,1.85
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betmgm,spreads,Detroit Red Wings,1.5,1.4
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betmgm,spreads,St Louis Blues,-1.5,3.0
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betmgm,totals,Over,6.0,2.0
+2026-10-31T15:08:58Z,scheduled,f0eeae1be040fca9b93b46bc8c55068d,2026-10-31T17:10:00Z,Detroit Red Wings,St Louis Blues,betmgm,totals,Under,6.0,1.83
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,draftkings,h2h,Edmonton Oilers,,1.87
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,draftkings,h2h,New York Islanders,,1.95
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,draftkings,spreads,Edmonton Oilers,-1.5,3.1
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,draftkings,spreads,New York Islanders,1.5,1.39
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,draftkings,totals,Over,6.5,2.05
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,draftkings,totals,Under,6.5,1.8
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,h2h_3way,Edmonton Oilers,,2.42
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,h2h_3way,New York Islanders,,2.5
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,h2h_3way,Draw,,4.3
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,spreads,Edmonton Oilers,-1.5,3.18
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,spreads,New York Islanders,1.5,1.36
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,totals,Over,5.5,1.68
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,coolbet,totals,Under,5.5,2.2
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betsson,h2h,Edmonton Oilers,,1.89
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betsson,h2h,New York Islanders,,1.91
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betsson,spreads,Edmonton Oilers,-1.5,2.8
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betsson,spreads,New York Islanders,1.5,1.44
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,fanduel,h2h,Edmonton Oilers,,1.91
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,fanduel,h2h,New York Islanders,,1.91
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,fanduel,spreads,Edmonton Oilers,1.5,1.38
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,fanduel,spreads,New York Islanders,-1.5,3.1
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,fanduel,totals,Over,6.5,2.08
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,fanduel,totals,Under,6.5,1.76
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betrivers,h2h,Edmonton Oilers,,1.92
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betrivers,h2h,New York Islanders,,1.93
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betrivers,spreads,Edmonton Oilers,1.5,1.33
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betrivers,spreads,New York Islanders,-1.5,3.3
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betrivers,totals,Over,6.5,2.04
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betrivers,totals,Under,6.5,1.79
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,pinnacle,h2h,Edmonton Oilers,,1.95
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,pinnacle,h2h,New York Islanders,,1.95
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,pinnacle,spreads,Edmonton Oilers,-1.5,3.19
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,pinnacle,spreads,New York Islanders,1.5,1.39
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,pinnacle,totals,Over,6.0,1.91
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,pinnacle,totals,Under,6.0,1.98
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betmgm,h2h,Edmonton Oilers,,1.91
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betmgm,h2h,New York Islanders,,1.91
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betmgm,spreads,Edmonton Oilers,-1.5,3.0
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betmgm,spreads,New York Islanders,1.5,1.4
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betmgm,totals,Over,6.0,1.83
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,betmgm,totals,Under,6.0,2.0
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,h2h,Edmonton Oilers,,1.96
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,h2h,New York Islanders,,2.02
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,h2h_lay,Edmonton Oilers,,1.99
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,h2h_lay,New York Islanders,,2.04
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,spreads,Edmonton Oilers,-1.5,3.2
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,spreads,New York Islanders,1.5,1.41
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,totals,Over,6.5,2.18
+2026-10-31T15:08:58Z,scheduled,7da8a99a4ae4ef2ec08b3e4fa37c2485,2026-10-31T18:10:00Z,New York Islanders,Edmonton Oilers,matchbook,totals,Under,6.5,1.8
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,draftkings,h2h,Nashville Predators,,2.42
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,draftkings,h2h,Tampa Bay Lightning,,1.59
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,draftkings,spreads,Nashville Predators,1.5,1.54
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,draftkings,spreads,Tampa Bay Lightning,-1.5,2.54
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,draftkings,totals,Over,6.5,2.14
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,draftkings,totals,Under,6.5,1.74
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betsson,h2h,Nashville Predators,,2.39
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betsson,h2h,Tampa Bay Lightning,,1.58
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betsson,spreads,Nashville Predators,1.5,1.56
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betsson,spreads,Tampa Bay Lightning,-1.5,2.42
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,h2h_3way,Nashville Predators,,3.3
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,h2h_3way,Tampa Bay Lightning,,1.94
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,h2h_3way,Draw,,4.4
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,spreads,Nashville Predators,1.5,1.58
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,spreads,Tampa Bay Lightning,-1.5,2.4
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,totals,Over,5.5,1.7
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,coolbet,totals,Under,5.5,2.17
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,fanduel,h2h,Nashville Predators,,2.46
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,fanduel,h2h,Tampa Bay Lightning,,1.57
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,fanduel,spreads,Nashville Predators,1.5,1.58
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,fanduel,spreads,Tampa Bay Lightning,-1.5,2.4
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,fanduel,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,fanduel,totals,Under,6.5,1.75
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betrivers,h2h,Nashville Predators,,2.5
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betrivers,h2h,Tampa Bay Lightning,,1.56
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betrivers,spreads,Nashville Predators,1.5,1.57
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betrivers,spreads,Tampa Bay Lightning,-1.5,2.38
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betrivers,totals,Over,6.5,2.08
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betrivers,totals,Under,6.5,1.75
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,pinnacle,h2h,Nashville Predators,,2.51
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,pinnacle,h2h,Tampa Bay Lightning,,1.6
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,pinnacle,spreads,Nashville Predators,1.5,1.6
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,pinnacle,spreads,Tampa Bay Lightning,-1.5,2.47
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,pinnacle,totals,Over,6.0,1.88
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,pinnacle,totals,Under,6.0,2.01
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betmgm,h2h,Nashville Predators,,2.45
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betmgm,h2h,Tampa Bay Lightning,,1.57
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betmgm,spreads,Nashville Predators,1.5,1.62
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betmgm,spreads,Tampa Bay Lightning,-1.5,2.35
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betmgm,totals,Over,6.0,1.85
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,betmgm,totals,Under,6.0,1.98
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,h2h,Nashville Predators,,2.54
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,h2h,Tampa Bay Lightning,,1.62
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,h2h_lay,Nashville Predators,,2.62
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,h2h_lay,Tampa Bay Lightning,,1.65
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,spreads,Nashville Predators,1.5,1.62
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,spreads,Tampa Bay Lightning,-1.5,2.52
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,totals,Over,6.5,2.14
+2026-10-31T15:08:58Z,scheduled,5914f2527dc280fc35af01099f445bb9,2026-10-31T18:10:00Z,Nashville Predators,Tampa Bay Lightning,matchbook,totals,Under,6.5,1.82
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,draftkings,h2h,Buffalo Sabres,,1.77
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,draftkings,h2h,Los Angeles Kings,,2.1
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,draftkings,spreads,Buffalo Sabres,-1.5,3.0
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,draftkings,spreads,Los Angeles Kings,1.5,1.41
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,draftkings,totals,Over,5.5,1.74
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,draftkings,totals,Under,5.5,2.14
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,h2h_3way,Buffalo Sabres,,2.3
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,h2h_3way,Los Angeles Kings,,2.63
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,h2h_3way,Draw,,4.2
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,spreads,Buffalo Sabres,-1.5,3.0
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,spreads,Los Angeles Kings,1.5,1.4
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,totals,Over,5.5,1.73
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,coolbet,totals,Under,5.5,2.12
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betsson,h2h,Buffalo Sabres,,1.75
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betsson,h2h,Los Angeles Kings,,2.07
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betsson,spreads,Buffalo Sabres,-1.5,2.95
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betsson,spreads,Los Angeles Kings,1.5,1.4
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,fanduel,h2h,Buffalo Sabres,,1.76
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,fanduel,h2h,Los Angeles Kings,,2.1
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,fanduel,spreads,Buffalo Sabres,-1.5,2.8
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,fanduel,spreads,Los Angeles Kings,1.5,1.44
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,fanduel,totals,Over,5.5,1.71
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,fanduel,totals,Under,5.5,2.14
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betrivers,h2h,Buffalo Sabres,,1.81
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betrivers,h2h,Los Angeles Kings,,2.04
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betrivers,spreads,Buffalo Sabres,-1.5,3.05
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betrivers,spreads,Los Angeles Kings,1.5,1.38
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betrivers,totals,Over,5.5,1.72
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betrivers,totals,Under,5.5,2.12
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,pinnacle,h2h,Buffalo Sabres,,1.86
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,pinnacle,h2h,Los Angeles Kings,,2.05
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,pinnacle,spreads,Buffalo Sabres,-1.5,3.11
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,pinnacle,spreads,Los Angeles Kings,1.5,1.41
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,pinnacle,totals,Over,6.0,1.94
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,pinnacle,totals,Under,6.0,1.94
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betmgm,h2h,Buffalo Sabres,,1.74
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betmgm,h2h,Los Angeles Kings,,2.1
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betmgm,spreads,Buffalo Sabres,-1.5,2.8
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betmgm,spreads,Los Angeles Kings,1.5,1.45
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betmgm,totals,Over,6.0,1.91
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,betmgm,totals,Under,6.0,1.91
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,h2h,Buffalo Sabres,,1.83
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,h2h,Los Angeles Kings,,2.18
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,h2h_lay,Buffalo Sabres,,1.84
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,h2h_lay,Los Angeles Kings,,2.2
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,spreads,Buffalo Sabres,-1.5,3.05
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,spreads,Los Angeles Kings,1.5,1.45
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,totals,Over,6.5,2.22
+2026-10-31T15:08:58Z,scheduled,3ec4c9abb60e5bf086a0460336248b16,2026-10-31T20:10:00Z,Los Angeles Kings,Buffalo Sabres,matchbook,totals,Under,6.5,1.79
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,draftkings,h2h,Ottawa Senators,,1.74
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,draftkings,h2h,San Jose Sharks,,2.14
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,draftkings,spreads,Ottawa Senators,-1.5,2.8
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,draftkings,spreads,San Jose Sharks,1.5,1.46
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,draftkings,totals,Over,6.5,1.89
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,draftkings,totals,Under,6.5,1.93
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,h2h_3way,Ottawa Senators,,2.15
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,h2h_3way,San Jose Sharks,,2.85
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,h2h_3way,Draw,,4.3
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,spreads,Ottawa Senators,-1.5,2.7
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,spreads,San Jose Sharks,1.5,1.47
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,totals,Over,6.5,2.18
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,coolbet,totals,Under,6.5,1.69
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betsson,h2h,Ottawa Senators,,1.69
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betsson,h2h,San Jose Sharks,,2.16
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betsson,spreads,Ottawa Senators,-1.5,2.7
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betsson,spreads,San Jose Sharks,1.5,1.46
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,fanduel,h2h,Ottawa Senators,,1.73
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,fanduel,h2h,San Jose Sharks,,2.14
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,fanduel,spreads,Ottawa Senators,-1.5,2.64
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,fanduel,spreads,San Jose Sharks,1.5,1.49
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,fanduel,totals,Over,6.5,1.91
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,fanduel,totals,Under,6.5,1.91
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betrivers,h2h,Ottawa Senators,,1.7
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betrivers,h2h,San Jose Sharks,,2.2
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betrivers,spreads,Ottawa Senators,-1.5,2.7
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betrivers,spreads,San Jose Sharks,1.5,1.47
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betrivers,totals,Over,6.5,1.87
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betrivers,totals,Under,6.5,1.93
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,pinnacle,h2h,Ottawa Senators,,1.74
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,pinnacle,h2h,San Jose Sharks,,2.22
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,pinnacle,spreads,Ottawa Senators,-1.5,2.8
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,pinnacle,spreads,San Jose Sharks,1.5,1.48
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,pinnacle,totals,Over,6.5,1.93
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,pinnacle,totals,Under,6.5,1.96
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betmgm,h2h,Ottawa Senators,,1.71
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betmgm,h2h,San Jose Sharks,,2.15
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betmgm,spreads,Ottawa Senators,-1.5,2.65
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betmgm,spreads,San Jose Sharks,1.5,1.5
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betmgm,totals,Over,6.5,1.91
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,betmgm,totals,Under,6.5,1.91
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,h2h,Ottawa Senators,,1.76
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,h2h,San Jose Sharks,,2.28
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,h2h_lay,Ottawa Senators,,1.78
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,h2h_lay,San Jose Sharks,,2.3
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,spreads,Ottawa Senators,-1.5,2.84
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,spreads,San Jose Sharks,1.5,1.5
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,totals,Over,6.5,1.94
+2026-10-31T15:08:58Z,scheduled,9655de40a1e110a66923a0cd36e0bd78,2026-10-31T20:10:00Z,San Jose Sharks,Ottawa Senators,matchbook,totals,Under,6.5,2.0
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,draftkings,h2h,Montréal Canadiens,,1.8
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,draftkings,h2h,Pittsburgh Penguins,,2.05
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,draftkings,spreads,Montréal Canadiens,-1.5,2.9
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,draftkings,spreads,Pittsburgh Penguins,1.5,1.43
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,draftkings,totals,Over,6.5,1.85
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,draftkings,totals,Under,6.5,1.98
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,h2h_3way,Montréal Canadiens,,2.3
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,h2h_3way,Pittsburgh Penguins,,2.63
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,h2h_3way,Draw,,4.3
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,spreads,Montréal Canadiens,-1.5,2.93
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,spreads,Pittsburgh Penguins,1.5,1.41
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,coolbet,totals,Under,6.5,1.74
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betsson,h2h,Montréal Canadiens,,1.79
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betsson,h2h,Pittsburgh Penguins,,2.02
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betsson,spreads,Montréal Canadiens,-1.5,2.65
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betsson,spreads,Pittsburgh Penguins,1.5,1.48
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,fanduel,h2h,Montréal Canadiens,,1.82
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,fanduel,h2h,Pittsburgh Penguins,,2.02
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,fanduel,spreads,Montréal Canadiens,-1.5,2.86
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,fanduel,spreads,Pittsburgh Penguins,1.5,1.43
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,fanduel,totals,Over,6.5,1.85
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,fanduel,totals,Under,6.5,1.96
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betrivers,h2h,Montréal Canadiens,,1.8
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betrivers,h2h,Pittsburgh Penguins,,2.06
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betrivers,spreads,Montréal Canadiens,-1.5,2.95
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betrivers,spreads,Pittsburgh Penguins,1.5,1.4
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betrivers,totals,Over,6.5,1.83
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betrivers,totals,Under,6.5,1.95
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,pinnacle,h2h,Montréal Canadiens,,1.85
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,pinnacle,h2h,Pittsburgh Penguins,,2.06
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,pinnacle,spreads,Montréal Canadiens,-1.5,2.95
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,pinnacle,spreads,Pittsburgh Penguins,1.5,1.44
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,pinnacle,totals,Over,6.5,1.87
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,pinnacle,totals,Under,6.5,2.02
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,h2h,Montréal Canadiens,,1.8
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,h2h,Pittsburgh Penguins,,2.05
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,spreads,Montréal Canadiens,-1.5,2.8
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,spreads,Pittsburgh Penguins,1.5,1.45
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,totals,Over,6.5,1.85
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,totals,Under,6.5,1.98
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,h2h,Montréal Canadiens,,1.9
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,h2h,Pittsburgh Penguins,,2.08
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,h2h_lay,Montréal Canadiens,,1.92
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,h2h_lay,Pittsburgh Penguins,,2.12
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,spreads,Montréal Canadiens,-1.5,2.96
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,spreads,Pittsburgh Penguins,1.5,1.44
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,totals,Over,6.5,1.9
+2026-10-31T15:08:58Z,scheduled,fa8413d05f6c8b2d8f68cc0d17551fa9,2026-10-31T23:10:00Z,Montréal Canadiens,Pittsburgh Penguins,matchbook,totals,Under,6.5,2.0
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,draftkings,h2h,Toronto Maple Leafs,,1.52
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,draftkings,h2h,Vancouver Canucks,,2.6
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,draftkings,spreads,Toronto Maple Leafs,-1.5,2.3
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,draftkings,spreads,Vancouver Canucks,1.5,1.65
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,draftkings,totals,Over,6.5,1.8
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,draftkings,totals,Under,6.5,2.05
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,h2h_3way,Toronto Maple Leafs,,1.87
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,h2h_3way,Vancouver Canucks,,3.45
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,h2h_3way,Draw,,4.5
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,spreads,Toronto Maple Leafs,-1.5,2.25
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,spreads,Vancouver Canucks,1.5,1.65
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,totals,Over,6.5,2.06
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,coolbet,totals,Under,6.5,1.77
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betsson,h2h,Toronto Maple Leafs,,1.52
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betsson,h2h,Vancouver Canucks,,2.52
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betsson,spreads,Toronto Maple Leafs,-1.5,2.3
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betsson,spreads,Vancouver Canucks,1.5,1.62
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,fanduel,h2h,Toronto Maple Leafs,,1.52
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,fanduel,h2h,Vancouver Canucks,,2.58
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,fanduel,spreads,Toronto Maple Leafs,-1.5,2.32
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,fanduel,spreads,Vancouver Canucks,1.5,1.61
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,fanduel,totals,Over,6.5,1.78
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,fanduel,totals,Under,6.5,2.04
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betrivers,h2h,Toronto Maple Leafs,,1.53
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betrivers,h2h,Vancouver Canucks,,2.6
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betrivers,spreads,Toronto Maple Leafs,-1.5,2.23
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betrivers,spreads,Vancouver Canucks,1.5,1.66
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betrivers,totals,Over,6.5,1.8
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betrivers,totals,Under,6.5,2.0
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,pinnacle,h2h,Toronto Maple Leafs,,1.55
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,pinnacle,h2h,Vancouver Canucks,,2.62
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,pinnacle,spreads,Toronto Maple Leafs,-1.5,2.37
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,pinnacle,spreads,Vancouver Canucks,1.5,1.65
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,pinnacle,totals,Over,6.5,1.84
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,pinnacle,totals,Under,6.5,2.06
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betmgm,h2h,Toronto Maple Leafs,,1.53
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betmgm,h2h,Vancouver Canucks,,2.55
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betmgm,spreads,Toronto Maple Leafs,-1.5,2.2
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betmgm,spreads,Vancouver Canucks,1.5,1.69
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betmgm,totals,Over,6.5,1.77
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,betmgm,totals,Under,6.5,2.05
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,h2h,Toronto Maple Leafs,,1.56
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,h2h,Vancouver Canucks,,2.74
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,h2h_lay,Toronto Maple Leafs,,1.58
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,h2h_lay,Vancouver Canucks,,2.8
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,spreads,Toronto Maple Leafs,-1.5,2.36
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,spreads,Vancouver Canucks,1.5,1.64
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,totals,Over,6.5,1.85
+2026-10-31T15:08:58Z,scheduled,a9b3c158b86d367eaa9dd342fbb440b3,2026-10-31T23:10:00Z,Vancouver Canucks,Toronto Maple Leafs,matchbook,totals,Under,6.5,2.06
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,draftkings,h2h,Columbus Blue Jackets,,2.6
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,draftkings,h2h,Dallas Stars,,1.52
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,draftkings,spreads,Columbus Blue Jackets,1.5,1.57
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,draftkings,spreads,Dallas Stars,-1.5,2.45
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,draftkings,totals,Over,5.5,1.95
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,draftkings,totals,Under,5.5,1.87
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,h2h_3way,Columbus Blue Jackets,,3.5
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,h2h_3way,Dallas Stars,,1.87
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,h2h_3way,Draw,,4.3
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,spreads,Columbus Blue Jackets,1.5,1.58
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,spreads,Dallas Stars,-1.5,2.4
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,totals,Over,5.5,1.97
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,coolbet,totals,Under,5.5,1.85
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betsson,h2h,Columbus Blue Jackets,,2.52
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betsson,h2h,Dallas Stars,,1.52
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betsson,spreads,Columbus Blue Jackets,1.5,1.56
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betsson,spreads,Dallas Stars,-1.5,2.42
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,fanduel,h2h,Columbus Blue Jackets,,2.58
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,fanduel,h2h,Dallas Stars,,1.52
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,fanduel,spreads,Columbus Blue Jackets,1.5,1.61
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,fanduel,spreads,Dallas Stars,-1.5,2.34
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,fanduel,totals,Over,5.5,1.98
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,fanduel,totals,Under,5.5,1.83
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betrivers,h2h,Columbus Blue Jackets,,2.6
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betrivers,h2h,Dallas Stars,,1.51
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betrivers,spreads,Columbus Blue Jackets,1.5,1.57
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betrivers,spreads,Dallas Stars,-1.5,2.38
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betrivers,totals,Over,5.5,1.93
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betrivers,totals,Under,5.5,1.87
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,pinnacle,h2h,Columbus Blue Jackets,,2.63
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,pinnacle,h2h,Dallas Stars,,1.55
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,pinnacle,spreads,Columbus Blue Jackets,1.5,1.6
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,pinnacle,spreads,Dallas Stars,-1.5,2.46
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,pinnacle,totals,Over,5.5,2.0
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,pinnacle,totals,Under,5.5,1.89
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betmgm,h2h,Columbus Blue Jackets,,2.55
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betmgm,h2h,Dallas Stars,,1.53
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betmgm,spreads,Columbus Blue Jackets,1.5,1.65
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betmgm,spreads,Dallas Stars,-1.5,2.25
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betmgm,totals,Over,5.5,1.98
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,betmgm,totals,Under,5.5,1.85
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,h2h,Columbus Blue Jackets,,2.72
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,h2h,Dallas Stars,,1.57
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,h2h_lay,Columbus Blue Jackets,,2.76
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,h2h_lay,Dallas Stars,,1.58
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,spreads,Columbus Blue Jackets,1.5,1.6
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,spreads,Dallas Stars,-1.5,2.48
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,totals,Over,5.5,2.02
+2026-10-31T15:08:58Z,scheduled,7bfae1a5166976e5ca05e92319277910,2026-11-01T00:10:00Z,Dallas Stars,Columbus Blue Jackets,matchbook,totals,Under,5.5,1.9
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,draftkings,h2h,Calgary Flames,,4.3
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,draftkings,h2h,Colorado Avalanche,,1.24
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,draftkings,spreads,Calgary Flames,1.5,2.4
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,draftkings,spreads,Colorado Avalanche,-1.5,1.6
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,draftkings,totals,Over,6.5,1.91
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,draftkings,totals,Under,6.5,1.91
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,h2h_3way,Calgary Flames,,6.4
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,h2h_3way,Colorado Avalanche,,1.4
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,h2h_3way,Draw,,5.85
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,spreads,Calgary Flames,2.5,1.78
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,spreads,Colorado Avalanche,-2.5,2.05
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,totals,Over,6.5,2.05
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,coolbet,totals,Under,6.5,1.78
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betsson,h2h,Calgary Flames,,4.1
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betsson,h2h,Colorado Avalanche,,1.24
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betsson,spreads,Calgary Flames,1.5,2.25
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betsson,spreads,Colorado Avalanche,-1.5,1.62
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,fanduel,h2h,Calgary Flames,,4.3
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,fanduel,h2h,Colorado Avalanche,,1.23
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,fanduel,spreads,Calgary Flames,1.5,2.38
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,fanduel,spreads,Colorado Avalanche,-1.5,1.59
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,fanduel,totals,Over,6.5,1.87
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,fanduel,totals,Under,6.5,1.95
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betrivers,h2h,Calgary Flames,,4.75
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betrivers,h2h,Colorado Avalanche,,1.2
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betrivers,spreads,Calgary Flames,1.5,2.43
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betrivers,spreads,Colorado Avalanche,-1.5,1.56
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betrivers,totals,Over,6.5,1.85
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betrivers,totals,Under,6.5,1.93
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betmgm,h2h,Calgary Flames,,4.4
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betmgm,h2h,Colorado Avalanche,,1.22
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betmgm,spreads,Calgary Flames,2.5,1.91
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betmgm,spreads,Colorado Avalanche,-2.5,1.91
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betmgm,totals,Over,6.5,1.87
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,betmgm,totals,Under,6.5,1.95
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,h2h,Calgary Flames,,4.6
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,h2h,Colorado Avalanche,,1.26
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,h2h_lay,Calgary Flames,,4.8
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,h2h_lay,Colorado Avalanche,,1.28
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,spreads,Calgary Flames,1.5,2.42
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,spreads,Colorado Avalanche,-1.5,1.62
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,totals,Over,6.5,1.9
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,matchbook,totals,Under,6.5,2.0
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,pinnacle,h2h,Calgary Flames,,4.55
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,pinnacle,h2h,Colorado Avalanche,,1.24
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,pinnacle,spreads,Calgary Flames,2.5,1.84
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,pinnacle,spreads,Colorado Avalanche,-2.5,2.06
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,pinnacle,totals,Over,6.5,1.89
+2026-10-31T15:08:58Z,scheduled,394955492df212637701f4f21464f05f,2026-11-01T02:10:00Z,Colorado Avalanche,Calgary Flames,pinnacle,totals,Under,6.5,2.0
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,fanduel,h2h,Carolina Hurricanes,,1.38
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,fanduel,h2h,Winnipeg Jets,,3.15
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,fanduel,spreads,Carolina Hurricanes,-1.5,1.94
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,fanduel,spreads,Winnipeg Jets,1.5,1.88
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,fanduel,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,fanduel,totals,Under,6.5,1.75
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,draftkings,h2h,Carolina Hurricanes,,1.37
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,draftkings,h2h,Winnipeg Jets,,3.2
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,draftkings,spreads,Carolina Hurricanes,-1.5,1.85
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,draftkings,spreads,Winnipeg Jets,1.5,1.98
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,draftkings,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,875368ed11228a45263f84f54223e264,2026-11-01T18:00:00Z,Carolina Hurricanes,Winnipeg Jets,draftkings,totals,Under,6.5,1.77
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,fanduel,h2h,Minnesota Wild,,1.91
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,fanduel,h2h,Washington Capitals,,1.91
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,fanduel,spreads,Minnesota Wild,1.5,1.38
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,fanduel,spreads,Washington Capitals,-1.5,3.1
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,fanduel,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,fanduel,totals,Under,6.5,1.75
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,draftkings,h2h,Minnesota Wild,,1.93
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,draftkings,h2h,Washington Capitals,,1.89
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,draftkings,spreads,Minnesota Wild,1.5,1.39
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,draftkings,spreads,Washington Capitals,-1.5,3.1
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,draftkings,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,10a3cc989861cd05cb2a95b5ebc4abb0,2026-11-01T20:30:00Z,Washington Capitals,Minnesota Wild,draftkings,totals,Under,6.5,1.77
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,fanduel,h2h,Philadelphia Flyers,,2.42
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,fanduel,h2h,Utah Mammoth,,1.58
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,fanduel,spreads,Philadelphia Flyers,1.5,1.57
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,fanduel,spreads,Utah Mammoth,-1.5,2.42
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,fanduel,totals,Over,6.5,2.1
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,fanduel,totals,Under,6.5,1.75
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,draftkings,h2h,Philadelphia Flyers,,2.3
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,draftkings,h2h,Utah Mammoth,,1.65
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,draftkings,spreads,Philadelphia Flyers,1.5,1.59
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,draftkings,spreads,Utah Mammoth,-1.5,2.42
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,draftkings,totals,Over,6.5,2.14
+2026-10-31T15:08:58Z,scheduled,4b59901ec085a0f20022fc14ffa1ba6c,2026-11-01T21:00:00Z,Philadelphia Flyers,Utah Mammoth,draftkings,totals,Under,6.5,1.74
