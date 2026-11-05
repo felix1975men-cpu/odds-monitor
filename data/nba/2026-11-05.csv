@@ -7044,3 +7044,745 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-11-05T02:10:09Z,closing,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,San Antonio Spurs,Dallas Mavericks,pinnacle,alternate_totals,Under,228.0,1.81
 2026-11-05T02:10:09Z,closing,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,San Antonio Spurs,Dallas Mavericks,pinnacle,alternate_totals,Under,228.5,1.77
 2026-11-05T02:10:09Z,closing,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,San Antonio Spurs,Dallas Mavericks,pinnacle,alternate_totals,Under,229.0,1.73
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,h2h,Los Angeles Lakers,,1.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,h2h,Sacramento Kings,,5.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,spreads,Los Angeles Lakers,-12.5,1.94
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,spreads,Sacramento Kings,12.5,1.87
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,totals,Under,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betfair_ex_eu,h2h,Los Angeles Lakers,,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betfair_ex_eu,h2h,Sacramento Kings,,5.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betfair_ex_eu,h2h_lay,Los Angeles Lakers,,1.21
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betfair_ex_eu,h2h_lay,Sacramento Kings,,6.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,h2h,Los Angeles Lakers,,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,h2h,Sacramento Kings,,4.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,spreads,Los Angeles Lakers,-12.0,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,spreads,Sacramento Kings,12.0,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,totals,Over,234.0,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,totals,Under,234.0,1.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,h2h,Los Angeles Lakers,,1.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,h2h,Sacramento Kings,,5.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,spreads,Los Angeles Lakers,-12.5,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,spreads,Sacramento Kings,12.5,1.87
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,totals,Under,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betsson,h2h,Los Angeles Lakers,,1.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betsson,h2h,Sacramento Kings,,5.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betsson,spreads,Los Angeles Lakers,-11.5,1.88
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betsson,spreads,Sacramento Kings,11.5,1.88
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betsson,totals,Over,233.5,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betsson,totals,Under,233.5,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,h2h,Los Angeles Lakers,,1.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,h2h,Sacramento Kings,,5.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,spreads,Los Angeles Lakers,-12.5,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,spreads,Sacramento Kings,12.5,1.87
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,totals,Under,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,h2h,Los Angeles Lakers,,1.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,h2h,Sacramento Kings,,5.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,spreads,Los Angeles Lakers,-12.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,spreads,Sacramento Kings,12.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,totals,Over,233.5,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,totals,Under,233.5,1.88
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,h2h,Los Angeles Lakers,,1.17
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,h2h,Sacramento Kings,,5.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,spreads,Los Angeles Lakers,-12.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,spreads,Sacramento Kings,12.5,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,totals,Under,233.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,h2h,Los Angeles Lakers,,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,h2h,Sacramento Kings,,6.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,h2h_lay,Los Angeles Lakers,,1.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,h2h_lay,Sacramento Kings,,6.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,spreads,Los Angeles Lakers,-12.0,1.97
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,spreads,Sacramento Kings,12.0,2.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,totals,Over,233.5,1.96
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,matchbook,totals,Under,233.5,2.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-35.5,10.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-34.5,9.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-33.5,9.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-32.5,8.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-31.5,7.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-30.5,7.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-29.5,6.63
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-28.5,6.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-27.5,5.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-26.5,5.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-25.5,4.78
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-24.5,4.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-23.5,4.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-22.5,3.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-21.5,3.48
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-20.5,3.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-19.5,3.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-18.5,2.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-17.5,2.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-16.5,2.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-15.5,2.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-14.5,2.17
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-13.5,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-11.5,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-10.5,1.73
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-9.5,1.64
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-8.5,1.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-7.5,1.47
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-6.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-5.5,1.34
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-4.5,1.28
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-3.5,1.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-2.5,1.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,-1.5,1.17
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,1.5,1.13
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,2.5,1.11
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,3.5,1.09
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,4.5,1.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,5.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Los Angeles Lakers,6.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,35.5,1.04
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,34.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,33.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,32.5,1.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,31.5,1.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,30.5,1.09
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,29.5,1.11
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,28.5,1.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,27.5,1.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,26.5,1.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,25.5,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,24.5,1.21
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,23.5,1.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,22.5,1.27
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,21.5,1.31
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,20.5,1.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,19.5,1.39
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,18.5,1.44
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,17.5,1.49
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,16.5,1.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,15.5,1.61
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,14.5,1.68
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,13.5,1.77
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,11.5,1.97
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,10.5,2.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,9.5,2.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,8.5,2.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,7.5,2.67
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,6.5,2.94
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,5.5,3.27
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,4.5,3.64
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,3.5,4.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,2.5,4.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,1.5,4.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,-1.5,5.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,-2.5,6.52
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,-3.5,7.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,-4.5,8.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,-5.5,9.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_spreads,Sacramento Kings,-6.5,10.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,212.5,1.09
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,213.5,1.11
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,214.5,1.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,215.5,1.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,216.5,1.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,217.5,1.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,218.5,1.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,219.5,1.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,220.5,1.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,221.5,1.28
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,222.5,1.31
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,223.5,1.34
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,224.5,1.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,225.5,1.42
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,226.5,1.47
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,227.5,1.51
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,228.5,1.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,229.5,1.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,230.5,1.68
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,231.5,1.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,232.5,1.82
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,234.5,1.97
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,235.5,2.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,236.5,2.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,237.5,2.27
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,238.5,2.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,239.5,2.51
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,240.5,2.64
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,241.5,2.79
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,242.5,2.94
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,243.5,3.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,244.5,3.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,245.5,3.53
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,246.5,3.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,247.5,4.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,248.5,4.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,249.5,4.59
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,250.5,4.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,251.5,5.28
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,252.5,5.66
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,253.5,6.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,254.5,6.46
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,255.5,6.99
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Over,256.5,7.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,212.5,7.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,213.5,6.66
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,214.5,6.23
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,215.5,5.72
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,216.5,5.32
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,217.5,4.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,218.5,4.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,219.5,4.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,220.5,3.96
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,221.5,3.71
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,222.5,3.46
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,223.5,3.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,224.5,3.04
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,225.5,2.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,226.5,2.69
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,227.5,2.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,228.5,2.42
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,229.5,2.28
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,230.5,2.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,231.5,2.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,232.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,234.5,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,235.5,1.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,236.5,1.69
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,237.5,1.63
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,238.5,1.58
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,239.5,1.53
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,240.5,1.48
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,241.5,1.44
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,242.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,243.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,244.5,1.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,245.5,1.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,246.5,1.27
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,247.5,1.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,248.5,1.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,249.5,1.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,250.5,1.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,251.5,1.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,252.5,1.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,253.5,1.13
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,254.5,1.11
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,255.5,1.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,draftkings,alternate_totals,Under,256.5,1.09
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Los Angeles Lakers,-12.5,1.96
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Los Angeles Lakers,-11.5,1.88
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Los Angeles Lakers,-12.0,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Los Angeles Lakers,-13.0,2.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Los Angeles Lakers,-11.0,1.81
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Sacramento Kings,12.5,1.89
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Sacramento Kings,11.5,1.97
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Sacramento Kings,12.0,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Sacramento Kings,13.0,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_spreads,Sacramento Kings,11.0,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Over,234.0,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Over,233.5,1.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Over,235.0,2.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Over,234.5,1.99
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Over,233.0,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Under,234.0,1.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Under,233.5,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Under,235.0,1.82
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Under,234.5,1.86
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,coolbet,alternate_totals,Under,233.0,2.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-8.5,1.53
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-13.5,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-14.5,2.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-12.5,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-16.5,2.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-7.5,1.44
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-11.5,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-9.5,1.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-15.5,2.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-6.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-10.5,1.71
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-2.5,1.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-18.5,2.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-17.5,2.65
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-4.5,1.27
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-21.5,3.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-19.5,3.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-5.5,1.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-20.5,3.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Los Angeles Lakers,-22.5,3.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,8.5,2.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,13.5,1.77
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,14.5,1.69
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,12.5,1.87
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,16.5,1.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,7.5,2.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,11.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,9.5,2.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,15.5,1.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,6.5,3.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,10.5,2.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,2.5,4.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,18.5,1.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,17.5,1.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,4.5,3.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,21.5,1.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,19.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,5.5,3.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,20.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_spreads,Sacramento Kings,22.5,1.31
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,239.5,2.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,235.5,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,234.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,236.5,2.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,241.5,2.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,242.5,2.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,238.5,2.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,237.5,2.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,232.5,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,240.5,2.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,243.5,3.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,231.5,1.74
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,230.5,1.69
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,229.5,1.65
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,228.5,1.59
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,227.5,1.54
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,224.5,1.43
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,225.5,1.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,226.5,1.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Over,223.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,239.5,1.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,235.5,1.77
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,234.5,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,236.5,1.71
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,241.5,1.48
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,242.5,1.44
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,238.5,1.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,237.5,1.67
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,232.5,2.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,240.5,1.53
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,243.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,231.5,2.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,230.5,2.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,229.5,2.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,228.5,2.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,227.5,2.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,224.5,2.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,225.5,2.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,226.5,2.65
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betmgm,alternate_totals,Under,223.5,3.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,16.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,15.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,14.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,13.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,12.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,11.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,10.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,9.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,8.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,7.5,1.04
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,6.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,5.5,1.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,4.5,1.09
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,3.5,1.11
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,2.5,1.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,1.5,1.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-1.5,1.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-2.5,1.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-3.5,1.28
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-4.5,1.32
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-5.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-6.5,1.41
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-7.5,1.49
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-8.5,1.57
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-9.5,1.64
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-10.5,1.72
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-11.5,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-12.5,1.96
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-13.5,2.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-14.5,2.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-15.5,2.32
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-16.5,2.48
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-17.5,2.68
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-18.5,2.86
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-19.5,3.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-20.5,3.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-21.5,3.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-22.5,3.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-23.5,4.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-24.5,4.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-25.5,4.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-26.5,5.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-27.5,6.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-28.5,6.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-29.5,7.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-30.5,8.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-31.5,8.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-32.5,9.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-33.5,10.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-34.5,11.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-35.5,12.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-36.5,13.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-37.5,14.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-38.5,15.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-39.5,15.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-40.5,19.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Los Angeles Lakers,-41.5,21.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-18.5,51.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-17.5,36.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-16.5,31.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-15.5,23.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-14.5,23.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-13.5,21.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-12.5,19.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-11.5,15.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-10.5,14.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-9.5,12.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-8.5,11.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-7.5,10.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-6.5,8.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-5.5,8.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-4.5,7.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-3.5,6.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-2.5,5.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,-1.5,5.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,1.5,4.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,2.5,3.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,3.5,3.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,4.5,3.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,5.5,3.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,6.5,2.86
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,7.5,2.58
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,8.5,2.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,9.5,2.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,10.5,2.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,11.5,1.96
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,12.5,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,13.5,1.76
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,14.5,1.67
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,15.5,1.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,16.5,1.52
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,17.5,1.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,18.5,1.41
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,19.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,20.5,1.32
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,21.5,1.29
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,22.5,1.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,23.5,1.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,24.5,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,25.5,1.17
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,26.5,1.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,27.5,1.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,28.5,1.11
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,29.5,1.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,30.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,31.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,32.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,33.5,1.04
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,34.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,35.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,36.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,37.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,38.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,39.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,40.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_spreads,Sacramento Kings,41.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,198.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,199.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,200.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,201.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,202.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,203.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,204.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,205.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,206.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,207.5,1.04
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,208.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,209.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,210.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,211.5,1.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,212.5,1.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,213.5,1.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,214.5,1.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,215.5,1.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,216.5,1.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,217.5,1.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,218.5,1.21
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,219.5,1.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,220.5,1.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,221.5,1.29
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,222.5,1.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,223.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,224.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,225.5,1.43
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,226.5,1.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,227.5,1.53
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,228.5,1.58
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,229.5,1.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,230.5,1.68
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,231.5,1.76
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,232.5,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,234.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,235.5,2.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,236.5,2.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,237.5,2.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,238.5,2.34
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,239.5,2.44
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,240.5,2.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,241.5,2.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,242.5,2.78
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,243.5,2.96
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,244.5,3.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,245.5,3.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,246.5,3.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,247.5,3.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,248.5,3.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,249.5,4.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,250.5,4.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,251.5,4.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,252.5,5.2
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,253.5,5.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,254.5,6.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,255.5,6.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,256.5,7.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,257.5,8.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,258.5,8.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,259.5,9.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,260.5,10.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,261.5,10.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,262.5,12.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,263.5,12.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,264.5,13.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,265.5,13.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,266.5,15.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,267.5,16.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,268.5,17.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,269.5,21.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,270.5,23.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,271.5,23.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,272.5,26.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,273.5,31.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Over,274.5,36.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,194.5,41.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,195.5,41.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,196.5,36.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,197.5,36.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,198.5,31.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,199.5,26.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,200.5,21.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,201.5,21.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,202.5,17.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,203.5,15.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,204.5,14.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,205.5,13.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,206.5,12.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,207.5,11.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,208.5,10.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,209.5,9.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,210.5,8.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,211.5,7.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,212.5,7.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,213.5,6.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,214.5,6.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,215.5,5.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,216.5,5.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,217.5,4.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,218.5,4.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,219.5,3.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,220.5,3.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,221.5,3.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,222.5,3.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,223.5,3.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,224.5,2.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,225.5,2.76
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,226.5,2.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,227.5,2.52
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,228.5,2.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,229.5,2.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,230.5,2.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,231.5,2.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,232.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,234.5,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,235.5,1.77
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,236.5,1.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,237.5,1.64
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,238.5,1.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,239.5,1.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,240.5,1.51
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,241.5,1.49
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,242.5,1.43
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,243.5,1.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,244.5,1.36
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,245.5,1.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,246.5,1.29
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,247.5,1.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,248.5,1.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,249.5,1.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,250.5,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,251.5,1.17
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,252.5,1.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,253.5,1.13
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,254.5,1.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,255.5,1.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,256.5,1.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,257.5,1.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,258.5,1.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,259.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,260.5,1.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,261.5,1.04
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,262.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,263.5,1.03
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,264.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,265.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,266.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,267.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,268.5,1.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,269.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,270.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,271.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,fanduel,alternate_totals,Under,272.5,1.01
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-10.5,1.68
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-8.5,1.51
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-16.5,2.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-17.5,2.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-15.5,2.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-9.5,1.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-6.5,1.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-7.5,1.44
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-5.5,1.34
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-21.5,3.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-20.5,3.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-13.5,2.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-3.5,1.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-18.5,3.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-4.5,1.29
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-12.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-14.5,2.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-19.5,3.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Los Angeles Lakers,-11.5,1.79
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,10.5,2.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,8.5,2.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,16.5,1.53
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,17.5,1.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,15.5,1.61
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,9.5,2.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,6.5,3.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,7.5,2.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,5.5,3.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,21.5,1.27
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,20.5,1.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,13.5,1.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,3.5,4.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,18.5,1.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,4.5,3.65
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,12.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,14.5,1.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,19.5,1.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_spreads,Sacramento Kings,11.5,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,245.5,3.65
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,246.5,3.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,221.5,1.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,248.5,4.4
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,242.5,3.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,219.5,1.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,220.5,1.28
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,231.5,1.79
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,240.5,2.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,227.5,1.55
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,247.5,4.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,230.5,1.72
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,238.5,2.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,226.5,1.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,235.5,2.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,228.5,1.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,223.5,1.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,241.5,2.88
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,222.5,1.34
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,225.5,1.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,237.5,2.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,233.5,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,229.5,1.66
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,236.5,2.23
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,234.5,2.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,243.5,3.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,244.5,3.45
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,224.5,1.42
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,239.5,2.6
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,232.5,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,250.5,5.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Over,249.5,4.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,245.5,1.29
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,246.5,1.26
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,221.5,3.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,248.5,1.22
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,242.5,1.38
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,219.5,4.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,220.5,3.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,231.5,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,240.5,1.47
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,227.5,2.48
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,247.5,1.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,230.5,2.15
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,238.5,1.56
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,226.5,2.63
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,235.5,1.73
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,228.5,2.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,223.5,3.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,241.5,1.43
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,222.5,3.3
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,225.5,2.75
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,237.5,1.61
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,233.5,1.88
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,229.5,2.25
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,236.5,1.67
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,234.5,1.8
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,243.5,1.35
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,244.5,1.32
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,224.5,2.9
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,239.5,1.5
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,232.5,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,250.5,1.18
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,betrivers,alternate_totals,Under,249.5,1.19
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-12.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-15.0,2.41
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-14.5,2.32
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-14.0,2.23
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-13.5,2.14
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-13.0,2.06
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-12.0,1.89
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-11.5,1.82
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-11.0,1.76
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-10.5,1.71
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Los Angeles Lakers,-10.0,1.66
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,12.5,1.93
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,15.0,1.62
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,14.5,1.67
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,14.0,1.72
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,13.5,1.78
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,13.0,1.84
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,12.0,2.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,11.5,2.08
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,11.0,2.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,10.5,2.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_spreads,Sacramento Kings,10.0,2.33
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,233.5,1.91
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,231.0,1.7
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,231.5,1.74
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,232.0,1.78
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,232.5,1.82
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,233.0,1.85
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,234.0,1.95
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,234.5,2.0
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,235.0,2.05
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,235.5,2.1
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Over,236.0,2.16
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,233.5,1.98
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,231.0,2.24
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,231.5,2.17
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,232.0,2.12
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,232.5,2.07
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,233.0,2.02
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,234.0,1.92
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,234.5,1.87
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,235.0,1.83
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,235.5,1.79
+2026-11-05T02:51:00Z,closing,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Sacramento Kings,Los Angeles Lakers,pinnacle,alternate_totals,Under,236.0,1.75
