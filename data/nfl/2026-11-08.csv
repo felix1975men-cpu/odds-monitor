@@ -7959,3 +7959,835 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-11-08T17:40:32Z,closing,fe93e6ab1e553c0169936a0a983c324f,2026-11-08T18:00:00Z,Philadelphia Eagles,New York Giants,pinnacle,alternate_totals,Under,39.5,1.68
 2026-11-08T17:40:32Z,closing,fe93e6ab1e553c0169936a0a983c324f,2026-11-08T18:00:00Z,Philadelphia Eagles,New York Giants,pinnacle,alternate_totals,Under,40.0,1.64
 2026-11-08T17:40:32Z,closing,fe93e6ab1e553c0169936a0a983c324f,2026-11-08T18:00:00Z,Philadelphia Eagles,New York Giants,pinnacle,alternate_totals,Under,44.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,h2h,Houston Texans,,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,h2h,Los Angeles Chargers,,2.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,spreads,Houston Texans,-5.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,spreads,Los Angeles Chargers,5.5,1.89
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,totals,Over,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,totals,Under,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,h2h,Houston Texans,,1.42
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,h2h,Los Angeles Chargers,,2.94
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,spreads,Houston Texans,-5.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,spreads,Los Angeles Chargers,5.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,totals,Over,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,totals,Under,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,h2h,Houston Texans,,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,h2h,Los Angeles Chargers,,2.95
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,spreads,Houston Texans,-5.5,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,spreads,Los Angeles Chargers,5.5,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,totals,Over,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,totals,Under,40.5,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betsson,h2h,Houston Texans,,1.42
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betsson,h2h,Los Angeles Chargers,,2.86
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betsson,spreads,Houston Texans,-4.5,1.86
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betsson,spreads,Los Angeles Chargers,4.5,1.94
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betsson,totals,Over,40.5,1.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betsson,totals,Under,40.5,1.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,h2h,Houston Texans,,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,h2h,Los Angeles Chargers,,2.95
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,spreads,Houston Texans,-5.0,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,spreads,Los Angeles Chargers,5.0,1.98
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,totals,Over,40.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,totals,Under,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,h2h,Houston Texans,,1.44
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,h2h,Los Angeles Chargers,,3.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,spreads,Houston Texans,-5.0,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,spreads,Los Angeles Chargers,5.0,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,totals,Over,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,totals,Under,40.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betfair_ex_eu,h2h,Houston Texans,,1.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betfair_ex_eu,h2h,Los Angeles Chargers,,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betfair_ex_eu,h2h_lay,Houston Texans,,1.49
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betfair_ex_eu,h2h_lay,Los Angeles Chargers,,3.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,h2h,Houston Texans,,1.47
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,h2h,Los Angeles Chargers,,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,h2h_lay,Houston Texans,,1.49
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,h2h_lay,Los Angeles Chargers,,3.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,spreads,Houston Texans,-5.0,1.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,spreads,Los Angeles Chargers,5.0,1.96
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,totals,Over,40.5,1.96
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,matchbook,totals,Under,40.5,1.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,h2h,Houston Texans,,1.44
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,h2h,Los Angeles Chargers,,2.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,spreads,Houston Texans,-5.5,1.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,spreads,Los Angeles Chargers,5.5,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,totals,Over,40.5,1.97
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,totals,Under,40.5,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-30.5,13.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-29.5,12.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-28.5,11.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-27.5,10.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-26.5,9.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-25.5,8.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-24.5,8.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-23.5,7.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-22.5,6.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-21.5,6.37
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-20.5,5.72
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-19.5,5.21
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-18.5,4.87
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-17.5,4.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-16.5,4.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-15.5,3.73
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-14.5,3.58
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-13.5,3.19
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-12.5,2.98
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-11.5,2.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-10.5,2.73
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-9.5,2.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-8.5,2.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-7.5,2.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-6.5,2.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-4.5,1.81
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-3.5,1.72
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-2.5,1.56
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,-1.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,1.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,2.5,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,3.5,1.26
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,4.5,1.24
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,5.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,6.5,1.17
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,7.5,1.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,8.5,1.11
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,9.5,1.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,10.5,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,11.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,12.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,13.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,14.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,15.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,16.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,17.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,18.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Houston Texans,19.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,30.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,29.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,28.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,27.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,26.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,25.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,24.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,23.5,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,22.5,1.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,21.5,1.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,20.5,1.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,19.5,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,18.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,17.5,1.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,16.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,15.5,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,14.5,1.26
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,13.5,1.32
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,12.5,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,11.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,10.5,1.42
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,9.5,1.51
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,8.5,1.55
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,7.5,1.61
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,6.5,1.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,4.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,3.5,2.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,2.5,2.34
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,1.5,2.47
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-1.5,2.82
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-2.5,2.97
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-3.5,3.62
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-4.5,3.79
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-5.5,4.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-6.5,4.58
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-7.5,5.39
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-8.5,5.96
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-9.5,6.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-10.5,7.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-11.5,7.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-12.5,8.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-13.5,9.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-14.5,9.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-15.5,10.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-16.5,11.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-17.5,12.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-18.5,12.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_spreads,Los Angeles Chargers,-19.5,13.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,20.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,21.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,22.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,23.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,24.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,25.5,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,26.5,1.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,27.5,1.11
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,28.5,1.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,29.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,30.5,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,31.5,1.23
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,32.5,1.27
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,33.5,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,34.5,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,35.5,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,36.5,1.51
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,37.5,1.61
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,38.5,1.66
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,39.5,1.76
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,41.5,1.98
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,42.5,2.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,43.5,2.28
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,44.5,2.46
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,45.5,2.63
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,46.5,2.82
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,47.5,3.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,48.5,3.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,49.5,3.68
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,50.5,4.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,51.5,4.51
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,52.5,4.87
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,53.5,5.41
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,54.5,5.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,55.5,6.53
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,56.5,7.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,57.5,7.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,58.5,8.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,59.5,9.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,60.5,10.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,61.5,11.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,62.5,12.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Over,63.5,13.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,20.5,13.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,21.5,12.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,22.5,10.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,23.5,9.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,24.5,8.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,25.5,7.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,26.5,6.62
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,27.5,5.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,28.5,5.46
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,29.5,4.73
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,30.5,4.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,31.5,3.86
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,32.5,3.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,33.5,3.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,34.5,2.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,35.5,2.68
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,36.5,2.44
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,37.5,2.23
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,38.5,2.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,39.5,1.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,41.5,1.76
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,42.5,1.69
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,43.5,1.58
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,44.5,1.51
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,45.5,1.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,46.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,47.5,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,48.5,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,49.5,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,50.5,1.21
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,51.5,1.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,52.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,53.5,1.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,54.5,1.11
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,55.5,1.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,56.5,1.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,57.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,58.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,59.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,60.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,61.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,62.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,draftkings,alternate_totals,Under,63.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,21.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,20.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,19.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,18.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,17.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,16.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,15.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,14.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,13.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,12.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,11.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,10.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,9.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,8.5,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,7.5,1.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,6.5,1.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,5.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,4.5,1.19
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,3.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,2.5,1.31
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,1.5,1.34
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-1.5,1.47
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-2.5,1.52
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-3.5,1.67
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-4.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-5.5,1.87
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-6.5,2.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-7.5,2.34
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-8.5,2.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-9.5,2.62
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-10.5,2.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-11.5,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-12.5,3.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-13.5,3.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-14.5,3.85
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-15.5,4.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-16.5,4.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-17.5,5.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-18.5,5.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-19.5,6.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-20.5,6.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-21.5,7.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-22.5,8.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-23.5,9.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-24.5,11.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-25.5,11.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-26.5,13.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-27.5,15.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-28.5,16.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-29.5,16.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Houston Texans,-30.5,18.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-21.5,36.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-20.5,26.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-19.5,21.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-18.5,18.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-17.5,18.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-16.5,15.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-15.5,15.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-14.5,14.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-13.5,12.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-12.5,11.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-11.5,10.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-10.5,9.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-9.5,8.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-8.5,7.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-7.5,7.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-6.5,5.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-5.5,5.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-4.5,4.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-3.5,4.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-2.5,3.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,-1.5,3.15
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,1.5,2.64
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,2.5,2.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,3.5,2.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,4.5,2.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,5.5,1.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,6.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,7.5,1.58
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,8.5,1.52
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,9.5,1.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,10.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,11.5,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,12.5,1.34
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,13.5,1.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,14.5,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,15.5,1.23
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,16.5,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,17.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,18.5,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,19.5,1.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,20.5,1.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,21.5,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,22.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,23.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,24.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,25.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,26.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,27.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,28.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,29.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_spreads,Los Angeles Chargers,30.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,16.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,17.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,18.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,19.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,20.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,21.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,22.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,23.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,24.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,25.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,26.5,1.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,27.5,1.11
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,28.5,1.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,29.5,1.15
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,30.5,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,31.5,1.23
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,32.5,1.26
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,33.5,1.32
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,34.5,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,35.5,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,36.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,37.5,1.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,38.5,1.65
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,39.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,40.5,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,41.5,2.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,42.5,2.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,43.5,2.34
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,44.5,2.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,45.5,2.72
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,46.5,2.96
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,47.5,3.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,48.5,3.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,49.5,3.85
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,50.5,4.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,51.5,4.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,52.5,5.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,53.5,5.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,54.5,6.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,55.5,6.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,56.5,7.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,57.5,8.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,58.5,9.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,59.5,10.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,60.5,11.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,61.5,12.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,62.5,13.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,63.5,15.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,64.5,16.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,65.5,18.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,66.5,18.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,67.5,21.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,68.5,26.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,69.5,31.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,70.5,31.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Over,71.5,36.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,16.5,31.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,17.5,26.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,18.5,21.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,19.5,16.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,20.5,15.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,21.5,15.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,22.5,13.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,23.5,11.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,24.5,10.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,25.5,9.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,26.5,7.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,27.5,6.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,28.5,5.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,29.5,5.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,30.5,4.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,31.5,4.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,32.5,3.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,33.5,3.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,34.5,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,35.5,2.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,36.5,2.52
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,37.5,2.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,38.5,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,39.5,2.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,40.5,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,41.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,42.5,1.68
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,43.5,1.58
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,44.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,45.5,1.44
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,46.5,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,47.5,1.32
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,48.5,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,49.5,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,50.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,51.5,1.19
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,52.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,53.5,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,54.5,1.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,55.5,1.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,56.5,1.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,57.5,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,58.5,1.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,59.5,1.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,60.5,1.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,61.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,62.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,63.5,1.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,64.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,65.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,66.5,1.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,67.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,68.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,69.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,70.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,fanduel,alternate_totals,Under,71.5,1.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,8.5,1.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-3.0,1.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,9.0,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-14.5,3.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-6.5,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,6.5,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-7.5,2.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,9.5,1.07
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-20.0,6.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-4.5,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-2.5,1.53
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-3.5,1.72
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-5.0,1.87
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-4.0,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-20.5,6.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-19.5,5.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-19.0,5.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,10.0,1.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-22.0,7.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-5.5,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-18.5,5.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-13.5,3.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,1.5,1.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-0.5,1.41
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-15.5,4.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,0.5,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,6.0,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,4.5,1.19
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-10.5,2.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-9.5,2.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-17.5,4.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-11.5,3.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-16.0,4.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-9.0,2.55
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-6.0,1.97
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,3.0,1.24
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-17.0,4.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-1.0,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-21.0,7.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-7.0,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-11.0,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,8.0,1.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-2.0,1.49
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,4.0,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-13.0,3.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,2.5,1.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,3.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-14.0,3.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-18.0,5.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-21.5,7.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-16.5,4.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-8.5,2.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,5.5,1.17
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-12.5,3.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-1.5,1.47
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,7.5,1.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-10.0,2.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-12.0,3.15
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,7.0,1.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,1.0,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-8.0,2.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,-15.0,4.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,5.0,1.17
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Houston Texans,2.0,1.32
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-8.5,8.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,3.0,2.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-9.0,8.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,14.5,1.26
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,6.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-6.5,5.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,7.5,1.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-9.5,8.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,20.0,1.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,4.5,1.97
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,2.5,2.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,3.5,2.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,5.0,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,4.0,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,20.5,1.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,19.5,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,19.0,1.14
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-10.0,9.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,22.0,1.09
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,5.5,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,18.5,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,13.5,1.32
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-1.5,3.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,0.5,2.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,15.5,1.24
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-0.5,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-6.0,5.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-4.5,4.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,10.5,1.42
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,9.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,17.5,1.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,11.5,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,16.0,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,9.0,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,6.0,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-3.0,4.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,17.0,1.19
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,1.0,2.85
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,21.0,1.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,7.0,1.67
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,11.0,1.38
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-8.0,8.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,2.0,2.63
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-4.0,4.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,13.0,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-2.5,3.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-3.5,4.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,14.0,1.27
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,18.0,1.16
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,21.5,1.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,16.5,1.21
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,8.5,1.53
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-5.5,5.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,12.5,1.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,1.5,2.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-7.5,7.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,10.0,1.44
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,12.0,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-7.0,7.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-1.0,3.15
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,8.0,1.55
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,15.0,1.24
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-5.0,5.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betrivers,alternate_spreads,Los Angeles Chargers,-2.0,3.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-6.0,1.95
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-6.5,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-5.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-7.5,2.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-7.0,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-2.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-2.0,1.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-1.5,1.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-8.0,2.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-8.5,2.55
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-1.0,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-9.0,2.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-9.5,2.65
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-10.0,2.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-10.5,2.9
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,1.0,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-11.0,3.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,1.5,1.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-11.5,3.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,2.0,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-12.0,3.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,2.5,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-12.5,3.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,3.0,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-13.0,3.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,3.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-13.5,3.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,4.0,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-14.0,4.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,4.5,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-14.5,4.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,5.0,1.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-15.0,4.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,5.5,1.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-15.5,4.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-3.5,1.69
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-4.0,1.74
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-3.0,1.57
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-4.5,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-5.0,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Houston Texans,-16.0,4.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,6.0,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,6.5,1.74
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,5.5,1.85
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,7.5,1.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,7.0,1.62
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,2.5,2.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,2.0,2.55
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,1.5,2.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,8.0,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,8.5,1.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,1.0,2.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,9.0,1.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,9.5,1.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,10.0,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,10.5,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-1.0,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,11.0,1.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-1.5,3.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,11.5,1.34
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-2.0,3.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,12.0,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-2.5,3.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,12.5,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-3.0,3.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,13.0,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-3.5,4.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,13.5,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-4.0,4.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,14.0,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-4.5,4.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,14.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-5.0,4.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,15.0,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,-5.5,4.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,15.5,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,3.5,2.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,4.0,2.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,3.0,2.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,4.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,5.0,1.98
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_spreads,Los Angeles Chargers,16.0,1.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,41.5,2.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,30.5,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,40.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,40.0,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,43.0,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,39.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,43.5,2.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,39.0,1.74
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,44.0,2.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,38.5,1.69
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,44.5,2.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,38.0,1.67
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,45.0,2.55
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,37.5,1.62
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,45.5,2.65
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,37.0,1.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,46.0,2.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,36.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,41.0,1.95
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,36.0,1.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,47.0,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,46.5,2.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,35.5,1.44
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,47.5,3.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,35.0,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,48.0,3.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,34.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,48.5,3.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,34.0,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,33.5,1.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,49.0,3.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,49.5,3.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,33.0,1.31
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,50.0,3.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,32.5,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,50.5,3.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,32.0,1.27
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,31.5,1.27
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,42.5,2.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,31.0,1.22
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Over,42.0,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,41.5,1.74
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,30.5,4.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,40.0,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,43.0,1.62
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,39.5,1.98
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,43.5,1.61
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,39.0,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,44.0,1.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,38.5,2.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,44.5,1.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,38.0,2.15
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,45.0,1.48
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,37.5,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,45.5,1.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,37.0,2.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,46.0,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,36.5,2.45
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,41.0,1.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,36.0,2.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,47.0,1.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,46.5,1.43
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,35.5,2.65
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,47.5,1.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,35.0,2.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,48.0,1.33
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,34.5,2.85
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,48.5,1.31
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,34.0,3.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,33.5,3.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,49.0,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,49.5,1.29
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,33.0,3.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,50.0,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,32.5,3.5
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,50.5,1.25
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,32.0,3.7
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,31.5,3.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,42.5,1.69
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,31.0,4.0
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,betmgm,alternate_totals,Under,42.0,1.71
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-7.5,2.3
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-7.0,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-3.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-5.0,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-6.0,2.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-4.0,1.82
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-5.5,1.96
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-6.5,2.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-4.5,1.89
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Houston Texans,-3.0,1.63
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,7.5,1.65
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,7.0,1.71
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,3.5,2.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,5.0,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,6.0,1.84
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,4.0,2.03
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,5.5,1.89
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,6.5,1.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,4.5,1.96
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_spreads,Los Angeles Chargers,3.0,2.35
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,41.0,1.97
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,39.0,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,42.0,2.06
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,42.5,2.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,40.5,1.91
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,41.5,2.02
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,39.5,1.81
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,40.0,1.86
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Over,38.5,1.74
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,41.0,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,39.0,2.1
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,42.0,1.8
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,42.5,1.77
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,40.5,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,41.5,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,39.5,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,40.0,1.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,coolbet,alternate_totals,Under,38.5,2.15
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-5.5,1.99
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-10.5,3.13
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-8.0,2.6
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-7.5,2.52
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-7.0,2.31
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-6.5,2.17
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-6.0,2.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-5.0,1.93
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-4.5,1.88
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-4.0,1.81
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-3.5,1.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,-3.0,1.64
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Houston Texans,3.5,1.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,5.5,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,10.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,8.0,1.54
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,7.5,1.57
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,7.0,1.67
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,6.5,1.76
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,6.0,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,5.0,1.95
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,4.5,2.01
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,4.0,2.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,3.5,2.17
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,3.0,2.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_spreads,Los Angeles Chargers,-3.5,4.75
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,40.5,1.97
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,33.5,1.4
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,38.0,1.68
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,38.5,1.72
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,39.0,1.78
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,39.5,1.83
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,40.0,1.89
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,41.0,2.04
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,41.5,2.11
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,42.0,2.19
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,42.5,2.28
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,43.0,2.36
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Over,47.5,3.18
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,40.5,1.92
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,33.5,3.08
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,38.0,2.28
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,38.5,2.2
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,39.0,2.12
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,39.5,2.05
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,40.0,1.98
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,41.0,1.84
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,41.5,1.78
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,42.0,1.73
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,42.5,1.68
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,43.0,1.64
+2026-11-08T20:45:42Z,closing,39aeac43cea7b12558b91cdab1255a10,2026-11-08T21:05:00Z,Los Angeles Chargers,Houston Texans,pinnacle,alternate_totals,Under,47.5,1.38
