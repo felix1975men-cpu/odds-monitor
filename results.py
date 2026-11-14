@@ -15,6 +15,7 @@ import os
 import csv
 import json
 import sys
+import time
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -40,12 +41,23 @@ HEADER = ["event_id", "completed_utc", "commence_utc", "home", "away",
 def api_get(path, **params):
     params["apiKey"] = os.environ["ODDS_API_KEY"]
     url = "%s%s?%s" % (API, path, urllib.parse.urlencode(params))
-    try:
-        with urllib.request.urlopen(url, timeout=60) as r:
-            return json.loads(r.read().decode("utf-8")), r.headers.get("x-requests-remaining")
-    except urllib.error.HTTPError as e:
-        print("API error %s: %s" % (e.code, e.read().decode("utf-8")[:300]))
-        sys.exit(1)
+    # обрыв соединения (Errno 104 и т.п.) бывает разовым: пробуем до 4 раз
+    last = None
+    for attempt in range(1, 5):
+        try:
+            with urllib.request.urlopen(url, timeout=60) as r:
+                return json.loads(r.read().decode("utf-8")), r.headers.get("x-requests-remaining")
+        except urllib.error.HTTPError as e:
+            if e.code < 500 and e.code != 429:
+                print("API error %s: %s" % (e.code, e.read().decode("utf-8")[:300]))
+                sys.exit(1)
+            last = "HTTP %s" % e.code
+        except Exception as e:
+            last = e
+        print("API attempt %d failed: %s" % (attempt, last))
+        time.sleep(5 * attempt)
+    print("API failed after 4 attempts: %s" % last)
+    sys.exit(1)
 
 
 def tg_send(text):
