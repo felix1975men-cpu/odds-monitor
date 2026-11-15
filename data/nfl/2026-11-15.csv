@@ -693,3 +693,837 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-11-15T07:08:55Z,scheduled,35e3bdff558b5d1506251e814986f164,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,matchbook,spreads,Los Angeles Chargers,4.0,1.98
 2026-11-15T07:08:55Z,scheduled,35e3bdff558b5d1506251e814986f164,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,matchbook,totals,Over,38.5,1.86
 2026-11-15T07:08:55Z,scheduled,35e3bdff558b5d1506251e814986f164,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,matchbook,totals,Under,38.5,1.99
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,h2h,Detroit Lions,,1.68
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,h2h,New England Patriots,,2.24
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,spreads,Detroit Lions,-2.5,1.83
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,spreads,New England Patriots,2.5,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,totals,Over,50.5,1.87
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,totals,Under,50.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,h2h,Detroit Lions,,1.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,h2h,New England Patriots,,2.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,spreads,Detroit Lions,-2.5,1.87
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,spreads,New England Patriots,2.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,totals,Over,50.5,1.83
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,totals,Under,50.5,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,h2h,Detroit Lions,,1.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,h2h,New England Patriots,,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,spreads,Detroit Lions,-2.5,1.87
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,spreads,New England Patriots,2.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,totals,Over,51.0,1.91
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,totals,Under,51.0,1.93
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betsson,h2h,Detroit Lions,,1.68
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betsson,h2h,New England Patriots,,2.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betsson,spreads,Detroit Lions,-2.5,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betsson,spreads,New England Patriots,2.5,1.92
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betsson,totals,Over,50.5,1.86
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betsson,totals,Under,50.5,1.94
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,h2h,Detroit Lions,,1.68
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,h2h,New England Patriots,,2.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,spreads,Detroit Lions,-2.5,1.89
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,spreads,New England Patriots,2.5,1.91
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,totals,Over,50.5,1.85
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,totals,Under,50.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,h2h,Detroit Lions,,1.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,h2h,New England Patriots,,2.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,h2h_lay,Detroit Lions,,1.73
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,h2h_lay,New England Patriots,,2.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,spreads,Detroit Lions,-2.5,1.92
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,spreads,New England Patriots,2.5,2.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,totals,Over,51.5,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,matchbook,totals,Under,51.5,1.98
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,h2h,Detroit Lions,,1.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,h2h,New England Patriots,,2.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,spreads,Detroit Lions,-2.5,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,spreads,New England Patriots,2.5,2.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,totals,Over,51.0,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,totals,Under,51.0,2.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,h2h,Detroit Lions,,1.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,h2h,New England Patriots,,2.32
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,spreads,Detroit Lions,-2.5,1.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,spreads,New England Patriots,2.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,totals,Over,51.0,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,totals,Under,51.0,1.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betfair_ex_eu,h2h,Detroit Lions,,1.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betfair_ex_eu,h2h,New England Patriots,,2.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betfair_ex_eu,h2h_lay,Detroit Lions,,1.73
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betfair_ex_eu,h2h_lay,New England Patriots,,2.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,21.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,20.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,19.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,18.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,17.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,16.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,15.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,14.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,13.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,12.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,11.5,1.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,10.5,1.13
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,9.5,1.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,8.5,1.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,7.5,1.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,6.5,1.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,5.5,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,4.5,1.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,3.5,1.39
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,2.5,1.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,1.5,1.58
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-1.5,1.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-3.5,2.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-4.5,2.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-5.5,2.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-6.5,2.55
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-7.5,2.98
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-8.5,3.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-9.5,3.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-10.5,3.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-11.5,3.98
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-12.5,4.23
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-13.5,4.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-14.5,5.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-15.5,5.55
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-16.5,5.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-17.5,6.71
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-18.5,7.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-19.5,7.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-20.5,8.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-21.5,9.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-22.5,10.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-23.5,11.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-24.5,12.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,Detroit Lions,-25.5,13.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-21.5,13.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-20.5,12.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-19.5,11.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-18.5,10.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-17.5,9.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-16.5,8.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-15.5,8.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-14.5,7.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-13.5,6.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-12.5,6.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-11.5,5.76
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-10.5,5.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-9.5,4.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-8.5,4.51
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-7.5,4.21
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-6.5,3.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-5.5,3.24
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-4.5,3.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-3.5,2.85
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-2.5,2.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,-1.5,2.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,1.5,2.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,3.5,1.64
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,4.5,1.59
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,5.5,1.53
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,6.5,1.47
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,7.5,1.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,8.5,1.33
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,9.5,1.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,10.5,1.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,11.5,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,12.5,1.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,13.5,1.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,14.5,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,15.5,1.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,16.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,17.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,18.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,19.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,20.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,21.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,22.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,23.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,24.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_spreads,New England Patriots,25.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,28.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,29.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,30.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,31.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,32.5,1.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,33.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,34.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,35.5,1.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,36.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,37.5,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,38.5,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,39.5,1.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,40.5,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,41.5,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,42.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,43.5,1.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,44.5,1.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,45.5,1.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,46.5,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,47.5,1.59
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,48.5,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,49.5,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,51.5,1.97
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,52.5,2.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,53.5,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,54.5,2.33
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,55.5,2.52
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,56.5,2.66
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,57.5,2.91
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,58.5,3.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,59.5,3.39
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,60.5,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,61.5,3.98
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,62.5,4.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,63.5,4.68
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,64.5,5.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,65.5,5.68
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,66.5,6.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,67.5,6.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,68.5,7.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,69.5,8.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,70.5,8.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,71.5,9.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,72.5,10.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,73.5,11.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,74.5,12.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,75.5,13.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Over,76.5,14.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,28.5,13.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,29.5,12.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,30.5,10.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,31.5,9.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,32.5,9.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,33.5,8.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,34.5,7.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,35.5,6.77
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,36.5,6.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,37.5,5.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,38.5,4.91
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,39.5,4.46
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,40.5,4.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,41.5,3.62
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,42.5,3.39
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,43.5,3.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,44.5,2.81
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,45.5,2.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,46.5,2.47
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,47.5,2.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,48.5,2.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,49.5,2.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,51.5,1.78
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,52.5,1.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,53.5,1.62
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,54.5,1.56
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,55.5,1.49
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,56.5,1.44
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,57.5,1.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,58.5,1.33
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,59.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,60.5,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,61.5,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,62.5,1.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,63.5,1.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,64.5,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,65.5,1.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,66.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,67.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,68.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,69.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,70.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,71.5,1.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,72.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,73.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,74.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,75.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,draftkings,alternate_totals,Under,76.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-28.5,26.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-27.5,21.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-26.5,18.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-25.5,16.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-24.5,15.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-23.5,14.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-22.5,13.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-21.5,12.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-20.5,10.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-19.5,9.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-18.5,9.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-17.5,7.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-16.5,6.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-15.5,6.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-14.5,5.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-13.5,5.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-12.5,4.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-11.5,4.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-10.5,4.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-9.5,3.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-8.5,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-7.5,3.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-6.5,2.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-5.5,2.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-4.5,2.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-3.5,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-2.5,1.87
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,-1.5,1.78
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,1.5,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,2.5,1.56
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,3.5,1.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,4.5,1.32
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,5.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,6.5,1.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,7.5,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,8.5,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,9.5,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,10.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,11.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,12.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,13.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,14.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,15.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,16.5,1.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,17.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,18.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,19.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,20.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,21.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,22.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,Detroit Lions,23.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,28.5,1.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,27.5,1.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,26.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,25.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,24.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,23.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,22.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,21.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,20.5,1.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,19.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,18.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,17.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,16.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,15.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,14.5,1.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,13.5,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,12.5,1.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,11.5,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,10.5,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,9.5,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,8.5,1.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,7.5,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,6.5,1.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,5.5,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,4.5,1.56
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,3.5,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,2.5,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,1.5,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-1.5,2.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-2.5,2.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-3.5,3.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-4.5,3.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-5.5,3.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-6.5,3.85
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-7.5,4.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-8.5,5.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-9.5,5.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-10.5,6.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-11.5,6.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-12.5,7.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-13.5,7.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-14.5,9.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-15.5,9.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-16.5,10.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-17.5,11.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-18.5,13.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-19.5,14.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-20.5,15.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-21.5,16.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-22.5,18.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_spreads,New England Patriots,-23.5,19.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,23.5,1.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,24.5,1.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,25.5,1.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,26.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,27.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,28.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,29.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,30.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,31.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,32.5,1.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,33.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,34.5,1.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,35.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,36.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,37.5,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,38.5,1.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,39.5,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,40.5,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,41.5,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,42.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,43.5,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,44.5,1.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,45.5,1.44
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,46.5,1.49
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,47.5,1.57
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,48.5,1.63
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,49.5,1.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,50.5,1.82
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,51.5,1.96
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,52.5,2.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,53.5,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,54.5,2.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,55.5,2.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,56.5,2.64
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,57.5,2.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,58.5,3.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,59.5,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,60.5,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,61.5,4.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,62.5,4.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,63.5,4.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,64.5,5.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,65.5,5.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,66.5,6.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,67.5,6.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,68.5,7.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,69.5,8.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,70.5,9.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,71.5,9.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,72.5,11.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,73.5,11.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,74.5,12.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,75.5,14.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,76.5,15.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,77.5,16.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,78.5,16.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,79.5,18.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Over,80.5,21.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,23.5,31.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,24.5,26.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,25.5,21.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,26.5,18.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,27.5,16.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,28.5,15.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,29.5,14.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,30.5,12.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,31.5,11.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,32.5,10.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,33.5,9.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,34.5,7.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,35.5,7.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,36.5,6.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,37.5,5.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,38.5,5.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,39.5,4.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,40.5,4.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,41.5,3.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,42.5,3.55
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,43.5,3.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,44.5,2.96
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,45.5,2.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,46.5,2.58
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,47.5,2.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,48.5,2.24
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,49.5,2.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,50.5,1.96
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,51.5,1.82
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,52.5,1.72
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,53.5,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,54.5,1.58
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,55.5,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,56.5,1.47
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,57.5,1.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,58.5,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,59.5,1.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,60.5,1.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,61.5,1.23
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,62.5,1.21
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,63.5,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,64.5,1.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,65.5,1.13
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,66.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,67.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,68.5,1.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,69.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,70.5,1.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,71.5,1.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,72.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,73.5,1.03
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,74.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,75.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,76.5,1.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,77.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,78.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,79.5,1.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,fanduel,alternate_totals,Under,80.5,1.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,1.0,1.57
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-1.0,1.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-1.5,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-2.0,1.77
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-2.5,1.87
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-3.0,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-3.5,2.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-4.0,2.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-4.5,2.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-5.0,2.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-5.5,2.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-6.0,2.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-6.5,2.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,1.5,1.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,2.0,1.53
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,2.5,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-7.0,3.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-7.5,3.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,3.0,1.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-8.0,3.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,3.5,1.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,4.0,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-8.5,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-9.0,3.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,4.5,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-9.5,3.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,5.0,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,5.5,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-10.0,4.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-10.5,4.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,6.0,1.24
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-11.0,4.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,6.5,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-11.5,4.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-12.0,4.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,7.0,1.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,7.5,1.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-12.5,4.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,-13.0,5.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,8.0,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,Detroit Lions,8.5,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-1.0,2.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,1.0,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,1.5,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,2.0,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,2.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,3.0,1.77
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,3.5,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,4.0,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,4.5,1.57
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,5.0,1.53
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,5.5,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,6.0,1.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,6.5,1.44
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-1.5,2.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-2.0,2.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-2.5,2.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,7.0,1.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,7.5,1.33
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-3.0,2.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,8.0,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-3.5,3.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-4.0,3.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,8.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,9.0,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-4.5,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,9.5,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-5.0,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-5.5,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,10.0,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,10.5,1.21
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-6.0,3.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,11.0,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-6.5,4.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,11.5,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,12.0,1.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-7.0,4.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-7.5,5.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,12.5,1.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,13.0,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-8.0,5.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_spreads,New England Patriots,-8.5,5.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,49.5,1.71
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,50.5,1.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,50.0,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,51.0,1.91
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,51.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,52.5,2.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,52.0,1.98
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,49.0,1.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,53.0,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,48.5,1.67
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,53.5,2.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,54.0,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,48.0,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,47.5,1.57
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,54.5,2.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,47.0,1.53
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,55.0,2.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,46.5,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,55.5,2.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,46.0,1.48
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,56.0,2.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,45.5,1.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,56.5,2.55
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,45.0,1.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,57.0,2.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,44.5,1.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,57.5,2.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,58.0,2.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,44.0,1.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,43.5,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,43.0,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,58.5,3.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,59.0,3.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,42.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,59.5,3.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,42.0,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,60.0,3.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,41.5,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,60.5,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,41.0,1.24
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Over,61.0,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,49.5,2.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,50.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,50.0,2.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,51.0,1.93
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,51.5,1.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,52.5,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,52.0,1.77
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,49.0,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,53.0,1.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,48.5,2.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,53.5,1.67
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,54.0,1.62
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,48.0,2.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,47.5,2.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,54.5,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,47.0,2.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,55.0,1.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,46.5,2.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,55.5,1.53
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,46.0,2.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,56.0,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,45.5,2.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,56.5,1.48
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,45.0,2.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,57.0,1.44
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,44.5,2.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,57.5,1.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,58.0,1.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,44.0,3.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,43.5,3.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,43.0,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,58.5,1.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,59.0,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,42.5,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,59.5,1.33
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,42.0,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,60.0,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,41.5,3.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,60.5,1.31
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,41.0,3.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betmgm,alternate_totals,Under,61.0,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-2.0,1.83
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-9.5,3.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-3.0,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,1.5,1.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-4.0,2.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,12.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,11.5,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,7.0,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,3.5,1.38
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,4.5,1.32
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,13.0,1.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,5.5,1.29
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-3.5,2.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-2.5,1.89
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,6.0,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-0.5,1.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,9.5,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,0.5,1.67
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,10.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-6.0,2.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,3.0,1.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,5.0,1.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,10.0,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,12.0,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-7.0,3.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-9.0,3.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,8.5,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,8.0,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,4.0,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-6.5,2.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-7.5,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-14.0,6.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-11.5,4.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-12.5,5.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-12.0,5.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-11.0,4.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-13.0,5.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-1.5,1.78
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,1.0,1.63
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-5.0,2.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-8.0,3.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-5.5,2.63
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,2.0,1.56
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,9.0,1.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-8.5,3.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,11.0,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,7.5,1.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,2.5,1.53
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-1.0,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-4.5,2.48
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,6.5,1.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-15.0,6.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-14.5,6.25
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-16.5,7.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-16.0,7.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-13.5,5.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-10.0,4.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-10.5,4.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-15.5,6.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,Detroit Lions,-17.0,8.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,2.0,1.97
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,9.5,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,3.0,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-1.5,2.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,4.0,1.56
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-12.5,7.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-11.5,7.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-7.0,4.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-3.5,3.05
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-4.5,3.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-13.0,8.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-5.5,3.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,3.5,1.62
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,2.5,1.91
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-6.0,3.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,0.5,2.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-9.5,5.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-0.5,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-10.5,6.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,6.0,1.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-3.0,2.85
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-5.0,3.55
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-10.0,6.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-12.0,7.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,7.0,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,9.0,1.26
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-8.5,5.6
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-8.0,5.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-4.0,3.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,6.5,1.41
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,7.5,1.32
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,14.0,1.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,11.5,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,12.5,1.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,12.0,1.17
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,11.0,1.19
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,13.0,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,1.5,2.04
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-1.0,2.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,5.0,1.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,8.0,1.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,5.5,1.49
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-2.0,2.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-9.0,5.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,8.5,1.27
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-11.0,7.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-7.5,4.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-2.5,2.5
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,1.0,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,4.5,1.54
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,-6.5,4.0
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,15.0,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,14.5,1.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,16.5,1.09
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,16.0,1.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,13.5,1.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,10.0,1.22
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,10.5,1.21
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,15.5,1.11
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,betrivers,alternate_spreads,New England Patriots,17.0,1.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-2.5,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,3.5,1.35
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,1.5,1.62
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,1.0,1.66
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-1.0,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-1.5,1.79
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-2.0,1.84
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-3.0,2.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-3.5,2.28
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-4.0,2.36
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-4.5,2.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-5.0,2.51
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,Detroit Lions,-7.5,3.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,2.5,2.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,-3.5,3.39
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,-1.5,2.39
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,-1.0,2.33
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,1.0,2.18
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,1.5,2.12
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,2.0,2.07
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,3.0,1.83
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,3.5,1.69
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,4.0,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,4.5,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,5.0,1.57
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_spreads,New England Patriots,7.5,1.34
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,51.0,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,44.5,1.39
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,48.5,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,49.0,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,49.5,1.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,50.0,1.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,50.5,1.81
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,51.5,1.94
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,52.0,2.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,52.5,2.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,53.0,2.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,53.5,2.24
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Over,57.5,2.89
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,51.0,2.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,44.5,3.14
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,48.5,2.41
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,49.0,2.32
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,49.5,2.23
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,50.0,2.16
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,50.5,2.08
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,51.5,1.93
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,52.0,1.86
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,52.5,1.81
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,53.0,1.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,53.5,1.7
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,pinnacle,alternate_totals,Under,57.5,1.45
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-3.0,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-1.5,1.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-4.0,2.43
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-3.5,2.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,1.5,1.61
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,2.0,1.57
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-2.0,1.84
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,1.0,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-2.5,1.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,Detroit Lions,-1.0,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,3.0,1.77
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,1.5,2.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,4.0,1.59
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,3.5,1.65
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,-1.5,2.4
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,-2.0,2.48
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,2.0,2.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,-1.0,2.3
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,2.5,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_spreads,New England Patriots,1.0,2.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,50.0,1.83
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,53.0,2.15
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,53.5,2.2
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,52.0,2.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,49.5,1.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,49.0,1.75
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,50.5,1.88
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,51.5,2.01
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,51.0,1.95
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Over,52.5,2.1
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,50.0,2.02
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,53.0,1.74
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,53.5,1.71
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,52.0,1.8
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,49.5,2.06
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,49.0,2.13
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,50.5,1.97
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,51.5,1.84
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,51.0,1.9
+2026-11-15T14:10:20Z,closing,b8c10fdf1e0ac4e13deee7f7c0af0b0b,2026-11-15T14:30:00Z,Detroit Lions,New England Patriots,coolbet,alternate_totals,Under,52.5,1.77
