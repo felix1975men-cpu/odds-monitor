@@ -1954,3 +1954,731 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-11-17T21:08:48Z,scheduled,a3e6d9189d7bb72b7c8ada9993fe63f2,2026-11-19T00:40:00Z,New Jersey Devils,Montréal Canadiens,betsson,h2h,New Jersey Devils,,1.51
 2026-11-17T21:08:48Z,scheduled,a3e6d9189d7bb72b7c8ada9993fe63f2,2026-11-19T00:40:00Z,New Jersey Devils,Montréal Canadiens,betsson,spreads,Montréal Canadiens,1.5,1.58
 2026-11-17T21:08:48Z,scheduled,a3e6d9189d7bb72b7c8ada9993fe63f2,2026-11-19T00:40:00Z,New Jersey Devils,Montréal Canadiens,betsson,spreads,New Jersey Devils,-1.5,2.38
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,h2h,Boston Bruins,,1.6
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,h2h,Los Angeles Kings,,2.4
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,spreads,Boston Bruins,-1.5,2.5
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,spreads,Los Angeles Kings,1.5,1.56
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,totals,Over,6.5,2.14
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,totals,Under,6.5,1.74
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betrivers,h2h,Boston Bruins,,1.61
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betrivers,h2h,Los Angeles Kings,,2.38
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betrivers,spreads,Boston Bruins,-1.5,2.55
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betrivers,spreads,Los Angeles Kings,1.5,1.51
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betrivers,totals,Over,5.5,1.74
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betrivers,totals,Under,5.5,2.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,h2h,Boston Bruins,,1.61
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,h2h,Los Angeles Kings,,2.36
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,spreads,Boston Bruins,-1.5,2.52
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,spreads,Los Angeles Kings,1.5,1.53
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,totals,Over,6.5,2.08
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,totals,Under,6.5,1.76
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betsson,h2h,Boston Bruins,,1.61
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betsson,h2h,Los Angeles Kings,,2.31
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betsson,spreads,Boston Bruins,-1.5,2.42
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betsson,spreads,Los Angeles Kings,1.5,1.56
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betmgm,h2h,Boston Bruins,,1.61
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betmgm,h2h,Los Angeles Kings,,2.4
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betmgm,spreads,Boston Bruins,-1.5,2.5
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betmgm,spreads,Los Angeles Kings,1.5,1.56
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betmgm,totals,Over,6.0,1.91
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,betmgm,totals,Under,6.0,1.91
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,h2h,Boston Bruins,,1.65
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,h2h,Los Angeles Kings,,2.39
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,spreads,Boston Bruins,-1.5,2.63
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,spreads,Los Angeles Kings,1.5,1.54
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,totals,Over,6.0,1.94
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,totals,Under,6.0,1.94
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,h2h,Boston Bruins,,1.69
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,h2h,Los Angeles Kings,,2.42
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,h2h_lay,Boston Bruins,,1.7
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,h2h_lay,Los Angeles Kings,,2.44
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,spreads,Boston Bruins,-1.5,2.62
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,spreads,Los Angeles Kings,1.5,1.57
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,totals,Over,6.5,2.22
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,matchbook,totals,Under,6.5,1.77
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,h2h_3way,Boston Bruins,,1.99
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,h2h_3way,Los Angeles Kings,,3.15
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,h2h_3way,Draw,,4.3
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,spreads,Boston Bruins,-1.5,2.55
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,spreads,Los Angeles Kings,1.5,1.52
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,totals,Over,5.5,1.73
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,totals,Under,5.5,2.12
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,h2h,Buffalo Sabres,,1.8
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,h2h,Philadelphia Flyers,,2.05
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,spreads,Buffalo Sabres,-1.5,3.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,spreads,Philadelphia Flyers,1.5,1.41
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,totals,Over,6.5,2.02
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,totals,Under,6.5,1.82
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betrivers,h2h,Buffalo Sabres,,1.8
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betrivers,h2h,Philadelphia Flyers,,2.06
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betrivers,spreads,Buffalo Sabres,-1.5,2.95
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betrivers,spreads,Philadelphia Flyers,1.5,1.4
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betrivers,totals,Over,6.5,2.07
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betrivers,totals,Under,6.5,1.76
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,h2h,Buffalo Sabres,,1.77
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,h2h,Philadelphia Flyers,,2.08
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,spreads,Buffalo Sabres,-1.5,2.84
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,spreads,Philadelphia Flyers,1.5,1.43
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,totals,Over,6.5,1.98
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,totals,Under,6.5,1.83
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betsson,h2h,Buffalo Sabres,,1.77
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betsson,h2h,Philadelphia Flyers,,2.05
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betsson,spreads,Buffalo Sabres,-1.5,2.85
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betsson,spreads,Philadelphia Flyers,1.5,1.42
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,h2h,Buffalo Sabres,,1.77
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,h2h,Philadelphia Flyers,,2.1
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,spreads,Buffalo Sabres,-1.5,2.85
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,spreads,Philadelphia Flyers,1.5,1.44
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,totals,Over,6.5,1.98
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,totals,Under,6.5,1.85
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,h2h,Buffalo Sabres,,1.81
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,h2h,Philadelphia Flyers,,2.12
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,spreads,Buffalo Sabres,-1.5,3.01
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,spreads,Philadelphia Flyers,1.5,1.43
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,totals,Over,6.5,2.02
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,totals,Under,6.5,1.88
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,h2h,Buffalo Sabres,,1.82
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,h2h,Philadelphia Flyers,,2.18
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,h2h_lay,Buffalo Sabres,,1.85
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,h2h_lay,Philadelphia Flyers,,2.22
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,spreads,Buffalo Sabres,-1.5,3.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,spreads,Philadelphia Flyers,1.5,1.44
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,totals,Over,6.5,2.04
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,matchbook,totals,Under,6.5,1.91
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,h2h_3way,Buffalo Sabres,,2.26
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,h2h_3way,Philadelphia Flyers,,2.63
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,h2h_3way,Draw,,4.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,spreads,Buffalo Sabres,-1.5,2.93
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,spreads,Philadelphia Flyers,1.5,1.41
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,totals,Over,5.5,1.65
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,totals,Under,5.5,2.25
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,h2h,Columbus Blue Jackets,,2.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,h2h,New York Islanders,,1.83
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,spreads,Columbus Blue Jackets,1.5,1.42
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,spreads,New York Islanders,-1.5,2.95
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,totals,Over,5.5,1.87
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,totals,Under,5.5,1.95
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betrivers,h2h,Columbus Blue Jackets,,2.06
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betrivers,h2h,New York Islanders,,1.8
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betrivers,spreads,Columbus Blue Jackets,1.5,1.38
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betrivers,spreads,New York Islanders,-1.5,3.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betrivers,totals,Over,5.5,1.78
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betrivers,totals,Under,5.5,2.04
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,h2h,Columbus Blue Jackets,,2.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,h2h,New York Islanders,,1.83
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,spreads,Columbus Blue Jackets,1.5,1.38
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,spreads,New York Islanders,-1.5,3.1
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,totals,Over,5.5,1.85
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,totals,Under,5.5,1.96
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betsson,h2h,Columbus Blue Jackets,,1.98
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betsson,h2h,New York Islanders,,1.83
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betsson,spreads,Columbus Blue Jackets,1.5,1.44
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betsson,spreads,New York Islanders,-1.5,2.8
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betmgm,h2h,Columbus Blue Jackets,,2.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betmgm,h2h,New York Islanders,,1.83
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betmgm,spreads,Columbus Blue Jackets,1.5,1.43
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betmgm,spreads,New York Islanders,-1.5,2.95
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betmgm,totals,Over,5.5,1.85
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,betmgm,totals,Under,5.5,1.98
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,h2h,Columbus Blue Jackets,,2.03
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,h2h,New York Islanders,,1.88
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,spreads,Columbus Blue Jackets,1.5,1.4
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,spreads,New York Islanders,-1.5,3.16
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,totals,Over,5.5,1.91
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,totals,Under,5.5,1.98
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,h2h,Columbus Blue Jackets,,2.06
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,h2h,New York Islanders,,1.91
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,h2h_lay,Columbus Blue Jackets,,2.1
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,h2h_lay,New York Islanders,,1.95
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,spreads,Columbus Blue Jackets,1.5,1.4
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,spreads,New York Islanders,-1.5,3.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,totals,Over,5.5,1.94
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,matchbook,totals,Under,5.5,2.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,h2h_3way,Columbus Blue Jackets,,2.63
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,h2h_3way,New York Islanders,,2.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,h2h_3way,Draw,,4.2
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,spreads,Columbus Blue Jackets,1.5,1.38
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,spreads,New York Islanders,-1.5,3.07
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,totals,Over,5.5,1.82
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,totals,Under,5.5,2.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,h2h,Edmonton Oilers,,2.14
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,h2h,Florida Panthers,,1.74
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,spreads,Edmonton Oilers,1.5,1.43
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,spreads,Florida Panthers,-1.5,2.9
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,totals,Over,5.5,1.77
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,totals,Under,5.5,2.1
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betrivers,h2h,Edmonton Oilers,,2.07
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betrivers,h2h,Florida Panthers,,1.79
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betrivers,spreads,Edmonton Oilers,1.5,1.4
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betrivers,spreads,Florida Panthers,-1.5,2.95
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betrivers,totals,Over,6.5,2.06
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betrivers,totals,Under,6.5,1.76
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,h2h,Edmonton Oilers,,2.12
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,h2h,Florida Panthers,,1.75
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,spreads,Edmonton Oilers,1.5,1.45
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,spreads,Florida Panthers,-1.5,2.76
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,totals,Over,5.5,1.72
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,totals,Under,5.5,2.12
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betsson,h2h,Edmonton Oilers,,2.08
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betsson,h2h,Florida Panthers,,1.75
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betsson,spreads,Edmonton Oilers,1.5,1.44
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betsson,spreads,Florida Panthers,-1.5,2.8
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betmgm,h2h,Edmonton Oilers,,2.15
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betmgm,h2h,Florida Panthers,,1.74
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betmgm,spreads,Edmonton Oilers,1.5,1.43
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betmgm,spreads,Florida Panthers,-1.5,2.95
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betmgm,totals,Over,6.0,1.91
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,betmgm,totals,Under,6.0,1.91
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,h2h,Edmonton Oilers,,2.14
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,h2h,Florida Panthers,,1.79
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,spreads,Edmonton Oilers,1.5,1.44
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,spreads,Florida Panthers,-1.5,2.98
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,totals,Over,6.0,1.97
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,totals,Under,6.0,1.92
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,h2h,Edmonton Oilers,,2.18
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,h2h,Florida Panthers,,1.81
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,h2h_lay,Edmonton Oilers,,2.22
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,h2h_lay,Florida Panthers,,1.85
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,spreads,Edmonton Oilers,1.5,1.46
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,spreads,Florida Panthers,-1.5,3.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,totals,Over,5.5,1.84
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,matchbook,totals,Under,5.5,2.16
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,h2h_3way,Edmonton Oilers,,2.74
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,h2h_3way,Florida Panthers,,2.26
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,h2h_3way,Draw,,4.2
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,spreads,Edmonton Oilers,1.5,1.41
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,spreads,Florida Panthers,-1.5,2.93
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,totals,Over,5.5,1.73
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,totals,Under,5.5,2.12
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,h2h,Ottawa Senators,,1.74
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,h2h,Winnipeg Jets,,2.14
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,spreads,Ottawa Senators,-1.5,2.95
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,spreads,Winnipeg Jets,1.5,1.42
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,totals,Over,5.5,1.77
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,totals,Under,5.5,2.1
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betrivers,h2h,Ottawa Senators,,1.76
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betrivers,h2h,Winnipeg Jets,,2.12
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betrivers,spreads,Ottawa Senators,-1.5,2.9
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betrivers,spreads,Winnipeg Jets,1.5,1.41
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betrivers,totals,Over,5.5,1.78
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betrivers,totals,Under,5.5,2.04
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,h2h,Ottawa Senators,,1.71
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,h2h,Winnipeg Jets,,2.16
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,spreads,Ottawa Senators,-1.5,2.84
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,spreads,Winnipeg Jets,1.5,1.43
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,totals,Over,5.5,1.85
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,totals,Under,5.5,1.96
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betsson,h2h,Ottawa Senators,,1.72
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betsson,h2h,Winnipeg Jets,,2.12
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betsson,spreads,Ottawa Senators,-1.5,2.7
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betsson,spreads,Winnipeg Jets,1.5,1.46
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betmgm,h2h,Ottawa Senators,,1.74
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betmgm,h2h,Winnipeg Jets,,2.15
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betmgm,spreads,Ottawa Senators,-1.5,2.95
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betmgm,spreads,Winnipeg Jets,1.5,1.43
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betmgm,totals,Over,6.0,2.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,betmgm,totals,Under,6.0,1.83
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,h2h,Ottawa Senators,,1.73
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,h2h,Winnipeg Jets,,2.24
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,spreads,Ottawa Senators,-1.5,2.91
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,spreads,Winnipeg Jets,1.5,1.45
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,totals,Over,5.5,1.87
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,totals,Under,5.5,2.03
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,h2h,Ottawa Senators,,1.78
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,h2h,Winnipeg Jets,,2.26
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,h2h_lay,Ottawa Senators,,1.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,h2h_lay,Winnipeg Jets,,2.28
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,spreads,Ottawa Senators,-1.5,3.05
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,spreads,Winnipeg Jets,1.5,1.44
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,totals,Over,5.5,1.9
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,matchbook,totals,Under,5.5,2.06
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,h2h_3way,Ottawa Senators,,2.2
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,h2h_3way,Winnipeg Jets,,2.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,h2h_3way,Draw,,4.2
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,spreads,Ottawa Senators,-1.5,2.85
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,spreads,Winnipeg Jets,1.5,1.43
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,totals,Over,5.5,1.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,totals,Under,5.5,2.02
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Boston Bruins,3.5,1.04
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Boston Bruins,2.5,1.12
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Boston Bruins,1.5,1.24
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Boston Bruins,-2.5,3.45
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Boston Bruins,-3.5,6.75
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Los Angeles Kings,-3.5,11.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Los Angeles Kings,-2.5,5.6
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Los Angeles Kings,-1.5,3.75
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Los Angeles Kings,2.5,1.29
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_spreads,Los Angeles Kings,3.5,1.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Over,3.5,1.12
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Over,4.5,1.23
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Over,5.5,1.67
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Over,7.5,3.55
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Over,8.5,4.8
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Over,9.5,9.5
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Under,3.5,5.8
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Under,4.5,3.9
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Under,5.5,2.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Under,7.5,1.27
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Under,8.5,1.16
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,draftkings,alternate_totals,Under,9.5,1.05
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,1.5,1.22
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,2.5,1.11
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,3.5,1.03
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,-1.5,2.48
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,-2.5,3.45
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,-3.5,7.3
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,-4.5,16.5
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Boston Bruins,-5.5,47.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,1.5,1.53
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,2.5,1.29
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,3.5,1.08
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,4.5,1.03
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,-1.5,4.2
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,-2.5,6.3
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,-3.5,14.8
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_spreads,Los Angeles Kings,-4.5,47.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,2.5,1.02
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,3.5,1.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,4.5,1.21
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,5.5,1.65
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,6.5,2.06
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,7.5,3.5
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,8.5,5.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,9.5,10.6
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,10.5,15.8
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,11.5,37.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Over,12.5,61.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,2.5,26.0
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,3.5,6.7
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,4.5,4.3
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,5.5,2.22
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,6.5,1.75
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,7.5,1.29
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,8.5,1.15
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,9.5,1.06
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,10.5,1.03
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,fanduel,alternate_totals,Under,11.5,1.01
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Boston Bruins,-1.5,2.63
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Boston Bruins,2.5,1.12
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Boston Bruins,1.5,1.23
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Boston Bruins,-2.5,3.71
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Los Angeles Kings,1.5,1.54
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Los Angeles Kings,-2.5,6.43
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Los Angeles Kings,-1.5,4.26
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_spreads,Los Angeles Kings,2.5,1.29
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Over,6.0,1.94
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Over,5.0,1.36
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Over,5.5,1.75
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Over,6.5,2.16
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Over,7.0,3.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Over,8.5,5.3
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Under,6.0,1.94
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Under,5.0,3.29
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Under,5.5,2.15
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Under,6.5,1.74
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Under,7.0,1.4
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,pinnacle,alternate_totals,Under,8.5,1.18
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Boston Bruins,-2.5,3.8
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Boston Bruins,1.5,1.22
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Boston Bruins,-1.5,2.55
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Boston Bruins,2.5,1.12
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Los Angeles Kings,2.5,1.27
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Los Angeles Kings,-1.5,4.3
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Los Angeles Kings,1.5,1.52
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_spreads,Los Angeles Kings,-2.5,6.4
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Over,5.5,1.73
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Over,4.5,1.37
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Over,8.5,6.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Over,7.5,3.65
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Over,3.5,1.14
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Over,6.5,2.47
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Under,5.5,2.12
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Under,4.5,3.1
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Under,8.5,1.13
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Under,7.5,1.29
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Under,3.5,5.8
+2026-11-17T23:50:32Z,closing,5cfe0dc8ffa69bdd676d878da0ae62fb,2026-11-18T00:10:00Z,Boston Bruins,Los Angeles Kings,coolbet,alternate_totals,Under,6.5,1.55
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Buffalo Sabres,-3.5,8.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Buffalo Sabres,-2.5,4.1
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Buffalo Sabres,1.5,1.33
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Buffalo Sabres,2.5,1.17
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Buffalo Sabres,3.5,1.05
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Philadelphia Flyers,3.5,1.07
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Philadelphia Flyers,2.5,1.21
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Philadelphia Flyers,-1.5,3.15
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Philadelphia Flyers,-2.5,4.6
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_spreads,Philadelphia Flyers,-3.5,9.5
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Over,3.5,1.1
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Over,4.5,1.2
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Over,5.5,1.59
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Over,7.5,3.2
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Over,8.5,4.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Over,9.5,8.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Under,3.5,6.5
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Under,4.5,4.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Under,5.5,2.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Under,7.5,1.32
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Under,8.5,1.2
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,draftkings,alternate_totals,Under,9.5,1.07
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,1.5,1.29
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,2.5,1.15
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,3.5,1.04
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,-1.5,2.8
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,-2.5,4.2
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,-3.5,8.9
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,-4.5,21.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Buffalo Sabres,-5.5,51.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,1.5,1.43
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,2.5,1.22
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,3.5,1.07
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,-1.5,3.4
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,-2.5,5.1
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,-3.5,12.2
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_spreads,Philadelphia Flyers,-4.5,32.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,2.5,1.02
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,3.5,1.09
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,4.5,1.18
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,5.5,1.6
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,6.5,1.96
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,7.5,3.35
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,8.5,4.7
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,9.5,9.6
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,10.5,14.6
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,11.5,30.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Over,12.5,51.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,2.5,24.0
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,3.5,6.9
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,4.5,4.6
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,5.5,2.32
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,6.5,1.82
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,7.5,1.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,8.5,1.17
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,9.5,1.06
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,10.5,1.03
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,fanduel,alternate_totals,Under,11.5,1.01
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Buffalo Sabres,-1.5,3.01
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Buffalo Sabres,-2.5,4.33
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Buffalo Sabres,1.5,1.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Buffalo Sabres,2.5,1.16
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Philadelphia Flyers,1.5,1.43
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Philadelphia Flyers,2.5,1.23
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Philadelphia Flyers,-1.5,3.63
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_spreads,Philadelphia Flyers,-2.5,5.47
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Over,6.5,2.02
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Over,5.5,1.65
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Over,6.0,1.79
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Over,7.0,2.8
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Over,7.5,3.51
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Under,6.5,1.88
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Under,5.5,2.33
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Under,6.0,2.09
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Under,7.0,1.47
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,pinnacle,alternate_totals,Under,7.5,1.33
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Buffalo Sabres,-1.5,2.93
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Buffalo Sabres,-2.5,4.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Buffalo Sabres,1.5,1.31
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Buffalo Sabres,2.5,1.15
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Philadelphia Flyers,1.5,1.41
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Philadelphia Flyers,2.5,1.22
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Philadelphia Flyers,-1.5,3.6
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_spreads,Philadelphia Flyers,-2.5,5.5
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Over,5.5,1.65
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Over,7.5,3.35
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Over,3.5,1.12
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Over,4.5,1.34
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Over,6.5,2.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Over,8.5,5.5
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Under,5.5,2.25
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Under,7.5,1.33
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Under,3.5,6.4
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Under,4.5,3.3
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Under,6.5,1.62
+2026-11-17T23:50:32Z,closing,c5e76339fef03145801250ff2216947b,2026-11-18T00:10:00Z,Philadelphia Flyers,Buffalo Sabres,coolbet,alternate_totals,Under,8.5,1.15
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,-3.5,10.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,-2.5,4.7
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,-1.5,3.2
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,2.5,1.2
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,Columbus Blue Jackets,3.5,1.06
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,New York Islanders,3.5,1.05
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,New York Islanders,2.5,1.17
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,New York Islanders,1.5,1.32
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,New York Islanders,-2.5,4.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_spreads,New York Islanders,-3.5,9.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Over,3.5,1.16
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Over,4.5,1.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Over,6.5,2.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Over,7.5,3.95
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Over,8.5,5.5
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Over,9.5,11.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Under,3.5,4.9
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Under,4.5,3.35
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Under,6.5,1.59
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Under,7.5,1.23
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Under,8.5,1.13
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,draftkings,alternate_totals,Under,9.5,1.04
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,1.5,1.36
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,2.5,1.18
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,3.5,1.06
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-1.5,3.45
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-2.5,5.1
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-3.5,12.2
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,Columbus Blue Jackets,-4.5,33.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,1.5,1.29
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,2.5,1.15
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,3.5,1.04
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,-1.5,3.1
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,-2.5,4.5
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,-3.5,10.6
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_spreads,New York Islanders,-4.5,26.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,2.5,1.02
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,3.5,1.14
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,4.5,1.27
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,5.5,1.83
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,6.5,2.36
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,7.5,4.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,8.5,6.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,9.5,13.6
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,10.5,20.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Over,11.5,51.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,2.5,19.5
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,3.5,5.5
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,4.5,3.6
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,5.5,1.94
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,6.5,1.57
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,7.5,1.21
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,8.5,1.12
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,9.5,1.03
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,fanduel,alternate_totals,Under,10.5,1.02
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,1.5,1.4
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,-2.5,5.54
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,-1.5,3.68
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,Columbus Blue Jackets,2.5,1.22
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,New York Islanders,-1.5,3.16
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,New York Islanders,2.5,1.16
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,New York Islanders,1.5,1.29
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_spreads,New York Islanders,-2.5,4.48
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Over,5.5,1.91
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Over,4.5,1.29
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Over,5.0,1.44
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Over,6.0,2.11
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Over,6.5,2.34
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Over,8.5,5.92
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Under,5.5,1.98
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Under,4.5,3.77
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Under,5.0,2.9
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Under,6.0,1.78
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Under,6.5,1.64
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,pinnacle,alternate_totals,Under,8.5,1.15
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,1.5,1.38
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,-1.5,3.55
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,-2.5,5.5
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,Columbus Blue Jackets,2.5,1.2
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,New York Islanders,-1.5,3.07
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,New York Islanders,1.5,1.3
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,New York Islanders,2.5,1.15
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_spreads,New York Islanders,-2.5,4.6
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Over,8.5,6.7
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Over,7.5,4.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Over,4.5,1.43
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Over,6.5,2.67
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Over,5.5,1.82
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Over,3.5,1.16
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Under,8.5,1.11
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Under,7.5,1.25
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Under,4.5,2.85
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Under,6.5,1.48
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Under,5.5,2.0
+2026-11-17T23:50:32Z,closing,03ad7eb1b11b6d15943b734624469fdf,2026-11-18T00:10:00Z,New York Islanders,Columbus Blue Jackets,coolbet,alternate_totals,Under,3.5,5.3
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Edmonton Oilers,-3.5,10.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Edmonton Oilers,-2.5,5.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Edmonton Oilers,-1.5,3.35
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Edmonton Oilers,2.5,1.21
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Edmonton Oilers,3.5,1.07
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Florida Panthers,3.5,1.05
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Florida Panthers,2.5,1.15
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Florida Panthers,1.5,1.3
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Florida Panthers,-2.5,4.1
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_spreads,Florida Panthers,-3.5,8.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Over,3.5,1.12
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Over,4.5,1.25
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Over,6.5,2.1
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Over,7.5,3.6
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Over,8.5,4.9
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Over,9.5,9.5
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Under,3.5,5.6
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Under,4.5,3.7
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Under,6.5,1.67
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Under,7.5,1.27
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Under,8.5,1.16
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,draftkings,alternate_totals,Under,9.5,1.05
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,1.5,1.44
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,2.5,1.23
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,3.5,1.07
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,-1.5,3.6
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,-2.5,5.5
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,-3.5,14.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Edmonton Oilers,-4.5,35.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,1.5,1.28
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,2.5,1.14
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,3.5,1.03
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,-1.5,2.72
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,-2.5,4.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,-3.5,8.7
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,-4.5,20.5
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_spreads,Florida Panthers,-5.5,51.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,2.5,1.02
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,3.5,1.11
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,4.5,1.22
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,5.5,1.72
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,6.5,2.16
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,7.5,3.8
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,8.5,5.4
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,9.5,11.4
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,10.5,16.5
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Over,11.5,47.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,2.5,22.0
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,3.5,6.2
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,4.5,4.1
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,5.5,2.08
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,6.5,1.68
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,7.5,1.25
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,8.5,1.14
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,9.5,1.05
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,10.5,1.03
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,fanduel,alternate_totals,Under,11.5,1.01
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Edmonton Oilers,1.5,1.44
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Edmonton Oilers,-2.5,5.29
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Edmonton Oilers,-1.5,3.6
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Edmonton Oilers,2.5,1.23
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Florida Panthers,-1.5,2.98
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Florida Panthers,2.5,1.17
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Florida Panthers,1.5,1.3
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_spreads,Florida Panthers,-2.5,4.31
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Over,6.0,1.97
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Over,5.0,1.36
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Over,5.5,1.75
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Over,6.5,2.19
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Over,7.0,3.11
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Over,8.5,5.25
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Under,6.0,1.92
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Under,5.0,3.28
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Under,5.5,2.14
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Under,6.5,1.72
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Under,7.0,1.4
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,pinnacle,alternate_totals,Under,8.5,1.18
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Edmonton Oilers,-1.5,3.55
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Edmonton Oilers,2.5,1.21
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Edmonton Oilers,1.5,1.41
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Edmonton Oilers,-2.5,5.5
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Florida Panthers,1.5,1.3
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Florida Panthers,-2.5,4.5
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Florida Panthers,-1.5,2.93
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_spreads,Florida Panthers,2.5,1.15
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Over,4.5,1.37
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Over,3.5,1.13
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Over,7.5,3.55
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Over,8.5,5.8
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Over,6.5,2.45
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Over,5.5,1.73
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Under,4.5,3.1
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Under,3.5,6.1
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Under,7.5,1.3
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Under,8.5,1.14
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Under,6.5,1.56
+2026-11-17T23:50:32Z,closing,335e0828d32c0c78646ed876d6ca4555,2026-11-18T00:10:00Z,Florida Panthers,Edmonton Oilers,coolbet,alternate_totals,Under,5.5,2.12
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Ottawa Senators,-3.5,8.5
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Ottawa Senators,-2.5,4.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Ottawa Senators,1.5,1.3
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Ottawa Senators,2.5,1.15
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Ottawa Senators,3.5,1.05
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Winnipeg Jets,3.5,1.06
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Winnipeg Jets,2.5,1.22
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Winnipeg Jets,-1.5,3.35
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Winnipeg Jets,-2.5,5.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_spreads,Winnipeg Jets,-3.5,10.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Over,3.5,1.14
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Over,4.5,1.26
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Over,6.5,2.2
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Over,7.5,3.75
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Over,8.5,5.2
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Over,9.5,10.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Under,3.5,5.3
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Under,4.5,3.65
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Under,6.5,1.62
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Under,7.5,1.24
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Under,8.5,1.14
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,draftkings,alternate_totals,Under,9.5,1.05
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,1.5,1.25
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,2.5,1.12
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,3.5,1.03
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,-1.5,2.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,-2.5,4.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,-3.5,9.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,-4.5,23.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Ottawa Senators,-5.5,61.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,1.5,1.43
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,2.5,1.23
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,3.5,1.07
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,-1.5,3.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,-2.5,5.9
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,-3.5,14.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_spreads,Winnipeg Jets,-4.5,39.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,2.5,1.02
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,3.5,1.14
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,4.5,1.29
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,5.5,1.83
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,6.5,2.34
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,7.5,4.3
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,8.5,6.4
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,9.5,13.2
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,10.5,19.5
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Over,11.5,51.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,2.5,18.0
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,3.5,5.4
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,4.5,3.5
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,5.5,1.94
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,6.5,1.58
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,7.5,1.21
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,8.5,1.11
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,9.5,1.04
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,fanduel,alternate_totals,Under,10.5,1.02
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Ottawa Senators,-1.5,2.91
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Ottawa Senators,-2.5,4.28
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Ottawa Senators,1.5,1.26
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Ottawa Senators,2.5,1.14
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Winnipeg Jets,1.5,1.45
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Winnipeg Jets,2.5,1.23
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Winnipeg Jets,-1.5,3.94
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_spreads,Winnipeg Jets,-2.5,5.86
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Over,5.5,1.87
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Over,4.5,1.28
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Over,5.0,1.42
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Over,6.0,2.08
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Over,6.5,2.33
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Over,8.5,5.78
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Under,5.5,2.03
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Under,4.5,3.84
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Under,5.0,2.98
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Under,6.0,1.79
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Under,6.5,1.64
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,pinnacle,alternate_totals,Under,8.5,1.16
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Ottawa Senators,1.5,1.27
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Ottawa Senators,-1.5,2.85
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Ottawa Senators,-2.5,4.3
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Ottawa Senators,2.5,1.14
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Winnipeg Jets,-1.5,3.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Winnipeg Jets,1.5,1.43
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Winnipeg Jets,2.5,1.22
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_spreads,Winnipeg Jets,-2.5,5.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Over,3.5,1.16
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Over,8.5,6.4
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Over,7.5,3.9
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Over,6.5,2.6
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Over,5.5,1.8
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Over,4.5,1.41
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Under,3.5,5.3
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Under,8.5,1.12
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Under,7.5,1.26
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Under,6.5,1.5
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Under,5.5,2.02
+2026-11-17T23:50:32Z,closing,49403a7a83c32958f485162e0c8ec655,2026-11-18T00:10:00Z,Winnipeg Jets,Ottawa Senators,coolbet,alternate_totals,Under,4.5,2.93
