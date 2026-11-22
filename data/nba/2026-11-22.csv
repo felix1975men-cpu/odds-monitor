@@ -3670,3 +3670,367 @@ snapshot_utc,mode,event_id,commence_utc,home,away,book,market,outcome,point,pric
 2026-11-22T02:50:29Z,closing,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,Sacramento Kings,Boston Celtics,pinnacle,alternate_totals,Under,219.0,1.82
 2026-11-22T02:50:29Z,closing,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,Sacramento Kings,Boston Celtics,pinnacle,alternate_totals,Under,219.5,1.78
 2026-11-22T02:50:29Z,closing,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,Sacramento Kings,Boston Celtics,pinnacle,alternate_totals,Under,220.0,1.74
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,fanduel,h2h,Atlanta Hawks,,2.14
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,fanduel,h2h,Detroit Pistons,,1.75
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,fanduel,spreads,Atlanta Hawks,2.5,1.85
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,fanduel,spreads,Detroit Pistons,-2.5,1.96
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,fanduel,totals,Over,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,fanduel,totals,Under,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,h2h,Atlanta Hawks,,2.16
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,h2h,Detroit Pistons,,1.83
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,h2h_lay,Atlanta Hawks,,2.22
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,h2h_lay,Detroit Pistons,,1.86
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,spreads,Atlanta Hawks,2.0,1.98
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,spreads,Detroit Pistons,-2.0,1.92
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,totals,Over,225.5,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,matchbook,totals,Under,225.5,1.96
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betsson,h2h,Atlanta Hawks,,2.1
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betsson,h2h,Detroit Pistons,,1.72
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betsson,spreads,Atlanta Hawks,2.5,1.9
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betsson,spreads,Detroit Pistons,-2.5,1.86
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betsson,totals,Over,226.5,1.88
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betsson,totals,Under,226.5,1.88
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,draftkings,h2h,Atlanta Hawks,,2.1
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,draftkings,h2h,Detroit Pistons,,1.77
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,draftkings,spreads,Atlanta Hawks,2.5,1.88
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,draftkings,spreads,Detroit Pistons,-2.5,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,draftkings,totals,Over,226.5,1.95
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,draftkings,totals,Under,226.5,1.87
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,coolbet,h2h,Atlanta Hawks,,2.16
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,coolbet,h2h,Detroit Pistons,,1.73
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,coolbet,spreads,Atlanta Hawks,2.0,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,coolbet,spreads,Detroit Pistons,-2.0,1.91
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,coolbet,totals,Over,226.0,1.92
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,coolbet,totals,Under,226.0,1.92
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betmgm,h2h,Atlanta Hawks,,2.1
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betmgm,h2h,Detroit Pistons,,1.74
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betmgm,spreads,Atlanta Hawks,2.5,1.85
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betmgm,spreads,Detroit Pistons,-2.5,1.98
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betmgm,totals,Over,225.5,1.87
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betmgm,totals,Under,225.5,1.95
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betrivers,h2h,Atlanta Hawks,,2.16
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betrivers,h2h,Detroit Pistons,,1.72
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betrivers,spreads,Atlanta Hawks,2.5,1.88
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betrivers,spreads,Detroit Pistons,-2.5,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betrivers,totals,Over,225.5,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betrivers,totals,Under,225.5,1.88
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,pinnacle,h2h,Atlanta Hawks,,2.17
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,pinnacle,h2h,Detroit Pistons,,1.76
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,pinnacle,spreads,Atlanta Hawks,2.5,1.91
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,pinnacle,spreads,Detroit Pistons,-2.5,1.98
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,pinnacle,totals,Over,226.0,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,pinnacle,totals,Under,226.0,1.93
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betfair_ex_eu,h2h,Atlanta Hawks,,2.16
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betfair_ex_eu,h2h,Detroit Pistons,,1.82
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betfair_ex_eu,h2h_lay,Atlanta Hawks,,2.22
+2026-11-22T07:08:33Z,scheduled,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Atlanta Hawks,Detroit Pistons,betfair_ex_eu,h2h_lay,Detroit Pistons,,1.86
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,fanduel,h2h,Miami Heat,,1.74
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,fanduel,h2h,Oklahoma City Thunder,,2.18
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,fanduel,spreads,Miami Heat,-2.5,1.93
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,fanduel,spreads,Oklahoma City Thunder,2.5,1.89
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,fanduel,totals,Over,231.5,1.95
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,fanduel,totals,Under,231.5,1.87
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betsson,h2h,Miami Heat,,1.7
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betsson,h2h,Oklahoma City Thunder,,2.12
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betsson,totals,Over,231.5,1.86
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betsson,totals,Under,231.5,1.9
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,coolbet,h2h,Miami Heat,,1.72
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,coolbet,h2h,Oklahoma City Thunder,,2.18
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,coolbet,spreads,Miami Heat,-2.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,coolbet,spreads,Oklahoma City Thunder,2.5,1.93
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,coolbet,totals,Over,231.0,1.9
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,coolbet,totals,Under,231.0,1.95
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,h2h,Miami Heat,,1.76
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,h2h,Oklahoma City Thunder,,2.28
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,h2h_lay,Miami Heat,,1.79
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,h2h_lay,Oklahoma City Thunder,,2.32
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,spreads,Miami Heat,-3.0,1.95
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,spreads,Oklahoma City Thunder,3.0,1.94
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,totals,Over,232.5,1.99
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,matchbook,totals,Under,232.5,1.89
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betrivers,h2h,Miami Heat,,1.68
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betrivers,h2h,Oklahoma City Thunder,,2.17
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betrivers,spreads,Miami Heat,-2.5,1.89
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betrivers,spreads,Oklahoma City Thunder,2.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betrivers,totals,Over,230.5,1.92
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betrivers,totals,Under,230.5,1.88
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,draftkings,h2h,Miami Heat,,1.72
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,draftkings,h2h,Oklahoma City Thunder,,2.17
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,draftkings,spreads,Miami Heat,-2.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,draftkings,spreads,Oklahoma City Thunder,2.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,draftkings,totals,Over,231.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,draftkings,totals,Under,231.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,h2h,Miami Heat,,1.69
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,h2h,Oklahoma City Thunder,,2.18
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,spreads,Miami Heat,-2.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,spreads,Oklahoma City Thunder,2.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,totals,Over,231.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,totals,Under,231.5,1.91
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betfair_ex_eu,h2h,Miami Heat,,1.75
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betfair_ex_eu,h2h,Oklahoma City Thunder,,2.26
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betfair_ex_eu,h2h_lay,Miami Heat,,1.8
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,betfair_ex_eu,h2h_lay,Oklahoma City Thunder,,2.34
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,pinnacle,h2h,Miami Heat,,1.72
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,pinnacle,h2h,Oklahoma City Thunder,,2.24
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,pinnacle,spreads,Miami Heat,-2.5,1.93
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,pinnacle,spreads,Oklahoma City Thunder,2.5,1.96
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,pinnacle,totals,Over,231.0,1.93
+2026-11-22T07:08:33Z,scheduled,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Miami Heat,Oklahoma City Thunder,pinnacle,totals,Under,231.0,1.93
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,fanduel,h2h,Chicago Bulls,,3.65
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,fanduel,h2h,Denver Nuggets,,1.3
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,fanduel,spreads,Chicago Bulls,8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,fanduel,spreads,Denver Nuggets,-8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,fanduel,totals,Over,237.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,fanduel,totals,Under,237.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betsson,h2h,Chicago Bulls,,3.7
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betsson,h2h,Denver Nuggets,,1.24
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betsson,totals,Over,238.5,1.9
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betsson,totals,Under,238.5,1.86
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,coolbet,h2h,Chicago Bulls,,3.9
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,coolbet,h2h,Denver Nuggets,,1.28
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,coolbet,spreads,Chicago Bulls,8.5,1.9
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,coolbet,spreads,Denver Nuggets,-8.5,1.95
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,coolbet,totals,Over,237.0,1.9
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,coolbet,totals,Under,237.0,1.95
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,draftkings,h2h,Chicago Bulls,,3.98
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,draftkings,h2h,Denver Nuggets,,1.27
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,draftkings,spreads,Chicago Bulls,8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,draftkings,spreads,Denver Nuggets,-8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,draftkings,totals,Over,237.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,draftkings,totals,Under,237.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betrivers,h2h,Chicago Bulls,,3.7
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betrivers,h2h,Denver Nuggets,,1.28
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betrivers,spreads,Chicago Bulls,8.5,1.88
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betrivers,spreads,Denver Nuggets,-8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betrivers,totals,Over,238.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betrivers,totals,Under,238.5,1.89
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betmgm,h2h,Chicago Bulls,,3.75
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betmgm,h2h,Denver Nuggets,,1.29
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betmgm,spreads,Chicago Bulls,8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betmgm,spreads,Denver Nuggets,-8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betmgm,totals,Over,237.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betmgm,totals,Under,237.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,h2h,Chicago Bulls,,4.1
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,h2h,Denver Nuggets,,1.31
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,h2h_lay,Chicago Bulls,,4.3
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,h2h_lay,Denver Nuggets,,1.32
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,spreads,Chicago Bulls,8.5,2.0
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,spreads,Denver Nuggets,-8.5,1.91
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,totals,Over,237.5,1.94
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,matchbook,totals,Under,237.5,1.94
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,pinnacle,h2h,Chicago Bulls,,3.99
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,pinnacle,h2h,Denver Nuggets,,1.27
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,pinnacle,spreads,Chicago Bulls,8.5,1.97
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,pinnacle,spreads,Denver Nuggets,-8.5,1.92
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,pinnacle,totals,Over,237.5,1.93
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,pinnacle,totals,Under,237.5,1.93
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betfair_ex_eu,h2h,Chicago Bulls,,4.1
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betfair_ex_eu,h2h,Denver Nuggets,,1.31
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betfair_ex_eu,h2h_lay,Chicago Bulls,,4.3
+2026-11-22T07:08:33Z,scheduled,15a079f55e23d26237844224f258c972,2026-11-23T00:10:00Z,Chicago Bulls,Denver Nuggets,betfair_ex_eu,h2h_lay,Denver Nuggets,,1.32
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,fanduel,h2h,Dallas Mavericks,,1.83
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,fanduel,h2h,Utah Jazz,,2.02
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,fanduel,spreads,Dallas Mavericks,-1.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,fanduel,spreads,Utah Jazz,1.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,fanduel,totals,Over,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,fanduel,totals,Under,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betsson,h2h,Dallas Mavericks,,1.8
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betsson,h2h,Utah Jazz,,2.0
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betsson,totals,Over,225.5,1.86
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betsson,totals,Under,225.5,1.9
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,h2h,Dallas Mavericks,,1.8
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,h2h,Utah Jazz,,2.12
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,h2h_lay,Dallas Mavericks,,1.9
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,h2h_lay,Utah Jazz,,2.26
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,spreads,Dallas Mavericks,-2.0,1.94
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,spreads,Utah Jazz,2.0,1.96
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,totals,Over,225.5,1.92
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,matchbook,totals,Under,225.5,1.96
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,coolbet,h2h,Dallas Mavericks,,1.81
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,coolbet,h2h,Utah Jazz,,2.05
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,coolbet,spreads,Dallas Mavericks,-2.0,1.92
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,coolbet,spreads,Utah Jazz,2.0,1.92
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,coolbet,totals,Over,225.5,1.92
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,coolbet,totals,Under,225.5,1.92
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,draftkings,h2h,Dallas Mavericks,,1.8
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,draftkings,h2h,Utah Jazz,,2.05
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,draftkings,spreads,Dallas Mavericks,-1.5,1.87
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,draftkings,spreads,Utah Jazz,1.5,1.95
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,draftkings,totals,Over,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,draftkings,totals,Under,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betmgm,h2h,Dallas Mavericks,,1.8
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betmgm,h2h,Utah Jazz,,2.05
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betmgm,spreads,Dallas Mavericks,-1.5,1.87
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betmgm,spreads,Utah Jazz,1.5,1.95
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betmgm,totals,Over,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betmgm,totals,Under,225.5,1.91
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betfair_ex_eu,h2h,Dallas Mavericks,,1.85
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betfair_ex_eu,h2h,Utah Jazz,,2.12
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betfair_ex_eu,h2h_lay,Dallas Mavericks,,1.9
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betfair_ex_eu,h2h_lay,Utah Jazz,,2.18
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,pinnacle,h2h,Dallas Mavericks,,1.79
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,pinnacle,h2h,Utah Jazz,,2.12
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,pinnacle,spreads,Dallas Mavericks,-2.0,1.93
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,pinnacle,spreads,Utah Jazz,2.0,1.95
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,pinnacle,totals,Over,225.5,1.92
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,pinnacle,totals,Under,225.5,1.95
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betrivers,h2h,Dallas Mavericks,,1.82
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betrivers,h2h,Utah Jazz,,1.97
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betrivers,spreads,Dallas Mavericks,-0.5,1.82
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betrivers,spreads,Utah Jazz,0.5,1.97
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betrivers,totals,Over,225.5,1.88
+2026-11-22T07:08:33Z,scheduled,1e7b9477c6c55aea5efd9c1a47039f5c,2026-11-23T00:10:00Z,Utah Jazz,Dallas Mavericks,betrivers,totals,Under,225.5,1.92
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,fanduel,h2h,Orlando Magic,,1.47
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,fanduel,h2h,Washington Wizards,,2.8
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,fanduel,spreads,Orlando Magic,-5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,fanduel,spreads,Washington Wizards,5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,fanduel,totals,Over,221.5,1.95
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,fanduel,totals,Under,221.5,1.87
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betrivers,h2h,Orlando Magic,,1.43
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betrivers,h2h,Washington Wizards,,2.85
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betrivers,spreads,Orlando Magic,-5.5,1.87
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betrivers,spreads,Washington Wizards,5.5,1.93
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betrivers,totals,Over,221.5,1.88
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betrivers,totals,Under,221.5,1.92
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betsson,h2h,Orlando Magic,,1.44
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betsson,h2h,Washington Wizards,,2.7
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betsson,totals,Over,222.5,1.93
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betsson,totals,Under,222.5,1.83
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,draftkings,h2h,Orlando Magic,,1.49
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,draftkings,h2h,Washington Wizards,,2.72
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,draftkings,spreads,Orlando Magic,-5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,draftkings,spreads,Washington Wizards,5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,draftkings,totals,Over,222.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,draftkings,totals,Under,222.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,coolbet,h2h,Orlando Magic,,1.45
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,coolbet,h2h,Washington Wizards,,2.85
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,coolbet,spreads,Orlando Magic,-5.5,1.9
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,coolbet,spreads,Washington Wizards,5.5,1.95
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,coolbet,totals,Over,221.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,coolbet,totals,Under,221.5,1.93
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betmgm,h2h,Orlando Magic,,1.44
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betmgm,h2h,Washington Wizards,,2.85
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betmgm,spreads,Orlando Magic,-5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betmgm,spreads,Washington Wizards,5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betmgm,totals,Over,221.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betmgm,totals,Under,221.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,h2h,Orlando Magic,,1.49
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,h2h,Washington Wizards,,2.98
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,h2h_lay,Orlando Magic,,1.51
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,h2h_lay,Washington Wizards,,3.05
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,spreads,Orlando Magic,-5.5,1.91
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,spreads,Washington Wizards,5.5,1.99
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,totals,Over,221.5,1.95
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,matchbook,totals,Under,221.5,1.92
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,pinnacle,h2h,Orlando Magic,,1.43
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,pinnacle,h2h,Washington Wizards,,3.0
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,pinnacle,spreads,Orlando Magic,-5.5,1.9
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,pinnacle,spreads,Washington Wizards,5.5,1.99
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,pinnacle,totals,Over,221.0,1.9
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,pinnacle,totals,Under,221.0,1.97
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betfair_ex_eu,h2h,Orlando Magic,,1.49
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betfair_ex_eu,h2h,Washington Wizards,,2.98
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betfair_ex_eu,h2h_lay,Orlando Magic,,1.51
+2026-11-22T07:08:33Z,scheduled,335ad5604b51b7742fd1dee92d78da35,2026-11-23T00:10:00Z,Washington Wizards,Orlando Magic,betfair_ex_eu,h2h_lay,Washington Wizards,,3.05
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,fanduel,h2h,Indiana Pacers,,3.9
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,fanduel,h2h,New York Knicks,,1.28
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,fanduel,spreads,Indiana Pacers,9.5,1.95
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,fanduel,spreads,New York Knicks,-9.5,1.87
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,fanduel,totals,Over,216.5,1.88
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,fanduel,totals,Under,216.5,1.94
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,coolbet,h2h,Indiana Pacers,,4.1
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,coolbet,h2h,New York Knicks,,1.26
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,coolbet,spreads,Indiana Pacers,9.5,1.92
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,coolbet,spreads,New York Knicks,-9.5,1.92
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,coolbet,totals,Over,217.0,1.92
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,coolbet,totals,Under,217.0,1.92
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,h2h,Indiana Pacers,,4.3
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,h2h,New York Knicks,,1.3
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,h2h_lay,Indiana Pacers,,4.4
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,h2h_lay,New York Knicks,,1.31
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,spreads,Indiana Pacers,9.0,1.96
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,spreads,New York Knicks,-9.0,1.92
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,totals,Over,216.5,2.0
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,matchbook,totals,Under,216.5,1.92
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betsson,h2h,Indiana Pacers,,3.7
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betsson,h2h,New York Knicks,,1.24
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betsson,spreads,Indiana Pacers,9.5,1.83
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betsson,spreads,New York Knicks,-9.5,1.93
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betsson,totals,Over,217.5,1.9
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betsson,totals,Under,217.5,1.86
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,draftkings,h2h,Indiana Pacers,,4.12
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,draftkings,h2h,New York Knicks,,1.25
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,draftkings,spreads,Indiana Pacers,9.5,1.87
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,draftkings,spreads,New York Knicks,-9.5,1.95
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,draftkings,totals,Over,217.5,1.95
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,draftkings,totals,Under,217.5,1.87
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betmgm,h2h,Indiana Pacers,,4.1
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betmgm,h2h,New York Knicks,,1.25
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betmgm,spreads,Indiana Pacers,9.5,1.91
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betmgm,spreads,New York Knicks,-9.5,1.91
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betmgm,totals,Over,217.5,1.95
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betmgm,totals,Under,217.5,1.87
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betfair_ex_eu,h2h,Indiana Pacers,,4.2
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betfair_ex_eu,h2h,New York Knicks,,1.3
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betfair_ex_eu,h2h_lay,Indiana Pacers,,4.4
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betfair_ex_eu,h2h_lay,New York Knicks,,1.31
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,pinnacle,h2h,Indiana Pacers,,4.19
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,pinnacle,h2h,New York Knicks,,1.25
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,pinnacle,spreads,Indiana Pacers,9.5,1.9
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,pinnacle,spreads,New York Knicks,-9.5,1.99
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,pinnacle,totals,Over,216.5,1.94
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,pinnacle,totals,Under,216.5,1.93
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betrivers,h2h,Indiana Pacers,,4.0
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betrivers,h2h,New York Knicks,,1.24
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betrivers,spreads,Indiana Pacers,12.5,1.66
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betrivers,spreads,New York Knicks,-12.5,2.23
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betrivers,totals,Over,218.5,2.07
+2026-11-22T07:08:33Z,scheduled,031fa761cc38e1b5afd9309b731b38b2,2026-11-23T01:10:00Z,New York Knicks,Indiana Pacers,betrivers,totals,Under,218.5,1.76
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,fanduel,h2h,Boston Celtics,,1.25
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,fanduel,h2h,Golden State Warriors,,4.2
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,fanduel,spreads,Boston Celtics,-9.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,fanduel,spreads,Golden State Warriors,9.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,fanduel,totals,Over,212.5,1.95
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,fanduel,totals,Under,212.5,1.87
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betsson,h2h,Boston Celtics,,1.21
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betsson,h2h,Golden State Warriors,,4.0
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betsson,spreads,Boston Celtics,-9.5,1.9
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betsson,spreads,Golden State Warriors,9.5,1.86
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betsson,totals,Over,212.5,1.86
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betsson,totals,Under,212.5,1.9
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,coolbet,h2h,Boston Celtics,,1.25
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,coolbet,h2h,Golden State Warriors,,4.2
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,coolbet,spreads,Boston Celtics,-9.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,coolbet,spreads,Golden State Warriors,9.5,1.93
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,coolbet,totals,Over,212.5,1.92
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,coolbet,totals,Under,212.5,1.92
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betmgm,h2h,Boston Celtics,,1.24
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betmgm,h2h,Golden State Warriors,,4.25
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betmgm,spreads,Boston Celtics,-9.5,1.87
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betmgm,spreads,Golden State Warriors,9.5,1.95
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betmgm,totals,Over,212.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betmgm,totals,Under,212.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,h2h,Boston Celtics,,1.27
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,h2h,Golden State Warriors,,4.3
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,h2h_lay,Boston Celtics,,1.31
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,h2h_lay,Golden State Warriors,,4.8
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,spreads,Boston Celtics,-10.0,1.96
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,spreads,Golden State Warriors,10.0,1.97
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,totals,Over,212.5,1.92
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,matchbook,totals,Under,212.5,1.94
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betfair_ex_eu,h2h,Boston Celtics,,1.27
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betfair_ex_eu,h2h,Golden State Warriors,,4.1
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betfair_ex_eu,h2h_lay,Boston Celtics,,1.32
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betfair_ex_eu,h2h_lay,Golden State Warriors,,4.8
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,draftkings,h2h,Boston Celtics,,1.24
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,draftkings,h2h,Golden State Warriors,,4.22
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,draftkings,spreads,Boston Celtics,-9.5,1.86
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,draftkings,spreads,Golden State Warriors,9.5,1.96
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,draftkings,totals,Over,212.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,draftkings,totals,Under,212.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betrivers,h2h,Boston Celtics,,1.25
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betrivers,h2h,Golden State Warriors,,3.95
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betrivers,spreads,Boston Celtics,-10.5,1.96
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betrivers,spreads,Golden State Warriors,10.5,1.83
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betrivers,totals,Over,212.5,1.91
+2026-11-22T07:08:33Z,scheduled,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Golden State Warriors,Boston Celtics,betrivers,totals,Under,212.5,1.88
